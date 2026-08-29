@@ -1,0 +1,38 @@
+# Actualizador de la Champions en el NAS.
+#
+# Vive al lado de laliga-updater y laliga-api, con su propia carpeta, su propio
+# volumen y su propio clon: si esto se rompe, La Liga no se entera. Gasta unos
+# 30 MB, igual que su hermano.
+#
+#   Arrancar:   docker compose up -d --build
+#   Ver el log: docker logs -f champions-updater
+#   Parar:      docker compose down
+services:
+  champions-updater:
+    build: .
+    container_name: champions-updater
+    restart: always
+    environment:
+      # sombra     = genera los datos y los compara con lo publicado, SIN publicar.
+      # produccion = publica él en GitHub.
+      CHAMPIONS_MODO: "${CHAMPIONS_MODO:-sombra}"
+      CHAMPIONS_REPO: /repo
+      CHAMPIONS_ESTADO_DIR: /estado
+      CHAMPIONS_DATOS: /estado/champions2627.json
+      CHAMPIONS_INTERVALO_VIVO: "${CHAMPIONS_INTERVALO_VIVO:-60}"
+      CHAMPIONS_INTERVALO_REPOSO: "${CHAMPIONS_INTERVALO_REPOSO:-600}"
+      PRE_MATCH_MINUTES: "45"
+      # Copia del JSON para servirlo en directo. Se escribe en cada ciclo
+      # aunque no haya commit que hacer, así la fecha del fichero vale como
+      # señal de vida para quien lo sirva.
+      CHAMPIONS_PUBLICAR_EN: /publico
+    volumes:
+      # El estado y el clon sobreviven a que se recree el contenedor.
+      - /share/Container/champions-updater/estado:/estado
+      - /share/Container/champions-updater/repo:/repo
+      - /share/Container/champions-updater/publico:/publico
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

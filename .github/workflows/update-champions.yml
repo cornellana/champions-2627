@@ -1,0 +1,88 @@
+name: Actualizar datos de la Champions
+
+# Suplente del NAS. El titular es el contenedor `champions-updater`, que
+# actualiza cada 60 segundos durante los partidos; esto solo entra si el NAS se
+# calla —corte de luz, de fibra, contenedor caído—.
+#
+# Ver un commit de github-actions[bot] en el historial significa que el NAS
+# estuvo caído. Es la señal de alarma que hay que vigilar.
+on:
+  schedule:
+    # Cada 15 minutos. GitHub no garantiza puntualidad en los `schedule`: se han
+    # medido retrasos de hasta 39 minutos en horas punta. Por eso es suplente y
+    # no titular.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Rehacer los detalles de todos los partidos ya cerrados'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Que no se pisen dos ejecuciones.
+concurrency:
+  group: actualizar-champions
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: ¿Está vivo el NAS?
+        id: relevo
+        run: |
+          # Si los datos publicados son recientes, el titular está en pie y aquí
+          # no hay nada que hacer. Un disparo manual se salta la comprobación.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "actuar=si" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          EDAD=$(python3 -c "import json,time,calendar;d=json.load(open('data/champions2627.json'));print(int(time.time()-calendar.timegm(time.strptime(d['lastUpdated'],'%Y-%m-%dT%H:%M:%SZ'))))" 2>/dev/null || echo 999999)
+          echo "Los datos tienen $EDAD segundos."
+          # 20 minutos: el NAS reescribe cada 10 como mucho, así que pasado ese
+          # margen o está caído o algo le pasa.
+          if [ "$EDAD" -gt 1200 ]; then
+            echo "El titular no publica: tomo el relevo."
+            echo "actuar=si" >> "$GITHUB_OUTPUT"
+          else
+            echo "El NAS está al día. No hago nada."
+            echo "actuar=no" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.relevo.outputs.actuar == 'si'
+        with:
+          python-version: "3.12"
+
+      - name: Dependencias
+        if: steps.relevo.outputs.actuar == 'si'
+        run: pip install --quiet requests
+
+      - name: Actualizar desde ESPN
+        if: steps.relevo.outputs.actuar == 'si'
+        env:
+          FORCE_REFRESH: ${{ github.event.inputs.force_refresh }}
+        run: python3 scripts/update_champions.py
+
+      - name: Publicar si hay algo nuevo
+        if: steps.relevo.outputs.actuar == 'si'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/champions2627.json
+          # El updater reescribe `lastUpdated` en cada pasada: si es lo único
+          # que ha cambiado, no hay noticia que publicar.
+          if git diff --cached -U0 -- data/champions2627.json \
+             | grep -E '^[+-]' | grep -v '^[+-][+-]' | grep -qv lastUpdated; then
+            git commit -q -m "chore: actualización automática Champions $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git pull --rebase -q origin main || git rebase --abort || true
+            git push -q
+            echo "Publicado."
+          else
+            echo "Sin cambios reales."
+          fi
