@@ -28,6 +28,16 @@ nas() { ssh "$NAS" "$ENTORNO $*"; }
 
 echo "▸ Comprobando que La Liga está bien ANTES de tocar nada"
 ANTES=$(nas 'docker ps --filter name=laliga --format "{{.Names}}|{{.Status}}"' || true)
+
+# También su API, y ANTES. La primera versión de este script solo la miraba
+# después, dio por rota una instalación que estaba bien y costó media hora
+# averiguar que el rango de Cloudflare de cornellanas.net no era alcanzable
+# desde esta conexión —falla igual desde el propio NAS y con el dominio entero,
+# así que no tenía nada que ver—. Sin una foto del antes no se puede distinguir
+# "lo he roto yo" de "ya estaba así".
+API_ANTES=$(curl -s -o /dev/null -w "%{http_code}" --max-time 12 \
+    https://laliga-api.cornellanas.net/health || echo "000")
+echo "    API de La Liga desde aquí, antes: $API_ANTES"
 if [ -z "$ANTES" ]; then
     echo "✗ No veo los contenedores de La Liga. Me paro: algo raro pasa y no es"
     echo "  momento de instalar nada encima."
@@ -69,10 +79,28 @@ if [ "$(echo "$ANTES" | cut -d'|' -f1 | sort)" != "$(echo "$DESPUES" | cut -d'|'
     exit 1
 fi
 
-echo "▸ Y que su API sigue respondiendo"
-curl -fsS --max-time 15 https://laliga-api.cornellanas.net/health \
-    && echo "" \
-    || { echo "✗ laliga-api no responde. Revísalo."; exit 1; }
+echo "▸ Y su API, comparada con cómo estaba antes"
+API_DESPUES=$(curl -s -o /dev/null -w "%{http_code}" --max-time 15 \
+    https://laliga-api.cornellanas.net/health || echo "000")
+echo "    antes: $API_ANTES · ahora: $API_DESPUES"
+
+if [ "$API_ANTES" = "200" ] && [ "$API_DESPUES" != "200" ]; then
+    echo "✗ La API de La Liga respondía antes y ahora no. Esto sí lo he roto yo."
+    exit 1
+fi
+
+if [ "$API_DESPUES" != "200" ]; then
+    # Puede no ser cosa del NAS: se comprueba desde dentro, que es lo que de
+    # verdad dice si el servicio está en pie.
+    DENTRO=$(nas 'curl -s -o /dev/null -w "%{http_code}" --max-time 8 http://192.168.1.66:8090/health' || echo "000")
+    if [ "$DENTRO" = "200" ]; then
+        echo "  ⚠️  Desde aquí no se llega, pero dentro del NAS responde ($DENTRO):"
+        echo "     el servicio está bien y el problema es de camino de red, no del NAS."
+    else
+        echo "✗ laliga-api tampoco responde dentro del NAS. Revísalo."
+        exit 1
+    fi
+fi
 
 echo
 echo "✅ Instalado. Log en vivo:"
