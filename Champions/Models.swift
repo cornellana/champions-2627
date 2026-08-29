@@ -529,7 +529,7 @@ struct AppSeason: Identifiable, Equatable, Hashable, Sendable {
             code: "2627",
             displayName: "26/27",
             espnYear: 2026,
-            remoteURL: URL(string: "https://raw.githubusercontent.com/cornellana/champions-2627/refs/heads/main/data/champions2627.json"),
+            remoteURL: URL(string: "https://raw.githubusercontent.com/cornellana/champions-2627/main/data/champions2627.json"),
             fastURL: URL(string: "https://laliga-api.cornellanas.net/datos/champions2627.json"),
             seedName: "champions2627-seed"
         )
