@@ -109,12 +109,19 @@ final class HighlightSettings {
 
     // MARK: Mutaciones
 
-    /// Marca un equipo. Si ya lo estaba no hace nada.
-    func add(team: String) {
+    /// Marca un equipo con el color que elija el usuario.
+    /// Si ya estaba marcado no hace nada.
+    func add(team: String, color: Color) {
         guard !isHighlighted(team) else { return }
-        let used = Set(highlights.map(\.colorHex))
-        let color = Self.palette.first { !used.contains($0) } ?? Self.palette[highlights.count % Self.palette.count]
-        highlights.append(TeamHighlight(team: team, colorHex: color))
+        highlights.append(TeamHighlight(team: team, colorHex: color.toHex()))
+    }
+
+    /// Color que se propone para el siguiente equipo: el primero de la paleta
+    /// que no esté cogido, para que dos equipos no salgan iguales.
+    var suggestedColor: Color {
+        let usados = Set(highlights.map(\.colorHex))
+        return Color(hex: Self.palette.first { !usados.contains($0) }
+                     ?? Self.palette[highlights.count % Self.palette.count])
     }
 
     func remove(team: String) {
@@ -123,10 +130,6 @@ final class HighlightSettings {
 
     func remove(at offsets: IndexSet) {
         highlights.remove(atOffsets: offsets)
-    }
-
-    func toggle(team: String) {
-        isHighlighted(team) ? remove(team: team) : add(team: team)
     }
 
     func setColor(_ hex: UInt, for team: String) {

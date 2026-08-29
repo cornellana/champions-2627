@@ -2,7 +2,14 @@
 //  SettingsSheet.swift
 //  Champions
 //
-//  Ajustes: qué equipos seguir y qué avisos recibir de ellos.
+//  Ajustes: qué equipos seguir y de qué color, qué avisos recibir y en qué
+//  idioma va la app.
+//
+//  Los equipos se añaden desde una hoja aparte, con selector y paleta, igual
+//  que en la app de La Liga. La primera versión de esta pantalla los ponía como
+//  una lista de botones dentro del `List`, y tocar uno marcaba varios de golpe:
+//  la lista se rehacía en mitad del gesto —el equipo elegido desaparece de los
+//  candidatos— y el toque acababa cayendo en la fila que ocupaba su sitio.
 //
 
 import SwiftUI
@@ -13,24 +20,23 @@ struct SettingsSheet: View {
     @Bindable var settings: HighlightSettings
     let store: MatchStore
 
+    @State private var language = LanguagePreference()
     @State private var authorization: UNAuthorizationStatus = .notDetermined
-    @State private var search = ""
+    @State private var showingAddTeam = false
     @Environment(\.dismiss) private var dismiss
 
-    private var followed: [TeamHighlight] { settings.highlights }
-
-    private var candidates: [Team] {
-        let pool = Teams.sortedForDisplay.filter { !settings.isHighlighted($0.key) }
-        guard !search.isEmpty else { return pool }
-        return pool.filter { $0.displayName.localizedCaseInsensitiveContains(search) }
+    /// Equipos que todavía no se siguen.
+    private var available: [Team] {
+        Teams.sortedForDisplay.filter { !settings.isHighlighted($0.key) }
     }
 
     var body: some View {
         NavigationStack {
             List {
                 followedSection
-                notificationsSection
                 addSection
+                notificationsSection
+                languageSection
                 aboutSection
             }
             .scrollContentBackground(.hidden)
@@ -38,8 +44,14 @@ struct SettingsSheet: View {
             .navigationTitle("settings.title")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .topBarLeading) { EditButton() }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button("action.done") { dismiss() }
+                }
+            }
+            .sheet(isPresented: $showingAddTeam) {
+                AddTeamSheet(teams: available, suggested: settings.suggestedColor) { team, color in
+                    settings.add(team: team, color: color)
                 }
             }
             .task { authorization = await NotificationService.shared.authorizationStatus() }
@@ -51,19 +63,13 @@ struct SettingsSheet: View {
 
     private var followedSection: some View {
         Section {
-            if followed.isEmpty {
+            if settings.highlights.isEmpty {
                 Text("settings.noTeams")
                     .font(.subheadline)
                     .foregroundStyle(.white.opacity(0.4))
             } else {
-                ForEach(followed) { highlight in
-                    HStack(spacing: 10) {
-                        TeamLogoView(teamName: highlight.team, size: 26)
-                        Text(verbatim: Teams.name(highlight.team))
-                            .foregroundStyle(.white)
-                        Spacer()
-                        colorPicker(for: highlight)
-                    }
+                ForEach($settings.highlights) { $highlight in
+                    FollowedTeamRow(highlight: $highlight)
                 }
                 .onDelete { settings.remove(at: $0) }
             }
@@ -74,26 +80,15 @@ struct SettingsSheet: View {
         }
     }
 
-    private func colorPicker(for highlight: TeamHighlight) -> some View {
-        Menu {
-            ForEach(HighlightSettings.palette, id: \.self) { hex in
-                Button {
-                    settings.setColor(hex, for: highlight.team)
-                } label: {
-                    Label {
-                        Text(verbatim: String(format: "#%06X", hex))
-                    } icon: {
-                        Image(systemName: hex == highlight.colorHex ? "checkmark.circle.fill" : "circle.fill")
-                    }
-                }
+    private var addSection: some View {
+        Section {
+            Button {
+                showingAddTeam = true
+            } label: {
+                Label("settings.addTeam", systemImage: "plus.circle.fill")
             }
-        } label: {
-            Circle()
-                .fill(highlight.color)
-                .frame(width: 20, height: 20)
-                .overlay(Circle().stroke(.white.opacity(0.25), lineWidth: 1))
+            .disabled(available.isEmpty)
         }
-        .accessibilityLabel("a11y.teamColor")
     }
 
     // MARK: Avisos
@@ -124,8 +119,9 @@ struct SettingsSheet: View {
                 if settings.notifications.kickoffReminder {
                     Picker("settings.notifications.kickoffMinutes",
                            selection: $settings.notifications.kickoffReminderMinutes) {
-                        ForEach([5, 10, 15, 30, 60], id: \.self) { minutes in
-                            Text(String(format: String(localized: "settings.minutes"), minutes)).tag(minutes)
+                        ForEach([5, 10, 15, 30, 60], id: \.self) { minutos in
+                            Text(String(format: String(localized: "settings.minutes"), minutos))
+                                .tag(minutos)
                         }
                     }
                     .onChange(of: settings.notifications.kickoffReminderMinutes) { _, _ in
@@ -135,9 +131,15 @@ struct SettingsSheet: View {
             }
 
             if settings.notifications.enabled && authorization == .denied {
-                Label("settings.notifications.denied", systemImage: "exclamationmark.triangle")
+                Label("settings.notifications.denied", systemImage: "bell.slash.fill")
                     .font(.caption)
                     .foregroundStyle(Palette.gold)
+                Button("settings.notifications.openSettings") {
+                    if let url = URL(string: UIApplication.openSettingsURLString) {
+                        UIApplication.shared.open(url)
+                    }
+                }
+                .font(.subheadline)
             }
         } header: {
             Text("settings.notifications")
@@ -154,29 +156,28 @@ struct SettingsSheet: View {
         )
     }
 
-    // MARK: Añadir equipo
+    // MARK: Idioma
 
-    private var addSection: some View {
+    private var languageSection: some View {
         Section {
-            ForEach(candidates) { team in
-                Button {
-                    settings.add(team: team.key)
-                    search = ""
-                } label: {
-                    HStack(spacing: 10) {
-                        TeamLogoView(teamName: team.key, size: 24)
-                        Text(verbatim: team.displayName)
-                            .foregroundStyle(.white)
-                        Spacer()
-                        Image(systemName: "plus.circle")
-                            .foregroundStyle(Palette.gold)
-                    }
+            Picker("settings.language", selection: Bindable(language).selected) {
+                ForEach(AppLanguage.allCases) { idioma in
+                    Text(idioma.title).tag(idioma)
                 }
             }
+            .pickerStyle(.inline)
+            .labelsHidden()
+
+            if language.needsRestart {
+                Label("settings.language.restart", systemImage: "arrow.clockwise")
+                    .font(.caption)
+                    .foregroundStyle(Palette.gold)
+            }
         } header: {
-            Text("settings.addTeam")
+            Text("settings.language")
+        } footer: {
+            Text("settings.language.help")
         }
-        .searchable(text: $search, prompt: Text("settings.searchTeam"))
     }
 
     // MARK: Acerca de
@@ -187,19 +188,164 @@ struct SettingsSheet: View {
                 Text(verbatim: store.selectedSeason.displayName)
             }
             LabeledContent("settings.lastUpdate") {
-                if let updated = store.lastUpdated {
-                    Text(updated.formatted(date: .abbreviated, time: .shortened))
+                if let actualizado = store.lastUpdated {
+                    Text(actualizado.formatted(date: .abbreviated, time: .shortened))
                 } else {
                     Text(verbatim: "—")
                 }
             }
-            if let source = store.source.label {
-                LabeledContent("settings.source") { Text(source) }
+            if let origen = store.source.label {
+                LabeledContent("settings.source") { Text(origen) }
             }
         } header: {
             Text("settings.about")
         } footer: {
             Text("settings.data.credit")
         }
+    }
+}
+
+// MARK: - Fila de equipo seguido
+
+/// Un equipo de la lista, con su color cambiable en el sitio.
+private struct FollowedTeamRow: View {
+
+    @Binding var highlight: TeamHighlight
+
+    /// El `ColorPicker` necesita un `Color`, no un entero, y se sincroniza en
+    /// las dos direcciones: se rellena al aparecer y escribe al cambiar.
+    @State private var color: Color = .blue
+
+    var body: some View {
+        HStack(spacing: 12) {
+            RoundedRectangle(cornerRadius: 3)
+                .fill(highlight.color)
+                .frame(width: 4, height: 36)
+
+            TeamLogoView(teamName: highlight.team, size: 32)
+
+            Text(verbatim: Teams.name(highlight.team))
+                .font(.subheadline)
+                .foregroundStyle(.white)
+
+            Spacer()
+
+            ColorPicker("", selection: $color, supportsOpacity: false)
+                .labelsHidden()
+                .frame(width: 34, height: 34)
+                .onChange(of: color) { _, nuevo in
+                    highlight.colorHex = nuevo.toHex()
+                }
+                .accessibilityLabel("a11y.teamColor")
+        }
+        .padding(.vertical, 4)
+        .onAppear { color = highlight.color }
+    }
+}
+
+// MARK: - Hoja de añadir equipo
+
+/// Elegir equipo y color en una hoja aparte, con vista previa de cómo quedará
+/// la fila en la lista de partidos.
+struct AddTeamSheet: View {
+
+    let teams: [Team]
+    let suggested: Color
+    let onAdd: (String, Color) -> Void
+
+    @State private var team: String = ""
+    @State private var color: Color = .blue
+    @Environment(\.dismiss) private var dismiss
+
+    var body: some View {
+        NavigationStack {
+            Form {
+                Section("settings.team") {
+                    Picker("settings.team", selection: $team) {
+                        ForEach(teams) { equipo in
+                            HStack {
+                                TeamLogoView(teamName: equipo.key, size: 24)
+                                Text(verbatim: equipo.displayName)
+                            }
+                            .tag(equipo.key)
+                        }
+                    }
+                    .pickerStyle(.navigationLink)
+                }
+
+                Section("settings.highlightColor") {
+                    ColorPicker("settings.highlightColor", selection: $color, supportsOpacity: false)
+
+                    // Paleta rápida: el ColorPicker del sistema es completo pero
+                    // lento para lo habitual, que es coger un color distinto de
+                    // los que ya hay.
+                    HStack(spacing: 10) {
+                        ForEach(HighlightSettings.palette, id: \.self) { hex in
+                            Button {
+                                color = Color(hex: hex)
+                            } label: {
+                                Circle()
+                                    .fill(Color(hex: hex))
+                                    .frame(width: 26, height: 26)
+                                    .overlay(
+                                        Circle().stroke(.white.opacity(
+                                            color.toHex() == hex ? 0.9 : 0.15), lineWidth: 2)
+                                    )
+                            }
+                            .buttonStyle(.plain)
+                        }
+                    }
+                    .frame(maxWidth: .infinity, alignment: .leading)
+
+                    preview
+                }
+            }
+            .navigationTitle("settings.addTeam")
+            .navigationBarTitleDisplayMode(.inline)
+            .toolbar {
+                ToolbarItem(placement: .topBarLeading) {
+                    Button("action.cancel") { dismiss() }
+                }
+                ToolbarItem(placement: .topBarTrailing) {
+                    Button("action.add") {
+                        guard !team.isEmpty else { return }
+                        onAdd(team, color)
+                        dismiss()
+                    }
+                    .disabled(team.isEmpty)
+                    .bold()
+                }
+            }
+        }
+        .preferredColorScheme(.dark)
+        .onAppear {
+            team = teams.first?.key ?? ""
+            color = suggested
+        }
+    }
+
+    /// Cómo se verá la fila del partido en la lista.
+    private var preview: some View {
+        HStack(spacing: 10) {
+            RoundedRectangle(cornerRadius: 3)
+                .fill(color)
+                .frame(width: 4, height: 40)
+            if !team.isEmpty {
+                TeamLogoView(teamName: team, size: 28)
+            }
+            VStack(alignment: .leading, spacing: 4) {
+                Text(verbatim: team.isEmpty ? "—" : Teams.name(team))
+                    .font(.subheadline.weight(.bold))
+                    .foregroundStyle(color)
+                Text("settings.preview.rival")
+                    .font(.subheadline)
+                    .foregroundStyle(.white.opacity(0.6))
+            }
+            Spacer()
+        }
+        .padding(.vertical, 6)
+        .padding(.horizontal, 4)
+        .background(color.opacity(0.12))
+        .clipShape(RoundedRectangle(cornerRadius: 8))
     }
 }

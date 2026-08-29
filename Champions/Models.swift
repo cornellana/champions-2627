@@ -10,6 +10,7 @@
 //
 
 import Foundation
+import UIKit
 import SwiftUI
 
 // MARK: - Stage
@@ -552,6 +553,17 @@ struct PlayerSelection: Identifiable, Equatable, Sendable {
 // MARK: - Color
 
 extension Color {
+    /// Convierte el color a entero `0xRRGGBB`, para guardarlo en preferencias.
+    func toHex() -> UInt {
+        let ui = UIColor(self)
+        var r: CGFloat = 0, g: CGFloat = 0, b: CGFloat = 0, a: CGFloat = 0
+        ui.getRed(&r, green: &g, blue: &b, alpha: &a)
+        let ri = UInt(max(0, min(255, r * 255)))
+        let gi = UInt(max(0, min(255, g * 255)))
+        let bi = UInt(max(0, min(255, b * 255)))
+        return (ri << 16) | (gi << 8) | bi
+    }
+
     /// Crea un color a partir de un literal `0xRRGGBB`.
     init(hex: UInt) {
         let r = Double((hex >> 16) & 0xFF) / 255

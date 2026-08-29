@@ -70,6 +70,32 @@ STRINGS: dict[str, tuple[str, str, str]] = {
     "venue.away.initial":  ("A", "V", "V"),
     "a11y.calendar":       ("Calendar", "Calendario", "Calendari"),
 
+    "action.cancel": ("Cancel", "Cancelar", "Cancel·lar"),
+    "action.add":    ("Add", "Añadir", "Afegir"),
+
+    "settings.team":           ("Team", "Equipo", "Equip"),
+    "settings.highlightColor": ("Highlight colour", "Color de resaltado", "Color de ressaltat"),
+    "settings.preview.rival":  ("Opponent", "Equipo rival", "Equip rival"),
+    "settings.notifications.openSettings": ("Turn on in iOS Settings",
+                                            "Activar en los Ajustes de iOS",
+                                            "Activar a la Configuració d'iOS"),
+
+    # -- Idioma ------------------------------------------------------------
+    "settings.language":         ("Language", "Idioma", "Idioma"),
+    # Cada idioma se escribe en su propia lengua: se reconoce de un vistazo
+    # aunque la app esté ahora mismo en un idioma que no entiendes.
+    "language.system":           ("Phone language", "El del teléfono", "El del telèfon"),
+    "language.catalan":          ("Català", "Català", "Català"),
+    "language.spanish":          ("Castellano", "Castellano", "Castellano"),
+    "language.english":          ("English", "English", "English"),
+    "settings.language.restart": ("Reopen the app to see the change",
+                                  "Vuelve a abrir la app para verlo",
+                                  "Torna a obrir l'app per veure-ho"),
+    "settings.language.help": (
+        "iOS resolves the language when the app launches, so the change shows up the next time you open it.",
+        "iOS resuelve el idioma al arrancar la app, así que el cambio se ve la próxima vez que la abras.",
+        "iOS resol l'idioma en arrencar l'app, així que el canvi es veu el pròxim cop que l'obris."),
+
     # -- Fases -------------------------------------------------------------
     "stage.league":  ("League Phase", "Fase liga", "Fase lliga"),
     "stage.playoff": ("Knockout Play-off", "Play-off", "Play-off"),

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0107237DCB2CAE796738E367 /* AppLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D7124B5D6C7262FE54B7F0 /* AppLanguage.swift */; };
 		0306C2AE3A0263D70297EBF7 /* MatchDetailSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A68531B2875353F4CE851E8 /* MatchDetailSheet.swift */; };
 		11A7CAE0F3A63AECC733D000 /* RosterService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D5D7DE995CA6421111CE153 /* RosterService.swift */; };
 		1735B8D240C6D7617F2360BC /* TopScorersSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC96D84BBF713A2D137CD776 /* TopScorersSheet.swift */; };
@@ -47,6 +48,7 @@
 		AC96D84BBF713A2D137CD776 /* TopScorersSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopScorersSheet.swift; sourceTree = "<group>"; };
 		B5AC55633E27141FF7B57FC4 /* champions2627-seed.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "champions2627-seed.json"; sourceTree = "<group>"; };
 		C06B49211D2E4A9848DDE7A0 /* SettingsSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsSheet.swift; sourceTree = "<group>"; };
+		C7D7124B5D6C7262FE54B7F0 /* AppLanguage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppLanguage.swift; sourceTree = "<group>"; };
 		D89F37709A3EECD0F62C3B74 /* Teams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teams.swift; sourceTree = "<group>"; };
 		ED2709FDFFECFFAF8CDBE56C /* HighlightSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighlightSettings.swift; sourceTree = "<group>"; };
 		ED3678149D1D0503E97EC03E /* MatchPrediction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchPrediction.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 		A86003301D3E41F99DDC4721 /* Champions */ = {
 			isa = PBXGroup;
 			children = (
+				C7D7124B5D6C7262FE54B7F0 /* AppLanguage.swift */,
 				4624BFB05FE38CC6FD2E04F6 /* Assets.xcassets */,
 				3E8E2117F6B42C42CA383DDD /* BracketSheet.swift */,
 				059764B9E06A46A969397997 /* Champions.entitlements */,
@@ -173,6 +176,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0107237DCB2CAE796738E367 /* AppLanguage.swift in Sources */,
 				4C3D511EEBB70BB4F0F1C7FA /* BracketSheet.swift in Sources */,
 				95FDFA2A51D9B57945D24A60 /* ChampionsApp.swift in Sources */,
 				FA18858B2FEA0A2B5C6BF727 /* ContentView.swift in Sources */,
