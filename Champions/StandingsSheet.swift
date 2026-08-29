@@ -45,9 +45,13 @@ struct StandingsSheet: View {
                 }
             }
             .background(Palette.background)
-            .navigationTitle("standings.title")
-            .navigationBarTitleDisplayMode(.inline)
+                        .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("standings.title")
+                        .font(.headline)
+                        .foregroundStyle(.white)
+                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button("action.close") { dismiss() }
                 }

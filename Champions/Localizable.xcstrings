@@ -2124,19 +2124,19 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "iOS resolves the language when the app launches, so the change shows up the next time you open it."
+            "value": "The app switches language straight away. Only the reminders already set on this phone keep the old one."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "iOS resuelve el idioma al arrancar la app, así que el cambio se ve la próxima vez que la abras."
+            "value": "La app cambia de idioma al momento. Solo los recordatorios ya programados en el teléfono conservan el anterior."
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "iOS resol l'idioma en arrencar l'app, així que el canvi es veu el pròxim cop que l'obris."
+            "value": "L'app canvia d'idioma a l'instant. Només els recordatoris ja programats al telèfon conserven l'anterior."
           }
         }
       }
@@ -2147,19 +2147,19 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Reopen the app to see the change"
+            "value": "Alerts already scheduled keep the old language until you reopen the app"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vuelve a abrir la app para verlo"
+            "value": "Los avisos ya programados siguen en el idioma anterior hasta que reabras la app"
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "Torna a obrir l'app per veure-ho"
+            "value": "Els avisos ja programats segueixen en l'idioma anterior fins que reobris l'app"
           }
         }
       }

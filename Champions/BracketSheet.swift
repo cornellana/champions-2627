@@ -45,9 +45,13 @@ struct BracketSheet: View {
                 }
             }
             .background(Palette.background)
-            .navigationTitle("bracket.title")
-            .navigationBarTitleDisplayMode(.inline)
+                        .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("bracket.title")
+                        .font(.headline)
+                        .foregroundStyle(.white)
+                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button("action.close") { dismiss() }
                 }

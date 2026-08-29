@@ -41,6 +41,18 @@ enum AppLanguage: String, CaseIterable, Identifiable, Sendable {
         }
     }
 
+    /// `Locale` con el que dibujar la interfaz, o `nil` para el del sistema.
+    ///
+    /// SwiftUI resuelve `Text("clave")` con el locale del entorno, así que
+    /// poniendo este en la raíz la app cambia de idioma **al instante**, sin
+    /// cerrarla.
+    var locale: Locale? {
+        switch self {
+        case .system: return nil
+        default:      return Locale(identifier: rawValue)
+        }
+    }
+
     /// Códigos que se escriben en `AppleLanguages`, o `nil` para dejar mandar
     /// al sistema.
     var appleLanguages: [String]? {
@@ -70,9 +82,15 @@ final class LanguagePreference {
         }
     }
 
-    /// `true` cuando se ha cambiado el idioma y todavía no se ha reabierto la
-    /// app, que es cuando surte efecto.
+    /// `true` cuando queda algún texto que solo se rehará al reabrir.
+    ///
+    /// La interfaz cambia al momento con el locale del entorno; lo que no
+    /// cambia hasta reabrir es lo poco que se resuelve en código —los avisos
+    /// ya programados, sobre todo—, porque eso mira `AppleLanguages` y esa
+    /// lista se lee al arrancar el proceso.
     private(set) var needsRestart = false
+
+    static let shared = LanguagePreference()
 
     init() {
         let guardado = UserDefaults.standard.string(forKey: Self.key)

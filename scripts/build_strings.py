@@ -88,13 +88,13 @@ STRINGS: dict[str, tuple[str, str, str]] = {
     "language.catalan":          ("Català", "Català", "Català"),
     "language.spanish":          ("Castellano", "Castellano", "Castellano"),
     "language.english":          ("English", "English", "English"),
-    "settings.language.restart": ("Reopen the app to see the change",
-                                  "Vuelve a abrir la app para verlo",
-                                  "Torna a obrir l'app per veure-ho"),
+    "settings.language.restart": ("Alerts already scheduled keep the old language until you reopen the app",
+                                  "Los avisos ya programados siguen en el idioma anterior hasta que reabras la app",
+                                  "Els avisos ja programats segueixen en l'idioma anterior fins que reobris l'app"),
     "settings.language.help": (
-        "iOS resolves the language when the app launches, so the change shows up the next time you open it.",
-        "iOS resuelve el idioma al arrancar la app, así que el cambio se ve la próxima vez que la abras.",
-        "iOS resol l'idioma en arrencar l'app, així que el canvi es veu el pròxim cop que l'obris."),
+        "The app switches language straight away. Only the reminders already set on this phone keep the old one.",
+        "La app cambia de idioma al momento. Solo los recordatorios ya programados en el teléfono conservan el anterior.",
+        "L'app canvia d'idioma a l'instant. Només els recordatoris ja programats al telèfon conserven l'anterior."),
 
     # -- Fases -------------------------------------------------------------
     "stage.league":  ("League Phase", "Fase liga", "Fase lliga"),

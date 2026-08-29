@@ -47,9 +47,13 @@ struct TeamCalendarSheet: View {
     var body: some View {
         NavigationStack {
             teamList
-                .navigationTitle("calendar.title")
-                .navigationBarTitleDisplayMode(.inline)
+                                .navigationBarTitleDisplayMode(.inline)
                 .toolbar {
+                    ToolbarItem(placement: .principal) {
+                        Text("calendar.title")
+                            .font(.headline)
+                            .foregroundStyle(.white)
+                    }
                     ToolbarItem(placement: .topBarTrailing) {
                         Button("action.close") { dismiss() }
                     }

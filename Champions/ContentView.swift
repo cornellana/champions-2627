@@ -58,6 +58,7 @@ struct ContentView: View {
 
     @State private var store = MatchStore()
     @State private var highlights = HighlightSettings()
+    @State private var language = LanguagePreference.shared
 
     @State private var filterTeam: String?
     @State private var filterStage: Stage?
@@ -191,10 +192,13 @@ struct ContentView: View {
             .environment(highlights)
         }
         .sheet(isPresented: $showingSettings) {
-            SettingsSheet(settings: highlights, store: store)
+            SettingsSheet(settings: highlights, store: store, language: language)
                 .environment(highlights)
         }
         .preferredColorScheme(.dark)
+        // El idioma elegido a mano manda sobre el del teléfono. Va en la raíz
+        // para que lo hereden también las hojas.
+        .environment(\.locale, language.selected.locale ?? Locale.autoupdatingCurrent)
     }
 
     // MARK: Barra de herramientas

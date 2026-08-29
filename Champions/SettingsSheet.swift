@@ -20,7 +20,10 @@ struct SettingsSheet: View {
     @Bindable var settings: HighlightSettings
     let store: MatchStore
 
-    @State private var language = LanguagePreference()
+    /// Llega desde la raíz: si la hoja se creara la suya, el cambio se
+    /// perdería al cerrarla.
+    @Bindable var language: LanguagePreference
+
     @State private var authorization: UNAuthorizationStatus = .notDetermined
     @State private var showingAddTeam = false
     @Environment(\.dismiss) private var dismiss
@@ -41,10 +44,14 @@ struct SettingsSheet: View {
             }
             .scrollContentBackground(.hidden)
             .background(Palette.background)
-            .navigationTitle("settings.title")
-            .navigationBarTitleDisplayMode(.inline)
+                        .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) { EditButton() }
+                ToolbarItem(placement: .principal) {
+                    Text("settings.title")
+                        .font(.headline)
+                        .foregroundStyle(.white)
+                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button("action.done") { dismiss() }
                 }
@@ -160,7 +167,7 @@ struct SettingsSheet: View {
 
     private var languageSection: some View {
         Section {
-            Picker("settings.language", selection: Bindable(language).selected) {
+            Picker("settings.language", selection: $language.selected) {
                 ForEach(AppLanguage.allCases) { idioma in
                     Text(idioma.title).tag(idioma)
                 }
@@ -300,9 +307,13 @@ struct AddTeamSheet: View {
                     preview
                 }
             }
-            .navigationTitle("settings.addTeam")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("settings.addTeam")
+                        .font(.headline)
+                        .foregroundStyle(.white)
+                }
                 ToolbarItem(placement: .topBarLeading) {
                     Button("action.cancel") { dismiss() }
                 }

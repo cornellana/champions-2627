@@ -66,9 +66,13 @@ struct TopScorersSheet: View {
                 }
             }
             .background(Palette.background)
-            .navigationTitle("scorers.title")
-            .navigationBarTitleDisplayMode(.inline)
+                        .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("scorers.title")
+                        .font(.headline)
+                        .foregroundStyle(.white)
+                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button("action.close") { dismiss() }
                 }
