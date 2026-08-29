@@ -32,6 +32,44 @@ STRINGS: dict[str, tuple[str, str, str]] = {
     # En la barra superior el nombre entero no cabe y se corta a la mitad.
     "app.title.short": ("Champions", "Champions", "Champions"),
 
+    "app.season":      ("Season %@", "Temporada %@", "Temporada %@"),
+
+    # -- Pronóstico --------------------------------------------------------
+    "prediction.title":         ("Forecast", "Pronóstico", "Pronòstic"),
+    "prediction.form":          ("Recent form", "Forma reciente", "Forma recent"),
+    "prediction.goalsFor":      ("Goals for /match", "Goles a favor /p", "Gols a favor /p"),
+    "prediction.goalsAgainst":  ("Goals against /match", "Goles en contra /p", "Gols en contra /p"),
+    "prediction.position":      ("Position", "Puesto", "Posició"),
+    "prediction.expectedGoals": ("Expected goals", "Goles esperados", "Gols esperats"),
+    "prediction.basis": (
+        "Statistical estimate from the results so far in the competition.",
+        "Estimación estadística a partir de los resultados que lleva la competición.",
+        "Estimació estadística a partir dels resultats que porta la competició."),
+    "prediction.baseline": (
+        "No matches played yet: this is only the home advantage. It sharpens as results come in.",
+        "Todavía no se ha jugado nada: esto es solo la ventaja de jugar en casa. Se afina conforme lleguen resultados.",
+        "Encara no s'ha jugat res: això és només l'avantatge de jugar a casa. S'afina a mesura que arribin resultats."),
+
+    # -- Plantillas --------------------------------------------------------
+    "roster.title":       ("Squads", "Plantillas", "Plantilles"),
+    "roster.loading":     ("Loading squads…", "Cargando plantillas…", "Carregant plantilles…"),
+    "roster.unavailable": ("Squads not available for this match",
+                           "No hay plantillas disponibles de este partido",
+                           "No hi ha plantilles disponibles d'aquest partit"),
+    "roster.noneForTeam": ("Not available", "No disponible", "No disponible"),
+
+    "position.goalkeepers":  ("Goalkeepers", "Porteros", "Porters"),
+    "position.defenders":    ("Defenders", "Defensas", "Defenses"),
+    "position.midfielders":  ("Midfielders", "Centrocampistas", "Migcampistes"),
+    "position.forwards":     ("Forwards", "Delanteros", "Davanters"),
+    "position.others":       ("Others", "Otros", "Altres"),
+
+    # -- Calendario por equipo ---------------------------------------------
+    "calendar.title":      ("Calendar", "Calendario", "Calendari"),
+    "venue.home.initial":  ("H", "L", "L"),
+    "venue.away.initial":  ("A", "V", "V"),
+    "a11y.calendar":       ("Calendar", "Calendario", "Calendari"),
+
     # -- Fases -------------------------------------------------------------
     "stage.league":  ("League Phase", "Fase liga", "Fase lliga"),
     "stage.playoff": ("Knockout Play-off", "Play-off", "Play-off"),

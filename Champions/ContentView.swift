@@ -67,6 +67,7 @@ struct ContentView: View {
     @State private var showingStandings = false
     @State private var showingScorers = false
     @State private var showingBracket = false
+    @State private var showingCalendar = false
     @State private var showingSettings = false
 
     /// Sección en la que se sitúa la lista. Se fija al abrir para caer en la
@@ -163,7 +164,7 @@ struct ContentView: View {
             // la copia guardada al pulsar, la ficha se quedaría congelada en el
             // marcador de ese instante mientras la lista de detrás se actualiza.
             let live = store.allMatches.first { $0.id == item.match.id } ?? item.match
-            MatchDetailSheet(match: live)
+            MatchDetailSheet(match: live, matchDays: store.matchDays)
                 .environment(highlights)
                 .presentationDetents([.large])
                 .presentationDragIndicator(.visible)
@@ -175,6 +176,12 @@ struct ContentView: View {
         .sheet(isPresented: $showingScorers) {
             TopScorersSheet(scorers: store.topScorers, assists: store.topAssists)
                 .environment(highlights)
+        }
+        .sheet(isPresented: $showingCalendar) {
+            TeamCalendarSheet(matchDays: store.matchDays) { match in
+                selectedMatch = MatchItem(match: match)
+            }
+            .environment(highlights)
         }
         .sheet(isPresented: $showingBracket) {
             BracketSheet(store: store) { match in
@@ -214,20 +221,20 @@ struct ContentView: View {
                     .font(.headline.weight(.bold))
                     .foregroundStyle(.white)
                     .fixedSize()
-                HStack(spacing: 4) {
-                    Text(verbatim: store.selectedSeason.displayName)
-                    if let label = store.source.label {
-                        Text("·")
-                        Text(label)
-                    }
-                }
-                .font(.system(size: 10, weight: .medium))
-                .foregroundStyle(Palette.gold)
+                Text(String(format: String(localized: "app.season"),
+                            store.selectedSeason.displayName))
+                    .font(.system(size: 10, weight: .medium))
+                    .foregroundStyle(Palette.gold)
             }
         }
 
         ToolbarItem(placement: .topBarTrailing) {
-            HStack(spacing: 12) {
+            HStack(spacing: 11) {
+                Button { showingCalendar = true } label: {
+                    Image(systemName: "calendar")
+                }
+                .accessibilityLabel("a11y.calendar")
+
                 Button { showingBracket = true } label: {
                     Image(systemName: "trophy")
                 }

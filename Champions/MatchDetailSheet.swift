@@ -12,7 +12,17 @@ struct MatchDetailSheet: View {
 
     let match: Match
 
+    /// Calendario completo: hace falta para el pronóstico, que se apoya en los
+    /// resultados de toda la competición y no solo en este partido.
+    let matchDays: [MatchDay]
+
     @State private var tab: Tab = .summary
+    @State private var prediction: MatchPrediction?
+    @State private var showPredictionDetail = false
+    @State private var homeRoster: [RosterPlayer] = []
+    @State private var awayRoster: [RosterPlayer] = []
+    @State private var isLoadingRoster = false
+
     @Environment(\.dismiss) private var dismiss
     @Environment(HighlightSettings.self) private var highlights
 
@@ -85,6 +95,21 @@ struct MatchDetailSheet: View {
         .onAppear {
             if !availableTabs.contains(tab) { tab = .summary }
         }
+        .task {
+            if !match.done, !match.isLive, prediction == nil {
+                prediction = PredictionEngine.predict(match: match, matchDays: matchDays)
+            }
+            // Un partido sin jugar no tiene alineación, pero sí plantilla: es
+            // lo único que hay que enseñar, y es justo lo que se quiere mirar
+            // antes de un partido.
+            if !match.done, match.details == nil, homeRoster.isEmpty, awayRoster.isEmpty {
+                isLoadingRoster = true
+                (homeRoster, awayRoster) = await RosterService.shared.rosters(
+                    home: match.home, away: match.away
+                )
+                isLoadingRoster = false
+            }
+        }
     }
 
     // MARK: Marcador
@@ -97,6 +122,21 @@ struct MatchDetailSheet: View {
                 teamColumn(match.away, score: match.awayScore, winner: isWinner(home: false))
             }
             .padding(.horizontal, 16)
+
+            if let prediction {
+                Button {
+                    withAnimation(.easeInOut(duration: 0.22)) { showPredictionDetail.toggle() }
+                } label: {
+                    PredictionBar(
+                        prediction: prediction,
+                        homeColor: highlights.highlight(for: match.home)?.color ?? Teams.color(match.home),
+                        awayColor: highlights.highlight(for: match.away)?.color ?? Teams.color(match.away),
+                        isExpanded: showPredictionDetail
+                    )
+                }
+                .buttonStyle(.plain)
+                .padding(.horizontal, 24)
+            }
 
             venueLine
         }
@@ -132,10 +172,16 @@ struct MatchDetailSheet: View {
     private var centerColumn: some View {
         VStack(spacing: 6) {
             if match.homeScore == nil {
+                // A 26 puntos «21:00» no cabía en la columna y se partía en dos
+                // líneas. Se baja el cuerpo, se prohíbe el salto y se deja que
+                // encoja: con Dynamic Type grande sigue entrando de una pieza.
                 Text(verbatim: match.time.isEmpty ? "—" : match.time)
-                    .font(.system(size: 26, weight: .bold, design: .rounded))
+                    .font(.system(size: 21, weight: .bold, design: .rounded))
                     .foregroundStyle(.white)
                     .monospacedDigit()
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.7)
+                    .fixedSize(horizontal: false, vertical: true)
             } else {
                 Text(verbatim: "–")
                     .font(.system(size: 26, weight: .light))
@@ -169,7 +215,7 @@ struct MatchDetailSheet: View {
                     .multilineTextAlignment(.center)
             }
         }
-        .frame(width: 76)
+        .frame(width: 92)
         .padding(.top, 18)
     }
 
@@ -209,10 +255,14 @@ struct MatchDetailSheet: View {
         }
 
         if events.isEmpty {
-            placeholder(
-                icon: match.done ? "clock.badge.questionmark" : "calendar",
-                text: match.done ? "detail.noEvents" : "detail.notPlayed"
-            )
+            if match.done {
+                placeholder(icon: "clock.badge.questionmark", text: "detail.noEvents")
+            } else {
+                if let prediction, showPredictionDetail {
+                    predictionDetail(prediction)
+                }
+                rosterSection
+            }
         } else {
             VStack(spacing: 0) {
                 sectionTitle("detail.timeline")
@@ -266,6 +316,93 @@ struct MatchDetailSheet: View {
 
                 ForEach(stats) { stat in
                     StatRow(stat: stat, homeColor: Teams.color(match.home), awayColor: Teams.color(match.away))
+                }
+            }
+        }
+    }
+
+    // MARK: Pronóstico desplegado
+
+    private func predictionDetail(_ prediction: MatchPrediction) -> some View {
+        let homeColor = highlights.highlight(for: match.home)?.color ?? Teams.color(match.home)
+        let awayColor = highlights.highlight(for: match.away)?.color ?? Teams.color(match.away)
+
+        return VStack(spacing: 0) {
+            sectionTitle("prediction.title")
+
+            VStack(spacing: 0) {
+                HStack {
+                    Text(verbatim: Teams.abbr(match.home))
+                        .foregroundStyle(homeColor)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                    Text(verbatim: "vs")
+                        .foregroundStyle(.white.opacity(0.3))
+                    Text(verbatim: Teams.abbr(match.away))
+                        .foregroundStyle(awayColor)
+                        .frame(maxWidth: .infinity, alignment: .trailing)
+                }
+                .font(.caption2.weight(.bold))
+                .padding(.bottom, 8)
+
+                ForEach(prediction.factors) { factor in
+                    HStack(spacing: 8) {
+                        Text(verbatim: factor.homeValue)
+                            .foregroundStyle(.white.opacity(0.9))
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                        Text(LocalizedStringKey(factor.labelKey))
+                            .foregroundStyle(.white.opacity(0.4))
+                            .frame(width: 128)
+                            .multilineTextAlignment(.center)
+                        Text(verbatim: factor.awayValue)
+                            .foregroundStyle(.white.opacity(0.9))
+                            .frame(maxWidth: .infinity, alignment: .trailing)
+                    }
+                    .font(.caption)
+                    .monospacedDigit()
+                    .padding(.vertical, 5)
+
+                    if factor.id != prediction.factors.last?.id {
+                        Divider().background(Color.white.opacity(0.04))
+                    }
+                }
+            }
+            .padding(.horizontal, 16)
+            .padding(.vertical, 12)
+
+            // Al principio del torneo no hay ni un resultado y el pronóstico es
+            // solo la ventaja de jugar en casa. Decirlo cuesta una línea y evita
+            // que un 46 % parezca lo que no es.
+            Text(prediction.isBaselineOnly ? "prediction.baseline" : "prediction.basis")
+                .font(.system(size: 10))
+                .foregroundStyle(.white.opacity(0.3))
+                .multilineTextAlignment(.center)
+                .padding(.horizontal, 24)
+                .padding(.bottom, 14)
+        }
+    }
+
+    // MARK: Plantillas
+
+    @ViewBuilder
+    private var rosterSection: some View {
+        if isLoadingRoster {
+            VStack(spacing: 14) {
+                ProgressView().tint(Palette.silver).scaleEffect(1.2)
+                Text("roster.loading")
+                    .font(.caption)
+                    .foregroundStyle(.white.opacity(0.4))
+            }
+            .frame(maxWidth: .infinity)
+            .padding(.vertical, 48)
+        } else if homeRoster.isEmpty && awayRoster.isEmpty {
+            placeholder(icon: "person.3", text: "roster.unavailable")
+        } else {
+            VStack(spacing: 0) {
+                sectionTitle("roster.title")
+                HStack(alignment: .top, spacing: 0) {
+                    RosterColumn(team: match.home, players: homeRoster)
+                    Divider().background(Color.white.opacity(0.06))
+                    RosterColumn(team: match.away, players: awayRoster)
                 }
             }
         }
@@ -556,5 +693,126 @@ private struct PenaltyShootoutView: View {
     /// Apellido del jugador: en una fila de cinco lanzadores no cabe más.
     private func shortName(_ full: String) -> String {
         full.split(separator: " ").last.map(String.init) ?? full
+    }
+}
+
+// MARK: - Barra de pronóstico
+
+/// Barra de tres tramos —gana el local, empate, gana el visitante— con los
+/// porcentajes debajo. Al tocarla se despliega el desglose.
+struct PredictionBar: View {
+
+    let prediction: MatchPrediction
+    let homeColor: Color
+    let awayColor: Color
+    let isExpanded: Bool
+
+    private let drawColor = Color.white.opacity(0.35)
+
+    var body: some View {
+        VStack(spacing: 6) {
+            GeometryReader { geo in
+                let ancho = geo.size.width
+                HStack(spacing: 0) {
+                    Rectangle().fill(homeColor)
+                        .frame(width: max(0, ancho * prediction.homeWin))
+                    Rectangle().fill(drawColor)
+                        .frame(width: max(0, ancho * prediction.draw))
+                    Rectangle().fill(awayColor)
+                }
+            }
+            .frame(height: 10)
+            .clipShape(Capsule())
+
+            HStack {
+                Text(verbatim: "\(prediction.homePercent) %")
+                    .foregroundStyle(homeColor)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                Text(verbatim: "\(prediction.drawPercent) %")
+                    .foregroundStyle(.white.opacity(0.5))
+                    .frame(maxWidth: .infinity)
+                Text(verbatim: "\(prediction.awayPercent) %")
+                    .foregroundStyle(awayColor)
+                    .frame(maxWidth: .infinity, alignment: .trailing)
+            }
+            .font(.system(size: 12, weight: .semibold, design: .rounded))
+            .monospacedDigit()
+
+            HStack(spacing: 4) {
+                Text("prediction.title")
+                Image(systemName: isExpanded ? "chevron.up" : "chevron.down")
+                    .font(.system(size: 8, weight: .bold))
+            }
+            .font(.system(size: 10))
+            .foregroundStyle(.white.opacity(0.35))
+        }
+        .accessibilityElement(children: .combine)
+    }
+}
+
+// MARK: - Columna de plantilla
+
+/// La plantilla de un equipo, agrupada por puesto.
+struct RosterColumn: View {
+
+    let team: String
+    let players: [RosterPlayer]
+
+    private var grouped: [(RosterPlayer.Position, [RosterPlayer])] {
+        Dictionary(grouping: players, by: \.position)
+            .sorted { $0.key.order < $1.key.order }
+            .map { ($0.key, $0.value) }
+    }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 0) {
+            HStack(spacing: 6) {
+                TeamLogoView(teamName: team, size: 18)
+                Text(verbatim: Teams.abbr(team))
+                    .font(.system(size: 11, weight: .bold))
+                    .foregroundStyle(.white.opacity(0.7))
+                Spacer(minLength: 0)
+            }
+            .padding(.horizontal, 10)
+            .padding(.vertical, 8)
+
+            if players.isEmpty {
+                Text("roster.noneForTeam")
+                    .font(.system(size: 10))
+                    .foregroundStyle(.white.opacity(0.3))
+                    .padding(.horizontal, 10)
+                    .padding(.bottom, 12)
+            } else {
+                ForEach(grouped, id: \.0) { puesto, jugadores in
+                    Text(puesto.title)
+                        .font(.system(size: 9, weight: .bold))
+                        .foregroundStyle(.white.opacity(0.32))
+                        .tracking(0.6)
+                        .padding(.horizontal, 10)
+                        .padding(.top, 8)
+                        .padding(.bottom, 3)
+
+                    ForEach(jugadores) { jugador in
+                        HStack(spacing: 6) {
+                            Text(verbatim: jugador.jersey.map(String.init) ?? "–")
+                                .font(.system(size: 10, weight: .semibold))
+                                .foregroundStyle(.white.opacity(0.35))
+                                .monospacedDigit()
+                                .frame(width: 16, alignment: .trailing)
+                            Text(verbatim: jugador.name)
+                                .font(.system(size: 11))
+                                .foregroundStyle(.white.opacity(0.85))
+                                .lineLimit(1)
+                                .minimumScaleFactor(0.8)
+                            Spacer(minLength: 0)
+                        }
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 2)
+                    }
+                }
+                Spacer(minLength: 12)
+            }
+        }
+        .frame(maxWidth: .infinity, alignment: .leading)
     }
 }
