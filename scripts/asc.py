@@ -46,6 +46,9 @@ SKU = "orejona-2627"
 
 PRIMARY_LOCALE = "es-ES"
 
+# Apple ID de la ficha, creada el 29/08/2026.
+APPLE_ID = "6806615494"
+
 
 # -- Autenticación --------------------------------------------------------
 
