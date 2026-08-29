@@ -27,6 +27,10 @@ targets:
         INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone: UIInterfaceOrientationPortrait
         INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad: "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight"
         INFOPLIST_KEY_UIUserInterfaceStyle: Dark
+        # La app solo habla HTTPS estándar con ESPN, GitHub y el NAS: no lleva
+        # criptografía propia, así que está exenta. Declararlo aquí evita que
+        # TestFlight pregunte por el cumplimiento de exportación en cada build.
+        INFOPLIST_KEY_ITSAppUsesNonExemptEncryption: false
         SWIFT_VERSION: "5.9"
         TARGETED_DEVICE_FAMILY: "1,2"
         CURRENT_PROJECT_VERSION: 2
