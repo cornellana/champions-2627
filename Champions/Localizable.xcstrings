@@ -370,6 +370,121 @@
         }
       }
     },
+    "calendar.a11y.away": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Day %1$d, away at %2$@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Día %1$d, fuera en campo de %2$@"
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dia %1$d, fora al camp de %2$@"
+          }
+        }
+      }
+    },
+    "calendar.a11y.home": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Day %1$d, at home against %2$@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Día %1$d, en casa contra %2$@"
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dia %1$d, a casa contra %2$@"
+          }
+        }
+      }
+    },
+    "calendar.legend.away": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "plays away"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "juega fuera"
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "juga fora"
+          }
+        }
+      }
+    },
+    "calendar.legend.badge": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The badge is the opponent"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El escudo es el del rival"
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'escut és el del rival"
+          }
+        }
+      }
+    },
+    "calendar.legend.home": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "plays at home"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "juega en casa"
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "juga a casa"
+          }
+        }
+      }
+    },
     "calendar.title": {
       "extractionState": "manual",
       "localizations": {

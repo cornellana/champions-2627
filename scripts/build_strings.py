@@ -66,6 +66,19 @@ STRINGS: dict[str, tuple[str, str, str]] = {
 
     # -- Calendario por equipo ---------------------------------------------
     "calendar.title":      ("Calendar", "Calendario", "Calendari"),
+    # La letra habla del equipo elegido, no del escudo, y sin decirlo se lee
+    # al revés.
+    "calendar.legend.home":  ("plays at home", "juega en casa", "juga a casa"),
+    "calendar.legend.away":  ("plays away", "juega fuera", "juga fora"),
+    "calendar.legend.badge": ("The badge is the opponent",
+                              "El escudo es el del rival",
+                              "L'escut és el del rival"),
+    "calendar.a11y.home": ("Day %1$d, at home against %2$@",
+                           "Día %1$d, en casa contra %2$@",
+                           "Dia %1$d, a casa contra %2$@"),
+    "calendar.a11y.away": ("Day %1$d, away at %2$@",
+                           "Día %1$d, fuera en campo de %2$@",
+                           "Dia %1$d, fora al camp de %2$@"),
     "venue.home.initial":  ("H", "L", "L"),
     "venue.away.initial":  ("A", "V", "V"),
     "a11y.calendar":       ("Calendar", "Calendario", "Calendari"),

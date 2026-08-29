@@ -178,6 +178,7 @@ private struct TeamMonths: View {
     var body: some View {
         ScrollView {
             LazyVStack(spacing: 14) {
+                legend
                 ForEach(months) { month in
                     MonthCard(month: month, onSelect: onSelect)
                 }
@@ -187,6 +188,37 @@ private struct TeamMonths: View {
             .padding(.horizontal, 12)
         }
         .background(Palette.background)
+    }
+
+    /// Qué significan el escudo y la letra de cada casilla.
+    ///
+    /// Hace falta porque las dos cosas hablan de equipos distintos: el escudo
+    /// es el del RIVAL y la letra dice si juega en casa o fuera el equipo que
+    /// se está mirando. Sin decirlo, se lee justo al revés.
+    private var legend: some View {
+        HStack(spacing: 14) {
+            HStack(spacing: 4) {
+                Text("venue.home.initial")
+                    .font(.system(size: 9, weight: .heavy))
+                    .foregroundStyle(Color(hex: 0x4A9EDF))
+                Text("calendar.legend.home")
+                    .font(.system(size: 10))
+                    .foregroundStyle(.white.opacity(0.5))
+            }
+            HStack(spacing: 4) {
+                Text("venue.away.initial")
+                    .font(.system(size: 9, weight: .heavy))
+                    .foregroundStyle(Palette.gold)
+                Text("calendar.legend.away")
+                    .font(.system(size: 10))
+                    .foregroundStyle(.white.opacity(0.5))
+            }
+            Spacer()
+            Text("calendar.legend.badge")
+                .font(.system(size: 10))
+                .foregroundStyle(.white.opacity(0.35))
+        }
+        .padding(.horizontal, 8)
     }
 
     /// Partidos del equipo con la fecha en la que se juegan.
@@ -362,6 +394,11 @@ private struct DayCell: View {
         .frame(maxWidth: .infinity)
         .frame(height: Self.alto)
         .background(RoundedRectangle(cornerRadius: 7).fill(fondo(data, partido)))
+        .accessibilityElement(children: .ignore)
+        .accessibilityLabel(Text(String(
+            format: String(localized: data.isHome ? "calendar.a11y.home" : "calendar.a11y.away"),
+            data.day, Teams.name(data.opponent ?? "")
+        )))
     }
 
     /// Verde si ganó, rojo si perdió, gris si empató, y casi nada si no se ha
