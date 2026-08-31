@@ -229,6 +229,7 @@ struct ContentView: View {
                             store.selectedSeason.displayName))
                     .font(.system(size: 10, weight: .medium))
                     .foregroundStyle(Palette.gold)
+                staleWarning
             }
         }
 
@@ -256,6 +257,49 @@ struct ContentView: View {
             }
             .foregroundStyle(.white)
         }
+    }
+
+    // MARK: Frescura de los datos
+
+    /// Aviso de que los datos no están al día.
+    ///
+    /// Solo sale cuando hay algo que decir. Mientras todo va bien no se enseña
+    /// nada: una etiqueta permanente se vuelve ruido y deja de leerse justo el
+    /// día que importa.
+    @ViewBuilder
+    private var staleWarning: some View {
+        if let aviso = staleText {
+            HStack(spacing: 3) {
+                Image(systemName: "exclamationmark.triangle.fill")
+                    .font(.system(size: 7))
+                Text(aviso)
+                    .font(.system(size: 9, weight: .medium))
+            }
+            .foregroundStyle(Color(hex: 0xE8A33C))
+        }
+    }
+
+    private var staleText: LocalizedStringKey? {
+        // Un fallo del último intento se dice siempre, aunque el dato sea
+        // reciente: significa que ha dejado de llegar.
+        if store.lastRefreshFailed {
+            guard let marca = store.lastUpdated else { return "stale.unknown" }
+            return LocalizedStringKey(String(
+                format: String(localized: "stale.since"),
+                marca.formatted(date: .omitted, time: .shortened)))
+        }
+        // Sin fallo, la antigüedad solo importa con el balón rodando: en
+        // reposo el actualizador publica cada diez minutos y avisar de eso
+        // sería dar la alarma cada diez minutos sin que pase nada.
+        guard store.allMatches.contains(where: \.isLive),
+              let edad = store.dataAge, edad > 180 else { return nil }
+        let minutos = Int(edad / 60)
+        if minutos < 60 {
+            return LocalizedStringKey(String(
+                format: String(localized: "stale.minutes"), minutos))
+        }
+        return LocalizedStringKey(String(
+            format: String(localized: "stale.hours"), minutos / 60))
     }
 
     // MARK: Refresco automático

@@ -174,6 +174,15 @@ STRINGS: dict[str, tuple[str, str, str]] = {
     "error.offline":      ("Showing saved data", "Mostrando datos guardados",
                            "Mostrant dades desades"),
 
+    # -- Datos que se han quedado viejos -----------------------------------
+    "stale.since":   ("not updated since %@", "sin actualizar desde las %@",
+                      "sense actualitzar des de les %@"),
+    "stale.unknown": ("not updating", "sin actualizar", "sense actualitzar"),
+    "stale.minutes": ("data from %d min ago", "datos de hace %d min",
+                      "dades de fa %d min"),
+    "stale.hours":   ("data from %d h ago", "datos de hace %d h",
+                      "dades de fa %d h"),
+
     # -- Origen de los datos ----------------------------------------------
     "source.live":   ("live", "en directo", "en directe"),
     "source.github": ("GitHub", "GitHub", "GitHub"),
@@ -266,6 +275,7 @@ STRINGS: dict[str, tuple[str, str, str]] = {
     "settings.minutes": ("%d min", "%d min", "%d min"),
 
     "settings.about":       ("About", "Acerca de", "Quant a"),
+    "settings.version":     ("Version", "Versión", "Versió"),
     "settings.season":      ("Season", "Temporada", "Temporada"),
     "settings.lastUpdate":  ("Last update", "Última actualización", "Última actualització"),
     "settings.source":      ("Source", "Origen", "Origen"),

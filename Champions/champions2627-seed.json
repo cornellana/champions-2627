@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T16:16:17Z",
+  "lastUpdated": "2026-08-31T15:48:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -445,8 +445,8 @@
           "state": "pre",
           "clock": null,
           "statusText": "Scheduled",
-          "stadium": "Bank Respublika Stadium",
-          "venueCity": "Masazir",
+          "stadium": null,
+          "venueCity": null,
           "details": null
         },
         {
@@ -837,8 +837,8 @@
           "state": "pre",
           "clock": null,
           "statusText": "Scheduled",
-          "stadium": "Bank Respublika Stadium",
-          "venueCity": "Masazir",
+          "stadium": null,
+          "venueCity": null,
           "details": null
         },
         {
@@ -1796,8 +1796,8 @@
           "state": "pre",
           "clock": null,
           "statusText": "Scheduled",
-          "stadium": "Bank Respublika Stadium",
-          "venueCity": "Masazir",
+          "stadium": null,
+          "venueCity": null,
           "details": null
         },
         {
@@ -2601,8 +2601,8 @@
           "state": "pre",
           "clock": null,
           "statusText": "Scheduled",
-          "stadium": "Bank Respublika Stadium",
-          "venueCity": "Masazir",
+          "stadium": null,
+          "venueCity": null,
           "details": null
         },
         {

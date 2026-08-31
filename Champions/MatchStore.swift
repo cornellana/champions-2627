@@ -34,6 +34,14 @@ final class MatchStore {
     /// De dónde salieron los datos que hay ahora en pantalla.
     private(set) var source: DataSource = .none
 
+    /// `true` si el último intento de refresco no llegó a buen puerto.
+    ///
+    /// Sin esto, un fallo que no sea de red conocida —una respuesta rara, un
+    /// JSON que no decodifica— deja la app callada con los datos viejos, y
+    /// desde fuera parece que simplemente no hay novedades. Le pasó a la app
+    /// de La Liga el 31/08/26 con dos partidos en juego.
+    private(set) var lastRefreshFailed = false
+
     /// Origen de los datos en curso, para el indicador de la cabecera.
     enum DataSource: Sendable {
         case none, seed, cache, github, nas
@@ -115,7 +123,9 @@ final class MatchStore {
             applyMeta(fresh, source: origin)
             saveToDisk(fresh, season: season)
             errorMessage = nil
+            lastRefreshFailed = false
         } catch {
+            lastRefreshFailed = true
             // Si ya hay datos en pantalla, un fallo de red no debe alarmar:
             // basta con seguir enseñando lo que había.
             if cache[season.code] == nil {
@@ -131,6 +141,11 @@ final class MatchStore {
     private func applyMeta(_ snapshot: MatchSnapshot, source: DataSource) {
         self.source = source
         self.lastUpdated = Self.isoFormatter.date(from: snapshot.lastUpdated)
+    }
+
+    /// Antigüedad del dato que hay en pantalla, o `nil` si no se sabe.
+    var dataAge: TimeInterval? {
+        lastUpdated.map { Date().timeIntervalSince($0) }
     }
 
     // MARK: Red

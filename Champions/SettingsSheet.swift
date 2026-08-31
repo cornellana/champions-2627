@@ -189,8 +189,27 @@ struct SettingsSheet: View {
 
     // MARK: Acerca de
 
+    /// Versión de mercado y número de compilación, como los deja Xcode en el
+    /// Info.plist.
+    ///
+    /// Se enseñan juntos porque la versión sola no distingue nada: se queda en
+    /// 1.0 durante decenas de compilaciones. El número de build sí es único, y
+    /// repartiendo la app fuera de la App Store es lo único que permite saber
+    /// desde el propio teléfono cuál está instalada —ahí no hay ficha de la
+    /// tienda ni TestFlight que lo diga—.
+    private var versionInstalada: String {
+        let info = Bundle.main.infoDictionary
+        let version = info?["CFBundleShortVersionString"] as? String ?? "?"
+        let build = info?["CFBundleVersion"] as? String ?? "?"
+        return "\(version) (\(build))"
+    }
+
     private var aboutSection: some View {
         Section {
+            LabeledContent("settings.version") {
+                Text(verbatim: versionInstalada)
+                    .monospacedDigit()
+            }
             LabeledContent("settings.season") {
                 Text(verbatim: store.selectedSeason.displayName)
             }
