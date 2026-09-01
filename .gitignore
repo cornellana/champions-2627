@@ -7,3 +7,7 @@ build/
 .build/
 .swiftpm/
 Pods/
+
+# Los .pyc de los scripts no pintan nada en el repositorio.
+__pycache__/
+*.pyc
