@@ -323,9 +323,17 @@ def main():
             registrar(f"   {l.strip()}")
 
         if ok and MODO == "produccion":
+            # La copia servida se hace ANTES de publicar, a propósito.
+            #
+            # `publicar()` revierte el fichero cuando lo único que ha cambiado
+            # es `lastUpdated` —para no llenar el repositorio de commits sin
+            # dato nuevo—, y esa reversión se llevaba por delante la marca
+            # fresca. Copiando después, el NAS servía datos con la fecha del
+            # último cambio REAL, que en reposo puede ser de hace medio día, y
+            # la app los daba por caducados teniéndolos recién comprobados.
+            copiar_a_servido()
             if publicar():
                 registrar("   publicado en GitHub")
-            copiar_a_servido()
         elif ok:
             comparar_con_publicado()
 
