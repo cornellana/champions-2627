@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T07:35:05Z",
+  "lastUpdated": "2026-09-04T00:02:34Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -24,9 +24,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "OPAP Arena",
-          "venueCity": "Atenas",
+          "venueCity": "Athens",
           "details": null
         },
         {
@@ -45,7 +45,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": null
@@ -66,7 +66,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": null
@@ -87,7 +87,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": null
@@ -108,9 +108,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estádio do Dragão",
-          "venueCity": "Oporto",
+          "venueCity": "Porto",
           "details": null
         },
         {
@@ -129,7 +129,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": null
