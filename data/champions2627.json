@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T00:02:34Z",
+  "lastUpdated": "2026-09-05T00:01:37Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -157,7 +157,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": null
@@ -178,7 +178,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": null
@@ -199,7 +199,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": null
@@ -220,9 +220,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Stadio Diego Armando Maradona",
-          "venueCity": "Nápoles",
+          "venueCity": "Napoli",
           "details": null
         },
         {
@@ -241,7 +241,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": null
@@ -262,9 +262,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estádio José Alvalade",
-          "venueCity": "Lisboa",
+          "venueCity": "Lisbon",
           "details": null
         }
       ]
