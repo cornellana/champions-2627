@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T00:01:37Z",
+  "lastUpdated": "2026-09-06T00:07:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -290,9 +290,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Ulker Stadyumu",
-          "venueCity": "Estambul",
+          "venueCity": "Istanbul",
           "details": null
         },
         {
@@ -311,7 +311,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": null
@@ -332,7 +332,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": null
@@ -353,7 +353,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": null
@@ -374,7 +374,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": null
@@ -395,9 +395,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Fortuna Arena",
-          "venueCity": "Praga",
+          "venueCity": "Prague",
           "details": null
         }
       ]
