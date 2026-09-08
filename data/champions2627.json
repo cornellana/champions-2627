@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:46:50Z",
+  "lastUpdated": "2026-09-08T20:47:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1862,6 +1862,16 @@
                 "relatedPlayer": null,
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "52116737_30",
+                "type": "PENALTY",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": "Serhou Guirassy",
+                "relatedPlayer": null,
+                "teamName": "Borussia Dortmund",
+                "text": null
               }
             ],
             "teamStats": [
@@ -1872,12 +1882,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "11"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "5"
               },
               {
@@ -1939,7 +1949,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2625,7 +2635,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -3180,8 +3190,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.4",
-                "away": "65.6"
+                "home": "34.7",
+                "away": "65.3"
               },
               {
                 "key": "totalShots",
@@ -3200,7 +3210,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "16"
               },
               {
@@ -3225,8 +3235,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "267",
-                "away": "579"
+                "home": "272",
+                "away": "580"
               },
               {
                 "key": "passPct",
@@ -3252,7 +3262,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -3798,8 +3808,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.7",
-                "away": "62.3"
+                "home": "37.8",
+                "away": "62.2"
               },
               {
                 "key": "totalShots",
@@ -3843,8 +3853,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "298",
-                "away": "514"
+                "home": "300",
+                "away": "519"
               },
               {
                 "key": "passPct",
@@ -7232,6 +7242,13 @@
       "athleteID": null
     },
     {
+      "player": "Serhou Guirassy",
+      "team": "Borussia Dortmund",
+      "goals": 2,
+      "penalties": 1,
+      "athleteID": null
+    },
+    {
       "player": "Alexsandro",
       "team": "Lille",
       "goals": 1,
@@ -7318,13 +7335,6 @@
     {
       "player": "Santiago Mouriño",
       "team": "Villarreal",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Serhou Guirassy",
-      "team": "Borussia Dortmund",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
