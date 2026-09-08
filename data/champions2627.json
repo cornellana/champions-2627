@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:45:45Z",
+  "lastUpdated": "2026-09-08T20:46:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1848,7 +1848,17 @@
                 "type": "SUBSTITUTION",
                 "minute": 83,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Gerard Moreno",
+                "relatedPlayer": "Pau Navarro",
+                "teamName": "Villarreal",
+                "text": null
+              },
+              {
+                "id": "52116660_28",
+                "type": "YELLOW_CARD",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Santiago Mouriño",
                 "relatedPlayer": null,
                 "teamName": "Villarreal",
                 "text": null
@@ -1857,8 +1867,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.6",
-                "away": "45.4"
+                "home": "54.7",
+                "away": "45.3"
               },
               {
                 "key": "totalShots",
@@ -1878,7 +1888,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -1888,7 +1898,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -1902,7 +1912,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "440",
+                "home": "441",
                 "away": "359"
               },
               {
@@ -1929,7 +1939,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2543,8 +2553,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.1",
-                "away": "54.9"
+                "home": "44.5",
+                "away": "55.5"
               },
               {
                 "key": "totalShots",
@@ -2559,7 +2569,7 @@
               {
                 "key": "wonCorners",
                 "home": "5",
-                "away": "2"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -2588,8 +2598,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "358",
-                "away": "448"
+                "home": "361",
+                "away": "463"
               },
               {
                 "key": "passPct",
@@ -2615,7 +2625,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -3161,8 +3171,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 83,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Seko Fofana",
+                "relatedPlayer": "Gabri Veiga",
                 "teamName": "Oporto",
                 "text": null
               }
@@ -3170,13 +3180,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.2",
-                "away": "65.8"
+                "home": "34.4",
+                "away": "65.6"
               },
               {
                 "key": "totalShots",
-                "home": "4",
-                "away": "12"
+                "home": "5",
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -3215,8 +3225,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "265",
-                "away": "575"
+                "home": "267",
+                "away": "579"
               },
               {
                 "key": "passPct",
@@ -3773,13 +3783,23 @@
                 "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "52116622_23",
+                "type": "SUBSTITUTION",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Henrikh Mkhitaryan",
+                "relatedPlayer": "Carlos Augusto",
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.1",
-                "away": "62.9"
+                "home": "37.7",
+                "away": "62.3"
               },
               {
                 "key": "totalShots",
@@ -3793,7 +3813,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "10"
               },
               {
@@ -3823,7 +3843,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "290",
+                "home": "298",
                 "away": "514"
               },
               {
