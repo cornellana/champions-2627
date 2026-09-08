@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:41:22Z",
+  "lastUpdated": "2026-09-08T20:42:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1812,33 +1812,43 @@
                 "relatedPlayer": "Felix Nmecha",
                 "teamName": "Borussia Dortmund",
                 "text": null
+              },
+              {
+                "id": "52116246_23",
+                "type": "GOAL",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Serhou Guirassy",
+                "relatedPlayer": "Fábio Silva",
+                "teamName": "Borussia Dortmund",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.7",
-                "away": "45.3"
+                "home": "55.1",
+                "away": "44.9"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "15",
                 "away": "11"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "5"
               },
               {
                 "key": "wonCorners",
-                "home": "7",
+                "home": "8",
                 "away": "6"
               },
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -1862,7 +1872,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "432",
+                "home": "439",
                 "away": "351"
               },
               {
@@ -1889,7 +1899,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2478,13 +2488,33 @@
                 "relatedPlayer": "Ayase Ueda",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "52116194_25",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
+              },
+              {
+                "id": "52116195_26",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.3",
-                "away": "55.7"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
@@ -2555,7 +2585,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -3172,8 +3202,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
-          "statusText": "Second Half",
+          "clock": "80'",
+          "statusText": "In Progress",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -3673,13 +3703,33 @@
                 "relatedPlayer": "Trent Alexander-Arnold",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "52116170_20",
+                "type": "SUBSTITUTION",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
+              },
+              {
+                "id": "52116160_21",
+                "type": "YELLOW_CARD",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": "Dean Huijsen",
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.1",
-                "away": "62.9"
+                "home": "36.8",
+                "away": "63.2"
               },
               {
                 "key": "totalShots",
@@ -3708,7 +3758,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -3724,7 +3774,7 @@
               {
                 "key": "accuratePasses",
                 "home": "275",
-                "away": "487"
+                "away": "494"
               },
               {
                 "key": "passPct",
@@ -7203,6 +7253,13 @@
       "athleteID": null
     },
     {
+      "player": "Serhou Guirassy",
+      "team": "Borussia Dortmund",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Troy Parrott",
       "team": "Real Betis",
       "goals": 1,
@@ -7226,6 +7283,12 @@
     {
       "player": "Ethan Mbappé",
       "team": "Lille",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Fábio Silva",
+      "team": "Borussia Dortmund",
       "goals": 1,
       "athleteID": null
     },
