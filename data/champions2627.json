@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:04:28Z",
+  "lastUpdated": "2026-09-08T19:05:34Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1538,19 +1538,10 @@
                   "athleteID": "318098"
                 },
                 {
-                  "id": "311163",
-                  "jersey": 24,
-                  "name": "Nathan Saliba",
-                  "position": "CM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "311163"
-                },
-                {
                   "id": "255889",
                   "jersey": 18,
                   "name": "Pape Gueye",
-                  "position": "CM-R",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "255889"
@@ -1559,10 +1550,19 @@
                   "id": "240623",
                   "jersey": 14,
                   "name": "Santi Comesaña",
-                  "position": "LM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "240623"
+                },
+                {
+                  "id": "311163",
+                  "jersey": 24,
+                  "name": "Nathan Saliba",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "311163"
                 },
                 {
                   "id": "284769",
@@ -1696,13 +1696,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.4",
-                "away": "55.6"
+                "home": "63.8",
+                "away": "36.2"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -1741,7 +1741,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "11",
+                "home": "27",
                 "away": "13"
               },
               {
@@ -1768,8 +1768,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
-          "statusText": "First Half",
+          "clock": "3'",
+          "statusText": "In Progress",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
@@ -2201,13 +2201,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50",
-                "away": "50"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
@@ -2246,12 +2246,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "9",
-                "away": "8"
+                "home": "13",
+                "away": "11"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.8"
               }
             ],
@@ -2273,8 +2273,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
-          "statusText": "First Half",
+          "clock": "2'",
+          "statusText": "In Progress",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -2697,6 +2697,493 @@
             "teamStats": [
               {
                 "key": "possessionPct",
+                "home": "37.1",
+                "away": "62.9"
+              },
+              {
+                "key": "totalShots",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "shotsOnTarget",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "wonCorners",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "foulsCommitted",
+                "home": "1",
+                "away": "0"
+              },
+              {
+                "key": "offsides",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "yellowCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "redCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "saves",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "accuratePasses",
+                "home": "10",
+                "away": "16"
+              },
+              {
+                "key": "passPct",
+                "home": "0.8",
+                "away": "0.8"
+              }
+            ],
+            "penalties": null
+          }
+        },
+        {
+          "id": "401915451",
+          "time": "21:00",
+          "home": "Real Madrid",
+          "away": "Inter de Milán",
+          "stage": "league",
+          "matchday": 1,
+          "tieId": null,
+          "leg": null,
+          "tv": null,
+          "done": false,
+          "result": "0-0",
+          "aggregate": null,
+          "shootout": null,
+          "state": "in",
+          "clock": "1'",
+          "statusText": "First Half",
+          "stadium": "Santiago Bernabéu",
+          "venueCity": "Madrid",
+          "details": {
+            "homeLineup": {
+              "formation": "4-2-3-1",
+              "players": [
+                {
+                  "id": "134283",
+                  "jersey": 1,
+                  "name": "Thibaut Courtois",
+                  "position": "G",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "134283"
+                },
+                {
+                  "id": "356000",
+                  "jersey": 4,
+                  "name": "Dean Huijsen",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "356000"
+                },
+                {
+                  "id": "251634",
+                  "jersey": 16,
+                  "name": "Ibrahima Konaté",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "251634"
+                },
+                {
+                  "id": "259910",
+                  "jersey": 17,
+                  "name": "Marc Cucurella",
+                  "position": "LB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "259910"
+                },
+                {
+                  "id": "213248",
+                  "jersey": 24,
+                  "name": "Denzel Dumfries",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "213248"
+                },
+                {
+                  "id": "291281",
+                  "jersey": 5,
+                  "name": "Jude Bellingham",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "291281"
+                },
+                {
+                  "id": "235818",
+                  "jersey": 8,
+                  "name": "Federico Valverde",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "235818"
+                },
+                {
+                  "id": "223532",
+                  "jersey": 12,
+                  "name": "Trent Alexander-Arnold",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "223532"
+                },
+                {
+                  "id": "231388",
+                  "jersey": 10,
+                  "name": "Kylian Mbappé",
+                  "position": "F",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "231388"
+                },
+                {
+                  "id": "252107",
+                  "jersey": 7,
+                  "name": "Vinícius Júnior",
+                  "position": "AM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "252107"
+                },
+                {
+                  "id": "246532",
+                  "jersey": 21,
+                  "name": "Brahim Díaz",
+                  "position": "AM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "246532"
+                },
+                {
+                  "id": "415478",
+                  "jersey": 29,
+                  "name": "Jorge Cestero",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "415478"
+                },
+                {
+                  "id": "409019",
+                  "jersey": 27,
+                  "name": "Thiago Pitarch",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "409019"
+                },
+                {
+                  "id": "330352",
+                  "jersey": 33,
+                  "name": "Mario Rivas",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "330352"
+                },
+                {
+                  "id": "346612",
+                  "jersey": 9,
+                  "name": "Endrick",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "346612"
+                },
+                {
+                  "id": "169438",
+                  "jersey": 22,
+                  "name": "Antonio Rüdiger",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "169438"
+                },
+                {
+                  "id": "380286",
+                  "jersey": 19,
+                  "name": "Carlos Espí",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "380286"
+                },
+                {
+                  "id": "310637",
+                  "jersey": 18,
+                  "name": "Álvaro Carreras",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "310637"
+                },
+                {
+                  "id": "257237",
+                  "jersey": 13,
+                  "name": "Andriy Lunin",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "257237"
+                },
+                {
+                  "id": "402479",
+                  "jersey": 25,
+                  "name": "Yan Diomande",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "402479"
+                },
+                {
+                  "id": "350351",
+                  "jersey": 26,
+                  "name": "Sergio Mestre",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "350351"
+                },
+                {
+                  "id": "265919",
+                  "jersey": 14,
+                  "name": "Aurélien Tchouaméni",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "265919"
+                }
+              ]
+            },
+            "awayLineup": {
+              "formation": "3-5-2",
+              "players": [
+                {
+                  "id": "240533",
+                  "jersey": 1,
+                  "name": "Josep Martínez",
+                  "position": "G",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "240533"
+                },
+                {
+                  "id": "266660",
+                  "jersey": 31,
+                  "name": "Yann Bisseck",
+                  "position": "CD",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "266660"
+                },
+                {
+                  "id": "249280",
+                  "jersey": 95,
+                  "name": "Alessandro Bastoni",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "249280"
+                },
+                {
+                  "id": "215378",
+                  "jersey": 28,
+                  "name": "Benjamin Pavard",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "215378"
+                },
+                {
+                  "id": "190257",
+                  "jersey": 21,
+                  "name": "Curtis Jones",
+                  "position": "CM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "190257"
+                },
+                {
+                  "id": "204441",
+                  "jersey": 23,
+                  "name": "Nicolò Barella",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "204441"
+                },
+                {
+                  "id": "170785",
+                  "jersey": 20,
+                  "name": "Hakan Çalhanoglu",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "170785"
+                },
+                {
+                  "id": "271769",
+                  "jersey": 30,
+                  "name": "Carlos Augusto",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "271769"
+                },
+                {
+                  "id": "319167",
+                  "jersey": 17,
+                  "name": "Andy Diouf",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "319167"
+                },
+                {
+                  "id": "217331",
+                  "jersey": 9,
+                  "name": "Marcus Thuram",
+                  "position": "CF-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "217331"
+                },
+                {
+                  "id": "219713",
+                  "jersey": 10,
+                  "name": "Lautaro Martínez",
+                  "position": "CF-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "219713"
+                },
+                {
+                  "id": "214562",
+                  "jersey": 25,
+                  "name": "Manuel Akanji",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "214562"
+                },
+                {
+                  "id": "177782",
+                  "jersey": 7,
+                  "name": "Piotr Zielinski",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "177782"
+                },
+                {
+                  "id": "157974",
+                  "jersey": 6,
+                  "name": "John Stones",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "157974"
+                },
+                {
+                  "id": "240109",
+                  "jersey": 5,
+                  "name": "Aleksandar Stankovic",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "240109"
+                },
+                {
+                  "id": "147625",
+                  "jersey": 22,
+                  "name": "Henrikh Mkhitaryan",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "147625"
+                },
+                {
+                  "id": "181322",
+                  "jersey": 12,
+                  "name": "Raffaele Di Gennaro",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "181322"
+                },
+                {
+                  "id": "181836",
+                  "jersey": 49,
+                  "name": "Ivan Provedel",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "181836"
+                },
+                {
+                  "id": "309185",
+                  "jersey": 14,
+                  "name": "Ange-Yoan Bonny",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "309185"
+                },
+                {
+                  "id": "362674",
+                  "jersey": 94,
+                  "name": "Pio Esposito",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "362674"
+                },
+                {
+                  "id": "341494",
+                  "jersey": 8,
+                  "name": "Petar Sucic",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "341494"
+                },
+                {
+                  "id": "286369",
+                  "jersey": 11,
+                  "name": "Luis Henrique",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "286369"
+                }
+              ]
+            },
+            "events": null,
+            "teamStats": [
+              {
+                "key": "possessionPct",
                 "home": "0",
                 "away": "100"
               },
@@ -2743,7 +3230,7 @@
               {
                 "key": "accuratePasses",
                 "home": "0",
-                "away": "1"
+                "away": "6"
               },
               {
                 "key": "passPct",
@@ -2753,27 +3240,6 @@
             ],
             "penalties": null
           }
-        },
-        {
-          "id": "401915451",
-          "time": "21:00",
-          "home": "Real Madrid",
-          "away": "Inter de Milán",
-          "stage": "league",
-          "matchday": 1,
-          "tieId": null,
-          "leg": null,
-          "tv": null,
-          "done": false,
-          "result": null,
-          "aggregate": null,
-          "shootout": null,
-          "state": "pre",
-          "clock": null,
-          "statusText": null,
-          "stadium": "Santiago Bernabéu",
-          "venueCity": "Madrid",
-          "details": null
         }
       ]
     },
