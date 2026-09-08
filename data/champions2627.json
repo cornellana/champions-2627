@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T16:52:03Z",
+  "lastUpdated": "2026-09-08T16:53:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -429,8 +429,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.9",
-                "away": "52.1"
+                "home": "48.3",
+                "away": "51.7"
               },
               {
                 "key": "totalShots",
@@ -450,7 +450,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -474,8 +474,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "21",
-                "away": "19"
+                "home": "25",
+                "away": "24"
               },
               {
                 "key": "passPct",
@@ -501,7 +501,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "In Progress",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -916,13 +916,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "20.8",
-                "away": "79.2"
+                "home": "18.5",
+                "away": "81.5"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
@@ -962,12 +962,12 @@
               {
                 "key": "accuratePasses",
                 "home": "9",
-                "away": "36"
+                "away": "41"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.9"
+                "away": "1.0"
               }
             ],
             "penalties": null
