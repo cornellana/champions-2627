@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:53:25Z",
+  "lastUpdated": "2026-09-08T20:54:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1291,7 +1291,7 @@
           "shootout": null,
           "state": "in",
           "clock": "90'+1'",
-          "statusText": "In Progress",
+          "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": {
@@ -1877,8 +1877,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.4",
-                "away": "46.6"
+                "home": "52.6",
+                "away": "47.4"
               },
               {
                 "key": "totalShots",
@@ -1897,7 +1897,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "12",
+                "home": "13",
                 "away": "9"
               },
               {
@@ -1923,7 +1923,7 @@
               {
                 "key": "accuratePasses",
                 "home": "457",
-                "away": "388"
+                "away": "403"
               },
               {
                 "key": "passPct",
@@ -1949,8 +1949,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
-          "statusText": "Second Half",
+          "clock": "90'+3'",
+          "statusText": "In Progress",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
@@ -2568,6 +2568,16 @@
                 "relatedPlayer": "Romain Perraud",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "52117298_28",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 4,
+                "playerName": "Olivier Giroud",
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
@@ -2645,7 +2655,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -3282,7 +3292,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -3838,8 +3848,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.9",
-                "away": "64.1"
+                "home": "35.8",
+                "away": "64.2"
               },
               {
                 "key": "totalShots",
@@ -3883,8 +3893,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "302",
-                "away": "569"
+                "home": "305",
+                "away": "577"
               },
               {
                 "key": "passPct",
