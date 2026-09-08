@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:08:56Z",
+  "lastUpdated": "2026-09-08T18:10:01Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19,11 +19,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -455,13 +455,33 @@
                 "relatedPlayer": null,
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "52093685_8",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
+              },
+              {
+                "id": "52093686_9",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.3",
-                "away": "45.7"
+                "home": "54.1",
+                "away": "45.9"
               },
               {
                 "key": "totalShots",
@@ -480,12 +500,12 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "12"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -505,8 +525,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "283",
-                "away": "214"
+                "home": "285",
+                "away": "218"
               },
               {
                 "key": "passPct",
@@ -532,7 +552,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -1038,8 +1058,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.4",
-                "away": "37.6"
+                "home": "63",
+                "away": "37"
               },
               {
                 "key": "totalShots",
@@ -1083,8 +1103,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "349",
-                "away": "200"
+                "home": "361",
+                "away": "202"
               },
               {
                 "key": "passPct",
