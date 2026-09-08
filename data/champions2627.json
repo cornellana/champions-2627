@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:09:27Z",
+  "lastUpdated": "2026-09-08T17:10:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -24,7 +24,7 @@
           "shootout": null,
           "state": "in",
           "clock": "22'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
           "details": {
@@ -440,8 +440,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.8",
-                "away": "45.2"
+                "home": "54.1",
+                "away": "45.9"
               },
               {
                 "key": "totalShots",
@@ -466,7 +466,7 @@
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -485,8 +485,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "106",
-                "away": "81"
+                "home": "105",
+                "away": "82"
               },
               {
                 "key": "passPct",
@@ -512,7 +512,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -953,6 +953,16 @@
                 "relatedPlayer": "Jan Virgili",
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "52091600_4",
+                "type": "GOAL",
+                "minute": 22,
+                "extraTime": null,
+                "playerName": "Emiliano Buendía",
+                "relatedPlayer": "João Gomes",
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
@@ -964,12 +974,12 @@
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -1003,8 +1013,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "73",
-                "away": "88"
+                "home": "75",
+                "away": "90"
               },
               {
                 "key": "passPct",
@@ -4469,6 +4479,13 @@
   ],
   "topScorers": [
     {
+      "player": "Emiliano Buendía",
+      "team": "Aston Villa",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Hugo Vetlesen",
       "team": "Brujas",
       "goals": 1,
@@ -4494,6 +4511,12 @@
     {
       "player": "Jan Virgili",
       "team": "Brujas",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "João Gomes",
+      "team": "Aston Villa",
       "goals": 1,
       "athleteID": null
     },
