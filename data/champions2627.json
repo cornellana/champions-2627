@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:50:27Z",
+  "lastUpdated": "2026-09-08T17:51:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -999,8 +999,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Hugo Siquet",
+                "relatedPlayer": "Kyriani Sabbe",
                 "teamName": "Brujas",
                 "text": null
               }
