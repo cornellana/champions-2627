@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:51:14Z",
+  "lastUpdated": "2026-09-08T20:52:19Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1949,7 +1949,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2593,7 +2593,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "11"
               },
               {
@@ -2618,8 +2618,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "372",
-                "away": "490"
+                "home": "375",
+                "away": "493"
               },
               {
                 "key": "passPct",
@@ -2645,7 +2645,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -3200,8 +3200,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.4",
-                "away": "64.6"
+                "home": "35.6",
+                "away": "64.4"
               },
               {
                 "key": "totalShots",
@@ -3216,7 +3216,7 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -3245,8 +3245,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "282",
-                "away": "580"
+                "home": "283",
+                "away": "582"
               },
               {
                 "key": "passPct",
@@ -3272,7 +3272,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
