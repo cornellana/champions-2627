@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:51:30Z",
+  "lastUpdated": "2026-09-08T19:52:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1291,7 +1291,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+3'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": {
@@ -2346,7 +2346,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+3'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -2853,7 +2853,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -3344,7 +3344,7 @@
               {
                 "key": "accuratePasses",
                 "home": "127",
-                "away": "329"
+                "away": "330"
               },
               {
                 "key": "passPct",
