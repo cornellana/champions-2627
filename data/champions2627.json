@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:18:39Z",
+  "lastUpdated": "2026-09-08T18:19:44Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -481,8 +481,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Sasa Kalajdzic",
+                "relatedPlayer": "Christoph Lang",
                 "teamName": "LASK",
                 "text": null
               }
@@ -490,8 +490,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.7",
-                "away": "47.3"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
@@ -511,7 +511,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "offsides",
@@ -535,8 +535,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "308",
-                "away": "257"
+                "home": "313",
+                "away": "268"
               },
               {
                 "key": "passPct",
@@ -562,7 +562,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -1098,8 +1098,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65",
-                "away": "35"
+                "home": "65.8",
+                "away": "34.2"
               },
               {
                 "key": "totalShots",
@@ -1143,7 +1143,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "426",
+                "home": "443",
                 "away": "215"
               },
               {
