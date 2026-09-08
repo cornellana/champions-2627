@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:35:33Z",
+  "lastUpdated": "2026-09-08T17:36:38Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -533,7 +533,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "In Progress",
+          "statusText": "Halftime",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": {
