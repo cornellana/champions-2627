@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:05:34Z",
+  "lastUpdated": "2026-09-08T19:06:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1696,8 +1696,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.8",
-                "away": "36.2"
+                "home": "62.3",
+                "away": "37.7"
               },
               {
                 "key": "totalShots",
@@ -1716,7 +1716,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -1741,8 +1741,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "27",
-                "away": "13"
+                "home": "34",
+                "away": "18"
               },
               {
                 "key": "passPct",
@@ -1768,8 +1768,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
-          "statusText": "In Progress",
+          "clock": "4'",
+          "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
@@ -2201,12 +2201,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.7",
-                "away": "48.3"
+                "home": "66.7",
+                "away": "33.3"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -2246,7 +2246,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "13",
+                "home": "26",
                 "away": "11"
               },
               {
@@ -2273,8 +2273,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
-          "statusText": "In Progress",
+          "clock": "3'",
+          "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -2697,8 +2697,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.1",
-                "away": "62.9"
+                "home": "28.9",
+                "away": "71.1"
               },
               {
                 "key": "totalShots",
@@ -2743,12 +2743,12 @@
               {
                 "key": "accuratePasses",
                 "home": "10",
-                "away": "16"
+                "away": "26"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -2769,7 +2769,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
