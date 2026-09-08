@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:24:41Z",
+  "lastUpdated": "2026-09-08T17:25:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "37'",
+          "clock": "38'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -440,8 +440,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.5",
-                "away": "44.5"
+                "home": "56.2",
+                "away": "43.8"
               },
               {
                 "key": "totalShots",
@@ -461,7 +461,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -485,8 +485,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "166",
-                "away": "121"
+                "home": "179",
+                "away": "124"
               },
               {
                 "key": "passPct",
@@ -512,7 +512,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "36'",
+          "clock": "37'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -968,8 +968,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60",
-                "away": "40"
+                "home": "57.1",
+                "away": "42.9"
               },
               {
                 "key": "totalShots",
@@ -983,7 +983,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
@@ -1013,8 +1013,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "190",
-                "away": "125"
+                "home": "193",
+                "away": "147"
               },
               {
                 "key": "passPct",
