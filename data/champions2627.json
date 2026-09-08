@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:34:28Z",
+  "lastUpdated": "2026-09-08T17:35:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -460,8 +460,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.5",
-                "away": "43.5"
+                "home": "56.2",
+                "away": "43.8"
               },
               {
                 "key": "totalShots",
@@ -506,7 +506,7 @@
               {
                 "key": "accuratePasses",
                 "home": "207",
-                "away": "140"
+                "away": "142"
               },
               {
                 "key": "passPct",
@@ -532,7 +532,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "In Progress",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -998,8 +998,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.8",
-                "away": "40.2"
+                "home": "59.1",
+                "away": "40.9"
               },
               {
                 "key": "totalShots",
@@ -1014,7 +1014,7 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -1044,7 +1044,7 @@
               {
                 "key": "accuratePasses",
                 "home": "247",
-                "away": "165"
+                "away": "170"
               },
               {
                 "key": "passPct",
