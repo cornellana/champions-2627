@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:16:15Z",
+  "lastUpdated": "2026-09-08T20:17:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1777,7 +1777,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "11",
                 "away": "6"
               },
               {
@@ -1802,8 +1802,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "330",
-                "away": "250"
+                "home": "341",
+                "away": "259"
               },
               {
                 "key": "passPct",
@@ -1829,7 +1829,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2318,6 +2318,26 @@
                 "relatedPlayer": "Rodrigo Riquelme",
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "52110796_15",
+                "type": "YELLOW_CARD",
+                "minute": 56,
+                "extraTime": null,
+                "playerName": "Natan",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
+              },
+              {
+                "id": "52110904_16",
+                "type": "RED_CARD",
+                "minute": 56,
+                "extraTime": null,
+                "playerName": "Ethan Mbappé",
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
@@ -2354,11 +2374,11 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -2368,7 +2388,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "247",
+                "home": "248",
                 "away": "281"
               },
               {
@@ -2395,7 +2415,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -2932,7 +2952,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -3388,8 +3408,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.9",
-                "away": "71.1"
+                "home": "30.7",
+                "away": "69.3"
               },
               {
                 "key": "totalShots",
@@ -3409,12 +3429,12 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "yellowCards",
@@ -3433,12 +3453,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "150",
-                "away": "401"
+                "home": "166",
+                "away": "403"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.9"
               }
             ],
