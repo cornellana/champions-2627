@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:39:18Z",
+  "lastUpdated": "2026-09-08T18:40:23Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -602,7 +602,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -1218,8 +1218,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.5",
-                "away": "36.5"
+                "home": "63.9",
+                "away": "36.1"
               },
               {
                 "key": "totalShots",
@@ -1263,7 +1263,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "521",
+                "home": "531",
                 "away": "282"
               },
               {
