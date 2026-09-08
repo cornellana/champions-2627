@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:14:22Z",
+  "lastUpdated": "2026-09-08T18:17:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -480,8 +480,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.7",
-                "away": "45.3"
+                "home": "52.7",
+                "away": "47.3"
               },
               {
                 "key": "totalShots",
@@ -495,8 +495,8 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
-                "away": "1"
+                "home": "5",
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -525,8 +525,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "303",
-                "away": "227"
+                "home": "308",
+                "away": "257"
               },
               {
                 "key": "passPct",
@@ -1058,22 +1058,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.9",
-                "away": "35.1"
+                "home": "65.4",
+                "away": "34.6"
               },
               {
                 "key": "totalShots",
-                "home": "8",
-                "away": "16"
+                "home": "11",
+                "away": "17"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
-                "away": "7"
+                "home": "6",
+                "away": "8"
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -1098,13 +1098,13 @@
               },
               {
                 "key": "saves",
-                "home": "4",
-                "away": "2"
+                "home": "5",
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "398",
-                "away": "203"
+                "home": "424",
+                "away": "210"
               },
               {
                 "key": "passPct",
