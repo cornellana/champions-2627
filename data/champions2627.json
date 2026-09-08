@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:32:18Z",
+  "lastUpdated": "2026-09-08T17:33:23Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -528,12 +528,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-2",
+          "result": "1-3",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
-          "statusText": "In Progress",
+          "clock": "45'",
+          "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": {
@@ -998,18 +998,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.5",
-                "away": "40.5"
+                "home": "60.2",
+                "away": "39.8"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "wonCorners",
@@ -1038,13 +1038,13 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "237",
-                "away": "159"
+                "home": "247",
+                "away": "161"
               },
               {
                 "key": "passPct",
