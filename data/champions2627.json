@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:49:22Z",
+  "lastUpdated": "2026-09-08T17:50:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,8 +23,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
           "details": {
@@ -460,13 +460,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.3",
-                "away": "43.7"
+                "home": "54.3",
+                "away": "45.7"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
@@ -505,8 +505,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "208",
-                "away": "142"
+                "home": "209",
+                "away": "159"
               },
               {
                 "key": "passPct",
@@ -993,13 +993,23 @@
                 "relatedPlayer": "Pau Torres following a fast break",
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "52092820_7",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.2",
-                "away": "40.8"
+                "home": "59.1",
+                "away": "40.9"
               },
               {
                 "key": "totalShots",
@@ -1043,7 +1053,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "247",
+                "home": "246",
                 "away": "169"
               },
               {
