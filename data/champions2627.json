@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:07:31Z",
+  "lastUpdated": "2026-09-08T20:08:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,8 +1290,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": {
@@ -1738,8 +1738,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Alex Freeman",
+                "relatedPlayer": "Sergi Cardona",
                 "teamName": "Villarreal",
                 "text": null
               }
@@ -1819,7 +1819,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2365,8 +2365,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -2872,8 +2872,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -3319,8 +3319,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "John Stones",
+                "relatedPlayer": "Benjamin Pavard",
                 "teamName": "Inter de Milán",
                 "text": null
               }
@@ -3328,8 +3328,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.8",
-                "away": "70.2"
+                "home": "32.4",
+                "away": "67.6"
               },
               {
                 "key": "totalShots",
@@ -3349,7 +3349,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -3373,12 +3373,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "127",
+                "home": "146",
                 "away": "330"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.9"
               }
             ],
