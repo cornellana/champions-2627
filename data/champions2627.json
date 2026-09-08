@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:53:41Z",
+  "lastUpdated": "2026-09-08T20:06:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -2268,13 +2268,23 @@
                 "relatedPlayer": "Gaëtan Perrin with a cross following a corner",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "52108625_9",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Ngal'ayel Mukau",
+                "relatedPlayer": "Nabil Bentaleb",
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.4",
-                "away": "50.6"
+                "home": "48.3",
+                "away": "51.7"
               },
               {
                 "key": "totalShots",
@@ -2293,7 +2303,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "7"
               },
               {
@@ -2319,7 +2329,7 @@
               {
                 "key": "accuratePasses",
                 "home": "226",
-                "away": "227"
+                "away": "239"
               },
               {
                 "key": "passPct",
