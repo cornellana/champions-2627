@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:10:33Z",
+  "lastUpdated": "2026-09-08T17:11:38Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -440,8 +440,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.1",
-                "away": "45.9"
+                "home": "55.1",
+                "away": "44.9"
               },
               {
                 "key": "totalShots",
@@ -461,12 +461,12 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "2"
+                "away": "4"
               },
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "1"
+                "away": "0"
               },
               {
                 "key": "yellowCards",
@@ -485,7 +485,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "105",
+                "home": "108",
                 "away": "82"
               },
               {
@@ -508,11 +508,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "1-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -968,8 +968,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.5",
-                "away": "52.5"
+                "home": "50.2",
+                "away": "49.8"
               },
               {
                 "key": "totalShots",
@@ -1013,12 +1013,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "75",
+                "home": "86",
                 "away": "90"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.9"
               }
             ],
