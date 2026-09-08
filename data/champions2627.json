@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:18:43Z",
+  "lastUpdated": "2026-09-08T19:19:49Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1696,8 +1696,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "54.7",
+                "away": "45.3"
               },
               {
                 "key": "totalShots",
@@ -1741,7 +1741,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "93",
+                "home": "111",
                 "away": "85"
               },
               {
@@ -1768,7 +1768,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2043,22 +2043,22 @@
                   "athleteID": "143564"
                 },
                 {
-                  "id": "227714",
-                  "jersey": 8,
-                  "name": "Pablo Fornals",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "227714"
-                },
-                {
                   "id": "359912",
                   "jersey": 6,
                   "name": "Facundo Bernal",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "359912"
+                },
+                {
+                  "id": "227714",
+                  "jersey": 8,
+                  "name": "Pablo Fornals",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "227714"
                 },
                 {
                   "id": "279790",
@@ -2212,8 +2212,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.3",
-                "away": "50.7"
+                "home": "56.2",
+                "away": "43.8"
               },
               {
                 "key": "totalShots",
@@ -2233,7 +2233,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -2257,8 +2257,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "66",
-                "away": "67"
+                "home": "107",
+                "away": "78"
               },
               {
                 "key": "passPct",
@@ -2284,7 +2284,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -2708,8 +2708,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "24.9",
-                "away": "75.1"
+                "home": "27.8",
+                "away": "72.2"
               },
               {
                 "key": "totalShots",
@@ -2729,7 +2729,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -2748,13 +2748,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "42",
-                "away": "138"
+                "home": "48",
+                "away": "140"
               },
               {
                 "key": "passPct",
@@ -2776,11 +2776,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -3206,8 +3206,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.9",
-                "away": "57.1"
+                "home": "42.7",
+                "away": "57.3"
               },
               {
                 "key": "totalShots",
@@ -3252,7 +3252,7 @@
               {
                 "key": "accuratePasses",
                 "home": "60",
-                "away": "83"
+                "away": "84"
               },
               {
                 "key": "passPct",
