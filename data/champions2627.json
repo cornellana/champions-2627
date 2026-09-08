@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:23:05Z",
+  "lastUpdated": "2026-09-08T19:24:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,8 +1290,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
-          "statusText": "In Progress",
+          "clock": "21'",
+          "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": {
@@ -1490,7 +1490,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-4-2",
+              "formation": "4-2-3-1",
               "players": [
                 {
                   "id": "119620",
@@ -1538,10 +1538,19 @@
                   "athleteID": "318098"
                 },
                 {
+                  "id": "311163",
+                  "jersey": 24,
+                  "name": "Nathan Saliba",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "311163"
+                },
+                {
                   "id": "255889",
                   "jersey": 18,
                   "name": "Pape Gueye",
-                  "position": "CM-L",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "255889"
@@ -1550,34 +1559,16 @@
                   "id": "240623",
                   "jersey": 14,
                   "name": "Santi Comesaña",
-                  "position": "CM-R",
+                  "position": "RM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "240623"
                 },
                 {
-                  "id": "311163",
-                  "jersey": 24,
-                  "name": "Nathan Saliba",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "311163"
-                },
-                {
-                  "id": "284769",
-                  "jersey": 17,
-                  "name": "Tajon Buchanan",
-                  "position": "RM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "284769"
-                },
-                {
                   "id": "300002",
                   "jersey": 9,
                   "name": "Georges Mikautadze",
-                  "position": "CF-L",
+                  "position": "F",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "300002"
@@ -1586,10 +1577,19 @@
                   "id": "294039",
                   "jersey": 21,
                   "name": "Tani Oluwaseyi",
-                  "position": "CF-R",
+                  "position": "AM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "294039"
+                },
+                {
+                  "id": "284769",
+                  "jersey": 17,
+                  "name": "Tajon Buchanan",
+                  "position": "AM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "284769"
                 },
                 {
                   "id": "307648",
@@ -1696,8 +1696,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.2",
-                "away": "48.8"
+                "home": "56.9",
+                "away": "43.1"
               },
               {
                 "key": "totalShots",
@@ -1741,8 +1741,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "113",
-                "away": "100"
+                "home": "151",
+                "away": "108"
               },
               {
                 "key": "passPct",
@@ -1768,7 +1768,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2284,7 +2284,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -2708,28 +2708,28 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27",
-                "away": "73"
+                "home": "26.1",
+                "away": "73.9"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -2748,18 +2748,18 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
                 "home": "60",
-                "away": "184"
+                "away": "193"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.9"
+                "away": "1.0"
               }
             ],
             "penalties": null
@@ -2780,7 +2780,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
