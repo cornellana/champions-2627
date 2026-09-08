@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:21:42Z",
+  "lastUpdated": "2026-09-08T20:22:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1758,8 +1758,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 59,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Alberto Moleiro",
+                "relatedPlayer": "Tani Oluwaseyi",
                 "teamName": "Villarreal",
                 "text": null
               },
@@ -1768,8 +1768,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 59,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Nicolas Pepe",
+                "relatedPlayer": "Nathan Saliba",
                 "teamName": "Villarreal",
                 "text": null
               }
@@ -1849,8 +1849,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
-          "statusText": "In Progress",
+          "clock": "62'",
+          "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
@@ -2358,13 +2358,53 @@
                 "relatedPlayer": null,
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "52112141_17",
+                "type": "YELLOW_CARD",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": "Facundo Bernal",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
+              },
+              {
+                "id": "52112200_18",
+                "type": "SUBSTITUTION",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
+              },
+              {
+                "id": "52112201_19",
+                "type": "SUBSTITUTION",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
+              },
+              {
+                "id": "52112202_20",
+                "type": "SUBSTITUTION",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.2",
-                "away": "55.8"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
@@ -2384,7 +2424,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -2394,7 +2434,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -2408,7 +2448,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "259",
+                "home": "262",
                 "away": "330"
               },
               {
@@ -2435,7 +2475,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -2972,7 +3012,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -3421,6 +3461,36 @@
                 "extraTime": null,
                 "playerName": "John Stones",
                 "relatedPlayer": "Benjamin Pavard",
+                "teamName": "Inter de Milán",
+                "text": null
+              },
+              {
+                "id": "52112145_11",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
+              },
+              {
+                "id": "52112146_12",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
+              },
+              {
+                "id": "52112147_13",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
               }
