@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:36:03Z",
+  "lastUpdated": "2026-09-08T18:37:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -530,8 +530,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.2",
-                "away": "50.8"
+                "home": "49",
+                "away": "51"
               },
               {
                 "key": "totalShots",
@@ -575,8 +575,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "341",
-                "away": "342"
+                "home": "342",
+                "away": "346"
               },
               {
                 "key": "passPct",
@@ -602,7 +602,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -1218,8 +1218,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.4",
-                "away": "37.6"
+                "home": "63",
+                "away": "37"
               },
               {
                 "key": "totalShots",
@@ -1233,7 +1233,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "5"
               },
               {
@@ -1263,8 +1263,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "494",
-                "away": "283"
+                "home": "507",
+                "away": "282"
               },
               {
                 "key": "passPct",
