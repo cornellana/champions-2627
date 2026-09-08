@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:26:05Z",
+  "lastUpdated": "2026-09-08T20:27:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1777,23 +1777,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "54.8",
+                "away": "45.2"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "6"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "3"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -1817,13 +1817,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
                 "home": "386",
-                "away": "308"
+                "away": "313"
               },
               {
                 "key": "passPct",
@@ -1849,7 +1849,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2403,8 +2403,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.6",
-                "away": "53.4"
+                "home": "46.8",
+                "away": "53.2"
               },
               {
                 "key": "totalShots",
@@ -2428,7 +2428,7 @@
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -2448,8 +2448,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "288",
-                "away": "333"
+                "home": "294",
+                "away": "335"
               },
               {
                 "key": "passPct",
@@ -2475,8 +2475,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
-          "statusText": "In Progress",
+          "clock": "65'",
+          "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -2960,8 +2960,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.1",
-                "away": "65.9"
+                "home": "33.6",
+                "away": "66.4"
               },
               {
                 "key": "totalShots",
@@ -3006,7 +3006,7 @@
               {
                 "key": "accuratePasses",
                 "home": "206",
-                "away": "446"
+                "away": "456"
               },
               {
                 "key": "passPct",
@@ -3032,7 +3032,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -3518,8 +3518,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.7",
-                "away": "63.3"
+                "home": "37.1",
+                "away": "62.9"
               },
               {
                 "key": "totalShots",
@@ -3558,12 +3558,12 @@
               },
               {
                 "key": "saves",
-                "home": "5",
+                "home": "6",
                 "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "238",
+                "home": "242",
                 "away": "428"
               },
               {
