@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:06:11Z",
+  "lastUpdated": "2026-09-08T17:07:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "In Progress",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -501,7 +501,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -932,22 +932,32 @@
                 "relatedPlayer": "Pau Torres",
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "52091484_3",
+                "type": "GOAL",
+                "minute": 19,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.5",
-                "away": "50.5"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "3",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -982,7 +992,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "71",
+                "home": "72",
                 "away": "76"
               },
               {
