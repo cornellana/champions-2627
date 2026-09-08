@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:32:47Z",
+  "lastUpdated": "2026-09-08T18:33:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -510,17 +510,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "49.7",
+                "away": "50.3"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "10"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -556,7 +556,7 @@
               {
                 "key": "accuratePasses",
                 "home": "338",
-                "away": "316"
+                "away": "331"
               },
               {
                 "key": "passPct",
@@ -582,7 +582,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -1153,13 +1153,33 @@
                 "relatedPlayer": "Nicolas Jackson",
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "52094773_25",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Romeo Vermant",
+                "relatedPlayer": "Freddie Potts",
+                "teamName": "Brujas",
+                "text": null
+              },
+              {
+                "id": "52094774_26",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Mamadou Diakhon",
+                "relatedPlayer": "Jan Virgili",
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62",
-                "away": "38"
+                "home": "62.4",
+                "away": "37.6"
               },
               {
                 "key": "totalShots",
@@ -1179,7 +1199,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "16",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -1203,8 +1223,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "478",
-                "away": "279"
+                "home": "492",
+                "away": "283"
               },
               {
                 "key": "passPct",
