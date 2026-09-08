@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:58:05Z",
+  "lastUpdated": "2026-09-08T17:59:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,8 +23,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
-          "statusText": "In Progress",
+          "clock": "55'",
+          "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
           "details": {
@@ -532,7 +532,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
