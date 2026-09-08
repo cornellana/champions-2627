@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:07:45Z",
+  "lastUpdated": "2026-09-08T19:08:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1696,8 +1696,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.3",
-                "away": "37.7"
+                "home": "65.3",
+                "away": "34.7"
               },
               {
                 "key": "totalShots",
@@ -1711,18 +1711,18 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -1741,13 +1741,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "34",
-                "away": "18"
+                "home": "42",
+                "away": "19"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -1768,7 +1768,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2201,8 +2201,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.7",
-                "away": "37.3"
+                "home": "46.8",
+                "away": "53.2"
               },
               {
                 "key": "totalShots",
@@ -2246,13 +2246,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "28",
-                "away": "14"
+                "home": "32",
+                "away": "35"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -2273,7 +2273,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -2769,7 +2769,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -3184,18 +3184,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "2.3",
-                "away": "97.7"
+                "home": "2.1",
+                "away": "97.9"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -3224,13 +3224,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
                 "home": "1",
-                "away": "40"
+                "away": "43"
               },
               {
                 "key": "passPct",
