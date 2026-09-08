@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:43:51Z",
+  "lastUpdated": "2026-09-08T19:44:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1722,23 +1722,33 @@
                 "relatedPlayer": null,
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "52105726_8",
+                "type": "YELLOW_CARD",
+                "minute": 42,
+                "extraTime": null,
+                "playerName": "Sergi Cardona",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "52.7",
+                "away": "47.3"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -1748,7 +1758,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -1758,7 +1768,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -1767,13 +1777,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
-                "away": "194"
+                "home": "229",
+                "away": "200"
               },
               {
                 "key": "passPct",
@@ -1799,7 +1809,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2263,8 +2273,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.2",
-                "away": "45.8"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -2284,7 +2294,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -2308,8 +2318,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "217",
-                "away": "177"
+                "home": "218",
+                "away": "189"
               },
               {
                 "key": "passPct",
@@ -2335,7 +2345,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "In Progress",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -2770,8 +2780,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.7",
-                "away": "71.3"
+                "home": "29.6",
+                "away": "70.4"
               },
               {
                 "key": "totalShots",
@@ -2815,7 +2825,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "121",
+                "home": "126",
                 "away": "337"
               },
               {
@@ -2842,8 +2852,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
-          "statusText": "In Progress",
+          "clock": "40'",
+          "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -3273,13 +3283,23 @@
                 "relatedPlayer": null,
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "52105699_7",
+                "type": "YELLOW_CARD",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Hakan Çalhanoglu",
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.5",
-                "away": "68.5"
+                "home": "31.6",
+                "away": "68.4"
               },
               {
                 "key": "totalShots",
@@ -3309,7 +3329,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -3323,13 +3343,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "120",
-                "away": "280"
+                "home": "122",
+                "away": "282"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "1.0"
+                "away": "0.9"
               }
             ],
             "penalties": null
