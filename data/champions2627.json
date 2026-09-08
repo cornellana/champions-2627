@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:27:27Z",
+  "lastUpdated": "2026-09-08T19:28:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,8 +1290,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
-          "statusText": "First Half",
+          "clock": "25'",
+          "statusText": "In Progress",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": {
@@ -1768,7 +1768,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2212,13 +2212,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.3",
-                "away": "50.7"
+                "home": "52.7",
+                "away": "47.3"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -2233,7 +2233,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "3"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -2257,8 +2257,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "121",
-                "away": "122"
+                "home": "144",
+                "away": "125"
               },
               {
                 "key": "passPct",
@@ -2284,8 +2284,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
-          "statusText": "First Half",
+          "clock": "25'",
+          "statusText": "In Progress",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -2708,8 +2708,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.7",
-                "away": "71.3"
+                "home": "29.8",
+                "away": "70.2"
               },
               {
                 "key": "totalShots",
@@ -2729,11 +2729,11 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -2753,7 +2753,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "77",
+                "home": "82",
                 "away": "211"
               },
               {
@@ -2776,12 +2776,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "2-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
-          "statusText": "First Half",
+          "clock": "24'",
+          "statusText": "In Progress",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -3201,22 +3201,32 @@
                 "relatedPlayer": "Brahim Díaz",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "52103279_2",
+                "type": "GOAL",
+                "minute": 23,
+                "extraTime": null,
+                "playerName": "Federico Valverde",
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.8",
-                "away": "70.2"
+                "home": "29.3",
+                "away": "70.7"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -3226,7 +3236,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -3252,12 +3262,12 @@
               {
                 "key": "accuratePasses",
                 "home": "65",
-                "away": "166"
+                "away": "169"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "1.0"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -6642,6 +6652,13 @@
     {
       "player": "Emiliano Buendía",
       "team": "Aston Villa",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
