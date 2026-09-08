@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:24:04Z",
+  "lastUpdated": "2026-09-08T18:25:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -485,6 +485,16 @@
                 "relatedPlayer": "Christoph Lang",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "52094418_15",
+                "type": "YELLOW_CARD",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Andrés Andrade",
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
@@ -511,7 +521,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "14"
+                "away": "15"
               },
               {
                 "key": "offsides",
@@ -521,7 +531,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -562,7 +572,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -1113,13 +1123,23 @@
                 "relatedPlayer": "Hugo Vetlesen",
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "52094393_23",
+                "type": "YELLOW_CARD",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": "John McGinn",
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.6",
-                "away": "36.4"
+                "home": "63.7",
+                "away": "36.3"
               },
               {
                 "key": "totalShots",
@@ -1138,8 +1158,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "14",
-                "away": "9"
+                "home": "16",
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -1149,7 +1169,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -1163,8 +1183,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "443",
-                "away": "241"
+                "home": "448",
+                "away": "243"
               },
               {
                 "key": "passPct",
