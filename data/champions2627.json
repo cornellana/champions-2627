@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:26:15Z",
+  "lastUpdated": "2026-09-08T18:27:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -495,17 +495,27 @@
                 "relatedPlayer": null,
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "52094465_16",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Zine",
+                "relatedPlayer": "Luka Jovic",
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.2",
-                "away": "47.8"
+                "home": "52.9",
+                "away": "47.1"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "10"
               },
               {
@@ -515,7 +525,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "2"
               },
               {
@@ -545,7 +555,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "320",
+                "home": "330",
                 "away": "278"
               },
               {
@@ -572,7 +582,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -1133,18 +1143,28 @@
                 "relatedPlayer": null,
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "52094486_24",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": "Tammy Abraham",
+                "relatedPlayer": "Nicolas Jackson",
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.3",
-                "away": "36.7"
+                "home": "62.6",
+                "away": "37.4"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "19"
+                "away": "21"
               },
               {
                 "key": "shotsOnTarget",
@@ -1154,7 +1174,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -1183,8 +1203,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "448",
-                "away": "245"
+                "home": "449",
+                "away": "255"
               },
               {
                 "key": "passPct",
