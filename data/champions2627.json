@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:42:46Z",
+  "lastUpdated": "2026-09-08T19:43:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1727,8 +1727,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.8",
-                "away": "46.2"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
@@ -1747,7 +1747,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "5"
               },
               {
@@ -1772,8 +1772,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "218",
-                "away": "181"
+                "home": "220",
+                "away": "194"
               },
               {
                 "key": "passPct",
@@ -1799,7 +1799,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2263,13 +2263,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54",
-                "away": "46"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -2308,8 +2308,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "210",
-                "away": "172"
+                "home": "217",
+                "away": "177"
               },
               {
                 "key": "passPct",
@@ -2335,8 +2335,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
-          "statusText": "First Half",
+          "clock": "40'",
+          "statusText": "In Progress",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -2770,8 +2770,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.9",
-                "away": "71.1"
+                "home": "28.7",
+                "away": "71.3"
               },
               {
                 "key": "totalShots",
@@ -2816,7 +2816,7 @@
               {
                 "key": "accuratePasses",
                 "home": "121",
-                "away": "332"
+                "away": "337"
               },
               {
                 "key": "passPct",
@@ -2842,8 +2842,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
-          "statusText": "First Half",
+          "clock": "39'",
+          "statusText": "In Progress",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -3278,8 +3278,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.6",
-                "away": "68.4"
+                "home": "31.5",
+                "away": "68.5"
               },
               {
                 "key": "totalShots",
@@ -3299,7 +3299,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "3"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -3323,8 +3323,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "115",
-                "away": "265"
+                "home": "120",
+                "away": "280"
               },
               {
                 "key": "passPct",
