@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:29:02Z",
+  "lastUpdated": "2026-09-08T17:30:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,8 +23,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
-          "statusText": "First Half",
+          "clock": "43'",
+          "statusText": "In Progress",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
           "details": {
@@ -445,13 +445,23 @@
                 "relatedPlayer": null,
                 "teamName": "AEK Atenas",
                 "text": null
+              },
+              {
+                "id": "52092559_3",
+                "type": "YELLOW_CARD",
+                "minute": 42,
+                "extraTime": null,
+                "playerName": "Melayro Bogarde",
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
@@ -471,7 +481,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -481,7 +491,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -490,7 +500,7 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -522,7 +532,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
