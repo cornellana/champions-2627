@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:31:13Z",
+  "lastUpdated": "2026-09-08T17:32:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -460,12 +460,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.9",
-                "away": "44.1"
+                "home": "56.5",
+                "away": "43.5"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "6"
               },
               {
@@ -505,8 +505,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "192",
-                "away": "134"
+                "home": "206",
+                "away": "139"
               },
               {
                 "key": "passPct",
@@ -532,8 +532,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
-          "statusText": "First Half",
+          "clock": "44'",
+          "statusText": "In Progress",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": {
@@ -983,23 +983,33 @@
                 "relatedPlayer": "João Gomes",
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "52092655_5",
+                "type": "GOAL",
+                "minute": 43,
+                "extraTime": null,
+                "playerName": "Nicolas Jackson",
+                "relatedPlayer": "Pau Torres following a fast break",
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.2",
-                "away": "40.8"
+                "home": "59.5",
+                "away": "40.5"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "wonCorners",
@@ -1033,7 +1043,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "234",
+                "home": "237",
                 "away": "159"
               },
               {
@@ -4520,6 +4530,13 @@
       "athleteID": null
     },
     {
+      "player": "Nicolas Jackson",
+      "team": "Aston Villa",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Razvan Marin",
       "team": "AEK Atenas",
       "goals": 1,
@@ -4542,6 +4559,12 @@
     },
     {
       "player": "Pau Torres",
+      "team": "Aston Villa",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Pau Torres following a fast break",
       "team": "Aston Villa",
       "goals": 1,
       "athleteID": null
