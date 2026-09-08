@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:33:52Z",
+  "lastUpdated": "2026-09-08T18:34:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -556,7 +556,7 @@
               {
                 "key": "accuratePasses",
                 "home": "338",
-                "away": "331"
+                "away": "333"
               },
               {
                 "key": "passPct",
@@ -582,7 +582,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -1173,6 +1173,26 @@
                 "relatedPlayer": "Jan Virgili",
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "52094874_27",
+                "type": "YELLOW_CARD",
+                "minute": 89,
+                "extraTime": null,
+                "playerName": "Romeo Vermant",
+                "relatedPlayer": null,
+                "teamName": "Brujas",
+                "text": null
+              },
+              {
+                "id": "52094884_28",
+                "type": "YELLOW_CARD",
+                "minute": 89,
+                "extraTime": null,
+                "playerName": "João Gomes",
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
@@ -1198,8 +1218,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "16",
-                "away": "12"
+                "home": "17",
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -1208,8 +1228,8 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
-                "away": "2"
+                "home": "3",
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -1223,7 +1243,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "492",
+                "home": "494",
                 "away": "283"
               },
               {
