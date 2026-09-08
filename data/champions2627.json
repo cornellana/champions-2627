@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:20:54Z",
+  "lastUpdated": "2026-09-08T19:22:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1696,8 +1696,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.7",
-                "away": "48.3"
+                "home": "51.2",
+                "away": "48.8"
               },
               {
                 "key": "totalShots",
@@ -1712,7 +1712,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -1741,8 +1741,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "111",
-                "away": "98"
+                "home": "113",
+                "away": "100"
               },
               {
                 "key": "passPct",
@@ -1768,7 +1768,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2284,7 +2284,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -2708,8 +2708,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.5",
-                "away": "69.5"
+                "home": "29.2",
+                "away": "70.8"
               },
               {
                 "key": "totalShots",
@@ -2753,8 +2753,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "59",
-                "away": "148"
+                "home": "60",
+                "away": "163"
               },
               {
                 "key": "passPct",
@@ -2780,8 +2780,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
-          "statusText": "In Progress",
+          "clock": "17'",
+          "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -3206,18 +3206,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.5",
-                "away": "59.5"
+                "home": "39.6",
+                "away": "60.4"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "4"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -3231,7 +3231,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -3251,13 +3251,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "60",
-                "away": "93"
+                "home": "62",
+                "away": "100"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.9"
+                "away": "1.0"
               }
             ],
             "penalties": null
