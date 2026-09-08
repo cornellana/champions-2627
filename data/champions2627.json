@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T19:17:37Z",
+  "lastUpdated": "2026-09-08T19:18:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -1290,7 +1290,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -1696,13 +1696,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.2",
-                "away": "50.8"
+                "home": "50.5",
+                "away": "49.5"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -1741,8 +1741,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "86",
-                "away": "82"
+                "home": "93",
+                "away": "85"
               },
               {
                 "key": "passPct",
@@ -1768,7 +1768,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -2284,7 +2284,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -2708,32 +2708,32 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.5",
-                "away": "74.5"
+                "home": "24.9",
+                "away": "75.1"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "0",
                 "away": "0"
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -2749,16 +2749,16 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "1"
+                "away": "0"
               },
               {
                 "key": "accuratePasses",
                 "home": "42",
-                "away": "130"
+                "away": "138"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
@@ -2780,7 +2780,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -3191,21 +3191,32 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52101095_1",
+                "type": "GOAL",
+                "minute": 14,
+                "extraTime": null,
+                "playerName": "Kylian Mbappé",
+                "relatedPlayer": "Brahim Díaz",
+                "teamName": "Real Madrid",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.3",
-                "away": "57.7"
+                "home": "42.9",
+                "away": "57.1"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -3235,13 +3246,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "56",
-                "away": "80"
+                "home": "60",
+                "away": "83"
               },
               {
                 "key": "passPct",
@@ -6650,6 +6661,13 @@
       "athleteID": null
     },
     {
+      "player": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Nicolas Jackson",
       "team": "Aston Villa",
       "goals": 1,
@@ -6672,6 +6690,12 @@
     }
   ],
   "topAssists": [
+    {
+      "player": "Brahim Díaz",
+      "team": "Real Madrid",
+      "goals": 1,
+      "athleteID": null
+    },
     {
       "player": "Ethan Mbappé",
       "team": "Lille",
