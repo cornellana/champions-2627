@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T16:48:47Z",
+  "lastUpdated": "2026-09-08T16:49:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23,7 +23,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -280,13 +280,13 @@
                   "athleteID": "286853"
                 },
                 {
-                  "id": "273480",
-                  "jersey": 10,
-                  "name": "Robert Ljubicic",
+                  "id": "290638",
+                  "jersey": 6,
+                  "name": "Melayro Bogarde",
                   "position": "CM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "273480"
+                  "athleteID": "290638"
                 },
                 {
                   "id": "193294",
@@ -298,13 +298,13 @@
                   "athleteID": "193294"
                 },
                 {
-                  "id": "290638",
-                  "jersey": 6,
-                  "name": "Melayro Bogarde",
+                  "id": "273480",
+                  "jersey": 10,
+                  "name": "Robert Ljubicic",
                   "position": "CM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "290638"
+                  "athleteID": "273480"
                 },
                 {
                   "id": "37442",
@@ -435,7 +435,7 @@
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -475,7 +475,7 @@
               {
                 "key": "accuratePasses",
                 "home": "0",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "passPct",
@@ -497,15 +497,481 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": null,
+          "result": "0-0",
           "aggregate": null,
           "shootout": null,
-          "state": "pre",
-          "clock": null,
-          "statusText": null,
+          "state": "in",
+          "clock": "2'",
+          "statusText": "In Progress",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
-          "details": null
+          "details": {
+            "homeLineup": {
+              "formation": "4-2-3-1",
+              "players": [
+                {
+                  "id": "93197",
+                  "jersey": 1,
+                  "name": "Yann Sommer",
+                  "position": "G",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "93197"
+                },
+                {
+                  "id": "191222",
+                  "jersey": 44,
+                  "name": "Brandon Mechele",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "191222"
+                },
+                {
+                  "id": "297788",
+                  "jersey": 3,
+                  "name": "Lee Han-Beom",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "297788"
+                },
+                {
+                  "id": "363068",
+                  "jersey": 65,
+                  "name": "Joaquin Seys",
+                  "position": "LB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "363068"
+                },
+                {
+                  "id": "351373",
+                  "jersey": 64,
+                  "name": "Kyriani Sabbe",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "351373"
+                },
+                {
+                  "id": "255261",
+                  "jersey": 10,
+                  "name": "Hugo Vetlesen",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "255261"
+                },
+                {
+                  "id": "193849",
+                  "jersey": 20,
+                  "name": "Hans Vanaken",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "193849"
+                },
+                {
+                  "id": "310325",
+                  "jersey": 8,
+                  "name": "Freddie Potts",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "310325"
+                },
+                {
+                  "id": "335201",
+                  "jersey": 7,
+                  "name": "Nicolo Tresoldi",
+                  "position": "F",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "335201"
+                },
+                {
+                  "id": "403592",
+                  "jersey": 11,
+                  "name": "Jan Virgili",
+                  "position": "AM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "403592"
+                },
+                {
+                  "id": "78836",
+                  "jersey": 9,
+                  "name": "Carlos Forbs",
+                  "position": "AM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "78836"
+                },
+                {
+                  "id": "324419",
+                  "jersey": 80,
+                  "name": "Felix Lemarechal",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "324419"
+                },
+                {
+                  "id": "310023",
+                  "jersey": 41,
+                  "name": "Hugo Siquet",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "310023"
+                },
+                {
+                  "id": "329465",
+                  "jersey": 54,
+                  "name": "Samba Coulibaly",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "329465"
+                },
+                {
+                  "id": "380662",
+                  "jersey": 16,
+                  "name": "Cheveyo Tsawa",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "380662"
+                },
+                {
+                  "id": "202101",
+                  "jersey": 29,
+                  "name": "Nordin Jackers",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "202101"
+                },
+                {
+                  "id": "399864",
+                  "jersey": 27,
+                  "name": "Wisdom Mike",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "399864"
+                },
+                {
+                  "id": "362875",
+                  "jersey": 67,
+                  "name": "Mamadou Diakhon",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "362875"
+                },
+                {
+                  "id": "360422",
+                  "jersey": 17,
+                  "name": "Romeo Vermant",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "360422"
+                },
+                {
+                  "id": "371691",
+                  "jersey": 81,
+                  "name": "Argus Driessche",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "371691"
+                },
+                {
+                  "id": "329449",
+                  "jersey": 62,
+                  "name": "Lynnt Audoor",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "329449"
+                },
+                {
+                  "id": "395631",
+                  "jersey": 77,
+                  "name": "Andrej Vasovic",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "395631"
+                },
+                {
+                  "id": "351301",
+                  "jersey": 58,
+                  "name": "Jorne Spileers",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "351301"
+                }
+              ]
+            },
+            "awayLineup": {
+              "formation": "4-2-3-1",
+              "players": [
+                {
+                  "id": "265958",
+                  "jersey": 1,
+                  "name": "Zion Suzuki",
+                  "position": "G",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "265958"
+                },
+                {
+                  "id": "251100",
+                  "jersey": 14,
+                  "name": "Pau Torres",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "251100"
+                },
+                {
+                  "id": "204679",
+                  "jersey": 3,
+                  "name": "Victor Lindelöf",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "204679"
+                },
+                {
+                  "id": "281125",
+                  "jersey": 22,
+                  "name": "Ian Maatsen",
+                  "position": "LB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "281125"
+                },
+                {
+                  "id": "250945",
+                  "jersey": 29,
+                  "name": "Aaron Wan-Bissaka",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "250945"
+                },
+                {
+                  "id": "214375",
+                  "jersey": 10,
+                  "name": "Emiliano Buendía",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "214375"
+                },
+                {
+                  "id": "301524",
+                  "jersey": 35,
+                  "name": "João Gomes",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "301524"
+                },
+                {
+                  "id": "250936",
+                  "jersey": 8,
+                  "name": "Boubacar Kamara",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "250936"
+                },
+                {
+                  "id": "308524",
+                  "jersey": 11,
+                  "name": "Nicolas Jackson",
+                  "position": "F",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "308524"
+                },
+                {
+                  "id": "366248",
+                  "jersey": 53,
+                  "name": "George Hemmings",
+                  "position": "AM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "366248"
+                },
+                {
+                  "id": "162843",
+                  "jersey": 7,
+                  "name": "John McGinn",
+                  "position": "AM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "162843"
+                },
+                {
+                  "id": "132233",
+                  "jersey": 40,
+                  "name": "Marco Bizot",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "132233"
+                },
+                {
+                  "id": "297229",
+                  "jersey": 13,
+                  "name": "Matteo Ruggeri",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "297229"
+                },
+                {
+                  "id": "152469",
+                  "jersey": 6,
+                  "name": "Ross Barkley",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "152469"
+                },
+                {
+                  "id": "388522",
+                  "jersey": 19,
+                  "name": "Ibrahim Mbaye",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "388522"
+                },
+                {
+                  "id": "236209",
+                  "jersey": 18,
+                  "name": "Tammy Abraham",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "236209"
+                },
+                {
+                  "id": "235319",
+                  "jersey": 42,
+                  "name": "James Wright",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "235319"
+                },
+                {
+                  "id": "325555",
+                  "jersey": 17,
+                  "name": "Alejandro Garnacho",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "325555"
+                },
+                {
+                  "id": "382839",
+                  "jersey": 47,
+                  "name": "Alysson",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "382839"
+                },
+                {
+                  "id": "310607",
+                  "jersey": 26,
+                  "name": "Lamare Bogarde",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "310607"
+                },
+                {
+                  "id": "181312",
+                  "jersey": 5,
+                  "name": "Tyrone Mings",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "181312"
+                }
+              ]
+            },
+            "events": null,
+            "teamStats": [
+              {
+                "key": "possessionPct",
+                "home": "0",
+                "away": "100"
+              },
+              {
+                "key": "totalShots",
+                "home": "0",
+                "away": "1"
+              },
+              {
+                "key": "shotsOnTarget",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "wonCorners",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "foulsCommitted",
+                "home": "1",
+                "away": "0"
+              },
+              {
+                "key": "offsides",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "yellowCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "redCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "saves",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "accuratePasses",
+                "home": "0",
+                "away": "20"
+              },
+              {
+                "key": "passPct",
+                "home": "0.0",
+                "away": "1.0"
+              }
+            ],
+            "penalties": null
+          }
         },
         {
           "id": "401915449",
