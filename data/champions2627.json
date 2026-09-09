@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:13:32Z",
+  "lastUpdated": "2026-09-09T17:14:37Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4431,8 +4431,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.4",
-                "away": "27.6"
+                "home": "72.6",
+                "away": "27.4"
               },
               {
                 "key": "totalShots",
@@ -4452,7 +4452,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -4476,8 +4476,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "210",
-                "away": "69"
+                "home": "223",
+                "away": "73"
               },
               {
                 "key": "passPct",
@@ -4499,12 +4499,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "26'",
-          "statusText": "First Half",
+          "clock": "27'",
+          "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -4931,8 +4931,8 @@
                 "type": "GOAL",
                 "minute": 26,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ermedin Demirovic",
+                "relatedPlayer": "Deniz Undav",
                 "teamName": "Stuttgart",
                 "text": null
               }
@@ -4940,8 +4940,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71",
-                "away": "29"
+                "home": "70.8",
+                "away": "29.2"
               },
               {
                 "key": "totalShots",
@@ -4986,7 +4986,7 @@
               {
                 "key": "accuratePasses",
                 "home": "170",
-                "away": "56"
+                "away": "57"
               },
               {
                 "key": "passPct",
@@ -8325,6 +8325,13 @@
       "athleteID": null
     },
     {
+      "player": "Ermedin Demirovic",
+      "team": "Stuttgart",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Marc Bartra",
       "team": "Real Betis",
       "goals": 2,
@@ -8362,13 +8369,6 @@
     {
       "player": "Emiliano Buendía",
       "team": "Aston Villa",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Ermedin Demirovic",
-      "team": "Stuttgart",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -8468,6 +8468,12 @@
     {
       "player": "Brahim Díaz",
       "team": "Real Madrid",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Deniz Undav",
+      "team": "Stuttgart",
       "goals": 1,
       "athleteID": null
     },
