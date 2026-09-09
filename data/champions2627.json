@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:59:17Z",
+  "lastUpdated": "2026-09-09T21:00:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7250,13 +7250,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "3-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+5'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
           "details": {
@@ -7848,13 +7848,13 @@
                 "text": null
               },
               {
-                "id": "52142118_25",
+                "id": "52142171_25",
                 "type": "YELLOW_CARD",
                 "minute": 90,
                 "extraTime": 5,
-                "playerName": "Flávio Gonçalves",
+                "playerName": "Ismail Jakobs",
                 "relatedPlayer": null,
-                "teamName": "Sporting de Portugal",
+                "teamName": "Galatasaray",
                 "text": null
               }
             ],
@@ -7891,8 +7891,8 @@
               },
               {
                 "key": "yellowCards",
-                "home": "3",
-                "away": "2"
+                "home": "2",
+                "away": "3"
               },
               {
                 "key": "redCards",
