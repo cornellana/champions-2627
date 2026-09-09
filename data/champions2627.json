@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:45:08Z",
+  "lastUpdated": "2026-09-09T19:46:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -6232,17 +6232,28 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52134945_5",
+                "type": "YELLOW_CARD",
+                "minute": 42,
+                "extraTime": null,
+                "playerName": "Billy Gilmour",
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.4",
-                "away": "51.6"
+                "home": "47.5",
+                "away": "52.5"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
@@ -6266,7 +6277,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -6282,7 +6293,7 @@
               {
                 "key": "accuratePasses",
                 "home": "206",
-                "away": "225"
+                "away": "234"
               },
               {
                 "key": "passPct",
@@ -6308,7 +6319,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6782,8 +6793,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.1",
-                "away": "26.9"
+                "home": "73.3",
+                "away": "26.7"
               },
               {
                 "key": "totalShots",
@@ -6827,8 +6838,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "309",
-                "away": "94"
+                "home": "321",
+                "away": "96"
               },
               {
                 "key": "passPct",
@@ -6854,7 +6865,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
+          "clock": "43'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7295,13 +7306,23 @@
                 "relatedPlayer": null,
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "52135019_8",
+                "type": "YELLOW_CARD",
+                "minute": 43,
+                "extraTime": null,
+                "playerName": "Luis Suárez",
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.9",
-                "away": "62.1"
+                "home": "37.8",
+                "away": "62.2"
               },
               {
                 "key": "totalShots",
@@ -7320,7 +7341,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "7",
                 "away": "3"
               },
               {
@@ -7330,7 +7351,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -7346,7 +7367,7 @@
               {
                 "key": "accuratePasses",
                 "home": "140",
-                "away": "246"
+                "away": "248"
               },
               {
                 "key": "passPct",
