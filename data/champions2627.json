@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:56:01Z",
+  "lastUpdated": "2026-09-09T20:57:06Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5954,13 +5954,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "0-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -7255,7 +7255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7851,8 +7851,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.1",
-                "away": "60.9"
+                "home": "38.8",
+                "away": "61.2"
               },
               {
                 "key": "totalShots",
@@ -7871,7 +7871,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "12",
+                "home": "13",
                 "away": "11"
               },
               {
@@ -7896,8 +7896,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "299",
-                "away": "505"
+                "home": "301",
+                "away": "514"
               },
               {
                 "key": "passPct",
