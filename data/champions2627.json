@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:59:16Z",
+  "lastUpdated": "2026-09-09T20:00:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5767,8 +5767,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.8",
-                "away": "50.2"
+                "home": "49.7",
+                "away": "50.3"
               },
               {
                 "key": "totalShots",
@@ -5813,7 +5813,7 @@
               {
                 "key": "accuratePasses",
                 "home": "212",
-                "away": "216"
+                "away": "217"
               },
               {
                 "key": "passPct",
