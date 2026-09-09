@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:04:40Z",
+  "lastUpdated": "2026-09-09T20:05:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,8 +5312,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": {
@@ -5767,8 +5767,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.9",
-                "away": "50.1"
+                "home": "50.3",
+                "away": "49.7"
               },
               {
                 "key": "totalShots",
@@ -5782,7 +5782,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -5812,8 +5812,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "213",
-                "away": "216"
+                "home": "220",
+                "away": "219"
               },
               {
                 "key": "passPct",
