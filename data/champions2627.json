@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:17:46Z",
+  "lastUpdated": "2026-09-09T20:18:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5859,8 +5859,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
-          "statusText": "Second Half",
+          "clock": "57'",
+          "statusText": "In Progress",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -6277,18 +6277,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.7",
-                "away": "58.3"
+                "home": "41.4",
+                "away": "58.6"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "15"
+                "away": "16"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -6317,13 +6317,13 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
                 "key": "accuratePasses",
                 "home": "233",
-                "away": "345"
+                "away": "350"
               },
               {
                 "key": "passPct",
@@ -6345,11 +6345,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "4-0",
+          "result": "5-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6844,8 +6844,8 @@
                 "type": "GOAL",
                 "minute": 57,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ferran Torres",
+                "relatedPlayer": "Ousmane Dembélé with a cross following a corner",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               }
@@ -6853,8 +6853,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.2",
-                "away": "26.8"
+                "home": "73",
+                "away": "27"
               },
               {
                 "key": "totalShots",
@@ -6899,7 +6899,7 @@
               {
                 "key": "accuratePasses",
                 "home": "412",
-                "away": "125"
+                "away": "126"
               },
               {
                 "key": "passPct",
@@ -6925,7 +6925,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7391,8 +7391,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.8",
-                "away": "63.2"
+                "home": "36.9",
+                "away": "63.1"
               },
               {
                 "key": "totalShots",
@@ -10692,15 +10692,15 @@
       "athleteID": null
     },
     {
-      "player": "Erling Haaland",
-      "team": "Manchester City",
-      "goals": 2,
+      "player": "Ferran Torres",
+      "team": "Paris Saint-Germain",
+      "goals": 3,
       "penalties": 0,
       "athleteID": null
     },
     {
-      "player": "Ferran Torres",
-      "team": "Paris Saint-Germain",
+      "player": "Erling Haaland",
+      "team": "Manchester City",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
@@ -11017,6 +11017,12 @@
     },
     {
       "player": "Ousmane Dembélé with a cross",
+      "team": "Paris Saint-Germain",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Ousmane Dembélé with a cross following a corner",
       "team": "Paris Saint-Germain",
       "goals": 1,
       "athleteID": null
