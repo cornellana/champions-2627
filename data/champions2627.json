@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:33:05Z",
+  "lastUpdated": "2026-09-09T20:34:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5836,7 +5836,7 @@
               {
                 "id": "52139601_21",
                 "type": "SUBSTITUTION",
-                "minute": 74,
+                "minute": 73,
                 "extraTime": null,
                 "playerName": "Jonathan David",
                 "relatedPlayer": "Álex Baena",
@@ -5847,8 +5847,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.4",
-                "away": "53.6"
+                "home": "45.9",
+                "away": "54.1"
               },
               {
                 "key": "totalShots",
@@ -5892,8 +5892,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "282",
-                "away": "328"
+                "home": "288",
+                "away": "344"
               },
               {
                 "key": "passPct",
@@ -5919,7 +5919,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6377,8 +6377,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.1",
-                "away": "58.9"
+                "home": "42",
+                "away": "58"
               },
               {
                 "key": "totalShots",
@@ -6398,7 +6398,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -6422,8 +6422,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "285",
-                "away": "437"
+                "home": "298",
+                "away": "438"
               },
               {
                 "key": "passPct",
@@ -6449,7 +6449,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -7023,8 +7023,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.9",
-                "away": "28.1"
+                "home": "72.5",
+                "away": "27.5"
               },
               {
                 "key": "totalShots",
@@ -7044,7 +7044,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -7068,7 +7068,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "503",
+                "home": "522",
                 "away": "160"
               },
               {
@@ -7095,7 +7095,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7611,8 +7611,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.3",
-                "away": "62.7"
+                "home": "38",
+                "away": "62"
               },
               {
                 "key": "totalShots",
@@ -7632,7 +7632,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -7656,7 +7656,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "222",
+                "home": "230",
                 "away": "406"
               },
               {
