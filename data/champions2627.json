@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:01:50Z",
+  "lastUpdated": "2026-09-09T18:02:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4461,8 +4461,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.9",
-                "away": "30.1"
+                "home": "69.3",
+                "away": "30.7"
               },
               {
                 "key": "totalShots",
@@ -4487,7 +4487,7 @@
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "yellowCards",
@@ -4506,8 +4506,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "457",
-                "away": "173"
+                "home": "458",
+                "away": "180"
               },
               {
                 "key": "passPct",
@@ -4533,7 +4533,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5000,8 +5000,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.9",
-                "away": "31.1"
+                "home": "66.5",
+                "away": "33.5"
               },
               {
                 "key": "totalShots",
@@ -5021,7 +5021,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -5045,8 +5045,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "366",
-                "away": "129"
+                "home": "374",
+                "away": "152"
               },
               {
                 "key": "passPct",
