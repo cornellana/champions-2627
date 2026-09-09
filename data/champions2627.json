@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:57:06Z",
+  "lastUpdated": "2026-09-09T20:58:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7255,7 +7255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7845,6 +7845,16 @@
                 "playerName": "Lesley Ugochukwu",
                 "relatedPlayer": "Lucas Torreira",
                 "teamName": "Galatasaray",
+                "text": null
+              },
+              {
+                "id": "52142118_25",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 5,
+                "playerName": "Flávio Gonçalves",
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
                 "text": null
               }
             ],
