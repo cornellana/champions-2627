@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:31:56Z",
+  "lastUpdated": "2026-09-09T17:33:01Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,8 +3977,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
-          "statusText": "In Progress",
+          "clock": "45'",
+          "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": {
@@ -4513,7 +4513,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
