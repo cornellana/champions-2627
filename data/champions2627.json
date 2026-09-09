@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:18:51Z",
+  "lastUpdated": "2026-09-09T20:19:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5859,8 +5859,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
-          "statusText": "In Progress",
+          "clock": "58'",
+          "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -6349,8 +6349,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
-          "statusText": "Second Half",
+          "clock": "59'",
+          "statusText": "In Progress",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": {
@@ -6848,23 +6848,33 @@
                 "relatedPlayer": "Ousmane Dembélé with a cross following a corner",
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "52137910_14",
+                "type": "GOAL",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "Suleiman Camara",
+                "relatedPlayer": "Tigran Barseghyan",
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73",
-                "away": "27"
+                "home": "72.7",
+                "away": "27.3"
               },
               {
                 "key": "totalShots",
-                "home": "24",
-                "away": "4"
+                "home": "25",
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "9",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -6898,8 +6908,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "412",
-                "away": "126"
+                "home": "413",
+                "away": "129"
               },
               {
                 "key": "passPct",
@@ -6925,8 +6935,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
-          "statusText": "Second Half",
+          "clock": "56'",
+          "statusText": "In Progress",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
           "details": {
@@ -10874,6 +10884,13 @@
       "athleteID": null
     },
     {
+      "player": "Suleiman Camara",
+      "team": "Slovan Bratislava",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Troy Parrott",
       "team": "Real Betis",
       "goals": 1,
@@ -11066,6 +11083,12 @@
     {
       "player": "Ronald Araujo",
       "team": "Liverpool",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Tigran Barseghyan",
+      "team": "Slovan Bratislava",
       "goals": 1,
       "athleteID": null
     }
