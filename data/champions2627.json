@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:14:50Z",
+  "lastUpdated": "2026-09-09T18:15:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4501,8 +4501,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.6",
-                "away": "30.4"
+                "home": "70.2",
+                "away": "29.8"
               },
               {
                 "key": "totalShots",
@@ -4546,8 +4546,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "540",
-                "away": "210"
+                "home": "554",
+                "away": "209"
               },
               {
                 "key": "passPct",
@@ -4573,7 +4573,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5085,13 +5085,23 @@
                 "relatedPlayer": "Jesper Daland",
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "52128460_16",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.1",
-                "away": "34.9"
+                "home": "65.2",
+                "away": "34.8"
               },
               {
                 "key": "totalShots",
@@ -5135,7 +5145,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "443",
+                "home": "448",
                 "away": "194"
               },
               {
