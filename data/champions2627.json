@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:34:11Z",
+  "lastUpdated": "2026-09-09T20:35:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5919,7 +5919,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6370,6 +6370,26 @@
                 "extraTime": null,
                 "playerName": "Christos Tzolis",
                 "relatedPlayer": "Eberechi Eze",
+                "teamName": "Arsenal",
+                "text": null
+              },
+              {
+                "id": "52139927_17",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Kai Havertz",
+                "relatedPlayer": "Viktor Gyökeres",
+                "teamName": "Arsenal",
+                "text": null
+              },
+              {
+                "id": "52139928_18",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Noni Madueke",
+                "relatedPlayer": "Bukayo Saka",
                 "teamName": "Arsenal",
                 "text": null
               }
@@ -7018,13 +7038,23 @@
                 "relatedPlayer": "Nuno Mendes",
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "52139861_21",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Beraldo",
+                "relatedPlayer": "Ferran Torres",
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.5",
-                "away": "27.5"
+                "home": "73.2",
+                "away": "26.8"
               },
               {
                 "key": "totalShots",
@@ -7068,7 +7098,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "522",
+                "home": "541",
                 "away": "160"
               },
               {
@@ -7095,7 +7125,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7611,12 +7641,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38",
-                "away": "62"
+                "home": "39.1",
+                "away": "60.9"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "9"
               },
               {
@@ -7656,7 +7686,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "230",
+                "home": "243",
                 "away": "406"
               },
               {
