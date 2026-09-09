@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:36:22Z",
+  "lastUpdated": "2026-09-09T20:37:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5848,8 +5848,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 77,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Robin Le Normand",
+                "relatedPlayer": "Cristian Romero",
                 "teamName": "Atlético de Madrid",
                 "text": null
               }
@@ -5857,8 +5857,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46",
-                "away": "54"
+                "home": "46.3",
+                "away": "53.7"
               },
               {
                 "key": "totalShots",
@@ -5878,7 +5878,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -5902,7 +5902,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "297",
+                "home": "301",
                 "away": "354"
               },
               {
@@ -5929,7 +5929,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6402,23 +6402,33 @@
                 "relatedPlayer": "Bukayo Saka",
                 "teamName": "Arsenal",
                 "text": null
+              },
+              {
+                "id": "52140080_19",
+                "type": "GOAL",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Martin Ødegaard",
+                "relatedPlayer": "Christos Tzolis",
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.9",
-                "away": "58.1"
+                "home": "41",
+                "away": "59"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "20"
+                "away": "21"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -6453,7 +6463,7 @@
               {
                 "key": "accuratePasses",
                 "home": "303",
-                "away": "448"
+                "away": "467"
               },
               {
                 "key": "passPct",
@@ -6479,7 +6489,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -7068,7 +7078,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "29",
+                "home": "30",
                 "away": "5"
               },
               {
@@ -7108,8 +7118,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "552",
-                "away": "160"
+                "home": "567",
+                "away": "163"
               },
               {
                 "key": "passPct",
@@ -7135,7 +7145,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7651,13 +7661,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38",
-                "away": "62"
+                "home": "37.8",
+                "away": "62.2"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -7697,7 +7707,7 @@
               {
                 "key": "accuratePasses",
                 "home": "244",
-                "away": "427"
+                "away": "429"
               },
               {
                 "key": "passPct",
@@ -11106,6 +11116,13 @@
       "athleteID": null
     },
     {
+      "player": "Martin Ødegaard",
+      "team": "Arsenal",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Nicolas Jackson",
       "team": "Aston Villa",
       "goals": 1,
@@ -11185,6 +11202,12 @@
     {
       "player": "Brahim Díaz",
       "team": "Real Madrid",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Christos Tzolis",
+      "team": "Arsenal",
       "goals": 1,
       "athleteID": null
     },
