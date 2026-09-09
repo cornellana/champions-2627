@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:27:36Z",
+  "lastUpdated": "2026-09-09T20:28:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "In Progress",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5827,18 +5827,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.4",
-                "away": "52.6"
+                "home": "46.3",
+                "away": "53.7"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -5867,18 +5867,18 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
                 "home": "269",
-                "away": "302"
+                "away": "318"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -6332,13 +6332,33 @@
                 "relatedPlayer": "Alisson Santos because of an injury",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "52138946_15",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Bruno Guimarães",
+                "relatedPlayer": "Mikel Merino",
+                "teamName": "Arsenal",
+                "text": null
+              },
+              {
+                "id": "52138947_16",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Christos Tzolis",
+                "relatedPlayer": "Eberechi Eze",
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.4",
-                "away": "58.6"
+                "home": "42.3",
+                "away": "57.7"
               },
               {
                 "key": "totalShots",
@@ -6382,8 +6402,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "264",
-                "away": "395"
+                "home": "278",
+                "away": "398"
               },
               {
                 "key": "passPct",
@@ -6409,7 +6429,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6983,12 +7003,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.3",
-                "away": "26.7"
+                "home": "73.5",
+                "away": "26.5"
               },
               {
                 "key": "totalShots",
-                "home": "27",
+                "home": "28",
                 "away": "5"
               },
               {
@@ -7028,8 +7048,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "472",
-                "away": "141"
+                "home": "489",
+                "away": "142"
               },
               {
                 "key": "passPct",
@@ -7055,7 +7075,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7546,6 +7566,16 @@
                 "relatedPlayer": null,
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "52139103_15",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
@@ -7597,7 +7627,7 @@
               {
                 "key": "accuratePasses",
                 "home": "192",
-                "away": "383"
+                "away": "384"
               },
               {
                 "key": "passPct",
