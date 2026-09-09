@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:59:40Z",
+  "lastUpdated": "2026-09-09T18:00:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4446,13 +4446,23 @@
                 "relatedPlayer": "Javi López",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "52127840_7",
+                "type": "YELLOW_CARD",
+                "minute": 54,
+                "extraTime": null,
+                "playerName": "Dani Olmo",
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.1",
-                "away": "29.9"
+                "home": "70.6",
+                "away": "29.4"
               },
               {
                 "key": "totalShots",
@@ -4471,7 +4481,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "8"
               },
               {
@@ -4481,7 +4491,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -4496,7 +4506,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "443",
+                "home": "453",
                 "away": "166"
               },
               {
@@ -4523,7 +4533,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4990,13 +5000,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.4",
-                "away": "30.6"
+                "home": "68.9",
+                "away": "31.1"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
@@ -5035,8 +5045,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "360",
-                "away": "122"
+                "home": "366",
+                "away": "129"
               },
               {
                 "key": "passPct",
