@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:11:13Z",
+  "lastUpdated": "2026-09-09T20:12:19Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5772,17 +5772,27 @@
                 "relatedPlayer": "Alexander Isak",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "52137036_7",
+                "type": "YELLOW_CARD",
+                "minute": 51,
+                "extraTime": null,
+                "playerName": "Marc Pubill",
+                "relatedPlayer": null,
+                "teamName": "Atlético de Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.4",
-                "away": "50.6"
+                "home": "49.8",
+                "away": "50.2"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "6"
               },
               {
@@ -5798,7 +5808,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -5808,7 +5818,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -5822,8 +5832,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "225",
-                "away": "231"
+                "home": "229",
+                "away": "232"
               },
               {
                 "key": "passPct",
@@ -5849,7 +5859,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6267,13 +6277,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.3",
-                "away": "53.7"
+                "home": "43.3",
+                "away": "56.7"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
@@ -6312,8 +6322,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "218",
-                "away": "265"
+                "home": "219",
+                "away": "304"
               },
               {
                 "key": "passPct",
@@ -6339,7 +6349,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6848,7 +6858,7 @@
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -6868,8 +6878,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "380",
-                "away": "116"
+                "home": "391",
+                "away": "119"
               },
               {
                 "key": "passPct",
@@ -6895,7 +6905,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7351,8 +7361,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.9",
-                "away": "65.1"
+                "home": "33.7",
+                "away": "66.3"
               },
               {
                 "key": "totalShots",
@@ -7366,7 +7376,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -7396,8 +7406,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "150",
-                "away": "304"
+                "home": "153",
+                "away": "333"
               },
               {
                 "key": "passPct",
