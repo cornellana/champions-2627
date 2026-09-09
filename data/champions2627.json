@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:27:39Z",
+  "lastUpdated": "2026-09-09T19:28:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "In Progress",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5819,7 +5819,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6067,22 +6067,22 @@
                   "athleteID": "203669"
                 },
                 {
-                  "id": "238262",
-                  "jersey": 41,
-                  "name": "Declan Rice",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "238262"
-                },
-                {
                   "id": "209581",
                   "jersey": 23,
                   "name": "Mikel Merino",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "209581"
+                },
+                {
+                  "id": "238262",
+                  "jersey": 41,
+                  "name": "Declan Rice",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "238262"
                 },
                 {
                   "id": "258906",
@@ -6216,8 +6216,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.6",
-                "away": "53.4"
+                "home": "48.8",
+                "away": "51.2"
               },
               {
                 "key": "totalShots",
@@ -6261,7 +6261,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "129",
+                "home": "141",
                 "away": "150"
               },
               {
@@ -6284,7 +6284,7 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "2-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
@@ -6752,12 +6752,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "78.1",
-                "away": "21.9"
+                "home": "78.6",
+                "away": "21.4"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "11",
                 "away": "0"
               },
               {
@@ -6767,13 +6767,13 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
-                "away": "1"
+                "home": "4",
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -6797,8 +6797,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
-                "away": "43"
+                "home": "210",
+                "away": "44"
               },
               {
                 "key": "passPct",
@@ -6824,7 +6824,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7260,8 +7260,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.6",
-                "away": "64.4"
+                "home": "37.1",
+                "away": "62.9"
               },
               {
                 "key": "totalShots",
@@ -7280,7 +7280,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "2"
               },
               {
@@ -7305,8 +7305,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "65",
-                "away": "130"
+                "home": "72",
+                "away": "131"
               },
               {
                 "key": "passPct",
