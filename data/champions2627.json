@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:02:31Z",
+  "lastUpdated": "2026-09-09T17:03:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4421,8 +4421,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "74.3",
-                "away": "25.7"
+                "home": "70.6",
+                "away": "29.4"
               },
               {
                 "key": "totalShots",
@@ -4466,8 +4466,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "124",
-                "away": "34"
+                "home": "134",
+                "away": "48"
               },
               {
                 "key": "passPct",
@@ -4493,7 +4493,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4899,8 +4899,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.7",
-                "away": "32.3"
+                "home": "66.9",
+                "away": "33.1"
               },
               {
                 "key": "totalShots",
@@ -4944,13 +4944,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "89",
-                "away": "40"
+                "home": "92",
+                "away": "42"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.7"
               }
             ],
             "penalties": null
