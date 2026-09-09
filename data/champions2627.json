@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:06:11Z",
+  "lastUpdated": "2026-09-09T18:07:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3973,7 +3973,7 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-0",
+          "result": "3-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
@@ -4466,16 +4466,6 @@
                 "relatedPlayer": "Pedri with a through ball",
                 "teamName": "FC Barcelona",
                 "text": null
-              },
-              {
-                "id": "52128046_9",
-                "type": "GOAL",
-                "minute": 59,
-                "extraTime": null,
-                "playerName": "Nacho Ferri",
-                "relatedPlayer": null,
-                "teamName": "Feyenoord",
-                "text": null
               }
             ],
             "teamStats": [
@@ -4487,12 +4477,12 @@
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "4"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "2"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -4553,7 +4543,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "62'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5024,6 +5014,16 @@
                 "playerName": "Joe Bell",
                 "relatedPlayer": null,
                 "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "52128090_12",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
                 "text": null
               }
             ],
@@ -8501,13 +8501,6 @@
     {
       "player": "Kylian Mbappé",
       "team": "Real Madrid",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Nacho Ferri",
-      "team": "Feyenoord",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
