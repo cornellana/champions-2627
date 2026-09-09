@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:28:43Z",
+  "lastUpdated": "2026-09-09T20:29:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,8 +5312,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
-          "statusText": "In Progress",
+          "clock": "70'",
+          "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": {
@@ -5822,13 +5822,23 @@
                 "relatedPlayer": "Bradley Barcola because of an injury",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "52139229_20",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.3",
-                "away": "53.7"
+                "home": "46.2",
+                "away": "53.8"
               },
               {
                 "key": "totalShots",
@@ -5873,12 +5883,12 @@
               {
                 "key": "accuratePasses",
                 "home": "269",
-                "away": "318"
+                "away": "319"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -5899,7 +5909,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6357,8 +6367,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.3",
-                "away": "57.7"
+                "home": "41.8",
+                "away": "58.2"
               },
               {
                 "key": "totalShots",
@@ -6377,7 +6387,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "6"
               },
               {
@@ -6402,8 +6412,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "278",
-                "away": "398"
+                "home": "281",
+                "away": "416"
               },
               {
                 "key": "passPct",
@@ -6429,7 +6439,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6984,7 +6994,7 @@
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
-                "playerName": "Lucas Digne",
+                "playerName": "Senny Mayulu",
                 "relatedPlayer": "Achraf Hakimi",
                 "teamName": "Paris Saint-Germain",
                 "text": null
@@ -6994,7 +7004,7 @@
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
-                "playerName": "Senny Mayulu",
+                "playerName": "Lucas Digne",
                 "relatedPlayer": "Nuno Mendes",
                 "teamName": "Paris Saint-Germain",
                 "text": null
@@ -7003,12 +7013,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.5",
-                "away": "26.5"
+                "home": "72.9",
+                "away": "27.1"
               },
               {
                 "key": "totalShots",
-                "home": "28",
+                "home": "29",
                 "away": "5"
               },
               {
@@ -7048,8 +7058,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "489",
-                "away": "142"
+                "home": "490",
+                "away": "147"
               },
               {
                 "key": "passPct",
@@ -7075,7 +7085,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7572,8 +7582,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Deniz Gül",
+                "relatedPlayer": "Aleksey Batrakov",
                 "teamName": "Galatasaray",
                 "text": null
               }
@@ -7581,8 +7591,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.5",
-                "away": "64.5"
+                "home": "35.9",
+                "away": "64.1"
               },
               {
                 "key": "totalShots",
@@ -7601,7 +7611,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "6"
               },
               {
@@ -7626,8 +7636,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "192",
-                "away": "384"
+                "home": "198",
+                "away": "388"
               },
               {
                 "key": "passPct",
