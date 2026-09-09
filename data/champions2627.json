@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:49:57Z",
+  "lastUpdated": "2026-09-09T17:51:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -4436,6 +4436,16 @@
                 "relatedPlayer": null,
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "52127374_5",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Oussama Targhalline",
+                "relatedPlayer": "Javi López",
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
@@ -4513,8 +4523,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -4970,12 +4980,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71",
-                "away": "29"
+                "home": "71.2",
+                "away": "28.8"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "5"
               },
               {
@@ -5015,8 +5025,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "314",
-                "away": "101"
+                "home": "326",
+                "away": "103"
               },
               {
                 "key": "passPct",
