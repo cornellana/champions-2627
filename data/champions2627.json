@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:20:01Z",
+  "lastUpdated": "2026-09-09T19:21:06Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5308,11 +5308,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5732,22 +5732,33 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52132151_1",
+                "type": "GOAL",
+                "minute": 17,
+                "extraTime": null,
+                "playerName": "Marcos Llorente",
+                "relatedPlayer": "Julián Alvarez with a through ball",
+                "teamName": "Atlético de Madrid",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.1",
-                "away": "61.9"
+                "home": "36.6",
+                "away": "63.4"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -5782,7 +5793,7 @@
               {
                 "key": "accuratePasses",
                 "home": "61",
-                "away": "107"
+                "away": "115"
               },
               {
                 "key": "passPct",
@@ -5808,8 +5819,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
-          "statusText": "First Half",
+          "clock": "19'",
+          "statusText": "In Progress",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -6205,8 +6216,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
@@ -6250,8 +6261,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "97",
-                "away": "94"
+                "home": "104",
+                "away": "104"
               },
               {
                 "key": "passPct",
@@ -6277,7 +6288,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6706,26 +6717,37 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52132213_1",
+                "type": "GOAL",
+                "minute": 17,
+                "extraTime": null,
+                "playerName": "Ousmane Dembélé",
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "77.5",
-                "away": "22.5"
+                "home": "77.1",
+                "away": "22.9"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "6",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -6755,8 +6777,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "157",
-                "away": "38"
+                "home": "159",
+                "away": "40"
               },
               {
                 "key": "passPct",
@@ -6782,7 +6804,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7208,8 +7230,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "24.3",
-                "away": "75.7"
+                "home": "26.7",
+                "away": "73.3"
               },
               {
                 "key": "totalShots",
@@ -7229,11 +7251,11 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -7253,12 +7275,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "28",
+                "home": "34",
                 "away": "118"
               },
               {
                 "key": "passPct",
-                "home": "0.6",
+                "home": "0.7",
                 "away": "0.9"
               }
             ],
@@ -10621,6 +10643,13 @@
       "athleteID": null
     },
     {
+      "player": "Marcos Llorente",
+      "team": "Atlético de Madrid",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Nicolas Jackson",
       "team": "Aston Villa",
       "goals": 1,
@@ -10632,6 +10661,13 @@
       "team": "Brujas",
       "goals": 1,
       "penalties": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Ousmane Dembélé",
+      "team": "Paris Saint-Germain",
+      "goals": 1,
+      "penalties": 0,
       "athleteID": null
     },
     {
@@ -10758,6 +10794,12 @@
     {
       "player": "João Gomes",
       "team": "Aston Villa",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Julián Alvarez with a through ball",
+      "team": "Atlético de Madrid",
       "goals": 1,
       "athleteID": null
     },
