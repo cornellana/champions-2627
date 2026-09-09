@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:12:25Z",
+  "lastUpdated": "2026-09-09T19:13:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
+          "clock": "10'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5521,7 +5521,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-4-2",
+              "formation": "3-4-2-1",
               "players": [
                 {
                   "id": "149622",
@@ -5533,19 +5533,10 @@
                   "athleteID": "149622"
                 },
                 {
-                  "id": "332613",
-                  "jersey": 18,
-                  "name": "Marc Pubill",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "332613"
-                },
-                {
                   "id": "96970",
                   "jersey": 21,
                   "name": "Cristian Romero",
-                  "position": "CD-R",
+                  "position": "CD",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "96970"
@@ -5554,19 +5545,19 @@
                   "id": "257786",
                   "jersey": 17,
                   "name": "Dávid Hancko",
-                  "position": "LB",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "257786"
                 },
                 {
-                  "id": "206474",
-                  "jersey": 14,
-                  "name": "Marcos Llorente",
-                  "position": "RB",
+                  "id": "332613",
+                  "jersey": 18,
+                  "name": "Marc Pubill",
+                  "position": "CD-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "206474"
+                  "athleteID": "332613"
                 },
                 {
                   "id": "140791",
@@ -5587,31 +5578,40 @@
                   "athleteID": "336634"
                 },
                 {
-                  "id": "297373",
-                  "jersey": 10,
-                  "name": "Álex Baena",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "297373"
-                },
-                {
                   "id": "323838",
                   "jersey": 20,
                   "name": "Giuliano Simeone",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "323838"
                 },
                 {
+                  "id": "206474",
+                  "jersey": 14,
+                  "name": "Marcos Llorente",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "206474"
+                },
+                {
                   "id": "277206",
                   "jersey": 19,
                   "name": "Julián Álvarez",
-                  "position": "CF-L",
+                  "position": "F",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "277206"
+                },
+                {
+                  "id": "297373",
+                  "jersey": 10,
+                  "name": "Álex Baena",
+                  "position": "CF-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "297373"
                 },
                 {
                   "id": "274197",
@@ -5736,8 +5736,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.2",
-                "away": "57.8"
+                "home": "48.6",
+                "away": "51.4"
               },
               {
                 "key": "totalShots",
@@ -5781,8 +5781,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "31",
-                "away": "41"
+                "home": "42",
+                "away": "42"
               },
               {
                 "key": "passPct",
@@ -5808,7 +5808,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6205,8 +6205,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.3",
-                "away": "59.7"
+                "home": "41.7",
+                "away": "58.3"
               },
               {
                 "key": "totalShots",
@@ -6250,8 +6250,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "43",
-                "away": "72"
+                "home": "49",
+                "away": "77"
               },
               {
                 "key": "passPct",
@@ -6277,7 +6277,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6710,8 +6710,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "82.8",
-                "away": "17.2"
+                "home": "83.6",
+                "away": "16.4"
               },
               {
                 "key": "totalShots",
@@ -6730,7 +6730,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -6755,8 +6755,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "84",
-                "away": "12"
+                "home": "100",
+                "away": "14"
               },
               {
                 "key": "passPct",
@@ -7048,13 +7048,13 @@
                   "athleteID": "219444"
                 },
                 {
-                  "id": "266575",
-                  "jersey": 11,
-                  "name": "Yunus Akgün",
+                  "id": "355113",
+                  "jersey": 83,
+                  "name": "Alexey Batrakov",
                   "position": "AM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "266575"
+                  "athleteID": "355113"
                 },
                 {
                   "id": "268478",
@@ -7075,22 +7075,22 @@
                   "athleteID": "212973"
                 },
                 {
-                  "id": "355113",
-                  "jersey": 83,
-                  "name": "Alexey Batrakov",
-                  "position": "F",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "355113"
-                },
-                {
                   "id": "322538",
                   "jersey": 53,
                   "name": "Baris Alper Yilmaz",
-                  "position": "AM-L",
+                  "position": "F",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "322538"
+                },
+                {
+                  "id": "266575",
+                  "jersey": 11,
+                  "name": "Yunus Akgün",
+                  "position": "AM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "266575"
                 },
                 {
                   "id": "202641",
@@ -7208,8 +7208,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.1",
-                "away": "70.9"
+                "home": "31.9",
+                "away": "68.1"
               },
               {
                 "key": "totalShots",
@@ -7228,7 +7228,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -7253,13 +7253,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "15",
-                "away": "45"
+                "home": "20",
+                "away": "53"
               },
               {
                 "key": "passPct",
                 "home": "0.7",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
