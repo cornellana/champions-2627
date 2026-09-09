@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:31:02Z",
+  "lastUpdated": "2026-09-09T18:32:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3973,11 +3973,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "4-1",
+          "result": "5-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4576,6 +4576,16 @@
                 "relatedPlayer": "Luciano Valente",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "52129177_22",
+                "type": "GOAL",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": "Gabriel Jesus",
+                "relatedPlayer": "Lamine Yamal with a cross",
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
@@ -4586,12 +4596,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "21",
+                "home": "22",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "2"
               },
               {
@@ -4627,7 +4637,7 @@
               {
                 "key": "accuratePasses",
                 "home": "692",
-                "away": "236"
+                "away": "237"
               },
               {
                 "key": "passPct",
@@ -4653,7 +4663,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5215,17 +5225,27 @@
                 "relatedPlayer": "Henrik Heggheim",
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "52129206_21",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.4",
-                "away": "38.6"
+                "home": "61.5",
+                "away": "38.5"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "9"
               },
               {
@@ -5265,8 +5285,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "490",
-                "away": "257"
+                "home": "497",
+                "away": "260"
               },
               {
                 "key": "passPct",
@@ -8668,6 +8688,13 @@
       "athleteID": null
     },
     {
+      "player": "Gabriel Jesus",
+      "team": "FC Barcelona",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Hugo Vetlesen",
       "team": "Brujas",
       "goals": 1,
@@ -8845,6 +8872,12 @@
     },
     {
       "player": "Lamine Yamal",
+      "team": "FC Barcelona",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Lamine Yamal with a cross",
       "team": "FC Barcelona",
       "goals": 1,
       "athleteID": null
