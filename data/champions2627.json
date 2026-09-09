@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T16:50:37Z",
+  "lastUpdated": "2026-09-09T16:51:42Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4406,21 +4406,32 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52125195_1",
+                "type": "GOAL",
+                "minute": 3,
+                "extraTime": null,
+                "playerName": "Raphinha",
+                "relatedPlayer": "Lamine Yamal",
+                "teamName": "FC Barcelona",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "81",
-                "away": "19"
+                "home": "82.2",
+                "away": "17.8"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -4455,13 +4466,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "15",
-                "away": "2"
+                "home": "33",
+                "away": "5"
               },
               {
                 "key": "passPct",
-                "home": "1.0",
-                "away": "0.5"
+                "home": "0.9",
+                "away": "0.6"
               }
             ],
             "penalties": null
@@ -4482,7 +4493,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -8357,6 +8368,13 @@
       "athleteID": null
     },
     {
+      "player": "Raphinha",
+      "team": "FC Barcelona",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Razvan Marin",
       "team": "AEK Atenas",
       "goals": 1,
@@ -8430,6 +8448,12 @@
     {
       "player": "João Gomes",
       "team": "Aston Villa",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Lamine Yamal",
+      "team": "FC Barcelona",
       "goals": 1,
       "athleteID": null
     },
