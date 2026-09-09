@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:29:46Z",
+  "lastUpdated": "2026-09-09T17:30:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "43'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4513,7 +4513,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "43'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4955,13 +4955,23 @@
                 "relatedPlayer": "Deniz Undav",
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "52127030_7",
+                "type": "YELLOW_CARD",
+                "minute": 42,
+                "extraTime": null,
+                "playerName": "Kristoffer Askildsen",
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.3",
-                "away": "31.7"
+                "home": "68.8",
+                "away": "31.2"
               },
               {
                 "key": "totalShots",
@@ -4981,17 +4991,17 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -5005,7 +5015,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "245",
+                "home": "256",
                 "away": "94"
               },
               {
