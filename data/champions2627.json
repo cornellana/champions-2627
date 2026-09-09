@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:32:08Z",
+  "lastUpdated": "2026-09-09T18:33:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -4591,8 +4591,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72",
-                "away": "28"
+                "home": "71.9",
+                "away": "28.1"
               },
               {
                 "key": "totalShots",
@@ -4612,7 +4612,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -4636,8 +4636,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "692",
-                "away": "237"
+                "home": "697",
+                "away": "240"
               },
               {
                 "key": "passPct",
@@ -4663,7 +4663,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5231,8 +5231,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 86,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ameen Al-Dakhil",
+                "relatedPlayer": "Maximilian Mittelstädt",
                 "teamName": "Stuttgart",
                 "text": null
               }
@@ -5240,8 +5240,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.5",
-                "away": "38.5"
+                "home": "61",
+                "away": "39"
               },
               {
                 "key": "totalShots",
@@ -5285,8 +5285,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "497",
-                "away": "260"
+                "home": "500",
+                "away": "268"
               },
               {
                 "key": "passPct",
