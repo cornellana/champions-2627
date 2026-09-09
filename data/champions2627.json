@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:13:31Z",
+  "lastUpdated": "2026-09-09T19:14:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5736,8 +5736,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.6",
-                "away": "51.4"
+                "home": "47.7",
+                "away": "52.3"
               },
               {
                 "key": "totalShots",
@@ -5751,7 +5751,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -5781,8 +5781,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "42",
-                "away": "42"
+                "home": "44",
+                "away": "45"
               },
               {
                 "key": "passPct",
@@ -5808,7 +5808,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6205,8 +6205,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.7",
-                "away": "58.3"
+                "home": "38.7",
+                "away": "61.3"
               },
               {
                 "key": "totalShots",
@@ -6225,7 +6225,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -6251,7 +6251,7 @@
               {
                 "key": "accuratePasses",
                 "home": "49",
-                "away": "77"
+                "away": "88"
               },
               {
                 "key": "passPct",
@@ -6277,7 +6277,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6782,7 +6782,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7208,8 +7208,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.9",
-                "away": "68.1"
+                "home": "29.6",
+                "away": "70.4"
               },
               {
                 "key": "totalShots",
@@ -7229,7 +7229,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -7253,8 +7253,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "20",
-                "away": "53"
+                "home": "23",
+                "away": "68"
               },
               {
                 "key": "passPct",
