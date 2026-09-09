@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:53:12Z",
+  "lastUpdated": "2026-09-09T17:54:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4523,8 +4523,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
-          "statusText": "Second Half",
+          "clock": "49'",
+          "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -4980,13 +4980,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.9",
-                "away": "30.1"
+                "home": "70.3",
+                "away": "29.7"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -4996,12 +4996,12 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -5025,7 +5025,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "331",
+                "home": "340",
                 "away": "111"
               },
               {
