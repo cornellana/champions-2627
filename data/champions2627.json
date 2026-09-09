@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:58:35Z",
+  "lastUpdated": "2026-09-09T17:59:40Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4451,8 +4451,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.2",
-                "away": "27.8"
+                "home": "70.1",
+                "away": "29.9"
               },
               {
                 "key": "totalShots",
@@ -4477,7 +4477,7 @@
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -4497,7 +4497,7 @@
               {
                 "key": "accuratePasses",
                 "home": "443",
-                "away": "146"
+                "away": "166"
               },
               {
                 "key": "passPct",
@@ -4523,7 +4523,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4975,13 +4975,23 @@
                 "relatedPlayer": null,
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "52127774_10",
+                "type": "YELLOW_CARD",
+                "minute": 54,
+                "extraTime": null,
+                "playerName": "Peter Christiansen",
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.6",
-                "away": "30.4"
+                "home": "69.4",
+                "away": "30.6"
               },
               {
                 "key": "totalShots",
@@ -5001,7 +5011,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "6"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -5011,7 +5021,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -5025,8 +5035,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "358",
-                "away": "121"
+                "home": "360",
+                "away": "122"
               },
               {
                 "key": "passPct",
