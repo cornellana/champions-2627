@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:17:51Z",
+  "lastUpdated": "2026-09-09T19:18:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5736,17 +5736,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.7",
-                "away": "54.3"
+                "home": "43.8",
+                "away": "56.2"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -5782,7 +5782,7 @@
               {
                 "key": "accuratePasses",
                 "home": "61",
-                "away": "74"
+                "away": "81"
               },
               {
                 "key": "passPct",
@@ -5808,7 +5808,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6205,17 +6205,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.7",
-                "away": "51.3"
+                "home": "48.1",
+                "away": "51.9"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -6246,12 +6246,12 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "0"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "81",
-                "away": "87"
+                "home": "87",
+                "away": "94"
               },
               {
                 "key": "passPct",
@@ -6277,7 +6277,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "In Progress",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6782,8 +6782,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
-          "statusText": "In Progress",
+          "clock": "16'",
+          "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
           "details": {
@@ -7208,13 +7208,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.2",
-                "away": "72.8"
+                "home": "27.1",
+                "away": "72.9"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -7253,13 +7253,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "27",
-                "away": "99"
+                "home": "28",
+                "away": "100"
               },
               {
                 "key": "passPct",
                 "home": "0.6",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
