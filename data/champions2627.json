@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:15:41Z",
+  "lastUpdated": "2026-09-09T17:16:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4426,13 +4426,23 @@
                 "relatedPlayer": "João Cancelo",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "52126346_3",
+                "type": "YELLOW_CARD",
+                "minute": 27,
+                "extraTime": null,
+                "playerName": "Charles Vanhoutte",
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.6",
-                "away": "27.4"
+                "home": "73.4",
+                "away": "26.6"
               },
               {
                 "key": "totalShots",
@@ -4446,13 +4456,13 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -4462,7 +4472,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -4476,7 +4486,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "223",
+                "home": "233",
                 "away": "73"
               },
               {
@@ -4503,8 +4513,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
-          "statusText": "In Progress",
+          "clock": "29'",
+          "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -4932,7 +4942,7 @@
                 "minute": 26,
                 "extraTime": null,
                 "playerName": "Ermedin Demirovic",
-                "relatedPlayer": "Deniz Undav",
+                "relatedPlayer": "Deniz Undav with a through ball",
                 "teamName": "Stuttgart",
                 "text": null
               }
@@ -4940,8 +4950,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.8",
-                "away": "29.2"
+                "home": "70.9",
+                "away": "29.1"
               },
               {
                 "key": "totalShots",
@@ -4985,8 +4995,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "170",
-                "away": "57"
+                "home": "191",
+                "away": "62"
               },
               {
                 "key": "passPct",
@@ -8472,7 +8482,7 @@
       "athleteID": null
     },
     {
-      "player": "Deniz Undav",
+      "player": "Deniz Undav with a through ball",
       "team": "Stuttgart",
       "goals": 1,
       "athleteID": null
