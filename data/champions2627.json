@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:05:54Z",
+  "lastUpdated": "2026-09-09T19:07:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5736,8 +5736,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "8.7",
-                "away": "91.3"
+                "home": "44.9",
+                "away": "55.1"
               },
               {
                 "key": "totalShots",
@@ -5761,8 +5761,8 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
-                "away": "0"
+                "home": "1",
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -5781,13 +5781,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "2",
-                "away": "17"
+                "home": "20",
+                "away": "22"
               },
               {
                 "key": "passPct",
-                "home": "1.0",
-                "away": "0.9"
+                "home": "0.9",
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -5808,7 +5808,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6277,7 +6277,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6710,8 +6710,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "0",
-                "away": "100"
+                "home": "64.3",
+                "away": "35.7"
               },
               {
                 "key": "totalShots",
@@ -6725,7 +6725,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -6755,13 +6755,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "0",
-                "away": "1"
+                "home": "24",
+                "away": "11"
               },
               {
                 "key": "passPct",
-                "home": "0.0",
-                "away": "0.5"
+                "home": "1.0",
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -6782,7 +6782,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7197,13 +7197,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "5",
-                "away": "95"
+                "home": "19.4",
+                "away": "80.6"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -7242,12 +7242,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "0",
-                "away": "16"
+                "home": "4",
+                "away": "24"
               },
               {
                 "key": "passPct",
-                "home": "0.0",
+                "home": "0.6",
                 "away": "0.9"
               }
             ],
