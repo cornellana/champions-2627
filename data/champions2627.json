@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:21:02Z",
+  "lastUpdated": "2026-09-09T20:22:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,8 +5312,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
-          "statusText": "In Progress",
+          "clock": "62'",
+          "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": {
@@ -5812,13 +5812,23 @@
                 "relatedPlayer": "Rio Ngumoha",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "52138174_19",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": "Víctor Muñoz",
+                "relatedPlayer": "Bradley Barcola because of an injury",
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50",
-                "away": "50"
+                "home": "49.8",
+                "away": "50.2"
               },
               {
                 "key": "totalShots",
@@ -5833,7 +5843,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -5862,8 +5872,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "258",
-                "away": "255"
+                "home": "261",
+                "away": "262"
               },
               {
                 "key": "passPct",
@@ -5889,8 +5899,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
-          "statusText": "In Progress",
+          "clock": "60'",
+          "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -6308,8 +6318,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 57,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Costantino Favasuli",
+                "relatedPlayer": "Matteo Politano",
                 "teamName": "Nápoles",
                 "text": null
               },
@@ -6318,8 +6328,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 58,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Antonio Vergara",
+                "relatedPlayer": "Alisson Santos because of an injury",
                 "teamName": "Nápoles",
                 "text": null
               }
@@ -6933,8 +6943,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.7",
-                "away": "27.3"
+                "home": "72.4",
+                "away": "27.6"
               },
               {
                 "key": "totalShots",
@@ -6978,8 +6988,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "414",
-                "away": "129"
+                "home": "431",
+                "away": "137"
               },
               {
                 "key": "passPct",
@@ -7476,13 +7486,23 @@
                 "relatedPlayer": null,
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "52138184_13",
+                "type": "SUBSTITUTION",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "Rafael Leão",
+                "relatedPlayer": "Leroy Sané",
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.9",
-                "away": "63.1"
+                "home": "36.6",
+                "away": "63.4"
               },
               {
                 "key": "totalShots",
@@ -7527,7 +7547,7 @@
               {
                 "key": "accuratePasses",
                 "home": "182",
-                "away": "342"
+                "away": "346"
               },
               {
                 "key": "passPct",
