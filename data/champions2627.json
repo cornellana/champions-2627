@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:16:46Z",
+  "lastUpdated": "2026-09-09T17:17:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4441,12 +4441,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.4",
-                "away": "26.6"
+                "home": "74.5",
+                "away": "25.5"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "2"
               },
               {
@@ -4486,7 +4486,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "233",
+                "home": "250",
                 "away": "73"
               },
               {
@@ -4513,7 +4513,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4950,12 +4950,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.9",
-                "away": "29.1"
+                "home": "71.9",
+                "away": "28.1"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "4"
               },
               {
@@ -4995,8 +4995,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "191",
-                "away": "62"
+                "home": "202",
+                "away": "63"
               },
               {
                 "key": "passPct",
