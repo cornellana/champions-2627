@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:08:21Z",
+  "lastUpdated": "2026-09-09T18:09:25Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4466,6 +4466,26 @@
                 "relatedPlayer": "Pedri with a through ball",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "52128175_11",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
+              },
+              {
+                "id": "52128176_12",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
@@ -4491,7 +4511,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "9"
               },
               {
@@ -4543,7 +4563,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5031,8 +5051,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Josha Vagnoman",
+                "relatedPlayer": "Jamie Leweling",
                 "teamName": "Stuttgart",
                 "text": null
               },
@@ -5041,8 +5061,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Erik Botheim",
+                "relatedPlayer": "Joe Bell",
                 "teamName": "Viking",
                 "text": null
               },
@@ -5051,8 +5071,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Henrik Falchener",
+                "relatedPlayer": "Jesper Daland",
                 "teamName": "Viking",
                 "text": null
               }
@@ -5060,8 +5080,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.1",
-                "away": "34.9"
+                "home": "65.9",
+                "away": "34.1"
               },
               {
                 "key": "totalShots",
@@ -5105,7 +5125,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "379",
+                "home": "394",
                 "away": "166"
               },
               {
