@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:06:51Z",
+  "lastUpdated": "2026-09-09T17:07:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4421,8 +4421,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "74.2",
-                "away": "25.8"
+                "home": "73.1",
+                "away": "26.9"
               },
               {
                 "key": "totalShots",
@@ -4466,8 +4466,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "169",
-                "away": "49"
+                "home": "171",
+                "away": "52"
               },
               {
                 "key": "passPct",
@@ -4493,7 +4493,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4895,21 +4895,32 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52125966_1",
+                "type": "GOAL",
+                "minute": 20,
+                "extraTime": null,
+                "playerName": "Ermedin Demirovic",
+                "relatedPlayer": "Angelo Stiller",
+                "teamName": "Stuttgart",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.9",
-                "away": "30.1"
+                "home": "70.7",
+                "away": "29.3"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -4944,7 +4955,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "129",
+                "home": "135",
                 "away": "47"
               },
               {
@@ -8326,6 +8337,13 @@
       "athleteID": null
     },
     {
+      "player": "Ermedin Demirovic",
+      "team": "Stuttgart",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Federico Valverde",
       "team": "Real Madrid",
       "goals": 1,
@@ -8397,6 +8415,12 @@
     }
   ],
   "topAssists": [
+    {
+      "player": "Angelo Stiller",
+      "team": "Stuttgart",
+      "goals": 1,
+      "athleteID": null
+    },
     {
       "player": "Brahim Díaz",
       "team": "Real Madrid",
