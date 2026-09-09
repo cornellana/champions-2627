@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:13:45Z",
+  "lastUpdated": "2026-09-09T18:14:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4501,8 +4501,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70",
-                "away": "30"
+                "home": "69.6",
+                "away": "30.4"
               },
               {
                 "key": "totalShots",
@@ -4527,7 +4527,7 @@
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "yellowCards",
@@ -4546,8 +4546,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "536",
-                "away": "204"
+                "home": "540",
+                "away": "210"
               },
               {
                 "key": "passPct",
@@ -4573,7 +4573,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5090,8 +5090,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.6",
-                "away": "35.4"
+                "home": "65.1",
+                "away": "34.9"
               },
               {
                 "key": "totalShots",
@@ -5135,8 +5135,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "428",
-                "away": "192"
+                "home": "443",
+                "away": "194"
               },
               {
                 "key": "passPct",
