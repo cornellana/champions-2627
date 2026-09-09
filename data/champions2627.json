@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:39:42Z",
+  "lastUpdated": "2026-09-09T18:40:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3972,13 +3972,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "5-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": {
@@ -4591,8 +4591,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.9",
-                "away": "28.1"
+                "home": "71.7",
+                "away": "28.3"
               },
               {
                 "key": "totalShots",
@@ -4637,7 +4637,7 @@
               {
                 "key": "accuratePasses",
                 "home": "747",
-                "away": "254"
+                "away": "256"
               },
               {
                 "key": "passPct",
@@ -8256,6 +8256,26 @@
   ],
   "standings": [
     {
+      "team": "FC Barcelona",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "position": 1
+    },
+    {
+      "team": "Stuttgart",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "position": 2
+    },
+    {
       "team": "Manchester City",
       "played": 1,
       "won": 1,
@@ -8263,7 +8283,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "position": 1
+      "position": 3
     },
     {
       "team": "Aston Villa",
@@ -8273,7 +8293,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 2
+      "position": 4
     },
     {
       "team": "Borussia Dortmund",
@@ -8283,7 +8303,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 3
+      "position": 5
     },
     {
       "team": "Real Betis",
@@ -8293,7 +8313,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 4
+      "position": 6
     },
     {
       "team": "Real Madrid",
@@ -8303,7 +8323,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "position": 5
+      "position": 7
     },
     {
       "team": "AEK Atenas",
@@ -8313,7 +8333,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "position": 6
+      "position": 8
     },
     {
       "team": "Arsenal",
@@ -8323,7 +8343,7 @@
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "position": 7
+      "position": 9
     },
     {
       "team": "Atlético de Madrid",
@@ -8333,7 +8353,7 @@
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "position": 8
+      "position": 10
     },
     {
       "team": "Bayern de Múnich",
@@ -8343,7 +8363,7 @@
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "position": 9
+      "position": 11
     },
     {
       "team": "Bodø/Glimt",
@@ -8353,7 +8373,7 @@
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "position": 10
+      "position": 12
     },
     {
       "team": "Como",
@@ -8363,30 +8383,10 @@
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "position": 11
-    },
-    {
-      "team": "FC Barcelona",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "position": 12
-    },
-    {
-      "team": "Fenerbahçe",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
       "position": 13
     },
     {
-      "team": "Feyenoord",
+      "team": "Fenerbahçe",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -8536,26 +8536,6 @@
       "position": 28
     },
     {
-      "team": "Stuttgart",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "position": 29
-    },
-    {
-      "team": "Viking",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "position": 30
-    },
-    {
       "team": "Brujas",
       "played": 1,
       "won": 0,
@@ -8563,7 +8543,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "position": 31
+      "position": 29
     },
     {
       "team": "Lille",
@@ -8573,7 +8553,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "position": 32
+      "position": 30
     },
     {
       "team": "Villarreal",
@@ -8583,7 +8563,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "position": 33
+      "position": 31
     },
     {
       "team": "Inter de Milán",
@@ -8593,7 +8573,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 34
+      "position": 32
     },
     {
       "team": "LASK",
@@ -8603,7 +8583,17 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "position": 35
+      "position": 33
+    },
+    {
+      "team": "Viking",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "position": 34
     },
     {
       "team": "Oporto",
@@ -8613,6 +8603,16 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 2,
+      "position": 35
+    },
+    {
+      "team": "Feyenoord",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 5,
       "position": 36
     }
   ],
