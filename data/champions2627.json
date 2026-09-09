@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:10:17Z",
+  "lastUpdated": "2026-09-09T17:11:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3973,12 +3973,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "2-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
-          "statusText": "In Progress",
+          "clock": "23'",
+          "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": {
@@ -4431,8 +4431,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "74.9",
-                "away": "25.1"
+                "home": "74.7",
+                "away": "25.3"
               },
               {
                 "key": "totalShots",
@@ -4477,7 +4477,7 @@
               {
                 "key": "accuratePasses",
                 "home": "194",
-                "away": "54"
+                "away": "55"
               },
               {
                 "key": "passPct",
@@ -4499,12 +4499,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
-          "statusText": "First Half",
+          "clock": "24'",
+          "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -4930,8 +4930,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.2",
-                "away": "29.8"
+                "home": "71.1",
+                "away": "28.9"
               },
               {
                 "key": "totalShots",
@@ -4975,7 +4975,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "144",
+                "home": "154",
                 "away": "51"
               },
               {
