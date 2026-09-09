@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:48:24Z",
+  "lastUpdated": "2026-09-09T19:49:29Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,8 +5312,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
-          "statusText": "In Progress",
+          "clock": "45'",
+          "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": {
@@ -5767,8 +5767,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.8",
-                "away": "48.2"
+                "home": "50.1",
+                "away": "49.9"
               },
               {
                 "key": "totalShots",
@@ -5793,7 +5793,7 @@
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "yellowCards",
@@ -5813,7 +5813,7 @@
               {
                 "key": "accuratePasses",
                 "home": "213",
-                "away": "197"
+                "away": "214"
               },
               {
                 "key": "passPct",
@@ -5839,8 +5839,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
-          "statusText": "In Progress",
+          "clock": "45'+1'",
+          "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -6247,13 +6247,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.9",
-                "away": "52.1"
+                "home": "47",
+                "away": "53"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -6263,7 +6263,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -6293,7 +6293,7 @@
               {
                 "key": "accuratePasses",
                 "home": "212",
-                "away": "238"
+                "away": "246"
               },
               {
                 "key": "passPct",
@@ -6319,7 +6319,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6793,12 +6793,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.1",
-                "away": "27.9"
+                "home": "72.2",
+                "away": "27.8"
               },
               {
                 "key": "totalShots",
-                "home": "20",
+                "home": "21",
                 "away": "3"
               },
               {
@@ -6838,7 +6838,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "332",
+                "home": "337",
                 "away": "106"
               },
               {
@@ -6865,7 +6865,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "In Progress",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7321,8 +7321,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.4",
-                "away": "63.6"
+                "home": "35.3",
+                "away": "64.7"
               },
               {
                 "key": "totalShots",
@@ -7366,8 +7366,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "140",
-                "away": "266"
+                "home": "142",
+                "away": "284"
               },
               {
                 "key": "passPct",
