@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:29:48Z",
+  "lastUpdated": "2026-09-09T20:30:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5828,8 +5828,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 69,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ryan Gravenberch",
+                "relatedPlayer": "Alexis Mac Allister",
                 "teamName": "Liverpool",
                 "text": null
               }
@@ -5837,8 +5837,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.2",
-                "away": "53.8"
+                "home": "46.5",
+                "away": "53.5"
               },
               {
                 "key": "totalShots",
@@ -5882,8 +5882,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "269",
-                "away": "319"
+                "home": "276",
+                "away": "322"
               },
               {
                 "key": "passPct",
@@ -5909,8 +5909,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
-          "statusText": "Second Half",
+          "clock": "69'",
+          "statusText": "In Progress",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -6439,7 +6439,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -7013,8 +7013,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.9",
-                "away": "27.1"
+                "home": "71.8",
+                "away": "28.2"
               },
               {
                 "key": "totalShots",
@@ -7033,12 +7033,12 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "5"
               },
               {
                 "key": "offsides",
-                "home": "4",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -7058,8 +7058,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "490",
-                "away": "147"
+                "home": "489",
+                "away": "159"
               },
               {
                 "key": "passPct",
@@ -7586,13 +7586,23 @@
                 "relatedPlayer": "Aleksey Batrakov",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "52139344_16",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.9",
-                "away": "64.1"
+                "home": "36.2",
+                "away": "63.8"
               },
               {
                 "key": "totalShots",
@@ -7636,8 +7646,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "198",
-                "away": "388"
+                "home": "201",
+                "away": "391"
               },
               {
                 "key": "passPct",
