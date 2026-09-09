@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:39:38Z",
+  "lastUpdated": "2026-09-09T20:40:44Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5912,12 +5912,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "303",
-                "away": "361"
+                "home": "307",
+                "away": "366"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
@@ -5939,7 +5939,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6447,8 +6447,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.7",
-                "away": "58.3"
+                "home": "42.1",
+                "away": "57.9"
               },
               {
                 "key": "totalShots",
@@ -6468,7 +6468,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -6492,8 +6492,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "315",
-                "away": "471"
+                "home": "322",
+                "away": "473"
               },
               {
                 "key": "passPct",
@@ -6519,7 +6519,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -7098,6 +7098,26 @@
                 "relatedPlayer": "Ferran Torres",
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "52140516_22",
+                "type": "SUBSTITUTION",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Alexej Maros",
+                "relatedPlayer": "Andraz Sporar",
+                "teamName": "Slovan Bratislava",
+                "text": null
+              },
+              {
+                "id": "52140517_23",
+                "type": "SUBSTITUTION",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Artur Gajdos",
+                "relatedPlayer": "Cristian Martínez",
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
@@ -7175,7 +7195,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
