@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:24:24Z",
+  "lastUpdated": "2026-09-09T19:25:29Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5819,7 +5819,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6288,7 +6288,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6727,6 +6727,16 @@
                 "relatedPlayer": null,
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "52132754_5",
+                "type": "SUBSTITUTION",
+                "minute": 21,
+                "extraTime": null,
+                "playerName": "Sahmkou Camara",
+                "relatedPlayer": "Kenan Bajric because of an injury",
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
@@ -6804,7 +6814,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7218,20 +7228,30 @@
             "events": [
               {
                 "id": "52130750_1",
-                "type": "GOAL",
+                "type": "OWN_GOAL",
                 "minute": 5,
                 "extraTime": null,
-                "playerName": "Lucas Torreira",
+                "playerName": "Gonçalo Inácio",
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
+                "text": null
+              },
+              {
+                "id": "52132753_2",
+                "type": "YELLOW_CARD",
+                "minute": 22,
+                "extraTime": null,
+                "playerName": "Sergi Altimira",
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.4",
-                "away": "65.6"
+                "home": "34.8",
+                "away": "65.2"
               },
               {
                 "key": "totalShots",
@@ -7241,7 +7261,7 @@
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "3"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -7250,7 +7270,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -7260,7 +7280,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -7275,8 +7295,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "60",
-                "away": "124"
+                "home": "61",
+                "away": "125"
               },
               {
                 "key": "passPct",
@@ -10631,13 +10651,6 @@
     {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Lucas Torreira",
-      "team": "Galatasaray",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
