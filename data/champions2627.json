@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T16:58:12Z",
+  "lastUpdated": "2026-09-09T16:59:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
+          "clock": "10'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4195,7 +4195,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-3-3",
+              "formation": "4-2-3-1",
               "players": [
                 {
                   "id": "335870",
@@ -4243,10 +4243,19 @@
                   "athleteID": "337084"
                 },
                 {
+                  "id": "341711",
+                  "jersey": 23,
+                  "name": "Anis Hadj Moussa",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "341711"
+                },
+                {
                   "id": "276260",
                   "jersey": 34,
                   "name": "Charles Vanhoutte",
-                  "position": "CM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "276260"
@@ -4255,19 +4264,10 @@
                   "id": "319296",
                   "jersey": 10,
                   "name": "Luciano Valente",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "319296"
-                },
-                {
-                  "id": "365021",
-                  "jersey": 8,
-                  "name": "Gjivai Zechiël",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "365021"
+                  "athleteID": "319296"
                 },
                 {
                   "id": "364582",
@@ -4282,19 +4282,19 @@
                   "id": "297354",
                   "jersey": 16,
                   "name": "Javi López",
-                  "position": "LF",
+                  "position": "AM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "297354"
                 },
                 {
-                  "id": "341711",
-                  "jersey": 23,
-                  "name": "Anis Hadj Moussa",
-                  "position": "RF",
+                  "id": "365021",
+                  "jersey": 8,
+                  "name": "Gjivai Zechiël",
+                  "position": "AM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "341711"
+                  "athleteID": "365021"
                 },
                 {
                   "id": "415052",
@@ -4421,8 +4421,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "81.5",
-                "away": "18.5"
+                "home": "81.6",
+                "away": "18.4"
               },
               {
                 "key": "totalShots",
@@ -4466,13 +4466,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "90",
-                "away": "13"
+                "home": "100",
+                "away": "15"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.6"
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -4493,7 +4493,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4899,18 +4899,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.3",
-                "away": "34.7"
+                "home": "66.9",
+                "away": "33.1"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -4920,7 +4920,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -4939,13 +4939,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "59",
-                "away": "29"
+                "home": "67",
+                "away": "30"
               },
               {
                 "key": "passPct",
