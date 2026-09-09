@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:16:59Z",
+  "lastUpdated": "2026-09-09T18:18:04Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4496,13 +4496,23 @@
                 "relatedPlayer": "Karim Adeyemi",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "52128606_14",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Fermín López",
+                "relatedPlayer": "Raphinha",
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.7",
-                "away": "29.3"
+                "home": "71",
+                "away": "29"
               },
               {
                 "key": "totalShots",
@@ -4521,7 +4531,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "9"
               },
               {
@@ -4546,7 +4556,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "569",
+                "home": "577",
                 "away": "209"
               },
               {
@@ -4573,7 +4583,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5130,8 +5140,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.8",
-                "away": "35.2"
+                "home": "64.1",
+                "away": "35.9"
               },
               {
                 "key": "totalShots",
@@ -5146,7 +5156,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "3"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -5175,8 +5185,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "453",
-                "away": "202"
+                "home": "454",
+                "away": "209"
               },
               {
                 "key": "passPct",
