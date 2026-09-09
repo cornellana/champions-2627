@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:40:29Z",
+  "lastUpdated": "2026-09-09T17:49:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -4612,28 +4612,10 @@
                   "athleteID": "201123"
                 },
                 {
-                  "id": "372026",
-                  "jersey": 29,
-                  "name": "Finn Jeltsch",
-                  "position": "CD",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "372026"
-                },
-                {
-                  "id": "290232",
-                  "jersey": 6,
-                  "name": "Angelo Stiller",
-                  "position": "LB",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "290232"
-                },
-                {
                   "id": "258909",
                   "jersey": 24,
                   "name": "Jeff Chabot",
-                  "position": "RB",
+                  "position": "CD",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "258909"
@@ -4642,19 +4624,37 @@
                   "id": "216225",
                   "jersey": 7,
                   "name": "Maximilian Mittelstädt",
-                  "position": "CM-L",
+                  "position": "LB",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "216225"
                 },
                 {
-                  "id": "290811",
-                  "jersey": 18,
-                  "name": "Jamie Leweling",
+                  "id": "372026",
+                  "jersey": 29,
+                  "name": "Finn Jeltsch",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "372026"
+                },
+                {
+                  "id": "290232",
+                  "jersey": 6,
+                  "name": "Angelo Stiller",
+                  "position": "CM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "290232"
+                },
+                {
+                  "id": "218714",
+                  "jersey": 21,
+                  "name": "Grischa Prömel",
                   "position": "CM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "290811"
+                  "athleteID": "218714"
                 },
                 {
                   "id": "268951",
@@ -4666,13 +4666,13 @@
                   "athleteID": "268951"
                 },
                 {
-                  "id": "273300",
-                  "jersey": 26,
-                  "name": "Deniz Undav",
+                  "id": "290811",
+                  "jersey": 18,
+                  "name": "Jamie Leweling",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "273300"
+                  "athleteID": "290811"
                 },
                 {
                   "id": "269136",
@@ -4684,22 +4684,22 @@
                   "athleteID": "269136"
                 },
                 {
-                  "id": "218714",
-                  "jersey": 21,
-                  "name": "Grischa Prömel",
-                  "position": "AM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "218714"
-                },
-                {
                   "id": "336595",
                   "jersey": 11,
                   "name": "Bilal El Khannouss",
-                  "position": "AM-R",
+                  "position": "AM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "336595"
+                },
+                {
+                  "id": "273300",
+                  "jersey": 26,
+                  "name": "Deniz Undav",
+                  "position": "AM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "273300"
                 }
               ]
             },
@@ -5015,7 +5015,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "313",
+                "home": "314",
                 "away": "101"
               },
               {
