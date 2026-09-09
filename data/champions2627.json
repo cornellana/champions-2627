@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:52:45Z",
+  "lastUpdated": "2026-09-09T20:53:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5887,8 +5887,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46",
-                "away": "54"
+                "home": "45",
+                "away": "55"
               },
               {
                 "key": "totalShots",
@@ -5908,7 +5908,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -5932,12 +5932,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "347",
-                "away": "414"
+                "home": "351",
+                "away": "438"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
@@ -5959,7 +5959,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6482,13 +6482,23 @@
                 "relatedPlayer": null,
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "52141814_24",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 1,
+                "playerName": "Martín Zubimendi",
+                "relatedPlayer": null,
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.1",
-                "away": "57.9"
+                "home": "42.4",
+                "away": "57.6"
               },
               {
                 "key": "totalShots",
@@ -6507,7 +6517,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "11"
               },
               {
@@ -6518,7 +6528,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -6532,8 +6542,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "376",
-                "away": "548"
+                "home": "381",
+                "away": "549"
               },
               {
                 "key": "passPct",
@@ -6559,7 +6569,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -7173,8 +7183,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.4",
-                "away": "27.6"
+                "home": "72.1",
+                "away": "27.9"
               },
               {
                 "key": "totalShots",
@@ -7218,8 +7228,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "674",
-                "away": "208"
+                "home": "675",
+                "away": "212"
               },
               {
                 "key": "passPct",
@@ -7245,7 +7255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7841,8 +7851,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.7",
-                "away": "62.3"
+                "home": "37.8",
+                "away": "62.2"
               },
               {
                 "key": "totalShots",
@@ -7886,8 +7896,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "275",
-                "away": "495"
+                "home": "278",
+                "away": "500"
               },
               {
                 "key": "passPct",
