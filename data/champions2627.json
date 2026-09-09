@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:26:43Z",
+  "lastUpdated": "2026-09-09T18:27:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4541,12 +4541,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71",
-                "away": "29"
+                "home": "71.4",
+                "away": "28.6"
               },
               {
                 "key": "totalShots",
-                "home": "20",
+                "home": "21",
                 "away": "3"
               },
               {
@@ -4586,8 +4586,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "633",
-                "away": "229"
+                "home": "651",
+                "away": "231"
               },
               {
                 "key": "passPct",
@@ -4613,7 +4613,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5170,12 +5170,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.4",
-                "away": "38.6"
+                "home": "61",
+                "away": "39"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "9"
               },
               {
@@ -5216,7 +5216,7 @@
               {
                 "key": "accuratePasses",
                 "home": "476",
-                "away": "252"
+                "away": "256"
               },
               {
                 "key": "passPct",
