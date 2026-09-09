@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:34:13Z",
+  "lastUpdated": "2026-09-09T19:35:19Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5757,8 +5757,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.9",
-                "away": "55.1"
+                "home": "44.6",
+                "away": "55.4"
               },
               {
                 "key": "totalShots",
@@ -5803,7 +5803,7 @@
               {
                 "key": "accuratePasses",
                 "home": "132",
-                "away": "163"
+                "away": "166"
               },
               {
                 "key": "passPct",
@@ -5829,7 +5829,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "31'",
+          "clock": "32'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6226,8 +6226,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47",
-                "away": "53"
+                "home": "46.9",
+                "away": "53.1"
               },
               {
                 "key": "totalShots",
@@ -6241,7 +6241,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "3"
               },
               {
@@ -6271,8 +6271,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "157",
-                "away": "185"
+                "home": "172",
+                "away": "200"
               },
               {
                 "key": "passPct",
@@ -6298,7 +6298,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6757,22 +6757,32 @@
                 "relatedPlayer": null,
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "52133829_8",
+                "type": "GOAL",
+                "minute": 31,
+                "extraTime": null,
+                "playerName": "Ferran Torres",
+                "relatedPlayer": "Ousmane Dembélé with a cross",
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "75.9",
-                "away": "24.1"
+                "home": "75.8",
+                "away": "24.2"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -6807,8 +6817,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "236",
-                "away": "61"
+                "home": "243",
+                "away": "63"
               },
               {
                 "key": "passPct",
@@ -6834,7 +6844,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "31'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7280,8 +7290,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.4",
-                "away": "64.6"
+                "home": "34.4",
+                "away": "65.6"
               },
               {
                 "key": "totalShots",
@@ -7325,8 +7335,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "78",
-                "away": "156"
+                "home": "81",
+                "away": "174"
               },
               {
                 "key": "passPct",
@@ -10651,6 +10661,13 @@
       "athleteID": null
     },
     {
+      "player": "Ferran Torres",
+      "team": "Paris Saint-Germain",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Gabriel Jesus",
       "team": "FC Barcelona",
       "goals": 1,
@@ -10868,6 +10885,12 @@
     {
       "player": "Lautaro Martínez",
       "team": "Inter de Milán",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Ousmane Dembélé with a cross",
+      "team": "Paris Saint-Germain",
       "goals": 1,
       "athleteID": null
     },
