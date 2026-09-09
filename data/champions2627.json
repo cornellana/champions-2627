@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:04:48Z",
+  "lastUpdated": "2026-09-09T19:05:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5736,8 +5736,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "15.4",
-                "away": "84.6"
+                "home": "8.7",
+                "away": "91.3"
               },
               {
                 "key": "totalShots",
@@ -5782,12 +5782,12 @@
               {
                 "key": "accuratePasses",
                 "home": "2",
-                "away": "9"
+                "away": "17"
               },
               {
                 "key": "passPct",
                 "home": "1.0",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -5808,7 +5808,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6277,7 +6277,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6782,8 +6782,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
-          "statusText": "In Progress",
+          "clock": "3'",
+          "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
           "details": {
@@ -7197,8 +7197,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "5.3",
-                "away": "94.7"
+                "home": "5",
+                "away": "95"
               },
               {
                 "key": "totalShots",
@@ -7213,7 +7213,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
