@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:34:06Z",
+  "lastUpdated": "2026-09-09T17:35:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -4486,7 +4486,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "399",
+                "home": "400",
                 "away": "118"
               },
               {
@@ -4513,7 +4513,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4970,8 +4970,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.6",
-                "away": "30.4"
+                "home": "71.2",
+                "away": "28.8"
               },
               {
                 "key": "totalShots",
@@ -5015,8 +5015,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "284",
-                "away": "99"
+                "home": "313",
+                "away": "100"
               },
               {
                 "key": "passPct",
