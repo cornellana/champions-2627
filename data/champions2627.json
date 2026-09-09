@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:12:27Z",
+  "lastUpdated": "2026-09-09T17:13:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4431,12 +4431,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.8",
-                "away": "29.2"
+                "home": "72.4",
+                "away": "27.6"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "2"
               },
               {
@@ -4476,7 +4476,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "194",
+                "home": "210",
                 "away": "69"
               },
               {
@@ -4503,8 +4503,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
-          "statusText": "In Progress",
+          "clock": "26'",
+          "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -4925,22 +4925,32 @@
                 "relatedPlayer": "Henrik Bjørdal",
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "52126259_3",
+                "type": "GOAL",
+                "minute": 26,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.5",
-                "away": "29.5"
+                "home": "71",
+                "away": "29"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -4951,7 +4961,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -4975,7 +4985,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "165",
+                "home": "170",
                 "away": "56"
               },
               {
