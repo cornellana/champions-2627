@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:02:55Z",
+  "lastUpdated": "2026-09-09T18:04:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4456,22 +4456,32 @@
                 "relatedPlayer": null,
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "52127989_8",
+                "type": "GOAL",
+                "minute": 57,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.3",
-                "away": "30.7"
+                "home": "69.6",
+                "away": "30.4"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "1"
               },
               {
@@ -4506,8 +4516,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "458",
-                "away": "180"
+                "home": "470",
+                "away": "181"
               },
               {
                 "key": "passPct",
@@ -4533,7 +4543,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4992,6 +5002,16 @@
                 "minute": 54,
                 "extraTime": null,
                 "playerName": "Peter Christiansen",
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "52127992_11",
+                "type": "YELLOW_CARD",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "Joe Bell",
                 "relatedPlayer": null,
                 "teamName": "Viking",
                 "text": null
