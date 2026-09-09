@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:33:08Z",
+  "lastUpdated": "2026-09-09T19:34:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5757,8 +5757,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.1",
-                "away": "54.9"
+                "home": "44.9",
+                "away": "55.1"
               },
               {
                 "key": "totalShots",
@@ -5782,7 +5782,7 @@
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
@@ -5802,7 +5802,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "133",
+                "home": "132",
                 "away": "163"
               },
               {
@@ -5829,7 +5829,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6298,7 +6298,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6762,12 +6762,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "76",
-                "away": "24"
+                "home": "75.9",
+                "away": "24.1"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "1"
               },
               {
@@ -6834,7 +6834,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
