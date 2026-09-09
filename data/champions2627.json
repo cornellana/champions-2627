@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:15:54Z",
+  "lastUpdated": "2026-09-09T18:16:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4501,12 +4501,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.2",
-                "away": "29.8"
+                "home": "70.7",
+                "away": "29.3"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "3"
               },
               {
@@ -4546,7 +4546,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "554",
+                "home": "569",
                 "away": "209"
               },
               {
@@ -4573,7 +4573,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5091,17 +5091,47 @@
                 "type": "SUBSTITUTION",
                 "minute": 71,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Simen Kvia-Egeskog",
+                "relatedPlayer": "Tobias Moi",
                 "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "52128566_17",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Vetle Auklend",
+                "relatedPlayer": "Kristoffer Haugen",
+                "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "52128567_18",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Ramon Hendriks",
+                "relatedPlayer": "Finn Jeltsch",
+                "teamName": "Stuttgart",
+                "text": null
+              },
+              {
+                "id": "52128568_19",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Leo Sauer",
+                "relatedPlayer": "Bilal El Khannouss",
+                "teamName": "Stuttgart",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.2",
-                "away": "34.8"
+                "home": "64.8",
+                "away": "35.2"
               },
               {
                 "key": "totalShots",
@@ -5145,8 +5175,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "448",
-                "away": "194"
+                "home": "453",
+                "away": "202"
               },
               {
                 "key": "passPct",
