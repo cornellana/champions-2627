@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:05:05Z",
+  "lastUpdated": "2026-09-09T18:06:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4466,23 +4466,33 @@
                 "relatedPlayer": "Pedri with a through ball",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "52128046_9",
+                "type": "GOAL",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Nacho Ferri",
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.5",
-                "away": "30.5"
+                "home": "68.5",
+                "away": "31.5"
               },
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -4517,7 +4527,7 @@
               {
                 "key": "accuratePasses",
                 "home": "470",
-                "away": "182"
+                "away": "192"
               },
               {
                 "key": "passPct",
@@ -4543,7 +4553,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5020,8 +5030,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.5",
-                "away": "33.5"
+                "home": "65.6",
+                "away": "34.4"
               },
               {
                 "key": "totalShots",
@@ -5065,8 +5075,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "375",
-                "away": "152"
+                "home": "377",
+                "away": "162"
               },
               {
                 "key": "passPct",
@@ -8491,6 +8501,13 @@
     {
       "player": "Kylian Mbappé",
       "team": "Real Madrid",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
+      "player": "Nacho Ferri",
+      "team": "Feyenoord",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
