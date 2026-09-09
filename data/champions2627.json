@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:10:08Z",
+  "lastUpdated": "2026-09-09T20:11:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5308,11 +5308,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5823,7 +5823,7 @@
               {
                 "key": "accuratePasses",
                 "home": "225",
-                "away": "230"
+                "away": "231"
               },
               {
                 "key": "passPct",
@@ -5849,7 +5849,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6339,7 +6339,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6823,12 +6823,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.4",
-                "away": "27.6"
+                "home": "72.9",
+                "away": "27.1"
               },
               {
                 "key": "totalShots",
-                "home": "22",
+                "home": "23",
                 "away": "3"
               },
               {
@@ -6868,8 +6868,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "354",
-                "away": "110"
+                "home": "380",
+                "away": "116"
               },
               {
                 "key": "passPct",
@@ -6895,7 +6895,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
