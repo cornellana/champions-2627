@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:38:32Z",
+  "lastUpdated": "2026-09-09T20:39:38Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5867,12 +5867,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.1",
-                "away": "53.9"
+                "home": "46.2",
+                "away": "53.8"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "13",
                 "away": "7"
               },
               {
@@ -5882,7 +5882,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "3"
               },
               {
@@ -5939,7 +5939,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6447,8 +6447,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.1",
-                "away": "58.9"
+                "home": "41.7",
+                "away": "58.3"
               },
               {
                 "key": "totalShots",
@@ -6492,8 +6492,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "304",
-                "away": "467"
+                "home": "315",
+                "away": "471"
               },
               {
                 "key": "passPct",
@@ -6519,7 +6519,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -7103,17 +7103,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.7",
-                "away": "26.3"
+                "home": "73.3",
+                "away": "26.7"
               },
               {
                 "key": "totalShots",
-                "home": "30",
+                "home": "31",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "10",
+                "home": "11",
                 "away": "2"
               },
               {
@@ -7123,7 +7123,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "6"
               },
               {
@@ -7144,12 +7144,12 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "accuratePasses",
-                "home": "588",
-                "away": "167"
+                "home": "596",
+                "away": "174"
               },
               {
                 "key": "passPct",
@@ -7175,7 +7175,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7686,6 +7686,26 @@
                 "relatedPlayer": "Rodrigo Zalazar",
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "52140356_17",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Fotis Ioannidis",
+                "relatedPlayer": "Luis Suárez",
+                "teamName": "Sporting de Portugal",
+                "text": null
+              },
+              {
+                "id": "52140357_18",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Silas Andersen",
+                "relatedPlayer": "Issa Doumbia",
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
@@ -7712,7 +7732,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -7736,7 +7756,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "250",
+                "home": "251",
                 "away": "436"
               },
               {
