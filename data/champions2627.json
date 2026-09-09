@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:23:28Z",
+  "lastUpdated": "2026-09-09T18:24:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3973,11 +3973,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-0",
+          "result": "4-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4526,22 +4526,32 @@
                 "relatedPlayer": "Charles Vanhoutte",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "52128861_17",
+                "type": "GOAL",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Lamine Yamal",
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.9",
-                "away": "29.1"
+                "home": "70.8",
+                "away": "29.2"
               },
               {
                 "key": "totalShots",
-                "home": "19",
+                "home": "20",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "1"
               },
               {
@@ -4577,7 +4587,7 @@
               {
                 "key": "accuratePasses",
                 "home": "612",
-                "away": "223"
+                "away": "224"
               },
               {
                 "key": "passPct",
@@ -4603,7 +4613,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -8631,6 +8641,13 @@
     {
       "player": "Kylian Mbappé",
       "team": "Real Madrid",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
+      "player": "Lamine Yamal",
+      "team": "FC Barcelona",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
