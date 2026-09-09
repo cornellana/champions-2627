@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T19:07:00Z",
+  "lastUpdated": "2026-09-09T19:08:05Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5736,18 +5736,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.9",
-                "away": "55.1"
+                "home": "43.1",
+                "away": "56.9"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -5776,17 +5776,17 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "20",
-                "away": "22"
+                "home": "21",
+                "away": "27"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -5808,7 +5808,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6205,8 +6205,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "0",
-                "away": "100"
+                "home": "48.9",
+                "away": "51.1"
               },
               {
                 "key": "totalShots",
@@ -6250,13 +6250,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "0",
-                "away": "8"
+                "home": "35",
+                "away": "39"
               },
               {
                 "key": "passPct",
-                "home": "0.0",
-                "away": "1.0"
+                "home": "0.9",
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -6277,7 +6277,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6710,17 +6710,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.3",
-                "away": "35.7"
+                "home": "77.6",
+                "away": "22.4"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -6751,11 +6751,11 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "24",
+                "home": "47",
                 "away": "11"
               },
               {
@@ -6782,8 +6782,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
-          "statusText": "First Half",
+          "clock": "5'",
+          "statusText": "In Progress",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
           "details": {
@@ -7193,7 +7193,18 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52130750_1",
+                "type": "GOAL",
+                "minute": 5,
+                "extraTime": null,
+                "playerName": "Lucas Torreira",
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
@@ -7203,12 +7214,12 @@
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -7237,7 +7248,7 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -10598,6 +10609,13 @@
     {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
+      "player": "Lucas Torreira",
+      "team": "Galatasaray",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
