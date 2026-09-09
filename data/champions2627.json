@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:18:04Z",
+  "lastUpdated": "2026-09-09T18:19:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4506,13 +4506,33 @@
                 "relatedPlayer": "Raphinha",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "52128678_15",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
+              },
+              {
+                "id": "52128679_16",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71",
-                "away": "29"
+                "home": "70.6",
+                "away": "29.4"
               },
               {
                 "key": "totalShots",
@@ -4531,13 +4551,13 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "9"
               },
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "yellowCards",
@@ -4556,8 +4576,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "577",
-                "away": "209"
+                "home": "587",
+                "away": "217"
               },
               {
                 "key": "passPct",
@@ -4583,7 +4603,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5140,8 +5160,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.1",
-                "away": "35.9"
+                "home": "63.1",
+                "away": "36.9"
               },
               {
                 "key": "totalShots",
@@ -5186,7 +5206,7 @@
               {
                 "key": "accuratePasses",
                 "home": "454",
-                "away": "209"
+                "away": "221"
               },
               {
                 "key": "passPct",
