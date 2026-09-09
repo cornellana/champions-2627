@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:42:54Z",
+  "lastUpdated": "2026-09-09T20:44:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,8 +5312,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
-          "statusText": "In Progress",
+          "clock": "84'",
+          "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": {
@@ -5939,7 +5939,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6442,13 +6442,23 @@
                 "relatedPlayer": "Stanislav Lobotka",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "52140848_22",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Martín Zubimendi",
+                "relatedPlayer": "Ben White",
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.4",
-                "away": "58.6"
+                "home": "42.4",
+                "away": "58"
               },
               {
                 "key": "totalShots",
@@ -6492,7 +6502,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "331",
+                "home": "346",
                 "away": "500"
               },
               {
@@ -6519,7 +6529,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -7123,8 +7133,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.9",
-                "away": "27.1"
+                "home": "73.1",
+                "away": "26.9"
               },
               {
                 "key": "totalShots",
@@ -7163,13 +7173,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "7"
               },
               {
                 "key": "accuratePasses",
-                "home": "611",
-                "away": "180"
+                "home": "620",
+                "away": "182"
               },
               {
                 "key": "passPct",
@@ -7195,7 +7205,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "In Progress",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7731,8 +7741,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40",
-                "away": "60"
+                "home": "39.4",
+                "away": "60.6"
               },
               {
                 "key": "totalShots",
@@ -7752,7 +7762,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -7776,8 +7786,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "271",
-                "away": "440"
+                "home": "274",
+                "away": "457"
               },
               {
                 "key": "passPct",
