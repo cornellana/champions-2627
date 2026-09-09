@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:19:56Z",
+  "lastUpdated": "2026-09-09T20:21:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,8 +5312,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
-          "statusText": "Second Half",
+          "clock": "61'",
+          "statusText": "In Progress",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": {
@@ -5782,13 +5782,43 @@
                 "relatedPlayer": null,
                 "teamName": "Atlético de Madrid",
                 "text": null
+              },
+              {
+                "id": "52137973_14",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Alejandro Grimaldo",
+                "relatedPlayer": "Lee Kang-In",
+                "teamName": "Atlético de Madrid",
+                "text": null
+              },
+              {
+                "id": "52137974_15",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Ademola Lookman",
+                "relatedPlayer": "Koke",
+                "teamName": "Atlético de Madrid",
+                "text": null
+              },
+              {
+                "id": "52137975_17",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": "Jeremie Frimpong",
+                "relatedPlayer": "Rio Ngumoha",
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
@@ -5807,7 +5837,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "8",
                 "away": "5"
               },
               {
@@ -5832,8 +5862,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "254",
-                "away": "248"
+                "home": "258",
+                "away": "255"
               },
               {
                 "key": "passPct",
@@ -5859,8 +5889,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
-          "statusText": "Second Half",
+          "clock": "59'",
+          "statusText": "In Progress",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -6272,13 +6302,33 @@
                 "relatedPlayer": "Alex Meret because of an injury",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "52138038_12",
+                "type": "SUBSTITUTION",
+                "minute": 57,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
+              },
+              {
+                "id": "52138039_14",
+                "type": "SUBSTITUTION",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.4",
-                "away": "58.6"
+                "home": "41.1",
+                "away": "58.9"
               },
               {
                 "key": "totalShots",
@@ -6322,8 +6372,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "233",
-                "away": "350"
+                "home": "237",
+                "away": "363"
               },
               {
                 "key": "passPct",
@@ -6345,12 +6395,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "5-0",
+          "result": "5-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
-          "statusText": "In Progress",
+          "clock": "60'",
+          "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": {
@@ -6858,6 +6908,26 @@
                 "relatedPlayer": "Tigran Barseghyan",
                 "teamName": "Slovan Bratislava",
                 "text": null
+              },
+              {
+                "id": "52137999_15",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Nino Marcelli",
+                "relatedPlayer": "Tigran Barseghyan",
+                "teamName": "Slovan Bratislava",
+                "text": null
+              },
+              {
+                "id": "52138000_16",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": "Alen Mustafic",
+                "relatedPlayer": "Rahim Ibrahim",
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
@@ -6908,7 +6978,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "413",
+                "home": "414",
                 "away": "129"
               },
               {
@@ -6931,12 +7001,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
-          "statusText": "In Progress",
+          "clock": "57'",
+          "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
           "details": {
@@ -7396,6 +7466,16 @@
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "52137977_12",
+                "type": "PENALTY",
+                "minute": 57,
+                "extraTime": null,
+                "playerName": "Luis Suárez",
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
@@ -7406,12 +7486,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -10839,6 +10919,13 @@
       "team": "FC Barcelona",
       "goals": 1,
       "penalties": 0,
+      "athleteID": null
+    },
+    {
+      "player": "Luis Suárez",
+      "team": "Sporting de Portugal",
+      "goals": 1,
+      "penalties": 1,
       "athleteID": null
     },
     {
