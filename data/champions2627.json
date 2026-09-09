@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:35:11Z",
+  "lastUpdated": "2026-09-09T17:36:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3978,7 +3978,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+1'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": {
@@ -4514,13 +4514,94 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
             "homeLineup": {
-              "formation": "4-2-3-1",
+              "formation": "3-2-4-1",
               "players": [
+                {
+                  "id": "238129",
+                  "jersey": 33,
+                  "name": "Marius Funk",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "238129"
+                },
+                {
+                  "id": "323847",
+                  "jersey": 2,
+                  "name": "Ameen Al Dakhil",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "323847"
+                },
+                {
+                  "id": "266839",
+                  "jersey": 4,
+                  "name": "Josha Vagnoman",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "266839"
+                },
+                {
+                  "id": "403741",
+                  "jersey": 47,
+                  "name": "Yanik Spalt",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "403741"
+                },
+                {
+                  "id": "289322",
+                  "jersey": 3,
+                  "name": "Ramon Hendriks",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "289322"
+                },
+                {
+                  "id": "241742",
+                  "jersey": 16,
+                  "name": "Atakan Karazor",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "241742"
+                },
+                {
+                  "id": "355487",
+                  "jersey": 44,
+                  "name": "Leo Sauer",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "355487"
+                },
+                {
+                  "id": "372027",
+                  "jersey": 43,
+                  "name": "Jarzinho Malanga",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "372027"
+                },
+                {
+                  "id": "345905",
+                  "jersey": 17,
+                  "name": "Dzenan Pejcinovic",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "345905"
+                },
                 {
                   "id": "201123",
                   "jersey": 1,
@@ -4531,28 +4612,37 @@
                   "athleteID": "201123"
                 },
                 {
-                  "id": "258909",
-                  "jersey": 24,
-                  "name": "Jeff Chabot",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "258909"
-                },
-                {
                   "id": "372026",
                   "jersey": 29,
                   "name": "Finn Jeltsch",
-                  "position": "CD-R",
+                  "position": "CD",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "372026"
                 },
                 {
+                  "id": "290232",
+                  "jersey": 6,
+                  "name": "Angelo Stiller",
+                  "position": "LB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "290232"
+                },
+                {
+                  "id": "258909",
+                  "jersey": 24,
+                  "name": "Jeff Chabot",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "258909"
+                },
+                {
                   "id": "216225",
                   "jersey": 7,
                   "name": "Maximilian Mittelstädt",
-                  "position": "LB",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "216225"
@@ -4561,37 +4651,28 @@
                   "id": "290811",
                   "jersey": 18,
                   "name": "Jamie Leweling",
-                  "position": "RB",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "290811"
                 },
                 {
-                  "id": "273300",
-                  "jersey": 26,
-                  "name": "Deniz Undav",
-                  "position": "AM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "273300"
-                },
-                {
-                  "id": "290232",
-                  "jersey": 6,
-                  "name": "Angelo Stiller",
+                  "id": "268951",
+                  "jersey": 10,
+                  "name": "Chris Führich",
                   "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "290232"
+                  "athleteID": "268951"
                 },
                 {
-                  "id": "218714",
-                  "jersey": 21,
-                  "name": "Grischa Prömel",
+                  "id": "273300",
+                  "jersey": 26,
+                  "name": "Deniz Undav",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "218714"
+                  "athleteID": "273300"
                 },
                 {
                   "id": "269136",
@@ -4603,13 +4684,13 @@
                   "athleteID": "269136"
                 },
                 {
-                  "id": "268951",
-                  "jersey": 10,
-                  "name": "Chris Führich",
+                  "id": "218714",
+                  "jersey": 21,
+                  "name": "Grischa Prömel",
                   "position": "AM-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "268951"
+                  "athleteID": "218714"
                 },
                 {
                   "id": "336595",
@@ -4619,87 +4700,6 @@
                   "isStarter": true,
                   "events": null,
                   "athleteID": "336595"
-                },
-                {
-                  "id": "238129",
-                  "jersey": 33,
-                  "name": "Marius Funk",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "238129"
-                },
-                {
-                  "id": "323847",
-                  "jersey": 2,
-                  "name": "Ameen Al Dakhil",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "323847"
-                },
-                {
-                  "id": "266839",
-                  "jersey": 4,
-                  "name": "Josha Vagnoman",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "266839"
-                },
-                {
-                  "id": "403741",
-                  "jersey": 47,
-                  "name": "Yanik Spalt",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "403741"
-                },
-                {
-                  "id": "289322",
-                  "jersey": 3,
-                  "name": "Ramon Hendriks",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "289322"
-                },
-                {
-                  "id": "241742",
-                  "jersey": 16,
-                  "name": "Atakan Karazor",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "241742"
-                },
-                {
-                  "id": "355487",
-                  "jersey": 44,
-                  "name": "Leo Sauer",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "355487"
-                },
-                {
-                  "id": "372027",
-                  "jersey": 43,
-                  "name": "Jarzinho Malanga",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "372027"
-                },
-                {
-                  "id": "345905",
-                  "jersey": 17,
-                  "name": "Dzenan Pejcinovic",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "345905"
                 }
               ]
             },
@@ -4970,8 +4970,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.2",
-                "away": "28.8"
+                "home": "71",
+                "away": "29"
               },
               {
                 "key": "totalShots",
@@ -5016,7 +5016,7 @@
               {
                 "key": "accuratePasses",
                 "home": "313",
-                "away": "100"
+                "away": "101"
               },
               {
                 "key": "passPct",
