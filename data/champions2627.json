@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:02:32Z",
+  "lastUpdated": "2026-09-09T20:04:40Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5767,8 +5767,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.8",
-                "away": "50.2"
+                "home": "49.9",
+                "away": "50.1"
               },
               {
                 "key": "totalShots",
@@ -5812,7 +5812,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "212",
+                "home": "213",
                 "away": "216"
               },
               {
@@ -6537,7 +6537,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-3-3",
+              "formation": "4-1-4-1",
               "players": [
                 {
                   "id": "275486",
@@ -6567,6 +6567,15 @@
                   "athleteID": "238958"
                 },
                 {
+                  "id": "307484",
+                  "jersey": 3,
+                  "name": "Peter Pokorny",
+                  "position": "DM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "307484"
+                },
+                {
                   "id": "340556",
                   "jersey": 57,
                   "name": "Sandro Cruz",
@@ -6585,19 +6594,10 @@
                   "athleteID": "260346"
                 },
                 {
-                  "id": "307484",
-                  "jersey": 3,
-                  "name": "Peter Pokorny",
-                  "position": "CM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "307484"
-                },
-                {
                   "id": "386509",
                   "jersey": 5,
                   "name": "Rahim Ibrahim",
-                  "position": "LM",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "386509"
@@ -6606,10 +6606,28 @@
                   "id": "176145",
                   "jersey": 70,
                   "name": "Cristian Martínez",
-                  "position": "RM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "176145"
+                },
+                {
+                  "id": "310419",
+                  "jersey": 21,
+                  "name": "Suleiman Camara",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "310419"
+                },
+                {
+                  "id": "235045",
+                  "jersey": 11,
+                  "name": "Tigran Barseghyan",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "235045"
                 },
                 {
                   "id": "189717",
@@ -6619,24 +6637,6 @@
                   "isStarter": true,
                   "events": null,
                   "athleteID": "189717"
-                },
-                {
-                  "id": "310419",
-                  "jersey": 21,
-                  "name": "Suleiman Camara",
-                  "position": "LF",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "310419"
-                },
-                {
-                  "id": "235045",
-                  "jersey": 11,
-                  "name": "Tigran Barseghyan",
-                  "position": "RF",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "235045"
                 },
                 {
                   "id": "401989",
