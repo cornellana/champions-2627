@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:38:37Z",
+  "lastUpdated": "2026-09-09T18:39:42Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4591,18 +4591,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.4",
-                "away": "28.6"
+                "home": "71.9",
+                "away": "28.1"
               },
               {
                 "key": "totalShots",
-                "home": "23",
-                "away": "6"
+                "home": "24",
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "9",
-                "away": "3"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -4612,12 +4612,12 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "yellowCards",
@@ -4636,8 +4636,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "735",
-                "away": "257"
+                "home": "747",
+                "away": "254"
               },
               {
                 "key": "passPct",
@@ -4658,13 +4658,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "3-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
