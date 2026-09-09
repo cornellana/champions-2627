@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:29:58Z",
+  "lastUpdated": "2026-09-09T18:31:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4572,8 +4572,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 84,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Tobias van den Elshout",
+                "relatedPlayer": "Luciano Valente",
                 "teamName": "Feyenoord",
                 "text": null
               }
@@ -4581,8 +4581,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.2",
-                "away": "28.8"
+                "home": "72",
+                "away": "28"
               },
               {
                 "key": "totalShots",
@@ -4626,13 +4626,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "659",
+                "home": "692",
                 "away": "236"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -4653,7 +4653,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5220,8 +5220,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.2",
-                "away": "38.8"
+                "home": "61.4",
+                "away": "38.6"
               },
               {
                 "key": "totalShots",
@@ -5245,7 +5245,7 @@
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -5265,8 +5265,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "479",
-                "away": "256"
+                "home": "490",
+                "away": "257"
               },
               {
                 "key": "passPct",
