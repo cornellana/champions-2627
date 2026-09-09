@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:27:48Z",
+  "lastUpdated": "2026-09-09T18:28:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4536,23 +4536,33 @@
                 "relatedPlayer": null,
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "52129025_18",
+                "type": "GOAL",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Sem Steijn",
+                "relatedPlayer": "Gonçalo Borges with a cross",
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.4",
-                "away": "28.6"
+                "home": "71.2",
+                "away": "28.8"
               },
               {
                 "key": "totalShots",
                 "home": "21",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "7",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -4586,13 +4596,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "651",
-                "away": "231"
+                "home": "658",
+                "away": "236"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -4613,7 +4623,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -5165,13 +5175,23 @@
                 "relatedPlayer": "Bilal El Khannouss",
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "52129042_20",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": "Herman Haugen",
+                "relatedPlayer": "Henrik Heggheim",
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61",
-                "away": "39"
+                "home": "61.2",
+                "away": "38.8"
               },
               {
                 "key": "totalShots",
@@ -5185,7 +5205,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "5"
               },
               {
@@ -5215,7 +5235,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "476",
+                "home": "479",
                 "away": "256"
               },
               {
@@ -8681,6 +8701,13 @@
       "athleteID": null
     },
     {
+      "player": "Sem Steijn",
+      "team": "Feyenoord",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Troy Parrott",
       "team": "Real Betis",
       "goals": 1,
@@ -8747,6 +8774,12 @@
     {
       "player": "Georges Mikautadze with a cross following a corner",
       "team": "Villarreal",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Gonçalo Borges with a cross",
+      "team": "Feyenoord",
       "goals": 1,
       "athleteID": null
     },
