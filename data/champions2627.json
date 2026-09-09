@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:25:23Z",
+  "lastUpdated": "2026-09-09T20:26:30Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -5312,7 +5312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -5827,8 +5827,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.9",
-                "away": "52.1"
+                "home": "48.2",
+                "away": "51.8"
               },
               {
                 "key": "totalShots",
@@ -5848,7 +5848,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -5872,8 +5872,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "263",
-                "away": "287"
+                "home": "267",
+                "away": "288"
               },
               {
                 "key": "passPct",
@@ -5899,7 +5899,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -6337,8 +6337,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.5",
-                "away": "59.5"
+                "home": "41.7",
+                "away": "58.3"
               },
               {
                 "key": "totalShots",
@@ -6357,7 +6357,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "6"
               },
               {
@@ -6382,8 +6382,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "247",
-                "away": "388"
+                "home": "264",
+                "away": "390"
               },
               {
                 "key": "passPct",
@@ -6409,7 +6409,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -6944,8 +6944,38 @@
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Lucas Hernández",
+                "relatedPlayer": "Willian Pacho",
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "52138759_18",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Mika Godts",
+                "relatedPlayer": "Ousmane Dembélé",
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "52138760_19",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Lucas Digne",
+                "relatedPlayer": "Achraf Hakimi",
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "52138761_20",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Senny Mayulu",
+                "relatedPlayer": "Nuno Mendes",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               }
@@ -6953,12 +6983,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.2",
-                "away": "26.8"
+                "home": "73.6",
+                "away": "26.4"
               },
               {
                 "key": "totalShots",
-                "home": "26",
+                "home": "27",
                 "away": "5"
               },
               {
@@ -6998,7 +7028,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "452",
+                "home": "467",
                 "away": "137"
               },
               {
@@ -7025,7 +7055,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -7511,8 +7541,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.8",
-                "away": "64.2"
+                "home": "35.5",
+                "away": "64.5"
               },
               {
                 "key": "totalShots",
@@ -7532,7 +7562,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -7556,8 +7586,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "190",
-                "away": "376"
+                "home": "192",
+                "away": "383"
               },
               {
                 "key": "passPct",
