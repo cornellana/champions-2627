@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:17:52Z",
+  "lastUpdated": "2026-09-09T17:18:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -3977,7 +3977,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -4441,8 +4441,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "74.5",
-                "away": "25.5"
+                "home": "74.9",
+                "away": "25.1"
               },
               {
                 "key": "totalShots",
@@ -4462,7 +4462,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -4486,8 +4486,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "250",
-                "away": "73"
+                "home": "261",
+                "away": "74"
               },
               {
                 "key": "passPct",
@@ -4513,7 +4513,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -4950,8 +4950,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.9",
-                "away": "28.1"
+                "home": "72.2",
+                "away": "27.8"
               },
               {
                 "key": "totalShots",
@@ -4995,7 +4995,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
+                "home": "205",
                 "away": "63"
               },
               {
