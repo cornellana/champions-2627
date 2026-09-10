@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:48:05Z",
+  "lastUpdated": "2026-09-10T20:49:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9875,7 +9875,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10455,13 +10455,23 @@
                 "relatedPlayer": "Yan Couto",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "52185306_19",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.8",
-                "away": "48.2"
+                "home": "51.4",
+                "away": "48.6"
               },
               {
                 "key": "totalShots",
@@ -10506,7 +10516,7 @@
               {
                 "key": "accuratePasses",
                 "home": "445",
-                "away": "396"
+                "away": "403"
               },
               {
                 "key": "passPct",
@@ -10532,7 +10542,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11117,8 +11127,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.5",
-                "away": "40.5"
+                "home": "59.1",
+                "away": "40.9"
               },
               {
                 "key": "totalShots",
@@ -11138,7 +11148,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -11162,8 +11172,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "560",
-                "away": "353"
+                "home": "562",
+                "away": "359"
               },
               {
                 "key": "passPct",
@@ -11189,7 +11199,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11763,8 +11773,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.6",
-                "away": "63.4"
+                "home": "36.7",
+                "away": "63.3"
               },
               {
                 "key": "totalShots",
@@ -11784,7 +11794,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -11808,7 +11818,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "175",
+                "home": "176",
                 "away": "343"
               },
               {
