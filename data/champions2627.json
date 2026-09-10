@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:27:37Z",
+  "lastUpdated": "2026-09-10T18:28:42Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7941,7 +7941,7 @@
           "shootout": null,
           "state": "in",
           "clock": "84'",
-          "statusText": "In Progress",
+          "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
           "details": {
@@ -8481,13 +8481,23 @@
                 "relatedPlayer": "Matías Soulé",
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "52178210_28",
+                "type": "YELLOW_CARD",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": "Ismail Yüksek",
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.7",
-                "away": "58.3"
+                "home": "42",
+                "away": "58"
               },
               {
                 "key": "totalShots",
@@ -8506,8 +8516,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
-                "away": "17"
+                "home": "11",
+                "away": "18"
               },
               {
                 "key": "offsides",
@@ -8516,7 +8526,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -8531,8 +8541,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "321",
-                "away": "486"
+                "home": "333",
+                "away": "498"
               },
               {
                 "key": "passPct",
@@ -9098,18 +9108,28 @@
                 "relatedPlayer": null,
                 "teamName": "PSV",
                 "text": null
+              },
+              {
+                "id": "52178245_21",
+                "type": "SUBSTITUTION",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "PSV",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.9",
-                "away": "47.1"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -9149,7 +9169,7 @@
               {
                 "key": "accuratePasses",
                 "home": "348",
-                "away": "300"
+                "away": "308"
               },
               {
                 "key": "passPct",
