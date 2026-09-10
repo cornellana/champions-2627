@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:46:41Z",
+  "lastUpdated": "2026-09-10T19:47:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
+          "clock": "43'",
           "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9652,17 +9652,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.8",
-                "away": "28.2"
+                "home": "72.4",
+                "away": "27.6"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -9693,12 +9693,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "accuratePasses",
-                "home": "351",
-                "away": "108"
+                "home": "366",
+                "away": "110"
               },
               {
                 "key": "passPct",
@@ -9724,7 +9724,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
+          "clock": "43'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10261,8 +10261,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
-          "statusText": "In Progress",
+          "clock": "44'",
+          "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10706,12 +10706,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.6",
-                "away": "39.4"
+                "home": "59.7",
+                "away": "40.3"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "4"
               },
               {
@@ -10751,8 +10751,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "255",
-                "away": "154"
+                "home": "264",
+                "away": "166"
               },
               {
                 "key": "passPct",
@@ -10778,7 +10778,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
+          "clock": "44'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11222,8 +11222,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.6",
-                "away": "63.4"
+                "home": "37.5",
+                "away": "62.5"
               },
               {
                 "key": "totalShots",
@@ -11237,7 +11237,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -11267,7 +11267,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "112",
+                "home": "117",
                 "away": "204"
               },
               {
