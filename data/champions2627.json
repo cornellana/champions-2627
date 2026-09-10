@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:21:30Z",
+  "lastUpdated": "2026-09-10T17:22:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,8 +7940,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
-          "statusText": "In Progress",
+          "clock": "35'",
+          "statusText": "First Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
           "details": {
@@ -8355,8 +8355,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.9",
-                "away": "54.1"
+                "home": "47.6",
+                "away": "52.4"
               },
               {
                 "key": "totalShots",
@@ -8371,7 +8371,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -8400,8 +8400,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "140",
-                "away": "180"
+                "home": "154",
+                "away": "183"
               },
               {
                 "key": "passPct",
@@ -8427,8 +8427,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
-          "statusText": "In Progress",
+          "clock": "35'",
+          "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
@@ -8847,12 +8847,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52176775_5",
+                "type": "YELLOW_CARD",
+                "minute": 35,
+                "extraTime": null,
+                "playerName": "Vinícius Tobias",
+                "relatedPlayer": null,
+                "teamName": "Shajtar Donetsk",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.5",
-                "away": "53.5"
+                "home": "46.8",
+                "away": "53.2"
               },
               {
                 "key": "totalShots",
@@ -8866,13 +8877,13 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -8882,7 +8893,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -8896,8 +8907,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "140",
-                "away": "165"
+                "home": "144",
+                "away": "166"
               },
               {
                 "key": "passPct",
