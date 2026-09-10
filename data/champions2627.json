@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:38:32Z",
+  "lastUpdated": "2026-09-10T18:39:37Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7935,13 +7935,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "1-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+4'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
           "details": {
