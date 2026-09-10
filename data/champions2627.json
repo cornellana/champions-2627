@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:56:48Z",
+  "lastUpdated": "2026-09-10T20:57:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9250,13 +9250,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "5-0",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": {
@@ -9890,13 +9890,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "4-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+4'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -11249,7 +11249,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+5'",
+          "clock": "90'+6'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11853,12 +11853,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.7",
-                "away": "63.3"
+                "home": "36.8",
+                "away": "63.2"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "26"
               },
               {
@@ -11868,7 +11868,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "6",
                 "away": "9"
               },
               {
