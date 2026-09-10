@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:27:57Z",
+  "lastUpdated": "2026-09-10T19:29:03Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9652,8 +9652,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "74",
-                "away": "26"
+                "home": "72.8",
+                "away": "27.2"
               },
               {
                 "key": "totalShots",
@@ -9673,7 +9673,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -9698,12 +9698,12 @@
               {
                 "key": "accuratePasses",
                 "home": "189",
-                "away": "50"
+                "away": "53"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.7"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -9724,8 +9724,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
-          "statusText": "In Progress",
+          "clock": "24'",
+          "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -10164,13 +10164,23 @@
                 "relatedPlayer": null,
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "52180308_3",
+                "type": "YELLOW_CARD",
+                "minute": 24,
+                "extraTime": null,
+                "playerName": "Christopher Nkunku",
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.9",
-                "away": "40.1"
+                "home": "59",
+                "away": "41"
               },
               {
                 "key": "totalShots",
@@ -10190,7 +10200,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -10200,7 +10210,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -10215,7 +10225,7 @@
               {
                 "key": "accuratePasses",
                 "home": "132",
-                "away": "81"
+                "away": "85"
               },
               {
                 "key": "passPct",
@@ -10241,7 +10251,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10737,7 +10747,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11170,8 +11180,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.2",
-                "away": "62.8"
+                "home": "37.9",
+                "away": "62.1"
               },
               {
                 "key": "totalShots",
@@ -11215,8 +11225,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "62",
-                "away": "116"
+                "home": "66",
+                "away": "118"
               },
               {
                 "key": "passPct",
