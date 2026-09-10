@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:51:21Z",
+  "lastUpdated": "2026-09-10T20:52:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9818,7 +9818,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "20",
+                "home": "21",
                 "away": "3"
               },
               {
@@ -9885,7 +9885,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10485,6 +10485,16 @@
                 "relatedPlayer": "Ridle Baku",
                 "teamName": "RB Leipzig",
                 "text": null
+              },
+              {
+                "id": "52185587_21",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Máximo Perrone",
+                "relatedPlayer": "Nico Paz with a through ball",
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
@@ -10562,7 +10572,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11147,13 +11157,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.8",
-                "away": "41.2"
+                "home": "57.7",
+                "away": "42.3"
               },
               {
                 "key": "totalShots",
                 "home": "21",
-                "away": "7"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
@@ -11192,8 +11202,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "568",
-                "away": "368"
+                "home": "572",
+                "away": "390"
               },
               {
                 "key": "passPct",
@@ -11219,7 +11229,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11803,13 +11813,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.6",
-                "away": "63.4"
+                "home": "36.2",
+                "away": "63.8"
               },
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "23"
+                "away": "24"
               },
               {
                 "key": "shotsOnTarget",
@@ -11848,8 +11858,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "176",
-                "away": "345"
+                "home": "178",
+                "away": "358"
               },
               {
                 "key": "passPct",
@@ -15444,6 +15454,12 @@
       "athleteID": null
     },
     {
+      "player": "Nico Paz with a through ball",
+      "team": "Como",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Ousmane Dembélé with a cross",
       "team": "Paris Saint-Germain",
       "goals": 1,
@@ -15476,12 +15492,6 @@
     {
       "player": "Pau Torres following a fast break",
       "team": "Aston Villa",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Pedri with a through ball",
-      "team": "FC Barcelona",
       "goals": 1,
       "athleteID": null
     }
