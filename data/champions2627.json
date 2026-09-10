@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:32:33Z",
+  "lastUpdated": "2026-09-10T20:33:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9795,7 +9795,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10355,18 +10355,28 @@
                 "relatedPlayer": "Martin Baturina",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "52184120_17",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.2",
-                "away": "46.8"
+                "home": "52.5",
+                "away": "47.5"
               },
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -10405,8 +10415,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "373",
-                "away": "305"
+                "home": "379",
+                "away": "321"
               },
               {
                 "key": "passPct",
@@ -10432,7 +10442,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10968,8 +10978,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 71,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Abdulla Xaybulayev",
+                "relatedPlayer": "Umarali Rakhmonaliev",
                 "teamName": "Sabah",
                 "text": null
               },
@@ -10978,8 +10988,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 72,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Shea Lacey",
+                "relatedPlayer": "Bryan Mbeumo",
                 "teamName": "Manchester United",
                 "text": null
               },
@@ -10988,8 +10998,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 72,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Harry Amass",
+                "relatedPlayer": "Patrick Dorgu",
                 "teamName": "Manchester United",
                 "text": null
               }
@@ -10997,8 +11007,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.8",
-                "away": "41.2"
+                "home": "58.6",
+                "away": "41.4"
               },
               {
                 "key": "totalShots",
@@ -11018,7 +11028,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -11042,8 +11052,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "445",
-                "away": "286"
+                "home": "450",
+                "away": "294"
               },
               {
                 "key": "passPct",
@@ -11069,7 +11079,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11573,13 +11583,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.5",
-                "away": "63.5"
+                "home": "36.7",
+                "away": "63.3"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -11618,8 +11628,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "153",
-                "away": "296"
+                "home": "157",
+                "away": "302"
               },
               {
                 "key": "passPct",
