@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:04:44Z",
+  "lastUpdated": "2026-09-10T18:05:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "62'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8401,13 +8401,23 @@
                 "relatedPlayer": "Manu Koné",
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "52177571_18",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44",
-                "away": "56"
+                "home": "43.8",
+                "away": "56.2"
               },
               {
                 "key": "totalShots",
@@ -8452,7 +8462,7 @@
               {
                 "key": "accuratePasses",
                 "home": "258",
-                "away": "351"
+                "away": "353"
               },
               {
                 "key": "passPct",
@@ -8478,7 +8488,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8963,8 +8973,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.9",
-                "away": "53.1"
+                "home": "47.7",
+                "away": "52.3"
               },
               {
                 "key": "totalShots",
@@ -9008,8 +9018,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "222",
-                "away": "251"
+                "home": "234",
+                "away": "253"
               },
               {
                 "key": "passPct",
