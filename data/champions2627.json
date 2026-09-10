@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:57:54Z",
+  "lastUpdated": "2026-09-10T20:58:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11249,7 +11249,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+6'",
+          "clock": "90'+7'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11853,12 +11853,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.8",
-                "away": "63.2"
+                "home": "37.3",
+                "away": "62.7"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "26"
               },
               {
@@ -11898,7 +11898,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "187",
+                "home": "190",
                 "away": "362"
               },
               {
@@ -14662,6 +14662,16 @@
       "position": 1
     },
     {
+      "team": "Bayern de Múnich",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "position": 2
+    },
+    {
       "team": "FC Barcelona",
       "played": 1,
       "won": 1,
@@ -14669,7 +14679,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "position": 2
+      "position": 3
     },
     {
       "team": "Manchester United",
@@ -14679,7 +14689,17 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "position": 3
+      "position": 4
+    },
+    {
+      "team": "Como",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "position": 5
     },
     {
       "team": "Sporting de Portugal",
@@ -14689,7 +14709,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "position": 4
+      "position": 6
     },
     {
       "team": "Stuttgart",
@@ -14699,7 +14719,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "position": 5
+      "position": 7
     },
     {
       "team": "Manchester City",
@@ -14709,7 +14729,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "position": 6
+      "position": 8
     },
     {
       "team": "Aston Villa",
@@ -14719,7 +14739,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 7
+      "position": 9
     },
     {
       "team": "Borussia Dortmund",
@@ -14729,7 +14749,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 8
+      "position": 10
     },
     {
       "team": "Real Betis",
@@ -14739,7 +14759,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 9
+      "position": 11
     },
     {
       "team": "Liverpool",
@@ -14749,7 +14769,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "position": 10
+      "position": 12
     },
     {
       "team": "Real Madrid",
@@ -14759,7 +14779,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "position": 11
+      "position": 13
     },
     {
       "team": "AEK Atenas",
@@ -14769,7 +14789,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "position": 12
+      "position": 14
     },
     {
       "team": "Arsenal",
@@ -14779,7 +14799,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "position": 13
+      "position": 15
     },
     {
       "team": "Fenerbahçe",
@@ -14789,7 +14809,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "position": 14
+      "position": 16
     },
     {
       "team": "PSV",
@@ -14799,7 +14819,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "position": 15
+      "position": 17
     },
     {
       "team": "Roma",
@@ -14809,7 +14829,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "position": 16
+      "position": 18
     },
     {
       "team": "Shajtar Donetsk",
@@ -14819,37 +14839,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "position": 17
-    },
-    {
-      "team": "Bayern de Múnich",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "position": 18
-    },
-    {
-      "team": "Bodø/Glimt",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
       "position": 19
-    },
-    {
-      "team": "Como",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "position": 20
     },
     {
       "team": "Lens",
@@ -14859,17 +14849,7 @@
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "position": 21
-    },
-    {
-      "team": "RB Leipzig",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "position": 22
+      "position": 20
     },
     {
       "team": "Slavia de Praga",
@@ -14879,7 +14859,7 @@
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "position": 23
+      "position": 21
     },
     {
       "team": "Brujas",
@@ -14889,7 +14869,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "position": 24
+      "position": 22
     },
     {
       "team": "Lille",
@@ -14899,7 +14879,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "position": 25
+      "position": 23
     },
     {
       "team": "Villarreal",
@@ -14909,7 +14889,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "position": 26
+      "position": 24
     },
     {
       "team": "Atlético de Madrid",
@@ -14919,7 +14899,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 27
+      "position": 25
     },
     {
       "team": "Inter de Milán",
@@ -14929,7 +14909,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 28
+      "position": 26
     },
     {
       "team": "LASK",
@@ -14939,7 +14919,7 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "position": 29
+      "position": 27
     },
     {
       "team": "Nápoles",
@@ -14949,7 +14929,7 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "position": 30
+      "position": 28
     },
     {
       "team": "Galatasaray",
@@ -14959,7 +14939,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 3,
-      "position": 31
+      "position": 29
     },
     {
       "team": "Viking",
@@ -14969,7 +14949,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 3,
-      "position": 32
+      "position": 30
     },
     {
       "team": "Oporto",
@@ -14979,7 +14959,17 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "position": 33
+      "position": 31
+    },
+    {
+      "team": "RB Leipzig",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "position": 32
     },
     {
       "team": "Feyenoord",
@@ -14989,7 +14979,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 5,
-      "position": 34
+      "position": 33
     },
     {
       "team": "Sabah",
@@ -14999,7 +14989,7 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 4,
-      "position": 35
+      "position": 34
     },
     {
       "team": "Slovan Bratislava",
@@ -15009,6 +14999,16 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 6,
+      "position": 35
+    },
+    {
+      "team": "Bodø/Glimt",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 0,
+      "goalsAgainst": 5,
       "position": 36
     }
   ],
