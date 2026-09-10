@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:06:16Z",
+  "lastUpdated": "2026-09-10T20:07:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -10261,8 +10261,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
-          "statusText": "In Progress",
+          "clock": "47'",
+          "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10727,8 +10727,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Orphé Mbina",
+                "relatedPlayer": "Christian Nwachukwu",
                 "teamName": "Sabah",
                 "text": null
               }
@@ -10808,8 +10808,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -11243,8 +11243,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Mikulás Konecny",
+                "relatedPlayer": "David Zima",
                 "teamName": "Slavia de Praga",
                 "text": null
               }
@@ -11252,8 +11252,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38",
-                "away": "62"
+                "home": "38.4",
+                "away": "61.6"
               },
               {
                 "key": "totalShots",
@@ -11273,7 +11273,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -11297,8 +11297,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "124",
-                "away": "209"
+                "home": "128",
+                "away": "211"
               },
               {
                 "key": "passPct",
