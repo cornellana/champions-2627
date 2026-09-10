@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:10:12Z",
+  "lastUpdated": "2026-09-10T18:11:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8488,7 +8488,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8993,18 +8993,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "51.3",
+                "away": "48.7"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -9014,7 +9014,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -9033,13 +9033,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "272",
-                "away": "255"
+                "home": "280",
+                "away": "256"
               },
               {
                 "key": "passPct",
