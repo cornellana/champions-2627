@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:11:21Z",
+  "lastUpdated": "2026-09-10T19:12:26Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,8 +9255,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
-          "statusText": "First Half",
+          "clock": "8'",
+          "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": {
@@ -9724,7 +9724,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10159,8 +10159,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.8",
-                "away": "29.2"
+                "home": "68",
+                "away": "32"
               },
               {
                 "key": "totalShots",
@@ -10200,12 +10200,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "38",
-                "away": "11"
+                "home": "42",
+                "away": "13"
               },
               {
                 "key": "passPct",
@@ -10231,7 +10231,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10655,22 +10655,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.6",
-                "away": "44.4"
+                "home": "56.9",
+                "away": "43.1"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -10696,11 +10696,11 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "48",
+                "home": "49",
                 "away": "34"
               },
               {
@@ -10727,7 +10727,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "In Progress",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11160,12 +11160,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.3",
-                "away": "65.7"
+                "home": "31.2",
+                "away": "68.8"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -11180,7 +11180,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -11205,12 +11205,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "15",
-                "away": "30"
+                "home": "16",
+                "away": "37"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.7"
               }
             ],
