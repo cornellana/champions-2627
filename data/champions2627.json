@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:37:49Z",
+  "lastUpdated": "2026-09-10T19:38:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9724,7 +9724,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10179,18 +10179,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.8",
-                "away": "40.2"
+                "home": "57.5",
+                "away": "42.5"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -10200,7 +10200,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -10219,13 +10219,13 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "194",
-                "away": "124"
+                "home": "204",
+                "away": "145"
               },
               {
                 "key": "passPct",
@@ -10251,7 +10251,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10686,13 +10686,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.6",
-                "away": "35.4"
+                "home": "62.1",
+                "away": "37.9"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
@@ -10731,8 +10731,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "216",
-                "away": "108"
+                "home": "217",
+                "away": "123"
               },
               {
                 "key": "passPct",
@@ -10758,7 +10758,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11187,21 +11187,32 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52181085_5",
+                "type": "GOAL",
+                "minute": 35,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.8",
-                "away": "61.2"
+                "home": "39.7",
+                "away": "60.3"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -11236,8 +11247,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "88",
-                "away": "147"
+                "home": "95",
+                "away": "150"
               },
               {
                 "key": "passPct",
