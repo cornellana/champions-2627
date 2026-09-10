@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:26:56Z",
+  "lastUpdated": "2026-09-10T17:28:01Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7936,11 +7936,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8366,8 +8366,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.5",
-                "away": "52.5"
+                "home": "47.6",
+                "away": "52.4"
               },
               {
                 "key": "totalShots",
@@ -8411,7 +8411,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "175",
+                "home": "176",
                 "away": "206"
               },
               {
@@ -8438,7 +8438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8873,13 +8873,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.2",
-                "away": "55.8"
+                "home": "44.1",
+                "away": "55.9"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
@@ -8918,8 +8918,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "146",
-                "away": "190"
+                "home": "149",
+                "away": "196"
               },
               {
                 "key": "passPct",
