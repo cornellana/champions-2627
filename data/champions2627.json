@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:05:50Z",
+  "lastUpdated": "2026-09-10T19:06:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,8 +9255,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
-          "statusText": "In Progress",
+          "clock": "2'",
+          "statusText": "First Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": {
@@ -9724,8 +9724,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
-          "statusText": "First Half",
+          "clock": "2'",
+          "statusText": "In Progress",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -10220,7 +10220,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10716,7 +10716,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11149,8 +11149,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.3",
-                "away": "60.7"
+                "home": "28.9",
+                "away": "71.1"
               },
               {
                 "key": "totalShots",
@@ -11195,7 +11195,7 @@
               {
                 "key": "accuratePasses",
                 "home": "7",
-                "away": "11"
+                "away": "19"
               },
               {
                 "key": "passPct",
