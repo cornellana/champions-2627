@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:12:23Z",
+  "lastUpdated": "2026-09-10T18:13:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,8 +7940,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
-          "statusText": "In Progress",
+          "clock": "70'",
+          "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
           "details": {
@@ -8411,6 +8411,16 @@
                 "relatedPlayer": "Bartug Elmaz",
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "52177769_19",
+                "type": "YELLOW_CARD",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": "Kerem Aktürkoglu",
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
@@ -8446,7 +8456,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -8488,7 +8498,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -9002,19 +9012,29 @@
               {
                 "id": "52177755_18",
                 "type": "SUBSTITUTION",
-                "minute": 67,
+                "minute": 66,
                 "extraTime": null,
                 "playerName": "Newerton",
                 "relatedPlayer": "Gleiker Mendoza",
                 "teamName": "Shajtar Donetsk",
+                "text": null
+              },
+              {
+                "id": "52177792_19",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": "Ryan Flamingo",
+                "relatedPlayer": "Filip Kostic",
+                "teamName": "PSV",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.3",
-                "away": "48.7"
+                "home": "51.8",
+                "away": "48.2"
               },
               {
                 "key": "totalShots",
@@ -9058,8 +9078,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "280",
-                "away": "256"
+                "home": "287",
+                "away": "259"
               },
               {
                 "key": "passPct",
