@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:08:27Z",
+  "lastUpdated": "2026-09-10T20:09:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,8 +9255,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": {
@@ -9663,8 +9663,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72",
-                "away": "28"
+                "home": "72.9",
+                "away": "27.1"
               },
               {
                 "key": "totalShots",
@@ -9684,7 +9684,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -9708,7 +9708,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "381",
+                "home": "401",
                 "away": "116"
               },
               {
@@ -9735,7 +9735,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10195,6 +10195,16 @@
                 "relatedPlayer": "Martin Baturina with a through ball",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "52182497_7",
+                "type": "YELLOW_CARD",
+                "minute": 47,
+                "extraTime": null,
+                "playerName": "Nico Paz",
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
@@ -10272,8 +10282,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
-          "statusText": "In Progress",
+          "clock": "49'",
+          "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10819,7 +10829,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11289,7 +11299,7 @@
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
