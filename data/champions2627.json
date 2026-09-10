@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:51:03Z",
+  "lastUpdated": "2026-09-10T19:52:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
+          "clock": "45'+3'",
           "statusText": "First Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9652,8 +9652,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.8",
-                "away": "28.2"
+                "home": "72",
+                "away": "28"
               },
               {
                 "key": "totalShots",
@@ -9697,8 +9697,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "374",
-                "away": "115"
+                "home": "381",
+                "away": "116"
               },
               {
                 "key": "passPct",
@@ -9725,7 +9725,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "In Progress",
+          "statusText": "Halftime",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -10721,7 +10721,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "13",
                 "away": "4"
               },
               {
