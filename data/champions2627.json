@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:03:01Z",
+  "lastUpdated": "2026-09-10T20:05:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -10709,6 +10709,16 @@
                 "extraTime": null,
                 "playerName": "Benjamin Sesko",
                 "relatedPlayer": "Bryan Mbeumo with a through ball",
+                "teamName": "Manchester United",
+                "text": null
+              },
+              {
+                "id": "52182366_5",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Mason Mount",
+                "relatedPlayer": "Youri Tielemans",
                 "teamName": "Manchester United",
                 "text": null
               }
