@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:36:21Z",
+  "lastUpdated": "2026-09-10T18:37:26Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8536,7 +8536,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "19"
               },
               {
@@ -8561,8 +8561,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "350",
-                "away": "543"
+                "home": "354",
+                "away": "550"
               },
               {
                 "key": "passPct",
@@ -8588,7 +8588,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -9183,12 +9183,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "53.6",
+                "away": "46.4"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "8"
               },
               {
@@ -9229,7 +9229,7 @@
               {
                 "key": "accuratePasses",
                 "home": "382",
-                "away": "313"
+                "away": "314"
               },
               {
                 "key": "passPct",
@@ -12186,27 +12186,27 @@
       "position": 12
     },
     {
-      "team": "Bayern de Múnich",
-      "played": 0,
+      "team": "PSV",
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "position": 13
     },
     {
-      "team": "Bodø/Glimt",
-      "played": 0,
+      "team": "Shajtar Donetsk",
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "position": 14
     },
     {
-      "team": "Como",
+      "team": "Bayern de Múnich",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -12216,7 +12216,7 @@
       "position": 15
     },
     {
-      "team": "Fenerbahçe",
+      "team": "Bodø/Glimt",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -12226,7 +12226,7 @@
       "position": 16
     },
     {
-      "team": "Lens",
+      "team": "Como",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -12236,7 +12236,7 @@
       "position": 17
     },
     {
-      "team": "Manchester United",
+      "team": "Fenerbahçe",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -12246,7 +12246,7 @@
       "position": 18
     },
     {
-      "team": "PSV",
+      "team": "Lens",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -12256,7 +12256,7 @@
       "position": 19
     },
     {
-      "team": "RB Leipzig",
+      "team": "Manchester United",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -12266,7 +12266,7 @@
       "position": 20
     },
     {
-      "team": "Roma",
+      "team": "RB Leipzig",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -12276,7 +12276,7 @@
       "position": 21
     },
     {
-      "team": "Sabah",
+      "team": "Roma",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -12286,7 +12286,7 @@
       "position": 22
     },
     {
-      "team": "Shajtar Donetsk",
+      "team": "Sabah",
       "played": 0,
       "won": 0,
       "drawn": 0,
