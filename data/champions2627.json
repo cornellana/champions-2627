@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:50:34Z",
+  "lastUpdated": "2026-09-10T17:51:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7941,7 +7941,7 @@
           "shootout": null,
           "state": "in",
           "clock": "47'",
-          "statusText": "In Progress",
+          "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
           "details": {
@@ -8361,22 +8361,42 @@
                 "relatedPlayer": "Donyell Malen",
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "52177151_6",
+                "type": "YELLOW_CARD",
+                "minute": 47,
+                "extraTime": null,
+                "playerName": "Devyne Rensch",
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
+              },
+              {
+                "id": "52177173_7",
+                "type": "GOAL",
+                "minute": 48,
+                "extraTime": null,
+                "playerName": "Archie Brown",
+                "relatedPlayer": "Mason Greenwood",
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.2",
-                "away": "54.8"
+                "home": "47",
+                "away": "53"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -8397,7 +8417,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -8411,7 +8431,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "210",
+                "home": "230",
                 "away": "272"
               },
               {
@@ -8438,7 +8458,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8876,6 +8896,16 @@
                 "extraTime": 1,
                 "playerName": "Gleiker Mendoza",
                 "relatedPlayer": "Isaque",
+                "teamName": "Shajtar Donetsk",
+                "text": null
+              },
+              {
+                "id": "52177150_11",
+                "type": "YELLOW_CARD",
+                "minute": 47,
+                "extraTime": null,
+                "playerName": "Gleiker Mendoza",
+                "relatedPlayer": null,
                 "teamName": "Shajtar Donetsk",
                 "text": null
               }
@@ -12191,6 +12221,13 @@
       "athleteID": null
     },
     {
+      "player": "Archie Brown",
+      "team": "Fenerbahçe",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Ayase Ueda",
       "team": "Lille",
       "goals": 1,
@@ -12522,6 +12559,12 @@
     {
       "player": "Maghnes Akliouche",
       "team": "Paris Saint-Germain",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Mason Greenwood",
+      "team": "Fenerbahçe",
       "goals": 1,
       "athleteID": null
     },
