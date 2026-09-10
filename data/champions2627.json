@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:52:27Z",
+  "lastUpdated": "2026-09-10T20:53:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9813,8 +9813,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.8",
-                "away": "34.2"
+                "home": "66",
+                "away": "34"
               },
               {
                 "key": "totalShots",
@@ -9833,7 +9833,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "7"
               },
               {
@@ -9858,7 +9858,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "627",
+                "home": "636",
                 "away": "274"
               },
               {
@@ -9881,11 +9881,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-1",
+          "result": "4-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10500,17 +10500,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "51.2",
+                "away": "48.8"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "12"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "4"
               },
               {
@@ -10545,8 +10545,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "450",
-                "away": "421"
+                "home": "462",
+                "away": "423"
               },
               {
                 "key": "passPct",
@@ -10572,7 +10572,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11203,7 +11203,7 @@
               {
                 "key": "accuratePasses",
                 "home": "572",
-                "away": "390"
+                "away": "389"
               },
               {
                 "key": "passPct",
@@ -11225,11 +11225,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-1",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11808,6 +11808,16 @@
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "52185643_32",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": 1,
+                "playerName": "Florian Thauvin",
+                "relatedPlayer": "Mezian Mesloub with a cross",
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
@@ -11819,12 +11829,12 @@
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "24"
+                "away": "25"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "wonCorners",
@@ -11858,8 +11868,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "178",
-                "away": "358"
+                "home": "179",
+                "away": "360"
               },
               {
                 "key": "passPct",
@@ -15142,6 +15152,13 @@
       "athleteID": null
     },
     {
+      "player": "Florian Thauvin",
+      "team": "Lens",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Gabriel Jesus",
       "team": "FC Barcelona",
       "goals": 1,
@@ -15242,13 +15259,6 @@
     {
       "player": "Martin Ødegaard",
       "team": "Arsenal",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Matheus Cunha",
-      "team": "Manchester United",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -15442,6 +15452,12 @@
       "athleteID": null
     },
     {
+      "player": "Mezian Mesloub with a cross",
+      "team": "Lens",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Michael Olise with a cross following a set piece situation",
       "team": "Bayern de Múnich",
       "goals": 1,
@@ -15485,12 +15501,6 @@
     },
     {
       "player": "Pau Torres",
-      "team": "Aston Villa",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Pau Torres following a fast break",
       "team": "Aston Villa",
       "goals": 1,
       "athleteID": null
