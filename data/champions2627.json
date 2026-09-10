@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:00:22Z",
+  "lastUpdated": "2026-09-10T18:01:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8406,8 +8406,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.7",
-                "away": "55.3"
+                "home": "45.1",
+                "away": "54.9"
               },
               {
                 "key": "totalShots",
@@ -8426,7 +8426,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "13"
               },
               {
@@ -8451,8 +8451,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "246",
-                "away": "321"
+                "home": "257",
+                "away": "329"
               },
               {
                 "key": "passPct",
@@ -8478,7 +8478,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8948,6 +8948,16 @@
                 "relatedPlayer": null,
                 "teamName": "Shajtar Donetsk",
                 "text": null
+              },
+              {
+                "id": "52177433_14",
+                "type": "YELLOW_CARD",
+                "minute": 56,
+                "extraTime": null,
+                "playerName": "Armando Obispo",
+                "relatedPlayer": null,
+                "teamName": "PSV",
+                "text": null
               }
             ],
             "teamStats": [
@@ -8959,7 +8969,7 @@
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -8983,7 +8993,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "3"
               },
               {
@@ -8998,7 +9008,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "208",
+                "home": "207",
                 "away": "251"
               },
               {
