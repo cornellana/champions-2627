@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:10:38Z",
+  "lastUpdated": "2026-09-10T17:11:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8355,12 +8355,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.7",
-                "away": "47.3"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -8376,7 +8376,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -8400,8 +8400,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "119",
-                "away": "110"
+                "home": "122",
+                "away": "118"
               },
               {
                 "key": "passPct",
@@ -8427,7 +8427,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8851,8 +8851,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.2",
-                "away": "53.8"
+                "home": "48.5",
+                "away": "51.5"
               },
               {
                 "key": "totalShots",
@@ -8866,7 +8866,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -8896,8 +8896,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "98",
-                "away": "119"
+                "home": "115",
+                "away": "126"
               },
               {
                 "key": "passPct",
