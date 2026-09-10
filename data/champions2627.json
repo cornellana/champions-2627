@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:57:34Z",
+  "lastUpdated": "2026-09-10T20:01:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -10479,7 +10479,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-2-3-1",
+              "formation": "4-3-3",
               "players": [
                 {
                   "id": "189045",
@@ -10527,22 +10527,22 @@
                   "athleteID": "204778"
                 },
                 {
-                  "id": "193291",
-                  "jersey": 21,
-                  "name": "Veljko Simic",
-                  "position": "AM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "193291"
-                },
-                {
                   "id": "260848",
                   "jersey": 13,
                   "name": "Ivan Lepinjica",
-                  "position": "LM",
+                  "position": "CM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "260848"
+                },
+                {
+                  "id": "193291",
+                  "jersey": 21,
+                  "name": "Veljko Simic",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "193291"
                 },
                 {
                   "id": "362336",
@@ -10566,7 +10566,7 @@
                   "id": "385377",
                   "jersey": 8,
                   "name": "Christian Nwachukwu",
-                  "position": "AM-L",
+                  "position": "LF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "385377"
@@ -10575,7 +10575,7 @@
                   "id": "268529",
                   "jersey": 11,
                   "name": "Kaheem Parris",
-                  "position": "AM-R",
+                  "position": "RF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "268529"
@@ -10716,8 +10716,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.6",
-                "away": "41.4"
+                "home": "58.5",
+                "away": "41.5"
               },
               {
                 "key": "totalShots",
@@ -10762,7 +10762,7 @@
               {
                 "key": "accuratePasses",
                 "home": "266",
-                "away": "176"
+                "away": "178"
               },
               {
                 "key": "passPct",
