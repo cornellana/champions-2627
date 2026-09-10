@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:44:43Z",
+  "lastUpdated": "2026-09-10T20:45:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9748,6 +9748,46 @@
                 "relatedPlayer": "Luis Díaz",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "52184983_25",
+                "type": "SUBSTITUTION",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "52184984_26",
+                "type": "SUBSTITUTION",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "52184985_27",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
+              },
+              {
+                "id": "52184986_28",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
               }
             ],
             "teamStats": [
@@ -9825,7 +9865,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10410,12 +10450,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51",
-                "away": "49"
+                "home": "51.9",
+                "away": "48.1"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "12"
               },
               {
@@ -10455,8 +10495,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "408",
-                "away": "374"
+                "home": "430",
+                "away": "380"
               },
               {
                 "key": "passPct",
@@ -10482,7 +10522,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11067,13 +11107,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.5",
-                "away": "41.5"
+                "home": "58.4",
+                "away": "41.6"
               },
               {
                 "key": "totalShots",
                 "home": "21",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
@@ -11088,7 +11128,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "9"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -11112,8 +11152,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "503",
-                "away": "332"
+                "home": "532",
+                "away": "352"
               },
               {
                 "key": "passPct",
@@ -11139,7 +11179,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11694,6 +11734,16 @@
                 "type": "SUBSTITUTION",
                 "minute": 82,
                 "extraTime": null,
+                "playerName": "Toumani Diakité",
+                "relatedPlayer": "Wiktor Nowak",
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "52185096_28",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
@@ -11703,8 +11753,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.7",
-                "away": "63.3"
+                "home": "36.9",
+                "away": "63.1"
               },
               {
                 "key": "totalShots",
@@ -11748,8 +11798,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "172",
-                "away": "332"
+                "home": "174",
+                "away": "335"
               },
               {
                 "key": "passPct",
