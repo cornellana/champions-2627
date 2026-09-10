@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:01:27Z",
+  "lastUpdated": "2026-09-10T18:02:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8963,8 +8963,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.2",
-                "away": "54.8"
+                "home": "46.8",
+                "away": "53.2"
               },
               {
                 "key": "totalShots",
@@ -8978,7 +8978,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -9008,7 +9008,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "207",
+                "home": "222",
                 "away": "251"
               },
               {
