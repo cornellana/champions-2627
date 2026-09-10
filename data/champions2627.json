@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:14:33Z",
+  "lastUpdated": "2026-09-10T18:15:38Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8498,7 +8498,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -9033,8 +9033,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.1",
-                "away": "47.9"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
@@ -9053,7 +9053,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
+                "home": "11",
                 "away": "9"
               },
               {
@@ -9078,8 +9078,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "292",
-                "away": "259"
+                "home": "300",
+                "away": "266"
               },
               {
                 "key": "passPct",
