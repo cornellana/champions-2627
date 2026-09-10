@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:11:17Z",
+  "lastUpdated": "2026-09-10T18:12:23Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,8 +7940,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
-          "statusText": "Second Half",
+          "clock": "69'",
+          "statusText": "In Progress",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
           "details": {
@@ -8416,8 +8416,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.1",
-                "away": "57.9"
+                "home": "41.8",
+                "away": "58.2"
               },
               {
                 "key": "totalShots",
@@ -8436,7 +8436,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "13"
               },
               {
@@ -8461,8 +8461,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "272",
-                "away": "403"
+                "home": "273",
+                "away": "411"
               },
               {
                 "key": "passPct",
@@ -8488,7 +8488,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8987,6 +8987,26 @@
                 "playerName": "Ruben van Bommel",
                 "relatedPlayer": null,
                 "teamName": "PSV",
+                "text": null
+              },
+              {
+                "id": "52177754_17",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Lassina Traoré",
+                "relatedPlayer": "Kauã Elias",
+                "teamName": "Shajtar Donetsk",
+                "text": null
+              },
+              {
+                "id": "52177755_18",
+                "type": "SUBSTITUTION",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": "Newerton",
+                "relatedPlayer": "Gleiker Mendoza",
+                "teamName": "Shajtar Donetsk",
                 "text": null
               }
             ],
