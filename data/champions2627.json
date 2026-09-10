@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:57:06Z",
+  "lastUpdated": "2026-09-10T17:58:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8397,8 +8397,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 53,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Niccolò Pisilli",
+                "relatedPlayer": "Manu Koné",
                 "teamName": "Roma",
                 "text": null
               }
@@ -8406,8 +8406,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.9",
-                "away": "54.1"
+                "home": "45.6",
+                "away": "54.4"
               },
               {
                 "key": "totalShots",
@@ -8451,8 +8451,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "241",
-                "away": "300"
+                "home": "244",
+                "away": "308"
               },
               {
                 "key": "passPct",
@@ -8478,7 +8478,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8943,8 +8943,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.1",
-                "away": "54.9"
+                "home": "45",
+                "away": "55"
               },
               {
                 "key": "totalShots",
@@ -8963,7 +8963,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "5"
               },
               {
@@ -8989,7 +8989,7 @@
               {
                 "key": "accuratePasses",
                 "home": "202",
-                "away": "247"
+                "away": "249"
               },
               {
                 "key": "passPct",
