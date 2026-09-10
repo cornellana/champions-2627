@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:33:05Z",
+  "lastUpdated": "2026-09-10T18:34:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8516,8 +8516,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.7",
-                "away": "59.3"
+                "home": "41.4",
+                "away": "58.6"
               },
               {
                 "key": "totalShots",
@@ -8561,7 +8561,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "335",
+                "home": "347",
                 "away": "531"
               },
               {
@@ -8588,7 +8588,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -9158,13 +9158,23 @@
                 "relatedPlayer": "Alisson Santana",
                 "teamName": "Shajtar Donetsk",
                 "text": null
+              },
+              {
+                "id": "52178419_24",
+                "type": "YELLOW_CARD",
+                "minute": 89,
+                "extraTime": null,
+                "playerName": "Dmytro Kryskiv",
+                "relatedPlayer": null,
+                "teamName": "Shajtar Donetsk",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "53.6",
+                "away": "46.4"
               },
               {
                 "key": "totalShots",
@@ -9184,7 +9194,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "14",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "offsides",
@@ -9194,7 +9204,7 @@
               {
                 "key": "yellowCards",
                 "home": "3",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "redCards",
@@ -9209,7 +9219,7 @@
               {
                 "key": "accuratePasses",
                 "home": "381",
-                "away": "312"
+                "away": "313"
               },
               {
                 "key": "passPct",
