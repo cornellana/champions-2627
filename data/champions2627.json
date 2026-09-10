@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:32:24Z",
+  "lastUpdated": "2026-09-10T17:33:30Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,8 +7940,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
-          "statusText": "First Half",
+          "clock": "45'",
+          "statusText": "Halftime",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
           "details": {
@@ -8434,11 +8434,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'+2'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8868,23 +8868,33 @@
                 "relatedPlayer": null,
                 "teamName": "Shajtar Donetsk",
                 "text": null
+              },
+              {
+                "id": "52177081_8",
+                "type": "GOAL",
+                "minute": 45,
+                "extraTime": 1,
+                "playerName": "Gleiker Mendoza",
+                "relatedPlayer": "Isaque",
+                "teamName": "Shajtar Donetsk",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.9",
-                "away": "56.1"
+                "home": "43.7",
+                "away": "56.3"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -8918,8 +8928,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "165",
-                "away": "216"
+                "home": "166",
+                "away": "220"
               },
               {
                 "key": "passPct",
@@ -12244,6 +12254,13 @@
       "athleteID": null
     },
     {
+      "player": "Gleiker Mendoza",
+      "team": "Shajtar Donetsk",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Hugo Vetlesen",
       "team": "Brujas",
       "goals": 1,
@@ -12445,6 +12462,12 @@
     {
       "player": "Henrik Bjørdal",
       "team": "Viking",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Isaque",
+      "team": "Shajtar Donetsk",
       "goals": 1,
       "athleteID": null
     },
