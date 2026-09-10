@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T16:53:14Z",
+  "lastUpdated": "2026-09-10T16:54:19Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8355,8 +8355,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.7",
-                "away": "64.3"
+                "home": "31.1",
+                "away": "68.9"
               },
               {
                 "key": "totalShots",
@@ -8375,7 +8375,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -8400,8 +8400,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "16",
-                "away": "32"
+                "home": "21",
+                "away": "56"
               },
               {
                 "key": "passPct",
@@ -8427,7 +8427,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8851,8 +8851,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.8",
-                "away": "42.2"
+                "home": "51.3",
+                "away": "48.7"
               },
               {
                 "key": "totalShots",
@@ -8871,7 +8871,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -8896,13 +8896,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "28",
-                "away": "23"
+                "home": "30",
+                "away": "32"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
