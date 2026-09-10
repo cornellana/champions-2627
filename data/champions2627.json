@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:43:36Z",
+  "lastUpdated": "2026-09-10T20:44:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9738,13 +9738,23 @@
                 "relatedPlayer": null,
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "52184943_24",
+                "type": "SUBSTITUTION",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Lennart Karl",
+                "relatedPlayer": "Luis Díaz",
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.1",
-                "away": "34.9"
+                "home": "64.9",
+                "away": "35.1"
               },
               {
                 "key": "totalShots",
@@ -9788,8 +9798,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "556",
-                "away": "250"
+                "home": "563",
+                "away": "256"
               },
               {
                 "key": "passPct",
@@ -9815,7 +9825,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10472,7 +10482,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11129,7 +11139,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
