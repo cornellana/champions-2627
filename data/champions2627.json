@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T16:52:09Z",
+  "lastUpdated": "2026-09-10T16:53:14Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -7994,13 +7994,13 @@
                   "athleteID": "266002"
                 },
                 {
-                  "id": "173556",
-                  "jersey": 91,
-                  "name": "N'Golo Kanté",
+                  "id": "305629",
+                  "jersey": 5,
+                  "name": "Ismail Yüksek",
                   "position": "CM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "173556"
+                  "athleteID": "305629"
                 },
                 {
                   "id": "311984",
@@ -8012,13 +8012,13 @@
                   "athleteID": "311984"
                 },
                 {
-                  "id": "305629",
-                  "jersey": 5,
-                  "name": "Ismail Yüksek",
+                  "id": "173556",
+                  "jersey": 91,
+                  "name": "N'Golo Kanté",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "305629"
+                  "athleteID": "173556"
                 },
                 {
                   "id": "240209",
@@ -8428,7 +8428,7 @@
           "shootout": null,
           "state": "in",
           "clock": "5'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
