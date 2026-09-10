@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T21:00:21Z",
+  "lastUpdated": "2026-09-10T16:48:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7936,15 +7936,481 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": null,
+          "result": "0-0",
           "aggregate": null,
           "shootout": null,
-          "state": "pre",
-          "clock": null,
-          "statusText": null,
+          "state": "in",
+          "clock": "1'",
+          "statusText": "First Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
-          "details": null
+          "details": {
+            "homeLineup": {
+              "formation": "4-3-3",
+              "players": [
+                {
+                  "id": "176948",
+                  "jersey": 31,
+                  "name": "Ederson",
+                  "position": "G",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "176948"
+                },
+                {
+                  "id": "159248",
+                  "jersey": 15,
+                  "name": "Nathan Aké",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "159248"
+                },
+                {
+                  "id": "175195",
+                  "jersey": 37,
+                  "name": "Milan Skriniar",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "175195"
+                },
+                {
+                  "id": "320982",
+                  "jersey": 3,
+                  "name": "Archie Brown",
+                  "position": "LB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "320982"
+                },
+                {
+                  "id": "266002",
+                  "jersey": 18,
+                  "name": "Mert Müldür",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "266002"
+                },
+                {
+                  "id": "173556",
+                  "jersey": 91,
+                  "name": "N'Golo Kanté",
+                  "position": "CM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "173556"
+                },
+                {
+                  "id": "311984",
+                  "jersey": 28,
+                  "name": "Bartug Elmaz",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "311984"
+                },
+                {
+                  "id": "305629",
+                  "jersey": 5,
+                  "name": "Ismail Yüksek",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "305629"
+                },
+                {
+                  "id": "240209",
+                  "jersey": 19,
+                  "name": "Vedat Muriqi",
+                  "position": "F",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "240209"
+                },
+                {
+                  "id": "306789",
+                  "jersey": 7,
+                  "name": "Kerem Aktürkoglu",
+                  "position": "LF",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "306789"
+                },
+                {
+                  "id": "276221",
+                  "jersey": 11,
+                  "name": "Mason Greenwood",
+                  "position": "RF",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "276221"
+                },
+                {
+                  "id": "124880",
+                  "jersey": 34,
+                  "name": "Mert Günok",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "124880"
+                },
+                {
+                  "id": "380332",
+                  "jersey": 77,
+                  "name": "Ognjen Mimovic",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "380332"
+                },
+                {
+                  "id": "275128",
+                  "jersey": 13,
+                  "name": "Tarik Cetin",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "275128"
+                },
+                {
+                  "id": "340186",
+                  "jersey": 14,
+                  "name": "Yiğit Demir",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "340186"
+                },
+                {
+                  "id": "329486",
+                  "jersey": 45,
+                  "name": "Nene Dorgeles",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "329486"
+                },
+                {
+                  "id": "211923",
+                  "jersey": 17,
+                  "name": "Irfan Can Kahveci",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "211923"
+                },
+                {
+                  "id": "322813",
+                  "jersey": 70,
+                  "name": "Oguz Aydin",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "322813"
+                },
+                {
+                  "id": "222670",
+                  "jersey": 27,
+                  "name": "Nélson Semedo",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "222670"
+                },
+                {
+                  "id": "139437",
+                  "jersey": 9,
+                  "name": "Romelu Lukaku",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "139437"
+                },
+                {
+                  "id": "290511",
+                  "jersey": 22,
+                  "name": "Munir Mercan",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "290511"
+                },
+                {
+                  "id": "357205",
+                  "jersey": 21,
+                  "name": "Kojo Peprah Oppong",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "357205"
+                }
+              ]
+            },
+            "awayLineup": {
+              "formation": "3-4-2-1",
+              "players": [
+                {
+                  "id": "238798",
+                  "jersey": 99,
+                  "name": "Mile Svilar",
+                  "position": "G",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "238798"
+                },
+                {
+                  "id": "242593",
+                  "jersey": 5,
+                  "name": "Evan Ndicka",
+                  "position": "CD",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "242593"
+                },
+                {
+                  "id": "222529",
+                  "jersey": 22,
+                  "name": "Mario Hermoso",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "222529"
+                },
+                {
+                  "id": "212597",
+                  "jersey": 23,
+                  "name": "Gianluca Mancini",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "212597"
+                },
+                {
+                  "id": "285226",
+                  "jersey": 17,
+                  "name": "Manu Koné",
+                  "position": "CM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "285226"
+                },
+                {
+                  "id": "169213",
+                  "jersey": 4,
+                  "name": "Bryan Cristante",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "169213"
+                },
+                {
+                  "id": "332354",
+                  "jersey": 43,
+                  "name": "Wesley",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "332354"
+                },
+                {
+                  "id": "297300",
+                  "jersey": 2,
+                  "name": "Devyne Rensch",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "297300"
+                },
+                {
+                  "id": "259481",
+                  "jersey": 14,
+                  "name": "Donyell Malen",
+                  "position": "F",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "259481"
+                },
+                {
+                  "id": "323974",
+                  "jersey": 18,
+                  "name": "Matìas Soulè",
+                  "position": "CF-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "323974"
+                },
+                {
+                  "id": "164839",
+                  "jersey": 21,
+                  "name": "Paulo Dybala",
+                  "position": "CF-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "164839"
+                },
+                {
+                  "id": "398120",
+                  "jersey": 70,
+                  "name": "Giorgio De Marzi",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "398120"
+                },
+                {
+                  "id": "340705",
+                  "jersey": 87,
+                  "name": "Daniele Ghilardi",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "340705"
+                },
+                {
+                  "id": "146335",
+                  "jersey": 15,
+                  "name": "Marten de Roon",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "146335"
+                },
+                {
+                  "id": "336104",
+                  "jersey": 3,
+                  "name": "Konstantinos Koulierakis",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "336104"
+                },
+                {
+                  "id": "387204",
+                  "jersey": 86,
+                  "name": "Rodrigo Mora",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "387204"
+                },
+                {
+                  "id": "271555",
+                  "jersey": 26,
+                  "name": "Leonardo Balerdi",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "271555"
+                },
+                {
+                  "id": "164826",
+                  "jersey": 20,
+                  "name": "Nahuel Molina",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "164826"
+                },
+                {
+                  "id": "360235",
+                  "jersey": 61,
+                  "name": "Niccolò Pisilli",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "360235"
+                },
+                {
+                  "id": "250284",
+                  "jersey": 9,
+                  "name": "Santiago Castro",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "250284"
+                },
+                {
+                  "id": "206587",
+                  "jersey": 95,
+                  "name": "Pierluigi Gollini",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "206587"
+                },
+                {
+                  "id": "409371",
+                  "jersey": 77,
+                  "name": "Emanuele Lulli",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "409371"
+                }
+              ]
+            },
+            "events": null,
+            "teamStats": [
+              {
+                "key": "possessionPct",
+                "home": "71.4",
+                "away": "28.6"
+              },
+              {
+                "key": "totalShots",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "shotsOnTarget",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "wonCorners",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "foulsCommitted",
+                "home": "1",
+                "away": "0"
+              },
+              {
+                "key": "offsides",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "yellowCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "redCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "saves",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "accuratePasses",
+                "home": "9",
+                "away": "4"
+              },
+              {
+                "key": "passPct",
+                "home": "0.9",
+                "away": "1.0"
+              }
+            ],
+            "penalties": null
+          }
         },
         {
           "id": "401915422",
@@ -7957,15 +8423,490 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": null,
+          "result": "0-0",
           "aggregate": null,
           "shootout": null,
-          "state": "pre",
-          "clock": null,
-          "statusText": null,
+          "state": "in",
+          "clock": "1'",
+          "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
-          "details": null
+          "details": {
+            "homeLineup": {
+              "formation": "4-3-3",
+              "players": [
+                {
+                  "id": "277313",
+                  "jersey": 32,
+                  "name": "Matej Kovár",
+                  "position": "G",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "277313"
+                },
+                {
+                  "id": "245918",
+                  "jersey": 4,
+                  "name": "Armando Obispo",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "245918"
+                },
+                {
+                  "id": "264828",
+                  "jersey": 2,
+                  "name": "Lutsharel Geertruida",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "264828"
+                },
+                {
+                  "id": "174496",
+                  "jersey": 18,
+                  "name": "Filip Kostic",
+                  "position": "LB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "174496"
+                },
+                {
+                  "id": "266291",
+                  "jersey": 8,
+                  "name": "Sergiño Dest",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "266291"
+                },
+                {
+                  "id": "341715",
+                  "jersey": 24,
+                  "name": "Kodai Sano",
+                  "position": "CM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "341715"
+                },
+                {
+                  "id": "333399",
+                  "jersey": 10,
+                  "name": "Paul Wanner",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "333399"
+                },
+                {
+                  "id": "240965",
+                  "jersey": 20,
+                  "name": "Guus Til",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "240965"
+                },
+                {
+                  "id": "289120",
+                  "jersey": 9,
+                  "name": "Ricardo Pepi",
+                  "position": "F",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "289120"
+                },
+                {
+                  "id": "340252",
+                  "jersey": 7,
+                  "name": "Ruben Van Bommel",
+                  "position": "LF",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "340252"
+                },
+                {
+                  "id": "103485",
+                  "jersey": 5,
+                  "name": "Ivan Perisic",
+                  "position": "RF",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "103485"
+                },
+                {
+                  "id": "190976",
+                  "jersey": 1,
+                  "name": "Nick Olij",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "190976"
+                },
+                {
+                  "id": "405673",
+                  "jersey": 35,
+                  "name": "Ayoni Santos",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "405673"
+                },
+                {
+                  "id": "386885",
+                  "jersey": 31,
+                  "name": "Noah Fernandez",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "386885"
+                },
+                {
+                  "id": "245805",
+                  "jersey": 27,
+                  "name": "Dennis Man",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "245805"
+                },
+                {
+                  "id": "304478",
+                  "jersey": 6,
+                  "name": "Ryan Flamingo",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "304478"
+                },
+                {
+                  "id": "364814",
+                  "jersey": 3,
+                  "name": "Yarek Gasiorowski",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "364814"
+                },
+                {
+                  "id": "287279",
+                  "jersey": 21,
+                  "name": "Sven Mijnans",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "287279"
+                },
+                {
+                  "id": "325410",
+                  "jersey": 19,
+                  "name": "Esmir Bajraktarevic",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "325410"
+                },
+                {
+                  "id": "414396",
+                  "jersey": 37,
+                  "name": "Amir Bouhamdi",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "414396"
+                },
+                {
+                  "id": "386881",
+                  "jersey": 38,
+                  "name": "Fabian Merién",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "386881"
+                },
+                {
+                  "id": "343607",
+                  "jersey": 51,
+                  "name": "Tijn Smolenaars",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "343607"
+                }
+              ]
+            },
+            "awayLineup": {
+              "formation": "4-1-4-1",
+              "players": [
+                {
+                  "id": "276081",
+                  "jersey": 31,
+                  "name": "Dmytro Riznyk",
+                  "position": "G",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "276081"
+                },
+                {
+                  "id": "226181",
+                  "jersey": 22,
+                  "name": "Mykola Matviyenko",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "226181"
+                },
+                {
+                  "id": "276070",
+                  "jersey": 5,
+                  "name": "Valeriy Bondar",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "276070"
+                },
+                {
+                  "id": "338311",
+                  "jersey": 27,
+                  "name": "Oleh Ocheretko",
+                  "position": "DM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "338311"
+                },
+                {
+                  "id": "313078",
+                  "jersey": 13,
+                  "name": "Pedrinho",
+                  "position": "LB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "313078"
+                },
+                {
+                  "id": "307928",
+                  "jersey": 17,
+                  "name": "Vinicius Augusto",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "307928"
+                },
+                {
+                  "id": "382970",
+                  "jersey": 14,
+                  "name": "Isaque",
+                  "position": "CM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "382970"
+                },
+                {
+                  "id": "314851",
+                  "jersey": 6,
+                  "name": "Marlon Gomes",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "314851"
+                },
+                {
+                  "id": "382379",
+                  "jersey": 77,
+                  "name": "Gleiker Mendoza",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "382379"
+                },
+                {
+                  "id": "359420",
+                  "jersey": 30,
+                  "name": "Alisson Santana",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "359420"
+                },
+                {
+                  "id": "361432",
+                  "jersey": 9,
+                  "name": "Kauã Elias",
+                  "position": "F",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "361432"
+                },
+                {
+                  "id": "326670",
+                  "jersey": 8,
+                  "name": "Dmytro Kryskiv",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "326670"
+                },
+                {
+                  "id": "380420",
+                  "jersey": 24,
+                  "name": "Viktor Tsukanov",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "380420"
+                },
+                {
+                  "id": "323228",
+                  "jersey": 23,
+                  "name": "Kiril Fesiun",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "323228"
+                },
+                {
+                  "id": "268019",
+                  "jersey": 2,
+                  "name": "Lassina Traoré",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "268019"
+                },
+                {
+                  "id": "314433",
+                  "jersey": 18,
+                  "name": "Alaa Ghram",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "314433"
+                },
+                {
+                  "id": "235680",
+                  "jersey": 29,
+                  "name": "Yehor Nazaryna",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "235680"
+                },
+                {
+                  "id": "383068",
+                  "jersey": 37,
+                  "name": "Lucas Ferreira",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "383068"
+                },
+                {
+                  "id": "361629",
+                  "jersey": 11,
+                  "name": "Newertton",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "361629"
+                },
+                {
+                  "id": "361399",
+                  "jersey": 25,
+                  "name": "Gabriel Teixeira",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "361399"
+                },
+                {
+                  "id": "396504",
+                  "jersey": 49,
+                  "name": "Luca Meirelles",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "396504"
+                },
+                {
+                  "id": "289554",
+                  "jersey": 16,
+                  "name": "Irakli Azarovi",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "289554"
+                },
+                {
+                  "id": "208788",
+                  "jersey": 20,
+                  "name": "Oleksandr Karavaev",
+                  "position": "SUB",
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "208788"
+                }
+              ]
+            },
+            "events": null,
+            "teamStats": [
+              {
+                "key": "possessionPct",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "totalShots",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "shotsOnTarget",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "wonCorners",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "foulsCommitted",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "offsides",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "yellowCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "redCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "saves",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "accuratePasses",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "passPct",
+                "home": "0.0",
+                "away": "0.0"
+              }
+            ],
+            "penalties": null
+          }
         },
         {
           "id": "401915443",
