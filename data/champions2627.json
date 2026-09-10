@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:47:46Z",
+  "lastUpdated": "2026-09-10T19:48:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
+          "clock": "44'",
           "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9652,12 +9652,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.4",
-                "away": "27.6"
+                "home": "72.1",
+                "away": "27.9"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "1"
               },
               {
@@ -9697,8 +9697,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "366",
-                "away": "110"
+                "home": "369",
+                "away": "112"
               },
               {
                 "key": "passPct",
@@ -9724,7 +9724,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
+          "clock": "44'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10189,8 +10189,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55",
-                "away": "45"
+                "home": "56.8",
+                "away": "43.2"
               },
               {
                 "key": "totalShots",
@@ -10234,8 +10234,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "232",
-                "away": "179"
+                "home": "264",
+                "away": "186"
               },
               {
                 "key": "passPct",
@@ -10261,7 +10261,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10701,22 +10701,32 @@
                 "relatedPlayer": "Youri Tielemans",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "52181868_3",
+                "type": "GOAL",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Benjamin Sesko",
+                "relatedPlayer": "Bryan Mbeumo with a through ball",
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.7",
-                "away": "40.3"
+                "home": "59.6",
+                "away": "40.4"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -10752,7 +10762,7 @@
               {
                 "key": "accuratePasses",
                 "home": "264",
-                "away": "166"
+                "away": "167"
               },
               {
                 "key": "passPct",
@@ -10778,7 +10788,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -14460,6 +14470,13 @@
       "athleteID": null
     },
     {
+      "player": "Benjamin Sesko",
+      "team": "Manchester United",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Bruno Fernandes",
       "team": "Manchester United",
       "goals": 1,
@@ -14654,13 +14671,6 @@
       "goals": 1,
       "penalties": 0,
       "athleteID": null
-    },
-    {
-      "player": "Tasos Douvikas",
-      "team": "Como",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
     }
   ],
   "topAssists": [
@@ -14685,6 +14695,12 @@
     {
       "player": "Brahim Díaz",
       "team": "Real Madrid",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Bryan Mbeumo with a through ball",
+      "team": "Manchester United",
       "goals": 1,
       "athleteID": null
     },
