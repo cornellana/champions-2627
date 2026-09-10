@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:49:28Z",
+  "lastUpdated": "2026-09-10T17:50:34Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "In Progress",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8366,8 +8366,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.8",
-                "away": "54.2"
+                "home": "45.2",
+                "away": "54.8"
               },
               {
                 "key": "totalShots",
@@ -8387,7 +8387,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -8411,8 +8411,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "206",
-                "away": "260"
+                "home": "210",
+                "away": "272"
               },
               {
                 "key": "passPct",
@@ -8438,8 +8438,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
@@ -8883,8 +8883,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.8",
-                "away": "56.2"
+                "home": "42.9",
+                "away": "57.1"
               },
               {
                 "key": "totalShots",
@@ -8904,7 +8904,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -8914,7 +8914,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -8929,7 +8929,7 @@
               {
                 "key": "accuratePasses",
                 "home": "167",
-                "away": "221"
+                "away": "229"
               },
               {
                 "key": "passPct",
