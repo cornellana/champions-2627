@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:51:39Z",
+  "lastUpdated": "2026-09-10T17:52:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7936,11 +7936,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8378,7 +8378,7 @@
                 "minute": 48,
                 "extraTime": null,
                 "playerName": "Archie Brown",
-                "relatedPlayer": "Mason Greenwood",
+                "relatedPlayer": "Mason Greenwood with a through ball",
                 "teamName": "Fenerbahçe",
                 "text": null
               }
@@ -8432,7 +8432,7 @@
               {
                 "key": "accuratePasses",
                 "home": "230",
-                "away": "272"
+                "away": "273"
               },
               {
                 "key": "passPct",
@@ -8458,8 +8458,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
-          "statusText": "Second Half",
+          "clock": "48'",
+          "statusText": "In Progress",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
@@ -8907,6 +8907,16 @@
                 "playerName": "Gleiker Mendoza",
                 "relatedPlayer": null,
                 "teamName": "Shajtar Donetsk",
+                "text": null
+              },
+              {
+                "id": "52177203_12",
+                "type": "GOAL",
+                "minute": 48,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "PSV",
                 "text": null
               }
             ],
@@ -12563,7 +12573,7 @@
       "athleteID": null
     },
     {
-      "player": "Mason Greenwood",
+      "player": "Mason Greenwood with a through ball",
       "team": "Fenerbahçe",
       "goals": 1,
       "athleteID": null
