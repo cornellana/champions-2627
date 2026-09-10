@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:18:18Z",
+  "lastUpdated": "2026-09-10T20:19:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9673,8 +9673,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.6",
-                "away": "30.4"
+                "home": "67.6",
+                "away": "32.4"
               },
               {
                 "key": "totalShots",
@@ -9718,8 +9718,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "433",
-                "away": "151"
+                "home": "439",
+                "away": "169"
               },
               {
                 "key": "passPct",
@@ -9745,7 +9745,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10230,17 +10230,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.8",
-                "away": "49.2"
+                "home": "50.9",
+                "away": "49.1"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "10",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "3"
               },
               {
@@ -10271,11 +10271,11 @@
               {
                 "key": "saves",
                 "home": "3",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "300",
+                "home": "302",
                 "away": "275"
               },
               {
@@ -10302,7 +10302,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10777,8 +10777,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.9",
-                "away": "44.1"
+                "home": "56.1",
+                "away": "43.9"
               },
               {
                 "key": "totalShots",
@@ -10822,8 +10822,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "347",
-                "away": "260"
+                "home": "353",
+                "away": "262"
               },
               {
                 "key": "passPct",
@@ -10849,7 +10849,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11313,8 +11313,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.3",
-                "away": "60.7"
+                "home": "38.7",
+                "away": "61.3"
               },
               {
                 "key": "totalShots",
@@ -11358,8 +11358,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "142",
-                "away": "230"
+                "home": "144",
+                "away": "238"
               },
               {
                 "key": "passPct",
