@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:05:50Z",
+  "lastUpdated": "2026-09-10T18:06:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8407,8 +8407,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Levent Mercan",
+                "relatedPlayer": "Bartug Elmaz",
                 "teamName": "Fenerbahçe",
                 "text": null
               }
@@ -8416,12 +8416,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.8",
-                "away": "56.2"
+                "home": "43.7",
+                "away": "56.3"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "4"
               },
               {
@@ -8436,7 +8436,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "13"
               },
               {
@@ -8461,8 +8461,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "258",
-                "away": "353"
+                "home": "260",
+                "away": "357"
               },
               {
                 "key": "passPct",
@@ -8488,7 +8488,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8973,12 +8973,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.7",
-                "away": "52.3"
+                "home": "49.4",
+                "away": "50.6"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "8",
                 "away": "5"
               },
               {
@@ -9018,12 +9018,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "234",
+                "home": "255",
                 "away": "253"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.8"
               }
             ],
