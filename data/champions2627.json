@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:28:09Z",
+  "lastUpdated": "2026-09-10T20:29:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -10297,22 +10297,22 @@
                 "text": null
               },
               {
-                "id": "52183681_14",
-                "type": "SUBSTITUTION",
-                "minute": 65,
-                "extraTime": null,
-                "playerName": "Máximo Perrone",
-                "relatedPlayer": "Lucas da Cunha",
-                "teamName": "Como",
-                "text": null
-              },
-              {
-                "id": "52183682_15",
+                "id": "52183682_14",
                 "type": "SUBSTITUTION",
                 "minute": 65,
                 "extraTime": null,
                 "playerName": "Moise Kean",
                 "relatedPlayer": "Tasos Douvikas",
+                "teamName": "Como",
+                "text": null
+              },
+              {
+                "id": "52183681_15",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Máximo Perrone",
+                "relatedPlayer": "Lucas da Cunha",
                 "teamName": "Como",
                 "text": null
               },
@@ -10330,12 +10330,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.9",
-                "away": "48.1"
+                "home": "53.5",
+                "away": "46.5"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "7"
               },
               {
@@ -10375,8 +10375,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "339",
-                "away": "294"
+                "home": "365",
+                "away": "295"
               },
               {
                 "key": "passPct",
@@ -10402,7 +10402,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10922,22 +10922,32 @@
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "52183756_13",
+                "type": "GOAL",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": "Lisandro Martínez",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.7",
-                "away": "40.3"
+                "home": "59.5",
+                "away": "40.5"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "19",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "8",
+                "home": "10",
                 "away": "0"
               },
               {
@@ -10973,7 +10983,7 @@
               {
                 "key": "accuratePasses",
                 "home": "437",
-                "away": "270"
+                "away": "272"
               },
               {
                 "key": "passPct",
@@ -10999,7 +11009,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11503,13 +11513,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.3",
-                "away": "62.7"
+                "home": "37.4",
+                "away": "62.6"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
@@ -11548,8 +11558,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "151",
-                "away": "278"
+                "home": "152",
+                "away": "279"
               },
               {
                 "key": "passPct",
@@ -14888,6 +14898,13 @@
       "athleteID": null
     },
     {
+      "player": "Lisandro Martínez",
+      "team": "Manchester United",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Luis Suárez",
       "team": "Sporting de Portugal",
       "goals": 1,
@@ -14934,13 +14951,6 @@
       "team": "Brujas",
       "goals": 1,
       "penalties": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Razvan Marin",
-      "team": "AEK Atenas",
-      "goals": 1,
-      "penalties": 0,
       "athleteID": null
     }
   ],
