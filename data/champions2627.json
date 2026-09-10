@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:11:43Z",
+  "lastUpdated": "2026-09-10T20:12:49Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9673,8 +9673,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73",
-                "away": "27"
+                "home": "72.9",
+                "away": "27.1"
               },
               {
                 "key": "totalShots",
@@ -9699,7 +9699,7 @@
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -9718,8 +9718,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "409",
-                "away": "118"
+                "home": "410",
+                "away": "119"
               },
               {
                 "key": "passPct",
@@ -9745,7 +9745,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10220,8 +10220,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54",
-                "away": "46"
+                "home": "54.1",
+                "away": "45.9"
               },
               {
                 "key": "totalShots",
@@ -10241,7 +10241,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -10265,7 +10265,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "283",
+                "home": "285",
                 "away": "223"
               },
               {
@@ -10292,7 +10292,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10767,8 +10767,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.2",
-                "away": "41.8"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
@@ -10812,8 +10812,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "282",
-                "away": "191"
+                "home": "316",
+                "away": "222"
               },
               {
                 "key": "passPct",
@@ -10839,7 +10839,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11280,11 +11280,21 @@
                 "text": null
               },
               {
-                "id": "52182546_10",
+                "id": "52182546_9",
                 "type": "RED_CARD",
                 "minute": 49,
                 "extraTime": null,
                 "playerName": "Mikulás Konecny",
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "52182677_11",
+                "type": "GOAL",
+                "minute": 51,
+                "extraTime": null,
+                "playerName": "Danijel Sturm",
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
@@ -11293,17 +11303,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.4",
-                "away": "61.6"
+                "home": "38.8",
+                "away": "61.2"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -11338,7 +11348,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "128",
+                "home": "130",
                 "away": "211"
               },
               {
@@ -14559,6 +14569,13 @@
       "athleteID": null
     },
     {
+      "player": "Danijel Sturm",
+      "team": "Slavia de Praga",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Dominik Szoboszlai",
       "team": "Liverpool",
       "goals": 1,
@@ -14722,13 +14739,6 @@
     {
       "player": "Sem Steijn",
       "team": "Feyenoord",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Sergiño Dest",
-      "team": "PSV",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
