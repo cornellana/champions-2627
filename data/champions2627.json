@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:09:06Z",
+  "lastUpdated": "2026-09-10T18:10:12Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8416,13 +8416,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.7",
-                "away": "56.3"
+                "home": "42.1",
+                "away": "57.9"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -8457,12 +8457,12 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
                 "home": "272",
-                "away": "375"
+                "away": "403"
               },
               {
                 "key": "passPct",
@@ -8488,7 +8488,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8978,13 +8978,23 @@
                 "relatedPlayer": null,
                 "teamName": "Shajtar Donetsk",
                 "text": null
+              },
+              {
+                "id": "52177695_16",
+                "type": "YELLOW_CARD",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Ruben van Bommel",
+                "relatedPlayer": null,
+                "teamName": "PSV",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "50.7",
+                "away": "49.3"
               },
               {
                 "key": "totalShots",
@@ -9013,7 +9023,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "4"
               },
               {
@@ -9028,8 +9038,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "266",
-                "away": "253"
+                "home": "272",
+                "away": "255"
               },
               {
                 "key": "passPct",
