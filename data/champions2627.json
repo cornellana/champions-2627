@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:25:51Z",
+  "lastUpdated": "2026-09-10T17:26:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8358,7 +8358,7 @@
                 "minute": 39,
                 "extraTime": null,
                 "playerName": "Bryan Cristante",
-                "relatedPlayer": null,
+                "relatedPlayer": "Donyell Malen",
                 "teamName": "Roma",
                 "text": null
               }
@@ -8438,8 +8438,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
-          "statusText": "In Progress",
+          "clock": "39'",
+          "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
@@ -8873,8 +8873,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.2",
-                "away": "54.8"
+                "home": "44.2",
+                "away": "55.8"
               },
               {
                 "key": "totalShots",
@@ -8893,7 +8893,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "3"
               },
               {
@@ -8918,8 +8918,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "144",
-                "away": "179"
+                "home": "146",
+                "away": "190"
               },
               {
                 "key": "passPct",
@@ -12397,6 +12397,12 @@
     {
       "player": "Deniz Undav with a through ball",
       "team": "Stuttgart",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Donyell Malen",
+      "team": "Roma",
       "goals": 1,
       "athleteID": null
     },
