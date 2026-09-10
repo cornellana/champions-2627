@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:10:38Z",
+  "lastUpdated": "2026-09-10T20:11:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9251,7 +9251,7 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
@@ -9664,8 +9664,8 @@
                 "type": "GOAL",
                 "minute": 47,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Jamal Musiala",
+                "relatedPlayer": "Harry Kane",
                 "teamName": "Bayern de Múnich",
                 "text": null
               }
@@ -9673,12 +9673,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.2",
-                "away": "26.8"
+                "home": "73",
+                "away": "27"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "1"
               },
               {
@@ -9694,11 +9694,11 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -9719,7 +9719,7 @@
               {
                 "key": "accuratePasses",
                 "home": "409",
-                "away": "116"
+                "away": "118"
               },
               {
                 "key": "passPct",
@@ -9745,7 +9745,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10220,8 +10220,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.1",
-                "away": "45.9"
+                "home": "54",
+                "away": "46"
               },
               {
                 "key": "totalShots",
@@ -10236,7 +10236,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -10265,8 +10265,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "281",
-                "away": "222"
+                "home": "283",
+                "away": "223"
               },
               {
                 "key": "passPct",
@@ -10292,7 +10292,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10839,7 +10839,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11278,6 +11278,16 @@
                 "relatedPlayer": "David Zima",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "52182546_10",
+                "type": "RED_CARD",
+                "minute": 49,
+                "extraTime": null,
+                "playerName": "Mikulás Konecny",
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
@@ -11289,7 +11299,7 @@
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -11303,13 +11313,13 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "5"
               },
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "1"
+                "away": "0"
               },
               {
                 "key": "yellowCards",
@@ -11318,7 +11328,7 @@
               },
               {
                 "key": "redCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -14605,6 +14615,13 @@
       "athleteID": null
     },
     {
+      "player": "Jamal Musiala",
+      "team": "Bayern de Múnich",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "John McGinn",
       "team": "Aston Villa",
       "goals": 1,
@@ -14715,13 +14732,6 @@
       "goals": 1,
       "penalties": 0,
       "athleteID": null
-    },
-    {
-      "player": "Suleiman Camara",
-      "team": "Slovan Bratislava",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
     }
   ],
   "topAssists": [
@@ -14812,6 +14822,12 @@
     {
       "player": "Gonçalo Borges with a cross",
       "team": "Feyenoord",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Harry Kane",
+      "team": "Bayern de Múnich",
       "goals": 1,
       "athleteID": null
     },
@@ -14956,12 +14972,6 @@
     {
       "player": "Tigran Barseghyan",
       "team": "Slovan Bratislava",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Youri Tielemans",
-      "team": "Manchester United",
       "goals": 1,
       "athleteID": null
     }
