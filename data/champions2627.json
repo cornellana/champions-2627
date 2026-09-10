@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:49:10Z",
+  "lastUpdated": "2026-09-10T20:50:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9803,17 +9803,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.5",
-                "away": "35.5"
+                "home": "65.9",
+                "away": "34.1"
               },
               {
                 "key": "totalShots",
-                "home": "19",
+                "home": "20",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "9",
+                "home": "10",
                 "away": "0"
               },
               {
@@ -9844,12 +9844,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "accuratePasses",
-                "home": "576",
-                "away": "268"
+                "home": "624",
+                "away": "271"
               },
               {
                 "key": "passPct",
@@ -9875,7 +9875,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10461,17 +10461,27 @@
                 "type": "SUBSTITUTION",
                 "minute": 86,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Samuele Ricci",
+                "relatedPlayer": "Assane Diao",
                 "teamName": "Como",
+                "text": null
+              },
+              {
+                "id": "52185437_20",
+                "type": "SUBSTITUTION",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": "Benjamin Henrichs",
+                "relatedPlayer": "Ridle Baku",
+                "teamName": "RB Leipzig",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.4",
-                "away": "48.6"
+                "home": "50.8",
+                "away": "49.2"
               },
               {
                 "key": "totalShots",
@@ -10516,7 +10526,7 @@
               {
                 "key": "accuratePasses",
                 "home": "445",
-                "away": "403"
+                "away": "413"
               },
               {
                 "key": "passPct",
@@ -10542,7 +10552,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11199,7 +11209,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11768,6 +11778,16 @@
                 "relatedPlayer": "Samuel Isife",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "52185347_31",
+                "type": "GOAL",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": "Danijel Sturm",
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
@@ -11778,12 +11798,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "23"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "6"
               },
               {
@@ -14948,6 +14968,13 @@
       "athleteID": null
     },
     {
+      "player": "Danijel Sturm",
+      "team": "Slavia de Praga",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Erling Haaland",
       "team": "Manchester City",
       "goals": 2,
@@ -15062,13 +15089,6 @@
     {
       "player": "Carlos Augusto",
       "team": "Inter de Milán",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Danijel Sturm",
-      "team": "Slavia de Praga",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
