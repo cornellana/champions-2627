@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:55:43Z",
+  "lastUpdated": "2026-09-10T20:56:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9251,11 +9251,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "4-0",
+          "result": "5-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9814,7 +9814,7 @@
                 "type": "GOAL",
                 "minute": 90,
                 "extraTime": 2,
-                "playerName": null,
+                "playerName": "Michael Olise",
                 "relatedPlayer": null,
                 "teamName": "Bayern de Múnich",
                 "text": null
@@ -9823,17 +9823,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66",
-                "away": "34"
+                "home": "65.7",
+                "away": "34.3"
               },
               {
                 "key": "totalShots",
-                "home": "24",
+                "home": "25",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "10",
+                "home": "11",
                 "away": "0"
               },
               {
@@ -9868,8 +9868,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "647",
-                "away": "277"
+                "home": "649",
+                "away": "284"
               },
               {
                 "key": "passPct",
@@ -9895,7 +9895,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10505,6 +10505,16 @@
                 "relatedPlayer": "Nico Paz with a through ball",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "52185857_22",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 4,
+                "playerName": "Máximo Perrone",
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
@@ -10516,7 +10526,7 @@
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
@@ -10530,7 +10540,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "10"
               },
               {
@@ -10540,7 +10550,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -10556,7 +10566,7 @@
               {
                 "key": "accuratePasses",
                 "home": "465",
-                "away": "444"
+                "away": "443"
               },
               {
                 "key": "passPct",
@@ -11239,7 +11249,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+4'",
+          "clock": "90'+5'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11853,7 +11863,7 @@
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "8"
               },
               {
@@ -15039,6 +15049,13 @@
       "athleteID": null
     },
     {
+      "player": "Michael Olise",
+      "team": "Bayern de Múnich",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Ousmane Dembélé",
       "team": "Paris Saint-Germain",
       "goals": 2,
@@ -15272,13 +15289,6 @@
     {
       "player": "Martin Baturina",
       "team": "Como",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Martin Ødegaard",
-      "team": "Arsenal",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
