@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:22:41Z",
+  "lastUpdated": "2026-09-10T20:23:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9755,7 +9755,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10251,8 +10251,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 60,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Tidiam Gomis",
+                "relatedPlayer": "Nicolas Seiwald",
                 "teamName": "RB Leipzig",
                 "text": null
               },
@@ -10261,8 +10261,18 @@
                 "type": "SUBSTITUTION",
                 "minute": 60,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Assan Ouédraogo",
+                "relatedPlayer": "Marc Guiu",
+                "teamName": "RB Leipzig",
+                "text": null
+              },
+              {
+                "id": "52183421_12",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": "Ezechiel Banzuzi",
+                "relatedPlayer": "Christopher Nkunku",
                 "teamName": "RB Leipzig",
                 "text": null
               }
@@ -10270,12 +10280,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "52.6",
+                "away": "47.4"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "7"
               },
               {
@@ -10315,8 +10325,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "317",
-                "away": "280"
+                "home": "333",
+                "away": "281"
               },
               {
                 "key": "passPct",
@@ -10342,7 +10352,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10822,6 +10832,16 @@
                 "relatedPlayer": null,
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "52183432_9",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
@@ -10833,7 +10853,7 @@
               {
                 "key": "totalShots",
                 "home": "16",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -10899,7 +10919,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "62'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11364,7 +11384,37 @@
                 "type": "SUBSTITUTION",
                 "minute": 61,
                 "extraTime": null,
+                "playerName": "Mezian Mesloub",
+                "relatedPlayer": "Franjo Ivanovic",
+                "teamName": "Lens",
+                "text": null
+              },
+              {
+                "id": "52183441_13",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
                 "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lens",
+                "text": null
+              },
+              {
+                "id": "52183442_14",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lens",
+                "text": null
+              },
+              {
+                "id": "52183440_15",
+                "type": "YELLOW_CARD",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Pierre Ganiou",
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
@@ -11373,8 +11423,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.9",
-                "away": "62.1"
+                "home": "37.6",
+                "away": "62.4"
               },
               {
                 "key": "totalShots",
@@ -11394,7 +11444,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -11404,7 +11454,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -11419,7 +11469,7 @@
               {
                 "key": "accuratePasses",
                 "home": "148",
-                "away": "260"
+                "away": "262"
               },
               {
                 "key": "passPct",
