@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:05:11Z",
+  "lastUpdated": "2026-09-10T20:06:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -10261,8 +10261,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "In Progress",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10721,13 +10721,23 @@
                 "relatedPlayer": "Youri Tielemans",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "52182375_6",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.5",
-                "away": "41.5"
+                "home": "59.2",
+                "away": "40.8"
               },
               {
                 "key": "totalShots",
@@ -10746,7 +10756,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "1"
               },
               {
@@ -10771,8 +10781,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "266",
-                "away": "178"
+                "home": "282",
+                "away": "182"
               },
               {
                 "key": "passPct",
@@ -11229,9 +11239,9 @@
             },
             "events": [
               {
-                "id": "52181085_5",
-                "type": "GOAL",
-                "minute": 35,
+                "id": "52182379_6",
+                "type": "SUBSTITUTION",
+                "minute": 45,
                 "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
@@ -11242,8 +11252,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.7",
-                "away": "62.3"
+                "home": "38",
+                "away": "62"
               },
               {
                 "key": "totalShots",
@@ -11283,11 +11293,11 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "122",
+                "home": "124",
                 "away": "209"
               },
               {
