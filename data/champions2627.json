@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:25:58Z",
+  "lastUpdated": "2026-09-10T20:27:03Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9693,8 +9693,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.5",
-                "away": "31.5"
+                "home": "66.8",
+                "away": "33.2"
               },
               {
                 "key": "totalShots",
@@ -9709,7 +9709,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -9738,8 +9738,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "463",
-                "away": "171"
+                "home": "465",
+                "away": "188"
               },
               {
                 "key": "passPct",
@@ -9765,7 +9765,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -9828,22 +9828,22 @@
                   "athleteID": "337970"
                 },
                 {
-                  "id": "264211",
-                  "jersey": 6,
-                  "name": "Luis Milla",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "264211"
-                },
-                {
                   "id": "291285",
                   "jersey": 7,
                   "name": "Lucas Da Cunha",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "291285"
+                },
+                {
+                  "id": "264211",
+                  "jersey": 6,
+                  "name": "Luis Milla",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "264211"
                 },
                 {
                   "id": "262071",
@@ -10285,6 +10285,16 @@
                 "relatedPlayer": "Christopher Nkunku",
                 "teamName": "RB Leipzig",
                 "text": null
+              },
+              {
+                "id": "52183641_13",
+                "type": "YELLOW_CARD",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Ezechiel Banzuzi",
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
@@ -10310,7 +10320,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "7",
                 "away": "10"
               },
               {
@@ -10321,7 +10331,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -10335,7 +10345,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "340",
+                "home": "339",
                 "away": "294"
               },
               {
@@ -10362,8 +10372,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
-          "statusText": "Second Half",
+          "clock": "67'",
+          "statusText": "In Progress",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10877,8 +10887,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.7",
-                "away": "41.3"
+                "home": "59.6",
+                "away": "40.4"
               },
               {
                 "key": "totalShots",
@@ -10898,7 +10908,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -10918,11 +10928,11 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "accuratePasses",
-                "home": "416",
+                "home": "436",
                 "away": "270"
               },
               {
@@ -10949,7 +10959,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11453,8 +11463,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38",
-                "away": "62"
+                "home": "37.6",
+                "away": "62.4"
               },
               {
                 "key": "totalShots",
@@ -11469,7 +11479,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -11499,7 +11509,7 @@
               {
                 "key": "accuratePasses",
                 "home": "151",
-                "away": "268"
+                "away": "275"
               },
               {
                 "key": "passPct",
