@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:28:42Z",
+  "lastUpdated": "2026-09-10T18:29:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8491,6 +8491,16 @@
                 "relatedPlayer": null,
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "52178282_29",
+                "type": "YELLOW_CARD",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Bryan Cristante",
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
               }
             ],
             "teamStats": [
@@ -8568,7 +8578,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -9114,8 +9124,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 83,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Sven Mijnans",
+                "relatedPlayer": "Ricardo Pepi",
                 "teamName": "PSV",
                 "text": null
               }
@@ -9123,8 +9133,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -9143,7 +9153,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "12",
+                "home": "13",
                 "away": "12"
               },
               {
@@ -9168,8 +9178,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "348",
-                "away": "308"
+                "home": "366",
+                "away": "309"
               },
               {
                 "key": "passPct",
