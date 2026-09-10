@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:16:44Z",
+  "lastUpdated": "2026-09-10T18:17:49Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8451,17 +8451,37 @@
                 "relatedPlayer": "Kerem Aktürkoglu",
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "52177898_25",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Nahuel Molina",
+                "relatedPlayer": "Devyne Rensch",
+                "teamName": "Roma",
+                "text": null
+              },
+              {
+                "id": "52177899_26",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Rodrigo Mora",
+                "relatedPlayer": "Matías Soulé",
+                "teamName": "Roma",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.6",
-                "away": "57.4"
+                "home": "42",
+                "away": "58"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "6"
               },
               {
@@ -8502,7 +8522,7 @@
               {
                 "key": "accuratePasses",
                 "home": "288",
-                "away": "416"
+                "away": "429"
               },
               {
                 "key": "passPct",
@@ -8528,7 +8548,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -9063,8 +9083,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
@@ -9084,7 +9104,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -9108,8 +9128,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "300",
-                "away": "266"
+                "home": "309",
+                "away": "267"
               },
               {
                 "key": "passPct",
