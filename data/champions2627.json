@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:20:29Z",
+  "lastUpdated": "2026-09-10T20:21:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9741,11 +9741,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-0",
+          "result": "3-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10240,8 +10240,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.1",
-                "away": "48.9"
+                "home": "51.3",
+                "away": "48.7"
               },
               {
                 "key": "totalShots",
@@ -10285,7 +10285,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "309",
+                "home": "312",
                 "away": "280"
               },
               {
@@ -10312,8 +10312,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
-          "statusText": "In Progress",
+          "clock": "61'",
+          "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10782,22 +10782,32 @@
                 "relatedPlayer": "Christian Nwachukwu",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "52183294_8",
+                "type": "YELLOW_CARD",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Patrick Dorgu",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.5",
-                "away": "42.5"
+                "home": "57.1",
+                "away": "42.9"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "16",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "0"
               },
               {
@@ -10807,7 +10817,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "2"
               },
               {
@@ -10817,7 +10827,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -10828,12 +10838,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "381",
-                "away": "263"
+                "home": "385",
+                "away": "269"
               },
               {
                 "key": "passPct",
@@ -10859,7 +10869,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
