@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:24:46Z",
+  "lastUpdated": "2026-09-10T17:25:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "37'",
+          "clock": "38'",
           "statusText": "First Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8351,22 +8351,33 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52176865_3",
+                "type": "GOAL",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Bryan Cristante",
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.2",
-                "away": "54.8"
+                "home": "47.5",
+                "away": "52.5"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -8376,7 +8387,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -8400,8 +8411,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "155",
-                "away": "204"
+                "home": "175",
+                "away": "206"
               },
               {
                 "key": "passPct",
@@ -8427,7 +8438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "37'",
+          "clock": "38'",
           "statusText": "In Progress",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -8862,8 +8873,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.9",
-                "away": "53.1"
+                "home": "45.2",
+                "away": "54.8"
               },
               {
                 "key": "totalShots",
@@ -8882,7 +8893,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "3"
               },
               {
@@ -8908,7 +8919,7 @@
               {
                 "key": "accuratePasses",
                 "home": "144",
-                "away": "166"
+                "away": "179"
               },
               {
                 "key": "passPct",
@@ -12172,6 +12183,13 @@
     {
       "player": "Ayase Ueda",
       "team": "Lille",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
+      "player": "Bryan Cristante",
+      "team": "Roma",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
