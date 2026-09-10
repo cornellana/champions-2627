@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:29:15Z",
+  "lastUpdated": "2026-09-10T20:30:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,8 +9255,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
-          "statusText": "Second Half",
+          "clock": "67'",
+          "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": {
@@ -9688,13 +9688,43 @@
                 "relatedPlayer": "Michael Olise with a cross following a set piece situation",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "52183842_15",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Jens Petter Hauge",
+                "relatedPlayer": "Sondre Fet",
+                "teamName": "Bodø/Glimt",
+                "text": null
+              },
+              {
+                "id": "52183843_16",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Josip Stanisic",
+                "relatedPlayer": "Konrad Laimer",
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "52183844_17",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Ismael Saibari",
+                "relatedPlayer": "Jamal Musiala",
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.9",
-                "away": "33.1"
+                "home": "66.6",
+                "away": "33.4"
               },
               {
                 "key": "totalShots",
@@ -9738,8 +9768,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "471",
-                "away": "190"
+                "home": "477",
+                "away": "193"
               },
               {
                 "key": "passPct",
@@ -9765,7 +9795,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10330,8 +10360,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.5",
-                "away": "46.5"
+                "home": "53",
+                "away": "47"
               },
               {
                 "key": "totalShots",
@@ -10346,7 +10376,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -10375,8 +10405,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "365",
-                "away": "295"
+                "home": "366",
+                "away": "303"
               },
               {
                 "key": "passPct",
@@ -10398,11 +10428,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-0",
+          "result": "4-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11009,7 +11039,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11513,13 +11543,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.4",
-                "away": "62.6"
+                "home": "36.9",
+                "away": "63.1"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
@@ -11529,7 +11559,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -11559,11 +11589,11 @@
               {
                 "key": "accuratePasses",
                 "home": "152",
-                "away": "279"
+                "away": "287"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.8"
               }
             ],
