@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:45:50Z",
+  "lastUpdated": "2026-09-10T20:46:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9251,11 +9251,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-0",
+          "result": "4-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9754,8 +9754,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 80,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Hiroki Ito",
+                "relatedPlayer": "Alphonso Davies",
                 "teamName": "Bayern de Múnich",
                 "text": null
               },
@@ -9764,8 +9764,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 80,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Tom Bischof",
+                "relatedPlayer": "Joshua Kimmich",
                 "teamName": "Bayern de Múnich",
                 "text": null
               },
@@ -9774,8 +9774,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ola Brynhildsen",
+                "relatedPlayer": "Andreas Helmersen",
                 "teamName": "Bodø/Glimt",
                 "text": null
               },
@@ -9784,26 +9784,36 @@
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Isak Määttä",
+                "relatedPlayer": "Fredrik Bjørkan",
                 "teamName": "Bodø/Glimt",
+                "text": null
+              },
+              {
+                "id": "52185197_29",
+                "type": "GOAL",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Michael Olise",
+                "relatedPlayer": "Lennart Karl",
+                "teamName": "Bayern de Múnich",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.9",
-                "away": "35.1"
+                "home": "64.6",
+                "away": "35.4"
               },
               {
                 "key": "totalShots",
-                "home": "18",
+                "home": "19",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "8",
+                "home": "9",
                 "away": "0"
               },
               {
@@ -9838,8 +9848,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "563",
-                "away": "256"
+                "home": "576",
+                "away": "266"
               },
               {
                 "key": "passPct",
@@ -9865,7 +9875,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10495,8 +10505,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "430",
-                "away": "380"
+                "home": "436",
+                "away": "385"
               },
               {
                 "key": "passPct",
@@ -10522,7 +10532,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11179,7 +11189,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11744,8 +11754,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 84,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ivan Schranz",
+                "relatedPlayer": "Samuel Isife",
                 "teamName": "Slavia de Praga",
                 "text": null
               }
@@ -11753,13 +11763,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.9",
-                "away": "63.1"
+                "home": "36.7",
+                "away": "63.3"
               },
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "20"
+                "away": "21"
               },
               {
                 "key": "shotsOnTarget",
@@ -11798,8 +11808,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "174",
-                "away": "335"
+                "home": "175",
+                "away": "341"
               },
               {
                 "key": "passPct",
@@ -15358,6 +15368,12 @@
       "athleteID": null
     },
     {
+      "player": "Lennart Karl",
+      "team": "Bayern de Múnich",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Maghnes Akliouche",
       "team": "Paris Saint-Germain",
       "goals": 1,
@@ -15426,12 +15442,6 @@
     {
       "player": "Pedri with a through ball",
       "team": "FC Barcelona",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Rayan Aït-Nouri following a corner",
-      "team": "Manchester City",
       "goals": 1,
       "athleteID": null
     }
