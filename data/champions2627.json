@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:58:59Z",
+  "lastUpdated": "2026-09-10T21:00:04Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11244,13 +11244,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "2-3",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+7'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -14752,7 +14752,7 @@
       "position": 10
     },
     {
-      "team": "Real Betis",
+      "team": "Lens",
       "played": 1,
       "won": 1,
       "drawn": 0,
@@ -14762,17 +14762,17 @@
       "position": 11
     },
     {
-      "team": "Liverpool",
+      "team": "Real Betis",
       "played": 1,
       "won": 1,
       "drawn": 0,
       "lost": 0,
-      "goalsFor": 2,
-      "goalsAgainst": 1,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
       "position": 12
     },
     {
-      "team": "Real Madrid",
+      "team": "Liverpool",
       "played": 1,
       "won": 1,
       "drawn": 0,
@@ -14782,17 +14782,17 @@
       "position": 13
     },
     {
-      "team": "AEK Atenas",
+      "team": "Real Madrid",
       "played": 1,
       "won": 1,
       "drawn": 0,
       "lost": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
       "position": 14
     },
     {
-      "team": "Arsenal",
+      "team": "AEK Atenas",
       "played": 1,
       "won": 1,
       "drawn": 0,
@@ -14802,17 +14802,17 @@
       "position": 15
     },
     {
-      "team": "Fenerbahçe",
+      "team": "Arsenal",
       "played": 1,
-      "won": 0,
-      "drawn": 1,
+      "won": 1,
+      "drawn": 0,
       "lost": 0,
       "goalsFor": 1,
-      "goalsAgainst": 1,
+      "goalsAgainst": 0,
       "position": 16
     },
     {
-      "team": "PSV",
+      "team": "Fenerbahçe",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -14822,7 +14822,7 @@
       "position": 17
     },
     {
-      "team": "Roma",
+      "team": "PSV",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -14832,7 +14832,7 @@
       "position": 18
     },
     {
-      "team": "Shajtar Donetsk",
+      "team": "Roma",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -14842,24 +14842,14 @@
       "position": 19
     },
     {
-      "team": "Lens",
-      "played": 0,
+      "team": "Shajtar Donetsk",
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "position": 20
-    },
-    {
-      "team": "Slavia de Praga",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "position": 21
     },
     {
       "team": "Brujas",
@@ -14869,10 +14859,20 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "position": 22
+      "position": 21
     },
     {
       "team": "Lille",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "position": 22
+    },
+    {
+      "team": "Slavia de Praga",
       "played": 1,
       "won": 0,
       "drawn": 0,
