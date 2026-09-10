@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:39:10Z",
+  "lastUpdated": "2026-09-10T20:40:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9724,8 +9724,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 71,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ulrik Saltnes",
+                "relatedPlayer": "Joshua Kitolano because of an injury",
                 "teamName": "Bodø/Glimt",
                 "text": null
               }
@@ -9733,8 +9733,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.9",
-                "away": "33.1"
+                "home": "65.3",
+                "away": "34.7"
               },
               {
                 "key": "totalShots",
@@ -9778,8 +9778,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "536",
-                "away": "216"
+                "home": "545",
+                "away": "241"
               },
               {
                 "key": "passPct",
@@ -9805,7 +9805,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10390,13 +10390,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "51.5",
+                "away": "48.5"
               },
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
@@ -10435,8 +10435,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "399",
-                "away": "347"
+                "home": "400",
+                "away": "357"
               },
               {
                 "key": "passPct",
@@ -10462,7 +10462,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11119,8 +11119,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
-          "statusText": "Second Half",
+          "clock": "78'",
+          "statusText": "In Progress",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -11673,13 +11673,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.4",
-                "away": "63.6"
+                "home": "36.7",
+                "away": "63.3"
               },
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "16"
+                "away": "17"
               },
               {
                 "key": "shotsOnTarget",
@@ -11718,8 +11718,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "161",
-                "away": "314"
+                "home": "166",
+                "away": "322"
               },
               {
                 "key": "passPct",
