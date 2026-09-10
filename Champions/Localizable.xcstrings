@@ -2578,6 +2578,29 @@
         }
       }
     },
+    "settings.notifications.retry": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reintentar"
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reintentar"
+          }
+        }
+      }
+    },
     "settings.notifications.startEnd": {
       "extractionState": "manual",
       "localizations": {
@@ -2597,6 +2620,121 @@
           "stringUnit": {
             "state": "translated",
             "value": "Inici i final"
+          }
+        }
+      }
+    },
+    "settings.notifications.status.active": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Live alerts active"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avisos en vivo activos"
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avisos en directe actius"
+          }
+        }
+      }
+    },
+    "settings.notifications.status.routeMissing": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The server doesn't offer live alerts for this competition yet."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El servidor todavía no ofrece avisos en vivo de esta competición."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El servidor encara no ofereix avisos en directe d'aquesta competició."
+          }
+        }
+      }
+    },
+    "settings.notifications.status.server": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The server turned down the request (%d)."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El servidor ha rechazado la petición (%d)."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El servidor ha rebutjat la petició (%d)."
+          }
+        }
+      }
+    },
+    "settings.notifications.status.trying": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activating live alerts…"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activando los avisos en vivo…"
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activant els avisos en directe…"
+          }
+        }
+      }
+    },
+    "settings.notifications.status.unreachable": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Can't reach the server, so live alerts are off. The kickoff reminder still works."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se llega al servidor, así que los avisos en vivo no están activos. El recordatorio del saque sí funciona."
+          }
+        },
+        "ca": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No s'arriba al servidor, així que els avisos en directe no estan actius. El recordatori de la sortida sí que funciona."
           }
         }
       }

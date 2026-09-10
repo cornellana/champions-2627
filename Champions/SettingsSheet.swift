@@ -137,6 +137,10 @@ struct SettingsSheet: View {
                 }
             }
 
+            if settings.notifications.enabled && authorization != .denied {
+                registrationRow
+            }
+
             if settings.notifications.enabled && authorization == .denied {
                 Label("settings.notifications.denied", systemImage: "bell.slash.fill")
                     .font(.caption)
@@ -152,6 +156,50 @@ struct SettingsSheet: View {
             Text("settings.notifications")
         } footer: {
             Text("settings.notifications.help")
+        }
+    }
+
+    /// Si el alta contra el NAS ha ido bien o no.
+    ///
+    /// Los avisos en vivo dependen de un servicio de casa, y cuando ese
+    /// servicio falla no hay ninguna otra se\u00f1al: el recordatorio del saque
+    /// sigue llegando —lo programa el propio tel\u00e9fono— y todo parece normal.
+    /// Sin esta fila, un fallo puede durar semanas sin que nadie lo note.
+    @ViewBuilder
+    private var registrationRow: some View {
+        switch NotificationService.shared.registration {
+        case .idle:
+            EmptyView()
+
+        case .trying:
+            Label("settings.notifications.status.trying", systemImage: "arrow.triangle.2.circlepath")
+                .font(.caption)
+                .foregroundStyle(.secondary)
+
+        case .active:
+            Label("settings.notifications.status.active", systemImage: "checkmark.circle.fill")
+                .font(.caption)
+                .foregroundStyle(.green)
+
+        case .failed(let motivo):
+            Label(mensaje(motivo), systemImage: "exclamationmark.triangle.fill")
+                .font(.caption)
+                .foregroundStyle(Palette.gold)
+            Button("settings.notifications.retry") {
+                NotificationService.shared.retry()
+            }
+            .font(.subheadline)
+        }
+    }
+
+    private func mensaje(_ motivo: NotificationService.RegistrationState.Failure) -> String {
+        switch motivo {
+        case .unreachable:
+            String(localized: "settings.notifications.status.unreachable")
+        case .routeMissing:
+            String(localized: "settings.notifications.status.routeMissing")
+        case .server(let codigo):
+            String(format: String(localized: "settings.notifications.status.server"), codigo)
         }
     }
 

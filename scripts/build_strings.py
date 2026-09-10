@@ -274,6 +274,30 @@ STRINGS: dict[str, tuple[str, str, str]] = {
         "Els avisos en directe arriben de l'actualitzador de casa; el recordatori de la sortida el programa aquest telèfon i funciona sense ell."),
     "settings.minutes": ("%d min", "%d min", "%d min"),
 
+    # Estado del alta contra el NAS. Sin esto, que los avisos en vivo no
+    # lleguen es indistinguible de que no haya pasado nada digno de aviso.
+    "settings.notifications.status.active": (
+        "Live alerts active",
+        "Avisos en vivo activos",
+        "Avisos en directe actius"),
+    "settings.notifications.status.trying": (
+        "Activating live alerts\u2026",
+        "Activando los avisos en vivo\u2026",
+        "Activant els avisos en directe\u2026"),
+    "settings.notifications.status.unreachable": (
+        "Can't reach the server, so live alerts are off. The kickoff reminder still works.",
+        "No se llega al servidor, as\u00ed que los avisos en vivo no est\u00e1n activos. El recordatorio del saque s\u00ed funciona.",
+        "No s'arriba al servidor, aix\u00ed que els avisos en directe no estan actius. El recordatori de la sortida s\u00ed que funciona."),
+    "settings.notifications.status.routeMissing": (
+        "The server doesn't offer live alerts for this competition yet.",
+        "El servidor todav\u00eda no ofrece avisos en vivo de esta competici\u00f3n.",
+        "El servidor encara no ofereix avisos en directe d'aquesta competici\u00f3."),
+    "settings.notifications.status.server": (
+        "The server turned down the request (%d).",
+        "El servidor ha rechazado la petici\u00f3n (%d).",
+        "El servidor ha rebutjat la petici\u00f3 (%d)."),
+    "settings.notifications.retry": ("Try again", "Reintentar", "Reintentar"),
+
     "settings.about":       ("About", "Acerca de", "Quant a"),
     "settings.version":     ("Version", "Versión", "Versió"),
     "settings.season":      ("Season", "Temporada", "Temporada"),
