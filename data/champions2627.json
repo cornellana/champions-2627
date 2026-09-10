@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:07:21Z",
+  "lastUpdated": "2026-09-10T20:08:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9648,7 +9648,18 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "52182438_10",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Julian Faye Lund",
+                "relatedPlayer": "Nikita Haikin because of an injury",
+                "teamName": "Bodø/Glimt",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
@@ -9724,8 +9735,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -10189,8 +10200,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.6",
-                "away": "42.4"
+                "home": "54.9",
+                "away": "45.1"
               },
               {
                 "key": "totalShots",
@@ -10235,7 +10246,7 @@
               {
                 "key": "accuratePasses",
                 "home": "277",
-                "away": "188"
+                "away": "213"
               },
               {
                 "key": "passPct",
@@ -10261,8 +10272,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
-          "statusText": "Second Half",
+          "clock": "48'",
+          "statusText": "In Progress",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10736,8 +10747,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.2",
-                "away": "40.8"
+                "home": "58.2",
+                "away": "41.8"
               },
               {
                 "key": "totalShots",
@@ -10756,7 +10767,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "1"
               },
               {
@@ -10782,7 +10793,7 @@
               {
                 "key": "accuratePasses",
                 "home": "282",
-                "away": "182"
+                "away": "191"
               },
               {
                 "key": "passPct",
@@ -10808,7 +10819,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
