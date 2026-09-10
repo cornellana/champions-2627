@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:15:38Z",
+  "lastUpdated": "2026-09-10T18:16:44Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -8421,13 +8421,43 @@
                 "relatedPlayer": null,
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "52177871_22",
+                "type": "YELLOW_CARD",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Mert Müldür",
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "52177869_23",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": "Romelu Lukaku",
+                "relatedPlayer": "Vedat Muriqi",
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "52177870_24",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": "Oguz Aydin",
+                "relatedPlayer": "Kerem Aktürkoglu",
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.6",
-                "away": "58.4"
+                "home": "42.6",
+                "away": "57.4"
               },
               {
                 "key": "totalShots",
@@ -8446,8 +8476,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
-                "away": "13"
+                "home": "9",
+                "away": "14"
               },
               {
                 "key": "offsides",
@@ -8456,7 +8486,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -8471,8 +8501,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "273",
-                "away": "414"
+                "home": "288",
+                "away": "416"
               },
               {
                 "key": "passPct",
@@ -8498,7 +8528,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -9058,7 +9088,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
