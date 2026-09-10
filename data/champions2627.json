@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:19:24Z",
+  "lastUpdated": "2026-09-10T20:20:29Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9673,12 +9673,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.6",
-                "away": "32.4"
+                "home": "68.3",
+                "away": "31.7"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "2"
               },
               {
@@ -9718,7 +9718,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "439",
+                "home": "454",
                 "away": "169"
               },
               {
@@ -9745,7 +9745,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10225,23 +10225,33 @@
                 "relatedPlayer": "Nico Paz",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "52183198_9",
+                "type": "GOAL",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "Andrija Maksimovic",
+                "relatedPlayer": "Christopher Nkunku",
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.9",
-                "away": "49.1"
+                "home": "51.1",
+                "away": "48.9"
               },
               {
                 "key": "totalShots",
                 "home": "10",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -10275,8 +10285,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "302",
-                "away": "275"
+                "home": "309",
+                "away": "280"
               },
               {
                 "key": "passPct",
@@ -10302,8 +10312,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
-          "statusText": "Second Half",
+          "clock": "60'",
+          "statusText": "In Progress",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10777,17 +10787,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.1",
-                "away": "43.9"
+                "home": "57.5",
+                "away": "42.5"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "0"
               },
               {
@@ -10818,17 +10828,17 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "353",
-                "away": "262"
+                "home": "381",
+                "away": "263"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -10849,7 +10859,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11324,7 +11334,7 @@
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -11358,8 +11368,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "144",
-                "away": "238"
+                "home": "146",
+                "away": "240"
               },
               {
                 "key": "passPct",
@@ -14537,6 +14547,13 @@
       "athleteID": null
     },
     {
+      "player": "Andrija Maksimovic",
+      "team": "RB Leipzig",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Archie Brown",
       "team": "Fenerbahçe",
       "goals": 1,
@@ -14745,13 +14762,6 @@
       "goals": 1,
       "penalties": 0,
       "athleteID": null
-    },
-    {
-      "player": "Santiago Mouriño",
-      "team": "Villarreal",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
     }
   ],
   "topAssists": [
@@ -14782,6 +14792,12 @@
     {
       "player": "Bryan Mbeumo with a through ball",
       "team": "Manchester United",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Christopher Nkunku",
+      "team": "RB Leipzig",
       "goals": 1,
       "athleteID": null
     },
@@ -14986,12 +15002,6 @@
     {
       "player": "Rodrigo Riquelme",
       "team": "Real Betis",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Ronald Araujo",
-      "team": "Liverpool",
       "goals": 1,
       "athleteID": null
     }
