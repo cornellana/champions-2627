@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:40:16Z",
+  "lastUpdated": "2026-09-10T20:41:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9251,11 +9251,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-0",
+          "result": "3-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9728,27 +9728,37 @@
                 "relatedPlayer": "Joshua Kitolano because of an injury",
                 "teamName": "Bodø/Glimt",
                 "text": null
+              },
+              {
+                "id": "52184702_23",
+                "type": "GOAL",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Alphonso Davies",
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.3",
-                "away": "34.7"
+                "home": "64.8",
+                "away": "35.2"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "0"
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "3"
               },
               {
@@ -9778,8 +9788,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "545",
-                "away": "241"
+                "home": "546",
+                "away": "249"
               },
               {
                 "key": "passPct",
@@ -9805,7 +9815,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10390,8 +10400,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.5",
-                "away": "48.5"
+                "home": "51.1",
+                "away": "48.9"
               },
               {
                 "key": "totalShots",
@@ -10435,8 +10445,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "400",
-                "away": "357"
+                "home": "401",
+                "away": "366"
               },
               {
                 "key": "passPct",
@@ -10462,7 +10472,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11047,8 +11057,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.4",
-                "away": "41.6"
+                "home": "57.8",
+                "away": "42.2"
               },
               {
                 "key": "totalShots",
@@ -11092,8 +11102,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "483",
-                "away": "321"
+                "home": "488",
+                "away": "332"
               },
               {
                 "key": "passPct",
@@ -11119,8 +11129,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
-          "statusText": "In Progress",
+          "clock": "79'",
+          "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -11673,8 +11683,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.7",
-                "away": "63.3"
+                "home": "36.6",
+                "away": "63.4"
               },
               {
                 "key": "totalShots",
@@ -11718,8 +11728,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "166",
-                "away": "322"
+                "home": "168",
+                "away": "325"
               },
               {
                 "key": "passPct",
@@ -14904,6 +14914,13 @@
       "athleteID": null
     },
     {
+      "player": "Alphonso Davies",
+      "team": "Bayern de Múnich",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Andrija Maksimovic",
       "team": "RB Leipzig",
       "goals": 1,
@@ -15102,13 +15119,6 @@
     {
       "player": "Matheus Cunha",
       "team": "Manchester United",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Nicolas Jackson",
-      "team": "Aston Villa",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
