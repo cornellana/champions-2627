@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:42:29Z",
+  "lastUpdated": "2026-09-10T20:43:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9743,8 +9743,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.2",
-                "away": "34.8"
+                "home": "65.1",
+                "away": "34.9"
               },
               {
                 "key": "totalShots",
@@ -9789,7 +9789,7 @@
               {
                 "key": "accuratePasses",
                 "home": "556",
-                "away": "249"
+                "away": "250"
               },
               {
                 "key": "passPct",
@@ -9815,7 +9815,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10400,8 +10400,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.6",
-                "away": "49.4"
+                "home": "51",
+                "away": "49"
               },
               {
                 "key": "totalShots",
@@ -10445,8 +10445,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "402",
-                "away": "373"
+                "home": "408",
+                "away": "374"
               },
               {
                 "key": "passPct",
@@ -10472,7 +10472,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -11129,7 +11129,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11678,18 +11678,28 @@
                 "relatedPlayer": "Mojmír Chytil",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "52184915_25",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.9",
-                "away": "63.1"
+                "home": "36.7",
+                "away": "63.3"
               },
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "19"
+                "away": "20"
               },
               {
                 "key": "shotsOnTarget",
@@ -11699,7 +11709,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "foulsCommitted",
@@ -11729,7 +11739,7 @@
               {
                 "key": "accuratePasses",
                 "home": "172",
-                "away": "330"
+                "away": "332"
               },
               {
                 "key": "passPct",
