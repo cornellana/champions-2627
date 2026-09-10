@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:59:16Z",
+  "lastUpdated": "2026-09-10T18:00:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8938,13 +8938,23 @@
                 "relatedPlayer": "Armando Obispo",
                 "teamName": "PSV",
                 "text": null
+              },
+              {
+                "id": "52177386_13",
+                "type": "YELLOW_CARD",
+                "minute": 55,
+                "extraTime": null,
+                "playerName": "Pedro Henrique",
+                "relatedPlayer": null,
+                "teamName": "Shajtar Donetsk",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45",
-                "away": "55"
+                "home": "45.2",
+                "away": "54.8"
               },
               {
                 "key": "totalShots",
@@ -8959,12 +8969,12 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
-                "away": "5"
+                "home": "9",
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -8974,7 +8984,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -8988,8 +8998,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
-                "away": "249"
+                "home": "208",
+                "away": "251"
               },
               {
                 "key": "passPct",
