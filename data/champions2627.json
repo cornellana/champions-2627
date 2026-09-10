@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:44:30Z",
+  "lastUpdated": "2026-09-10T19:45:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9652,17 +9652,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.4",
-                "away": "30.6"
+                "home": "71.8",
+                "away": "28.2"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "9",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -9693,12 +9693,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "298",
-                "away": "106"
+                "home": "351",
+                "away": "108"
               },
               {
                 "key": "passPct",
@@ -9724,7 +9724,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10189,8 +10189,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.7",
-                "away": "44.3"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
@@ -10234,8 +10234,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "221",
-                "away": "168"
+                "home": "232",
+                "away": "179"
               },
               {
                 "key": "passPct",
@@ -10261,7 +10261,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10691,27 +10691,37 @@
                 "relatedPlayer": "Patrick Dorgu with a cross",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "52181718_2",
+                "type": "GOAL",
+                "minute": 42,
+                "extraTime": null,
+                "playerName": "Bruno Fernandes",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.3",
-                "away": "39.7"
+                "home": "60.9",
+                "away": "39.1"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "12",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "2"
               },
               {
@@ -10741,7 +10751,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "247",
+                "home": "255",
                 "away": "152"
               },
               {
@@ -10768,8 +10778,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
-          "statusText": "In Progress",
+          "clock": "42'",
+          "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -11212,18 +11222,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.6",
-                "away": "60.4"
+                "home": "37.1",
+                "away": "62.9"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -11258,7 +11268,7 @@
               {
                 "key": "accuratePasses",
                 "home": "111",
-                "away": "172"
+                "away": "197"
               },
               {
                 "key": "passPct",
@@ -14450,6 +14460,13 @@
       "athleteID": null
     },
     {
+      "player": "Bruno Fernandes",
+      "team": "Manchester United",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Bryan Cristante",
       "team": "Roma",
       "goals": 1,
@@ -14641,13 +14658,6 @@
     {
       "player": "Tasos Douvikas",
       "team": "Como",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Troy Parrott",
-      "team": "Real Betis",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
