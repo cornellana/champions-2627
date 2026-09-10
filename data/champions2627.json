@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:35:50Z",
+  "lastUpdated": "2026-09-10T20:36:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9805,7 +9805,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10375,13 +10375,23 @@
                 "relatedPlayer": "Andrija Maksimovic",
                 "teamName": "RB Leipzig",
                 "text": null
+              },
+              {
+                "id": "52184278_18",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Ivan Smolcic",
+                "relatedPlayer": "Yan Couto",
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.6",
-                "away": "47.4"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
@@ -10426,7 +10436,7 @@
               {
                 "key": "accuratePasses",
                 "home": "387",
-                "away": "328"
+                "away": "337"
               },
               {
                 "key": "passPct",
@@ -11012,6 +11022,26 @@
                 "relatedPlayer": "Patrick Dorgu",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "52184276_17",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "52184277_18",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
@@ -11089,7 +11119,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11598,17 +11628,27 @@
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "52184259_21",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Florian Sotoca",
+                "relatedPlayer": "Amadou Haidara",
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.7",
-                "away": "63.3"
+                "home": "36.5",
+                "away": "63.5"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "12",
                 "away": "16"
               },
               {
@@ -11648,8 +11688,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "159",
-                "away": "307"
+                "home": "160",
+                "away": "310"
               },
               {
                 "key": "passPct",
