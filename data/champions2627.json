@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:53:32Z",
+  "lastUpdated": "2026-09-10T20:54:37Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9885,7 +9885,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10500,13 +10500,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.2",
-                "away": "48.8"
+                "home": "50.5",
+                "away": "49.5"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -10545,8 +10545,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "462",
-                "away": "423"
+                "home": "465",
+                "away": "439"
               },
               {
                 "key": "passPct",
@@ -10567,13 +10567,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "4-0",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -11163,7 +11163,7 @@
               {
                 "key": "totalShots",
                 "home": "21",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -11229,7 +11229,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11816,6 +11816,16 @@
                 "extraTime": 1,
                 "playerName": "Florian Thauvin",
                 "relatedPlayer": "Mezian Mesloub with a cross",
+                "teamName": "Lens",
+                "text": null
+              },
+              {
+                "id": "52185715_33",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": 3,
+                "playerName": "Ruben Aguilar",
+                "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
               }
