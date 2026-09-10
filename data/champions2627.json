@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T19:45:35Z",
+  "lastUpdated": "2026-09-10T19:46:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,8 +9255,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
-          "statusText": "First Half",
+          "clock": "42'",
+          "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": {
@@ -9724,7 +9724,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10257,12 +10257,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "2-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
-          "statusText": "First Half",
+          "clock": "43'",
+          "statusText": "In Progress",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -10698,7 +10698,7 @@
                 "minute": 42,
                 "extraTime": null,
                 "playerName": "Bruno Fernandes",
-                "relatedPlayer": null,
+                "relatedPlayer": "Youri Tielemans",
                 "teamName": "Manchester United",
                 "text": null
               }
@@ -10706,8 +10706,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.9",
-                "away": "39.1"
+                "home": "60.6",
+                "away": "39.4"
               },
               {
                 "key": "totalShots",
@@ -10752,7 +10752,7 @@
               {
                 "key": "accuratePasses",
                 "home": "255",
-                "away": "152"
+                "away": "154"
               },
               {
                 "key": "passPct",
@@ -10778,7 +10778,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
+          "clock": "43'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11222,8 +11222,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.1",
-                "away": "62.9"
+                "home": "36.6",
+                "away": "63.4"
               },
               {
                 "key": "totalShots",
@@ -11243,7 +11243,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -11267,8 +11267,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "111",
-                "away": "197"
+                "home": "112",
+                "away": "204"
               },
               {
                 "key": "passPct",
@@ -14889,6 +14889,12 @@
     {
       "player": "Tigran Barseghyan",
       "team": "Slovan Bratislava",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Youri Tielemans",
+      "team": "Manchester United",
       "goals": 1,
       "athleteID": null
     }
