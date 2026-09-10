@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:38:54Z",
+  "lastUpdated": "2026-09-10T17:47:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -8188,22 +8188,22 @@
                   "athleteID": "212597"
                 },
                 {
-                  "id": "285226",
-                  "jersey": 17,
-                  "name": "Manu Koné",
-                  "position": "CM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "285226"
-                },
-                {
                   "id": "169213",
                   "jersey": 4,
                   "name": "Bryan Cristante",
-                  "position": "CM-R",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "169213"
+                },
+                {
+                  "id": "285226",
+                  "jersey": 17,
+                  "name": "Manu Koné",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "285226"
                 },
                 {
                   "id": "332354",
