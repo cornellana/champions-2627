@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:23:47Z",
+  "lastUpdated": "2026-09-10T20:24:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9678,22 +9678,32 @@
                 "relatedPlayer": null,
                 "teamName": "Bodø/Glimt",
                 "text": null
+              },
+              {
+                "id": "52183450_14",
+                "type": "GOAL",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": "Harry Kane",
+                "relatedPlayer": "Michael Olise with a cross following a set piece situation",
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.5",
-                "away": "31.5"
+                "home": "68.6",
+                "away": "31.4"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "17",
                 "away": "2"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "0"
               },
               {
@@ -9704,7 +9714,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -9728,7 +9738,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "461",
+                "home": "463",
                 "away": "170"
               },
               {
@@ -9755,7 +9765,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10352,7 +10362,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10838,8 +10848,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 63,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Aleksey Isayev",
+                "relatedPlayer": "Kaheem Parris",
                 "teamName": "Sabah",
                 "text": null
               }
@@ -10847,8 +10857,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.1",
-                "away": "42.9"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
@@ -10892,7 +10902,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "385",
+                "home": "388",
                 "away": "269"
               },
               {
@@ -10919,7 +10929,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11394,8 +11404,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ruben Aguilar",
+                "relatedPlayer": "Michal Skóras",
                 "teamName": "Lens",
                 "text": null
               },
@@ -11404,8 +11414,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Odsonne Édouard",
+                "relatedPlayer": "Souleymane Sagnan",
                 "teamName": "Lens",
                 "text": null
               },
@@ -11414,7 +11424,7 @@
                 "type": "YELLOW_CARD",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": "Pierre Ganiou",
+                "playerName": "Ismaëlo Ganiou",
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
@@ -14759,6 +14769,13 @@
       "athleteID": null
     },
     {
+      "player": "Harry Kane",
+      "team": "Bayern de Múnich",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Hugo Vetlesen",
       "team": "Brujas",
       "goals": 1,
@@ -14852,13 +14869,6 @@
     {
       "player": "Razvan Marin",
       "team": "AEK Atenas",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Rodrigo Zalazar",
-      "team": "Sporting de Portugal",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -15046,6 +15056,12 @@
       "athleteID": null
     },
     {
+      "player": "Michael Olise with a cross following a set piece situation",
+      "team": "Bayern de Múnich",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Nico Paz",
       "team": "Como",
       "goals": 1,
@@ -15096,12 +15112,6 @@
     {
       "player": "Rayan Aït-Nouri following a corner",
       "team": "Manchester City",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Rodrigo Riquelme",
-      "team": "Real Betis",
       "goals": 1,
       "athleteID": null
     }
