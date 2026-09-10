@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:21:35Z",
+  "lastUpdated": "2026-09-10T20:22:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -9255,7 +9255,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -9668,13 +9668,23 @@
                 "relatedPlayer": "Harry Kane",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "52183321_13",
+                "type": "YELLOW_CARD",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "Sondre Fet",
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.3",
-                "away": "31.7"
+                "home": "68.5",
+                "away": "31.5"
               },
               {
                 "key": "totalShots",
@@ -9694,7 +9704,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -9704,7 +9714,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -9718,8 +9728,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "454",
-                "away": "169"
+                "home": "461",
+                "away": "170"
               },
               {
                 "key": "passPct",
@@ -9745,7 +9755,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -10235,13 +10245,33 @@
                 "relatedPlayer": "Christopher Nkunku",
                 "teamName": "RB Leipzig",
                 "text": null
+              },
+              {
+                "id": "52183314_10",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
+              },
+              {
+                "id": "52183315_11",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.3",
-                "away": "48.7"
+                "home": "51.6",
+                "away": "48.4"
               },
               {
                 "key": "totalShots",
@@ -10285,7 +10315,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "312",
+                "home": "317",
                 "away": "280"
               },
               {
@@ -10312,7 +10342,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "62'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -10869,7 +10899,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -11328,13 +11358,23 @@
                 "relatedPlayer": "Samuel Isife",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "52183404_12",
+                "type": "SUBSTITUTION",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.7",
-                "away": "61.3"
+                "home": "37.9",
+                "away": "62.1"
               },
               {
                 "key": "totalShots",
@@ -11378,8 +11418,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "146",
-                "away": "240"
+                "home": "148",
+                "away": "260"
               },
               {
                 "key": "passPct",
