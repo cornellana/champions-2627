@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:17:49Z",
+  "lastUpdated": "2026-09-10T18:18:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -7940,7 +7940,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Ulker Stadyumu",
           "venueCity": "Istanbul",
@@ -8453,7 +8453,17 @@
                 "text": null
               },
               {
-                "id": "52177898_25",
+                "id": "52177928_25",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Leonardo Balerdi",
+                "relatedPlayer": "Gianluca Mancini",
+                "teamName": "Roma",
+                "text": null
+              },
+              {
+                "id": "52177898_26",
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
@@ -8463,7 +8473,7 @@
                 "text": null
               },
               {
-                "id": "52177899_26",
+                "id": "52177899_27",
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
@@ -8476,8 +8486,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42",
-                "away": "58"
+                "home": "41.5",
+                "away": "58.5"
               },
               {
                 "key": "totalShots",
@@ -8496,7 +8506,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "14"
               },
               {
@@ -8522,7 +8532,7 @@
               {
                 "key": "accuratePasses",
                 "home": "288",
-                "away": "429"
+                "away": "438"
               },
               {
                 "key": "passPct",
@@ -8548,7 +8558,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
