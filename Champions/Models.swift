@@ -524,6 +524,10 @@ struct AppSeason: Identifiable, Equatable, Hashable, Sendable {
     let fastURL: URL?
     /// Nombre del JSON incrustado en el bundle, sin extensión.
     let seedName: String
+    /// Temporada en SofaScore, de donde salen los datos de un partido en la
+    /// ficha del jugador. Sin ella la ficha enseña solo la temporada, que viene
+    /// de ESPN.
+    var sofascoreSeasonID: Int? = nil
 
     static let all: [AppSeason] = [
         AppSeason(
@@ -532,7 +536,8 @@ struct AppSeason: Identifiable, Equatable, Hashable, Sendable {
             espnYear: 2026,
             remoteURL: URL(string: "https://raw.githubusercontent.com/cornellana/champions-2627/main/data/champions2627.json"),
             fastURL: URL(string: "https://laliga-api.cornellanas.net/datos/champions2627.json"),
-            seedName: "champions2627-seed"
+            seedName: "champions2627-seed",
+            sofascoreSeasonID: 96518
         )
     ]
 
@@ -543,11 +548,30 @@ struct AppSeason: Identifiable, Equatable, Hashable, Sendable {
 
 /// Jugador sobre el que se abre la ficha, con el contexto desde el que se pulsó.
 struct PlayerSelection: Identifiable, Equatable, Sendable {
-    var id: String { "\(playerName)|\(teamName ?? "")|\(athleteID ?? "")" }
+    var id: String { "\(playerName)|\(teamName ?? "")|\(athleteID ?? "")|\(match?.id ?? "")" }
     let playerName: String
+    /// Nombre canónico del club.
     let teamName: String?
+    /// Identificador de ESPN. Llega de las alineaciones y de las plantillas;
+    /// de los goleadores no, y entonces lo busca la ficha.
     let athleteID: String?
+    /// Abreviatura del puesto, de ESPN o de la alineación.
     let position: String?
+    /// Dorsal. Desempata cuando ESPN y SofaScore no escriben igual el nombre.
+    let jersey: Int?
+    /// Partido desde el que se pulsó. Sin él —desde los goleadores— la ficha
+    /// enseña solo la temporada.
+    let match: Match?
+
+    init(playerName: String, teamName: String?, athleteID: String?,
+         position: String? = nil, jersey: Int? = nil, match: Match? = nil) {
+        self.playerName = playerName
+        self.teamName = teamName
+        self.athleteID = athleteID
+        self.position = position
+        self.jersey = jersey
+        self.match = match
+    }
 }
 
 // MARK: - Color

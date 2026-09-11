@@ -11,8 +11,12 @@ struct TopScorersSheet: View {
 
     let scorers: [TopScorer]
     let assists: [TopScorer]
+    /// Calendario completo: los goleadores llegan sin identificador de ESPN y
+    /// la ficha lo busca en las alineaciones.
+    var matchDays: [MatchDay] = []
 
     @State private var tab: Tab = .goals
+    @State private var selectedPlayer: PlayerSelection?
     @Environment(\.dismiss) private var dismiss
     @Environment(HighlightSettings.self) private var highlights
 
@@ -48,12 +52,22 @@ struct TopScorersSheet: View {
                     ScrollView {
                         LazyVStack(spacing: 0) {
                             ForEach(Array(rows.enumerated()), id: \.element.id) { index, row in
-                                ScorerRow(
-                                    rank: index + 1,
-                                    scorer: row,
-                                    unit: tab,
-                                    highlight: highlights.highlight(for: row.team)
-                                )
+                                Button {
+                                    selectedPlayer = PlayerSelection(
+                                        playerName: row.player,
+                                        teamName: row.team,
+                                        athleteID: row.athleteID
+                                    )
+                                } label: {
+                                    ScorerRow(
+                                        rank: index + 1,
+                                        scorer: row,
+                                        unit: tab,
+                                        highlight: highlights.highlight(for: row.team)
+                                    )
+                                    .contentShape(Rectangle())
+                                }
+                                .buttonStyle(.plain)
                                 if index < rows.count - 1 {
                                     Divider()
                                         .background(Color.white.opacity(0.05))
@@ -79,6 +93,9 @@ struct TopScorersSheet: View {
             }
         }
         .preferredColorScheme(.dark)
+        .sheet(item: $selectedPlayer) { player in
+            PlayerStatsSheet(selection: player, matchDays: matchDays)
+        }
     }
 
     private var emptyState: some View {

@@ -175,7 +175,7 @@ struct ContentView: View {
                 .environment(highlights)
         }
         .sheet(isPresented: $showingScorers) {
-            TopScorersSheet(scorers: store.topScorers, assists: store.topAssists)
+            TopScorersSheet(scorers: store.topScorers, assists: store.topAssists, matchDays: store.matchDays)
                 .environment(highlights)
         }
         .sheet(isPresented: $showingCalendar) {

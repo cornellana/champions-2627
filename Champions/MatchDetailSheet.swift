@@ -22,6 +22,8 @@ struct MatchDetailSheet: View {
     @State private var homeRoster: [RosterPlayer] = []
     @State private var awayRoster: [RosterPlayer] = []
     @State private var isLoadingRoster = false
+    /// Jugador cuya ficha está abierta.
+    @State private var selectedPlayer: PlayerSelection?
 
     @Environment(\.dismiss) private var dismiss
     @Environment(HighlightSettings.self) private var highlights
@@ -94,6 +96,9 @@ struct MatchDetailSheet: View {
         .preferredColorScheme(.dark)
         .onAppear {
             if !availableTabs.contains(tab) { tab = .summary }
+        }
+        .sheet(item: $selectedPlayer) { player in
+            PlayerStatsSheet(selection: player, matchDays: matchDays)
         }
         .task {
             if !match.done, !match.isLive, prediction == nil {
@@ -267,7 +272,12 @@ struct MatchDetailSheet: View {
             VStack(spacing: 0) {
                 sectionTitle("detail.timeline")
                 ForEach(events) { event in
-                    EventRow(event: event, isHome: event.teamName == match.home)
+                    Button { select(event) } label: {
+                        EventRow(event: event, isHome: event.teamName == match.home)
+                            .contentShape(Rectangle())
+                    }
+                    .buttonStyle(.plain)
+                    .disabled((event.playerName ?? "").isEmpty)
                 }
             }
         }
@@ -286,10 +296,10 @@ struct MatchDetailSheet: View {
     private var lineupsSection: some View {
         VStack(spacing: 0) {
             if let home = match.details?.homeLineup {
-                LineupView(team: match.home, lineup: home)
+                LineupView(team: match.home, lineup: home) { select($0, team: match.home) }
             }
             if let away = match.details?.awayLineup {
-                LineupView(team: match.away, lineup: away)
+                LineupView(team: match.away, lineup: away) { select($0, team: match.away) }
             }
         }
     }
@@ -400,11 +410,73 @@ struct MatchDetailSheet: View {
             VStack(spacing: 0) {
                 sectionTitle("roster.title")
                 HStack(alignment: .top, spacing: 0) {
-                    RosterColumn(team: match.home, players: homeRoster)
+                    RosterColumn(team: match.home, players: homeRoster) { select($0, team: match.home) }
                     Divider().background(Color.white.opacity(0.06))
-                    RosterColumn(team: match.away, players: awayRoster)
+                    RosterColumn(team: match.away, players: awayRoster) { select($0, team: match.away) }
                 }
             }
+        }
+    }
+
+    // MARK: Ficha del jugador
+
+    /// Un suceso trae solo el nombre del jugador. El identificador, el dorsal
+    /// y el puesto están en la alineación de este mismo partido.
+    private func select(_ event: MatchEvent) {
+        guard let name = event.playerName, !name.isEmpty else { return }
+        let fromLineup = lineupPlayer(named: name, team: event.teamName)
+        selectedPlayer = PlayerSelection(
+            playerName: name,
+            teamName: event.teamName,
+            athleteID: fromLineup?.athleteID,
+            position: fromLineup?.position,
+            jersey: fromLineup?.jersey,
+            match: match
+        )
+    }
+
+    private func select(_ player: LineupPlayer, team: String) {
+        selectedPlayer = PlayerSelection(
+            playerName: player.name,
+            teamName: team,
+            athleteID: player.athleteID,
+            position: player.position,
+            jersey: player.jersey,
+            match: match
+        )
+    }
+
+    private func select(_ player: RosterPlayer, team: String) {
+        selectedPlayer = PlayerSelection(
+            playerName: player.name,
+            teamName: team,
+            // Si ESPN no dio identificador, la plantilla guarda el nombre en su
+            // sitio. Eso no sirve para pedir estadísticas: se deja que la ficha
+            // lo busque.
+            athleteID: player.id.allSatisfy(\.isNumber) ? player.id : nil,
+            position: abbreviation(player.position),
+            jersey: player.jersey,
+            match: match
+        )
+    }
+
+    private func lineupPlayer(named name: String, team: String?) -> LineupPlayer? {
+        let lineups: [TeamLineup?] =
+            team == match.home ? [match.details?.homeLineup] :
+            team == match.away ? [match.details?.awayLineup] :
+            [match.details?.homeLineup, match.details?.awayLineup]
+        return lineups.compactMap { $0 }
+            .flatMap(\.players)
+            .first { PlayerStatsService.sameName($0.name, name) }
+    }
+
+    private func abbreviation(_ position: RosterPlayer.Position) -> String? {
+        switch position {
+        case .goalkeeper: return "G"
+        case .defender:   return "D"
+        case .midfielder: return "M"
+        case .forward:    return "F"
+        case .unknown:    return nil
         }
     }
 
@@ -502,6 +574,8 @@ private struct EventRow: View {
 private struct LineupView: View {
     let team: String
     let lineup: TeamLineup
+    /// Al tocar un jugador. Sin él, las filas no responden.
+    var onSelect: ((LineupPlayer) -> Void)? = nil
 
     var body: some View {
         VStack(spacing: 0) {
@@ -523,7 +597,7 @@ private struct LineupView: View {
             .background(Palette.sectionHeader)
 
             ForEach(lineup.starters) { player in
-                PlayerRow(player: player)
+                row(player)
             }
 
             if !lineup.substitutes.isEmpty {
@@ -539,9 +613,21 @@ private struct LineupView: View {
                 .background(Palette.dayHeader)
 
                 ForEach(lineup.substitutes) { player in
-                    PlayerRow(player: player)
+                    row(player)
                 }
             }
+        }
+    }
+
+    @ViewBuilder
+    private func row(_ player: LineupPlayer) -> some View {
+        if let onSelect {
+            Button { onSelect(player) } label: {
+                PlayerRow(player: player).contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+        } else {
+            PlayerRow(player: player)
         }
     }
 }
@@ -757,6 +843,8 @@ struct RosterColumn: View {
 
     let team: String
     let players: [RosterPlayer]
+    /// Al tocar un jugador. Sin él, las filas no responden.
+    var onSelect: ((RosterPlayer) -> Void)? = nil
 
     private var grouped: [(RosterPlayer.Position, [RosterPlayer])] {
         Dictionary(grouping: players, by: \.position)
@@ -808,6 +896,9 @@ struct RosterColumn: View {
                         }
                         .padding(.horizontal, 10)
                         .padding(.vertical, 2)
+                        .contentShape(Rectangle())
+                        .onTapGesture { onSelect?(jugador) }
+                        .accessibilityAddTraits(onSelect == nil ? [] : .isButton)
                     }
                 }
                 Spacer(minLength: 12)
