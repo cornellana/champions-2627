@@ -218,6 +218,7 @@ STRINGS: dict[str, tuple[str, str, str]] = {
     # -- Ficha del partido -------------------------------------------------
     "detail.summary":    ("Summary", "Resumen", "Resum"),
     "detail.lineups":    ("Line-ups", "Alineaciones", "Alineacions"),
+    "detail.momentum":   ("Match momentum", "Momentum del partido", "Momentum del partit"),
     "detail.stats":      ("Stats", "Estadísticas", "Estadístiques"),
     "detail.section":    ("Section", "Sección", "Secció"),
     "detail.timeline":   ("Timeline", "Cronología", "Cronologia"),

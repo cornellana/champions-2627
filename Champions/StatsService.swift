@@ -1,15 +1,16 @@
 //
-//  PlayerStatsService.swift
+//  StatsService.swift
 //  Champions
 //
-//  De dónde sale cada dato de la ficha del jugador. Son dos fuentes, las mismas
-//  que usa la app de La Liga:
+//  Los datos que no vienen en el JSON del NAS y se piden al vuelo: la ficha del
+//  jugador y el momentum del partido. Son dos fuentes, las mismas que usa la app
+//  de La Liga:
 //
 //  · ESPN: el identificador del jugador, su edad y su puesto, y el total de la
 //    temporada en la Champions. La media por partido es ese total entre los
 //    partidos jugados.
-//  · SofaScore: lo que hizo en un partido concreto, la valoración, la foto y el
-//    valor de mercado.
+//  · SofaScore: lo que hizo un jugador en un partido concreto, la valoración, la
+//    foto, el valor de mercado y el momentum.
 //
 //  Las dos distinguen clientes, y al revés una de otra. SofaScore responde 403
 //  a curl y a Python, pero atiende al URLSession del iPhone si lleva
@@ -21,7 +22,7 @@
 
 import Foundation
 
-enum PlayerStatsService {
+enum StatsService {
 
     private static let espnBase = "https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.champions"
     private static let sofaBase = "https://api.sofascore.com/api/v1"
@@ -223,6 +224,25 @@ enum PlayerStatsService {
         let url = "\(sofaBase)/player/\(playerID)/unique-tournament/\(sofaTournament)/season/\(seasonID)/statistics/overall"
         let json = await fetch(url, sofaScore: true)
         return number((json?["statistics"] as? [String: Any])?["rating"])
+    }
+
+    // MARK: - Momentum
+
+    /// Presión de cada equipo a lo largo del partido, tal como la calcula
+    /// SofaScore: positiva cuando aprieta el local, negativa cuando aprieta el
+    /// visitante. Durante el partido devuelve lo que va de él, así que pedirlo
+    /// otra vez al rato hace crecer la gráfica.
+    ///
+    /// No todos los partidos lo tienen: en la jornada 1 faltaba en uno de 18,
+    /// el AEK–LASK. Entonces devuelve `nil` y la ficha no enseña la gráfica.
+    static func momentum(eventID: Int) async -> [MomentumPoint]? {
+        guard let json = await fetch("\(sofaBase)/event/\(eventID)/graph", sofaScore: true),
+              let raw = json["graphPoints"] as? [[String: Any]] else { return nil }
+        let points = raw.compactMap { point -> MomentumPoint? in
+            guard let minute = number(point["minute"]), let value = number(point["value"]) else { return nil }
+            return MomentumPoint(minute: minute, value: value)
+        }
+        return points.isEmpty ? nil : points
     }
 
     // MARK: - Nombres

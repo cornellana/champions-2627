@@ -24,6 +24,23 @@ struct MatchDetailSheet: View {
     @State private var isLoadingRoster = false
     /// Jugador cuya ficha está abierta.
     @State private var selectedPlayer: PlayerSelection?
+    /// Momentum del partido, de SofaScore. `nil` hasta que llega, o si SofaScore
+    /// no lo tiene.
+    @State private var momentum: [MomentumPoint]?
+    /// El partido en SofaScore. Se busca una vez: con el partido en juego la
+    /// gráfica se vuelve a pedir cada tres minutos y no hace falta volver a
+    /// encontrar el partido cada vez.
+    @State private var sofaScoreEventID: Int?
+
+    /// Tramo de tres minutos de reloj con el partido en juego, o -1 si no lo
+    /// está. Es la identidad de la tarea que pide el momentum: al cambiar de
+    /// tramo se vuelve a pedir y la gráfica crece. Así SofaScore recibe una
+    /// petición cada tres minutos y no una por cada refresco de la lista.
+    private var momentumTick: Int {
+        guard match.isLive, let clock = match.clock,
+              let minute = Int(clock.prefix(while: \.isNumber)) else { return -1 }
+        return minute / 3
+    }
 
     @Environment(\.dismiss) private var dismiss
     @Environment(HighlightSettings.self) private var highlights
@@ -99,6 +116,15 @@ struct MatchDetailSheet: View {
         }
         .sheet(item: $selectedPlayer) { player in
             PlayerStatsSheet(selection: player, matchDays: matchDays)
+        }
+        .task(id: momentumTick) {
+            // Una sola tarea para los dos casos. Un partido terminado tiene
+            // siempre la misma identidad (-1) y pide la gráfica una vez al
+            // abrir la ficha; uno en juego la vuelve a pedir en cada tramo. Y
+            // cuando el partido acaba, la identidad pasa a -1 y se pide la
+            // gráfica ya completa.
+            guard match.done || match.isLive else { return }
+            await loadMomentum()
         }
         .task {
             if !match.done, !match.isLive, prediction == nil {
@@ -257,6 +283,13 @@ struct MatchDetailSheet: View {
     private var summarySection: some View {
         let events = (match.details?.events ?? []).sorted {
             ($0.minute, $0.extraTime ?? 0) < ($1.minute, $1.extraTime ?? 0)
+        }
+
+        if let momentum, !momentum.isEmpty {
+            VStack(spacing: 0) {
+                sectionTitle("detail.momentum")
+                MomentumChart(points: momentum, match: match)
+            }
         }
 
         if events.isEmpty {
@@ -418,6 +451,21 @@ struct MatchDetailSheet: View {
         }
     }
 
+    // MARK: Momentum
+
+    private func loadMomentum() async {
+        if sofaScoreEventID == nil {
+            sofaScoreEventID = await StatsService.eventID(for: match, season: .current)
+        }
+        guard let sofaScoreEventID else { return }
+        // Solo se sustituye si llega algo. En la app de La Liga un fallo de red
+        // pasajero a media segunda parte dejaba la gráfica en blanco hasta la
+        // siguiente petición; aquí se queda la última buena.
+        if let points = await StatsService.momentum(eventID: sofaScoreEventID) {
+            momentum = points
+        }
+    }
+
     // MARK: Ficha del jugador
 
     /// Un suceso trae solo el nombre del jugador. El identificador, el dorsal
@@ -467,7 +515,7 @@ struct MatchDetailSheet: View {
             [match.details?.homeLineup, match.details?.awayLineup]
         return lineups.compactMap { $0 }
             .flatMap(\.players)
-            .first { PlayerStatsService.sameName($0.name, name) }
+            .first { StatsService.sameName($0.name, name) }
     }
 
     private func abbreviation(_ position: RosterPlayer.Position) -> String? {

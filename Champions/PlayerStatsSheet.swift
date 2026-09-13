@@ -8,7 +8,7 @@
 //  Es la de la app de La Liga, con la misma tabla de tres columnas —Partido,
 //  Media y Total— y los mismos grupos. Cambian tres cosas: los textos pasan por
 //  el catálogo de idiomas, los números se formatean con el idioma de la app, y
-//  de dónde sale cada dato vive aparte, en `PlayerStatsService`.
+//  de dónde sale cada dato vive aparte, en `StatsService`.
 //
 
 import SwiftUI
@@ -386,15 +386,15 @@ struct PlayerStatsSheet: View {
 
         var athleteID = selection.athleteID
         if athleteID?.isEmpty ?? true {
-            athleteID = await PlayerStatsService.resolveAthleteID(
+            athleteID = await StatsService.resolveAthleteID(
                 name: selection.playerName, team: selection.teamName, matchDays: matchDays)
         }
 
         // ESPN y el partido de SofaScore no dependen uno del otro: a la vez.
         let id = athleteID
-        async let seasonTask = PlayerStatsService.seasonStats(athleteID: id, season: season)
-        async let infoTask = PlayerStatsService.athleteInfo(id: id)
-        async let matchTask = PlayerStatsService.matchPlayer(for: selection, season: season)
+        async let seasonTask = StatsService.seasonStats(athleteID: id, season: season)
+        async let infoTask = StatsService.athleteInfo(id: id)
+        async let matchTask = StatsService.matchPlayer(for: selection, season: season)
         let (seasonStats, info, inMatch) = await (seasonTask, infoTask, matchTask)
 
         age = info.age
@@ -404,14 +404,14 @@ struct PlayerStatsSheet: View {
         // partido; si no, del buscador.
         var sofaID = inMatch?.playerID
         if sofaID == nil {
-            sofaID = await PlayerStatsService.searchPlayer(name: selection.playerName, team: selection.teamName)
+            sofaID = await StatsService.searchPlayer(name: selection.playerName, team: selection.teamName)
         }
         sofaScoreID = sofaID
 
         var rating: Double?
         if let sofaID {
-            async let valueTask = PlayerStatsService.marketValue(playerID: sofaID)
-            async let ratingTask = PlayerStatsService.seasonRating(playerID: sofaID, season: season)
+            async let valueTask = StatsService.marketValue(playerID: sofaID)
+            async let ratingTask = StatsService.seasonRating(playerID: sofaID, season: season)
             let (value, seasonRating) = await (valueTask, ratingTask)
             marketValue = value
             rating = seasonRating
