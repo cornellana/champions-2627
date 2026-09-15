@@ -746,6 +746,21 @@ def main() -> int:
     eventos = (board or {}).get("events", []) or []
     print(f"  {len(eventos)} partidos en la ventana")
 
+    # La ventana vale para el calendario, pero no para el directo: ESPN contesta
+    # los rangos de fechas desde una caché atrasada. Se vio en La Liga el
+    # 15/09/26: dentro de un rango, dos partidos ya terminados seguían en el
+    # 90'+2' y en el 45'+3', y uno que iba por el 26' aparecía sin empezar;
+    # pidiendo la fecha suelta, todo estaba al día. Por eso hoy y ayer se piden
+    # aparte y mandan sobre la ventana. Ayer también, porque un partido de noche
+    # sigue en juego pasada la medianoche UTC.
+    frescos: dict[str, dict] = {}
+    for dia in (hoy - timedelta(days=1), hoy):
+        suelto = pedir(ESPN_SCOREBOARD, {"dates": dia.strftime("%Y%m%d"), "limit": 400})
+        for evento in (suelto or {}).get("events", []) or []:
+            if evento.get("id"):
+                frescos[str(evento["id"])] = evento
+    eventos = [frescos.pop(str(e.get("id")), e) for e in eventos] + list(frescos.values())
+
     activos: list[str] = []
     actualizados: dict[str, dict] = {}
 
