@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:32:22Z",
+  "lastUpdated": "2026-10-13T18:33:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -12481,13 +12481,23 @@
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "53588431_19",
+                "type": "SUBSTITUTION",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": "Pedro Lima",
+                "relatedPlayer": "Issa Doumbia",
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.7",
-                "away": "45.3"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
@@ -12506,7 +12516,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "11"
               },
               {
@@ -12531,7 +12541,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "438",
+                "home": "445",
                 "away": "355"
               },
               {
@@ -12554,11 +12564,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "2-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -13124,8 +13134,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 86,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Abdulla Xaybulayev",
+                "relatedPlayer": "Veljko Simic",
                 "teamName": "Sabah",
                 "text": null
               }
