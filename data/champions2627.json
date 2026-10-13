@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:18:10Z",
+  "lastUpdated": "2026-10-13T18:19:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12421,13 +12421,23 @@
                 "relatedPlayer": "Junior Kadile",
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "53587831_13",
+                "type": "YELLOW_CARD",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Michaël Cuisance",
+                "relatedPlayer": null,
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.5",
-                "away": "41.5"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
@@ -12446,7 +12456,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "10"
               },
               {
@@ -12456,7 +12466,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -12472,7 +12482,7 @@
               {
                 "key": "accuratePasses",
                 "home": "390",
-                "away": "260"
+                "away": "276"
               },
               {
                 "key": "passPct",
@@ -12498,7 +12508,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12984,8 +12994,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 72,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Rahman Dasdamirov",
+                "relatedPlayer": "Steve Solvet",
                 "teamName": "Sabah",
                 "text": null
               },
@@ -12994,8 +13004,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Orphé Mbina",
+                "relatedPlayer": "Kaheem Parris",
                 "teamName": "Sabah",
                 "text": null
               }
@@ -13044,12 +13054,12 @@
               {
                 "key": "saves",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
                 "home": "213",
-                "away": "268"
+                "away": "269"
               },
               {
                 "key": "passPct",
