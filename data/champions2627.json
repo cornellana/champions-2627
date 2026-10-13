@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:17:05Z",
+  "lastUpdated": "2026-10-13T18:18:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12426,12 +12426,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.8",
-                "away": "42.2"
+                "home": "58.5",
+                "away": "41.5"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "8"
               },
               {
@@ -12471,8 +12471,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "377",
-                "away": "259"
+                "home": "390",
+                "away": "260"
               },
               {
                 "key": "passPct",
@@ -12498,7 +12498,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12978,23 +12978,43 @@
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "53587821_19",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "53587822_20",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.5",
-                "away": "55.5"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "wonCorners",
@@ -13023,13 +13043,13 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
                 "home": "213",
-                "away": "266"
+                "away": "268"
               },
               {
                 "key": "passPct",
