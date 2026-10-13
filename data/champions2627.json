@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:14:53Z",
+  "lastUpdated": "2026-10-13T18:15:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12407,8 +12407,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 68,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Michal Skóras",
+                "relatedPlayer": "Saud Abdulhamid",
                 "teamName": "Lens",
                 "text": null
               }
@@ -12416,8 +12416,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.5",
-                "away": "42.5"
+                "home": "58",
+                "away": "42"
               },
               {
                 "key": "totalShots",
@@ -12461,8 +12461,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "364",
-                "away": "253"
+                "home": "376",
+                "away": "255"
               },
               {
                 "key": "passPct",
@@ -12488,7 +12488,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12973,8 +12973,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.5",
-                "away": "55.5"
+                "home": "44.7",
+                "away": "55.3"
               },
               {
                 "key": "totalShots",
@@ -13018,8 +13018,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "208",
-                "away": "256"
+                "home": "212",
+                "away": "261"
               },
               {
                 "key": "passPct",
