@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:03:55Z",
+  "lastUpdated": "2026-10-13T17:05:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12433,11 +12433,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12867,22 +12867,32 @@
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53584682_6",
+                "type": "GOAL",
+                "minute": 17,
+                "extraTime": null,
+                "playerName": "Kaheem Parris",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.7",
-                "away": "33.3"
+                "home": "67.9",
+                "away": "32.1"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -12917,12 +12927,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "84",
-                "away": "30"
+                "home": "95",
+                "away": "32"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.7"
               }
             ],
@@ -16215,6 +16225,13 @@
       "athleteID": null
     },
     {
+      "player": "Kaheem Parris",
+      "team": "Sabah",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Karim Adeyemi",
       "team": "FC Barcelona",
       "goals": 1,
@@ -16252,13 +16269,6 @@
     {
       "player": "Marcos Llorente",
       "team": "Atlético de Madrid",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Martin Baturina",
-      "team": "Como",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
