@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:07:10Z",
+  "lastUpdated": "2026-10-13T17:08:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "In Progress",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12365,8 +12365,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.9",
-                "away": "44.1"
+                "home": "54.3",
+                "away": "45.7"
               },
               {
                 "key": "totalShots",
@@ -12411,7 +12411,7 @@
               {
                 "key": "accuratePasses",
                 "home": "107",
-                "away": "82"
+                "away": "88"
               },
               {
                 "key": "passPct",
@@ -12437,7 +12437,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12872,8 +12872,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.1",
-                "away": "32.9"
+                "home": "64.3",
+                "away": "35.7"
               },
               {
                 "key": "totalShots",
@@ -12897,7 +12897,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -12917,8 +12917,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "95",
-                "away": "34"
+                "home": "104",
+                "away": "44"
               },
               {
                 "key": "passPct",
