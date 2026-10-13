@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:40:33Z",
+  "lastUpdated": "2026-10-13T20:41:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13771,7 +13771,7 @@
                 "minute": 78,
                 "extraTime": null,
                 "playerName": "Olivier Giroud",
-                "relatedPlayer": "Ayase Ueda",
+                "relatedPlayer": "Ayase Ueda because of an injury",
                 "teamName": "Lille",
                 "text": null
               },
@@ -13800,8 +13800,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 82,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Soriba Diaoune",
+                "relatedPlayer": "Dilane Bakwa",
                 "teamName": "Lille",
                 "text": null
               }
@@ -13809,12 +13809,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.8",
-                "away": "42.2"
+                "home": "58.4",
+                "away": "41.6"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "4"
               },
               {
@@ -13854,8 +13854,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "398",
-                "away": "285"
+                "home": "415",
+                "away": "287"
               },
               {
                 "key": "passPct",
@@ -13881,7 +13881,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14420,13 +14420,33 @@
                 "relatedPlayer": null,
                 "teamName": "Atlético de Madrid",
                 "text": null
+              },
+              {
+                "id": "53611334_18",
+                "type": "SUBSTITUTION",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
+              },
+              {
+                "id": "53611335_19",
+                "type": "SUBSTITUTION",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.1",
-                "away": "38.9"
+                "home": "60.9",
+                "away": "39.1"
               },
               {
                 "key": "totalShots",
@@ -14471,7 +14491,7 @@
               {
                 "key": "accuratePasses",
                 "home": "512",
-                "away": "304"
+                "away": "307"
               },
               {
                 "key": "passPct",
@@ -14497,7 +14517,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -15107,7 +15127,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "182",
+                "home": "181",
                 "away": "477"
               },
               {
@@ -15130,11 +15150,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-3",
+          "result": "2-3",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15723,6 +15743,16 @@
                 "relatedPlayer": "Federico Dimarco",
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "53611269_27",
+                "type": "GOAL",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": "Lautaro Martínez",
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
@@ -15800,7 +15830,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -16265,7 +16295,7 @@
               {
                 "id": "53610996_14",
                 "type": "SUBSTITUTION",
-                "minute": 78,
+                "minute": 77,
                 "extraTime": null,
                 "playerName": "Ryan Flamingo",
                 "relatedPlayer": "Lutsharel Geertruida",
@@ -16275,19 +16305,29 @@
               {
                 "id": "53610997_15",
                 "type": "SUBSTITUTION",
-                "minute": 78,
+                "minute": 77,
                 "extraTime": null,
                 "playerName": "Yarek Gasiorowski",
                 "relatedPlayer": "Filip Kostic",
                 "teamName": "PSV",
+                "text": null
+              },
+              {
+                "id": "53611490_16",
+                "type": "YELLOW_CARD",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "David Raum",
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.5",
-                "away": "54.5"
+                "home": "45.4",
+                "away": "54.6"
               },
               {
                 "key": "totalShots",
@@ -16306,7 +16346,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "11"
               },
               {
@@ -16316,7 +16356,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -16332,7 +16372,7 @@
               {
                 "key": "accuratePasses",
                 "home": "276",
-                "away": "338"
+                "away": "339"
               },
               {
                 "key": "passPct",
@@ -16358,7 +16398,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -16962,8 +17002,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.7",
-                "away": "70.3"
+                "home": "31.8",
+                "away": "68.2"
               },
               {
                 "key": "totalShots",
@@ -16977,7 +17017,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "15"
               },
               {
@@ -17007,7 +17047,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "147",
+                "home": "167",
                 "away": "462"
               },
               {
@@ -17034,7 +17074,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -17577,18 +17617,38 @@
                 "relatedPlayer": "Rafa Marín",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "53611491_26",
+                "type": "SUBSTITUTION",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
+              },
+              {
+                "id": "53611492_27",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.6",
-                "away": "47.4"
+                "home": "52.1",
+                "away": "47.9"
               },
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -17627,8 +17687,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "365",
-                "away": "318"
+                "home": "368",
+                "away": "329"
               },
               {
                 "key": "passPct",
@@ -20596,6 +20656,13 @@
       "athleteID": null
     },
     {
+      "player": "Lautaro Martínez",
+      "team": "Inter de Milán",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Luis Suárez",
       "team": "Sporting de Portugal",
       "goals": 2,
@@ -20815,13 +20882,6 @@
     {
       "player": "Florian Thauvin",
       "team": "Lens",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Gabriel Jesus",
-      "team": "FC Barcelona",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
