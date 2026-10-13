@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T10:47:09Z",
+  "lastUpdated": "2026-10-13T00:06:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11933,7 +11933,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": null
@@ -11954,9 +11954,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
-          "stadium": null,
-          "venueCity": null,
+          "statusText": null,
+          "stadium": "Baku Olympic Stadium",
+          "venueCity": "Baku",
           "details": null
         },
         {
@@ -11975,9 +11975,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Emirates Stadium",
-          "venueCity": "Londres",
+          "venueCity": "London",
           "details": null
         },
         {
@@ -11996,7 +11996,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": null
@@ -12017,9 +12017,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "RAMS Park",
-          "venueCity": "Estambul",
+          "venueCity": "Istanbul",
           "details": null
         },
         {
@@ -12038,9 +12038,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "San Siro",
-          "venueCity": "Milán",
+          "venueCity": "Milano",
           "details": null
         },
         {
@@ -12059,7 +12059,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": null
@@ -12080,7 +12080,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": null
@@ -12101,7 +12101,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
           "details": null
