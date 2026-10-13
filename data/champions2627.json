@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:31:41Z",
+  "lastUpdated": "2026-10-13T20:32:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13738,20 +13738,20 @@
               {
                 "id": "53609264_14",
                 "type": "SUBSTITUTION",
-                "minute": 73,
+                "minute": 72,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Maurits Kjærgaard",
+                "relatedPlayer": "Ngal'ayel Mukau",
                 "teamName": "Lille",
                 "text": null
               },
               {
                 "id": "53609265_15",
                 "type": "SUBSTITUTION",
-                "minute": 73,
+                "minute": 72,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Osame Sahraoui",
+                "relatedPlayer": "Nabil Bentaleb",
                 "teamName": "Lille",
                 "text": null
               }
@@ -13759,13 +13759,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.4",
-                "away": "39.6"
+                "home": "58.9",
+                "away": "41.1"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -13805,7 +13805,7 @@
               {
                 "key": "accuratePasses",
                 "home": "375",
-                "away": "238"
+                "away": "254"
               },
               {
                 "key": "passPct",
@@ -13831,7 +13831,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14330,13 +14330,33 @@
                 "relatedPlayer": "Marcus Rashford",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "53609672_12",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Ademola Lookman",
+                "relatedPlayer": "Álex Baena",
+                "teamName": "Atlético de Madrid",
+                "text": null
+              },
+              {
+                "id": "53609673_13",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Morten Hjulmand",
+                "relatedPlayer": "Julián Alvarez",
+                "teamName": "Atlético de Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.5",
-                "away": "37.5"
+                "home": "61.5",
+                "away": "38.5"
               },
               {
                 "key": "totalShots",
@@ -14380,8 +14400,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "483",
-                "away": "266"
+                "home": "485",
+                "away": "282"
               },
               {
                 "key": "passPct",
@@ -14407,7 +14427,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14934,7 +14954,7 @@
                 "minute": 65,
                 "extraTime": null,
                 "playerName": "Karim Adeyemi",
-                "relatedPlayer": "Gabriel Jesus",
+                "relatedPlayer": null,
                 "teamName": "FC Barcelona",
                 "text": null
               },
@@ -14952,8 +14972,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.2",
-                "away": "69.8"
+                "home": "30.4",
+                "away": "69.6"
               },
               {
                 "key": "totalShots",
@@ -14997,8 +15017,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "147",
-                "away": "436"
+                "home": "149",
+                "away": "439"
               },
               {
                 "key": "passPct",
@@ -15024,7 +15044,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15563,6 +15583,16 @@
                 "relatedPlayer": null,
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "53609606_22",
+                "type": "YELLOW_CARD",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": "Lee Han-Beom",
+                "relatedPlayer": null,
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
@@ -15574,12 +15604,12 @@
               {
                 "key": "totalShots",
                 "home": "24",
-                "away": "9"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "6",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -15589,7 +15619,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -15599,7 +15629,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -15613,8 +15643,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "365",
-                "away": "294"
+                "home": "374",
+                "away": "300"
               },
               {
                 "key": "passPct",
@@ -15640,7 +15670,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -16086,8 +16116,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.9",
-                "away": "54.1"
+                "home": "45.8",
+                "away": "54.2"
               },
               {
                 "key": "totalShots",
@@ -16112,7 +16142,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "yellowCards",
@@ -16131,8 +16161,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "254",
-                "away": "304"
+                "home": "262",
+                "away": "317"
               },
               {
                 "key": "passPct",
@@ -16158,8 +16188,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
-          "statusText": "In Progress",
+          "clock": "73'",
+          "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
@@ -16717,13 +16747,43 @@
                 "relatedPlayer": "Konrad Laimer",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "53609621_20",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "53609592_21",
+                "type": "YELLOW_CARD",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Michael Olise",
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "53609723_22",
+                "type": "RED_CARD",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Michael Olise",
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.6",
-                "away": "74.4"
+                "home": "26.1",
+                "away": "73.9"
               },
               {
                 "key": "totalShots",
@@ -16743,7 +16803,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -16753,7 +16813,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -16767,8 +16827,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "110",
-                "away": "446"
+                "home": "115",
+                "away": "450"
               },
               {
                 "key": "passPct",
@@ -16794,7 +16854,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -17327,13 +17387,23 @@
                 "relatedPlayer": "Billy Gilmour",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "53609709_25",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "53",
+                "away": "47"
               },
               {
                 "key": "totalShots",
@@ -17377,12 +17447,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "329",
-                "away": "285"
+                "home": "342",
+                "away": "295"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
@@ -20693,12 +20763,6 @@
       "athleteID": null
     },
     {
-      "player": "Gabriel Jesus",
-      "team": "FC Barcelona",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
       "player": "Gaëtan Perrin with a cross following a corner",
       "team": "Lille",
       "goals": 1,
@@ -20815,6 +20879,12 @@
     {
       "player": "Lennart Karl",
       "team": "Bayern de Múnich",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Maghnes Akliouche",
+      "team": "Paris Saint-Germain",
       "goals": 1,
       "athleteID": null
     }
