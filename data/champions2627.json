@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:40:01Z",
+  "lastUpdated": "2026-10-13T18:41:06Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11927,13 +11927,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "0-2",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -12506,8 +12506,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.8",
-                "away": "44.2"
+                "home": "55.9",
+                "away": "44.1"
               },
               {
                 "key": "totalShots",
@@ -12527,7 +12527,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -12547,11 +12547,11 @@
               {
                 "key": "saves",
                 "home": "3",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "accuratePasses",
-                "home": "477",
+                "home": "482",
                 "away": "367"
               },
               {
@@ -16073,17 +16073,17 @@
       "position": 16
     },
     {
-      "team": "Fenerbahçe",
-      "played": 1,
-      "won": 0,
-      "drawn": 1,
-      "lost": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
+      "team": "Sabah",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 2,
+      "goalsAgainst": 4,
       "position": 17
     },
     {
-      "team": "PSV",
+      "team": "Fenerbahçe",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -16093,7 +16093,7 @@
       "position": 18
     },
     {
-      "team": "Roma",
+      "team": "PSV",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -16103,7 +16103,7 @@
       "position": 19
     },
     {
-      "team": "Shajtar Donetsk",
+      "team": "Roma",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -16113,17 +16113,17 @@
       "position": 20
     },
     {
-      "team": "Brujas",
+      "team": "Shajtar Donetsk",
       "played": 1,
       "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 2,
-      "goalsAgainst": 3,
+      "drawn": 1,
+      "lost": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "position": 21
     },
     {
-      "team": "Lille",
+      "team": "Brujas",
       "played": 1,
       "won": 0,
       "drawn": 0,
@@ -16133,7 +16133,7 @@
       "position": 22
     },
     {
-      "team": "Slavia de Praga",
+      "team": "Lille",
       "played": 1,
       "won": 0,
       "drawn": 0,
@@ -16223,6 +16223,16 @@
       "position": 31
     },
     {
+      "team": "Slavia de Praga",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 2,
+      "goalsAgainst": 5,
+      "position": 32
+    },
+    {
       "team": "RB Leipzig",
       "played": 1,
       "won": 0,
@@ -16230,7 +16240,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 4,
-      "position": 32
+      "position": 33
     },
     {
       "team": "Feyenoord",
@@ -16240,16 +16250,6 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 5,
-      "position": 33
-    },
-    {
-      "team": "Sabah",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 0,
-      "goalsAgainst": 4,
       "position": 34
     },
     {
