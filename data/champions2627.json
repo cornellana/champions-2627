@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:02:49Z",
+  "lastUpdated": "2026-10-13T17:03:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,8 +11932,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
-          "statusText": "In Progress",
+          "clock": "17'",
+          "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -12437,7 +12437,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12872,8 +12872,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.8",
-                "away": "34.2"
+                "home": "66.7",
+                "away": "33.3"
               },
               {
                 "key": "totalShots",
@@ -12917,7 +12917,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "81",
+                "home": "84",
                 "away": "30"
               },
               {
