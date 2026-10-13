@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:01:43Z",
+  "lastUpdated": "2026-10-13T17:02:49Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,8 +11932,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
-          "statusText": "First Half",
+          "clock": "16'",
+          "statusText": "In Progress",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -12365,8 +12365,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.4",
-                "away": "28.6"
+                "home": "67.1",
+                "away": "32.9"
               },
               {
                 "key": "totalShots",
@@ -12410,13 +12410,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "80",
-                "away": "27"
+                "home": "97",
+                "away": "43"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.7"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -12437,7 +12437,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12703,31 +12703,31 @@
                   "athleteID": "280885"
                 },
                 {
-                  "id": "256751",
-                  "jersey": 16,
-                  "name": "David Moses",
+                  "id": "294618",
+                  "jersey": 17,
+                  "name": "Lukás Provod",
                   "position": "AM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "256751"
-                },
-                {
-                  "id": "322169",
-                  "jersey": 10,
-                  "name": "Danijel Sturm",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "322169"
+                  "athleteID": "294618"
                 },
                 {
                   "id": "249525",
                   "jersey": 23,
                   "name": "Michal Sadílek",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "249525"
+                },
+                {
+                  "id": "256751",
+                  "jersey": 16,
+                  "name": "David Moses",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "256751"
                 },
                 {
                   "id": "257336",
@@ -12739,13 +12739,13 @@
                   "athleteID": "257336"
                 },
                 {
-                  "id": "294618",
-                  "jersey": 17,
-                  "name": "Lukás Provod",
+                  "id": "322169",
+                  "jersey": 10,
+                  "name": "Danijel Sturm",
                   "position": "AM-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "294618"
+                  "athleteID": "322169"
                 },
                 {
                   "id": "3098601",
