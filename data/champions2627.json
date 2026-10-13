@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:12:41Z",
+  "lastUpdated": "2026-10-13T18:13:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,8 +11932,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
-          "statusText": "In Progress",
+          "clock": "67'",
+          "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -12391,13 +12391,23 @@
                 "relatedPlayer": "Franjo Ivanovic",
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "53587632_10",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Luís Guilherme",
+                "relatedPlayer": "Geny Catamo",
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.9",
-                "away": "43.1"
+                "home": "57.1",
+                "away": "42.9"
               },
               {
                 "key": "totalShots",
@@ -12441,8 +12451,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "351",
-                "away": "250"
+                "home": "358",
+                "away": "252"
               },
               {
                 "key": "passPct",
@@ -12468,7 +12478,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12928,6 +12938,26 @@
                 "relatedPlayer": "Michal Sadílek",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "53587610_17",
+                "type": "YELLOW_CARD",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Steve Solvet",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "53587617_18",
+                "type": "YELLOW_CARD",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": "Emmanuel Ayaosi",
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
@@ -12978,8 +13008,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "204",
-                "away": "252"
+                "home": "205",
+                "away": "254"
               },
               {
                 "key": "passPct",
