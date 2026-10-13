@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:35:34Z",
+  "lastUpdated": "2026-10-13T19:36:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13679,12 +13679,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.2",
-                "away": "48.8"
+                "home": "52.2",
+                "away": "47.8"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -13700,7 +13700,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -13724,8 +13724,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "163",
-                "away": "156"
+                "home": "174",
+                "away": "159"
               },
               {
                 "key": "passPct",
@@ -13751,7 +13751,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14263,11 +14263,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "2-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14697,27 +14697,37 @@
                 "relatedPlayer": "Rafael Leão following a fast break",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "53599076_6",
+                "type": "GOAL",
+                "minute": 34,
+                "extraTime": null,
+                "playerName": "Baris Alper Yilmaz",
+                "relatedPlayer": "Victor Osimhen following a corner",
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.8",
-                "away": "67.2"
+                "home": "32.9",
+                "away": "67.1"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "3",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -14748,7 +14758,7 @@
               {
                 "key": "accuratePasses",
                 "home": "77",
-                "away": "196"
+                "away": "198"
               },
               {
                 "key": "passPct",
@@ -14774,7 +14784,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "35'",
+          "clock": "36'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15238,13 +15248,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "54.1",
+                "away": "45.9"
               },
               {
                 "key": "totalShots",
                 "home": "10",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -15253,7 +15263,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -15283,7 +15293,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "173",
+                "home": "187",
                 "away": "164"
               },
               {
@@ -15310,8 +15320,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
-          "statusText": "In Progress",
+          "clock": "34'",
+          "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -15736,8 +15746,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39",
-                "away": "61"
+                "home": "37.5",
+                "away": "62.5"
               },
               {
                 "key": "totalShots",
@@ -15781,13 +15791,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "102",
-                "away": "157"
+                "home": "105",
+                "away": "173"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -15808,7 +15818,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -16252,18 +16262,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.6",
-                "away": "74.4"
+                "home": "26.5",
+                "away": "73.5"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -16273,7 +16283,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -16292,17 +16302,17 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "54",
-                "away": "216"
+                "home": "57",
+                "away": "220"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.6",
                 "away": "0.9"
               }
             ],
@@ -16324,7 +16334,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -16762,13 +16772,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "50.3",
+                "away": "49.7"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -16778,7 +16788,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -16807,8 +16817,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "136",
-                "away": "121"
+                "home": "137",
+                "away": "124"
               },
               {
                 "key": "passPct",
@@ -19881,6 +19891,13 @@
       "athleteID": null
     },
     {
+      "player": "Baris Alper Yilmaz",
+      "team": "Galatasaray",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Benjamin Sesko",
       "team": "Manchester United",
       "goals": 1,
@@ -19995,13 +20012,6 @@
     {
       "player": "Issa Doumbia",
       "team": "Sporting de Portugal",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Jamal Musiala",
-      "team": "Bayern de Múnich",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
