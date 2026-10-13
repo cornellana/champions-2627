@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:13:47Z",
+  "lastUpdated": "2026-10-13T18:14:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12401,13 +12401,23 @@
                 "relatedPlayer": "Geny Catamo",
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "53587672_11",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.1",
-                "away": "42.9"
+                "home": "57.5",
+                "away": "42.5"
               },
               {
                 "key": "totalShots",
@@ -12451,8 +12461,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "358",
-                "away": "252"
+                "home": "364",
+                "away": "253"
               },
               {
                 "key": "passPct",
@@ -12478,7 +12488,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12963,8 +12973,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.4",
-                "away": "55.6"
+                "home": "44.5",
+                "away": "55.5"
               },
               {
                 "key": "totalShots",
@@ -13008,8 +13018,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "205",
-                "away": "254"
+                "home": "208",
+                "away": "256"
               },
               {
                 "key": "passPct",
