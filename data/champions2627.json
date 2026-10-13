@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:56:35Z",
+  "lastUpdated": "2026-10-13T20:03:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13453,7 +13453,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-2-3-1",
+              "formation": "4-3-3",
               "players": [
                 {
                   "id": "257267",
@@ -13501,13 +13501,13 @@
                   "athleteID": "408359"
                 },
                 {
-                  "id": "345988",
-                  "jersey": 17,
-                  "name": "Ngal'ayel Mukau",
-                  "position": "AM",
+                  "id": "179187",
+                  "jersey": 6,
+                  "name": "Nabil Bentaleb",
+                  "position": "CM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "345988"
+                  "athleteID": "179187"
                 },
                 {
                   "id": "123683",
@@ -13519,13 +13519,13 @@
                   "athleteID": "123683"
                 },
                 {
-                  "id": "179187",
-                  "jersey": 6,
-                  "name": "Nabil Bentaleb",
+                  "id": "345988",
+                  "jersey": 17,
+                  "name": "Ngal'ayel Mukau",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "179187"
+                  "athleteID": "345988"
                 },
                 {
                   "id": "274277",
@@ -13540,7 +13540,7 @@
                   "id": "318779",
                   "jersey": 10,
                   "name": "Hákon Haraldsson",
-                  "position": "AM-L",
+                  "position": "LF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "318779"
@@ -13549,7 +13549,7 @@
                   "id": "297157",
                   "jersey": 7,
                   "name": "Dilane Bakwa",
-                  "position": "AM-R",
+                  "position": "RF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "297157"
@@ -15050,13 +15050,13 @@
                   "athleteID": "351373"
                 },
                 {
-                  "id": "193849",
-                  "jersey": 20,
-                  "name": "Hans Vanaken",
+                  "id": "310325",
+                  "jersey": 8,
+                  "name": "Freddie Potts",
                   "position": "CM-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "193849"
+                  "athleteID": "310325"
                 },
                 {
                   "id": "255261",
@@ -15068,13 +15068,13 @@
                   "athleteID": "255261"
                 },
                 {
-                  "id": "310325",
-                  "jersey": 8,
-                  "name": "Freddie Potts",
+                  "id": "193849",
+                  "jersey": 20,
+                  "name": "Hans Vanaken",
                   "position": "AM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "310325"
+                  "athleteID": "193849"
                 },
                 {
                   "id": "403592",
@@ -15268,8 +15268,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.6",
-                "away": "49.4"
+                "home": "50.7",
+                "away": "49.3"
               },
               {
                 "key": "totalShots",
@@ -15313,7 +15313,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "212",
+                "home": "213",
                 "away": "211"
               },
               {
