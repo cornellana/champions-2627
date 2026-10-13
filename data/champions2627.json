@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:09:22Z",
+  "lastUpdated": "2026-10-13T17:10:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11928,11 +11928,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12361,22 +12361,33 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53585048_1",
+                "type": "GOAL",
+                "minute": 22,
+                "extraTime": null,
+                "playerName": "Luis Suárez",
+                "relatedPlayer": "Nestory Irankunda with a cross",
+                "teamName": "Sporting de Portugal",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.3",
-                "away": "45.7"
+                "home": "51.2",
+                "away": "48.8"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -12410,8 +12421,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "107",
-                "away": "88"
+                "home": "110",
+                "away": "101"
               },
               {
                 "key": "passPct",
@@ -12437,7 +12448,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12872,8 +12883,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.3",
-                "away": "35.7"
+                "home": "61.8",
+                "away": "38.2"
               },
               {
                 "key": "totalShots",
@@ -12892,8 +12903,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
-                "away": "3"
+                "home": "4",
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -12917,8 +12928,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "104",
-                "away": "44"
+                "home": "114",
+                "away": "55"
               },
               {
                 "key": "passPct",
@@ -16012,6 +16023,13 @@
       "athleteID": null
     },
     {
+      "player": "Luis Suárez",
+      "team": "Sporting de Portugal",
+      "goals": 2,
+      "penalties": 1,
+      "athleteID": null
+    },
+    {
       "player": "Marc Bartra",
       "team": "Real Betis",
       "goals": 2,
@@ -16243,13 +16261,6 @@
       "athleteID": null
     },
     {
-      "player": "Luis Suárez",
-      "team": "Sporting de Portugal",
-      "goals": 1,
-      "penalties": 1,
-      "athleteID": null
-    },
-    {
       "player": "Marcos Llorente",
       "team": "Atlético de Madrid",
       "goals": 1,
@@ -16464,6 +16475,12 @@
       "athleteID": null
     },
     {
+      "player": "Nestory Irankunda with a cross",
+      "team": "Sporting de Portugal",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Nico Paz",
       "team": "Como",
       "goals": 1,
@@ -16496,12 +16513,6 @@
     {
       "player": "Patrick Dorgu with a cross",
       "team": "Manchester United",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Pau Torres",
-      "team": "Aston Villa",
       "goals": 1,
       "athleteID": null
     }
