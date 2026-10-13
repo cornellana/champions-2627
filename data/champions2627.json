@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:41:06Z",
+  "lastUpdated": "2026-10-13T18:42:12Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -15913,6 +15913,16 @@
   ],
   "standings": [
     {
+      "team": "Sporting de Portugal",
+      "played": 2,
+      "won": 2,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "position": 1
+    },
+    {
       "team": "Paris Saint-Germain",
       "played": 1,
       "won": 1,
@@ -15920,7 +15930,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 1,
-      "position": 1
+      "position": 2
     },
     {
       "team": "Bayern de Múnich",
@@ -15930,7 +15940,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "position": 2
+      "position": 3
     },
     {
       "team": "FC Barcelona",
@@ -15940,7 +15950,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "position": 3
+      "position": 4
     },
     {
       "team": "Manchester United",
@@ -15950,7 +15960,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Como",
@@ -15959,16 +15969,6 @@
       "drawn": 0,
       "lost": 0,
       "goalsFor": 4,
-      "goalsAgainst": 1,
-      "position": 5
-    },
-    {
-      "team": "Sporting de Portugal",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 3,
       "goalsAgainst": 1,
       "position": 6
     },
@@ -16013,7 +16013,7 @@
       "position": 10
     },
     {
-      "team": "Lens",
+      "team": "Real Betis",
       "played": 1,
       "won": 1,
       "drawn": 0,
@@ -16023,16 +16023,6 @@
       "position": 11
     },
     {
-      "team": "Real Betis",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 2,
-      "position": 12
-    },
-    {
       "team": "Liverpool",
       "played": 1,
       "won": 1,
@@ -16040,7 +16030,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "position": 13
+      "position": 12
     },
     {
       "team": "Real Madrid",
@@ -16050,7 +16040,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "position": 14
+      "position": 13
     },
     {
       "team": "AEK Atenas",
@@ -16060,7 +16050,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "position": 15
+      "position": 14
     },
     {
       "team": "Arsenal",
@@ -16070,6 +16060,16 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 0,
+      "position": 15
+    },
+    {
+      "team": "Lens",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 3,
+      "goalsAgainst": 4,
       "position": 16
     },
     {
