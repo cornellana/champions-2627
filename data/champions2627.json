@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:00:37Z",
+  "lastUpdated": "2026-10-13T17:01:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12437,8 +12437,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
-          "statusText": "In Progress",
+          "clock": "15'",
+          "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -12667,22 +12667,22 @@
                   "athleteID": "291407"
                 },
                 {
-                  "id": "290116",
-                  "jersey": 4,
-                  "name": "David Zima",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "290116"
-                },
-                {
                   "id": "220165",
                   "jersey": 6,
                   "name": "Ange N'Guessan",
-                  "position": "CD-R",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "220165"
+                },
+                {
+                  "id": "290116",
+                  "jersey": 4,
+                  "name": "David Zima",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "290116"
                 },
                 {
                   "id": "283008",
@@ -12857,12 +12857,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53584548_5",
+                "type": "YELLOW_CARD",
+                "minute": 14,
+                "extraTime": null,
+                "playerName": "Veljko Simic",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.6",
-                "away": "31.4"
+                "home": "65.8",
+                "away": "34.2"
               },
               {
                 "key": "totalShots",
@@ -12881,8 +12892,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
-                "away": "2"
+                "home": "3",
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -12891,7 +12902,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -12907,7 +12918,7 @@
               {
                 "key": "accuratePasses",
                 "home": "81",
-                "away": "27"
+                "away": "30"
               },
               {
                 "key": "passPct",
