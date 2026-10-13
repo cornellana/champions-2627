@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:54:52Z",
+  "lastUpdated": "2026-10-13T17:55:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12376,8 +12376,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.7",
-                "away": "44.3"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
@@ -12392,7 +12392,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -12422,7 +12422,7 @@
               {
                 "key": "accuratePasses",
                 "home": "256",
-                "away": "191"
+                "away": "197"
               },
               {
                 "key": "passPct",
@@ -12444,11 +12444,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "In Progress",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12884,8 +12884,8 @@
                 "type": "GOAL",
                 "minute": 49,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Kaheem Parris",
+                "relatedPlayer": "Ivan Lepinjica following a fast break",
                 "teamName": "Sabah",
                 "text": null
               }
@@ -12893,17 +12893,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.9",
-                "away": "52.1"
+                "home": "47.3",
+                "away": "52.7"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -12938,8 +12938,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "167",
-                "away": "177"
+                "home": "172",
+                "away": "187"
               },
               {
                 "key": "passPct",
@@ -16243,6 +16243,13 @@
       "athleteID": null
     },
     {
+      "player": "Kaheem Parris",
+      "team": "Sabah",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Karim Adeyemi",
       "team": "FC Barcelona",
       "goals": 1,
@@ -16273,13 +16280,6 @@
     {
       "player": "Marcos Llorente",
       "team": "Atlético de Madrid",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Martin Baturina",
-      "team": "Como",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -16407,6 +16407,12 @@
       "athleteID": null
     },
     {
+      "player": "Ivan Lepinjica following a fast break",
+      "team": "Sabah",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Jan Virgili",
       "team": "Brujas",
       "goals": 1,
@@ -16517,12 +16523,6 @@
     {
       "player": "Pablo Fornals with a cross following a corner",
       "team": "Real Betis",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Patrick Dorgu with a cross",
-      "team": "Manchester United",
       "goals": 1,
       "athleteID": null
     }
