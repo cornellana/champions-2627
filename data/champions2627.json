@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:19:52Z",
+  "lastUpdated": "2026-10-13T19:20:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13668,12 +13668,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.3",
-                "away": "50.7"
+                "home": "51.8",
+                "away": "48.2"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -13713,8 +13713,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "86",
-                "away": "90"
+                "home": "99",
+                "away": "92"
               },
               {
                 "key": "passPct",
@@ -13740,7 +13740,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14184,8 +14184,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.6",
-                "away": "52.4"
+                "home": "49.1",
+                "away": "50.9"
               },
               {
                 "key": "totalShots",
@@ -14229,8 +14229,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "88",
-                "away": "94"
+                "home": "98",
+                "away": "96"
               },
               {
                 "key": "passPct",
@@ -14256,7 +14256,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14680,8 +14680,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.3",
-                "away": "69.7"
+                "home": "30.7",
+                "away": "69.3"
               },
               {
                 "key": "totalShots",
@@ -14725,12 +14725,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "44",
-                "away": "121"
+                "home": "46",
+                "away": "127"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.9"
               }
             ],
@@ -14752,7 +14752,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15185,8 +15185,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.7",
-                "away": "39.3"
+                "home": "58.4",
+                "away": "41.6"
               },
               {
                 "key": "totalShots",
@@ -15230,8 +15230,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "126",
-                "away": "80"
+                "home": "131",
+                "away": "92"
               },
               {
                 "key": "passPct",
@@ -15257,8 +15257,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
-          "statusText": "First Half",
+          "clock": "19'",
+          "statusText": "In Progress",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -15672,8 +15672,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.5",
-                "away": "56.5"
+                "home": "43.8",
+                "away": "56.2"
               },
               {
                 "key": "totalShots",
@@ -15692,7 +15692,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -15744,7 +15744,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -16188,8 +16188,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "21.6",
-                "away": "78.4"
+                "home": "22.8",
+                "away": "77.2"
               },
               {
                 "key": "totalShots",
@@ -16233,8 +16233,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "24",
-                "away": "115"
+                "home": "26",
+                "away": "121"
               },
               {
                 "key": "passPct",
@@ -16260,7 +16260,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -16668,12 +16668,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.3",
-                "away": "39.7"
+                "home": "60.5",
+                "away": "39.5"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "3"
               },
               {
@@ -16713,7 +16713,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "97",
+                "home": "98",
                 "away": "57"
               },
               {
