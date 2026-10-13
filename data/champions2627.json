@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:42:47Z",
+  "lastUpdated": "2026-10-13T20:43:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13809,8 +13809,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.1",
-                "away": "40.9"
+                "home": "59.6",
+                "away": "40.4"
               },
               {
                 "key": "totalShots",
@@ -13854,8 +13854,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "435",
-                "away": "290"
+                "home": "447",
+                "away": "292"
               },
               {
                 "key": "passPct",
@@ -13881,7 +13881,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14445,8 +14445,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.5",
-                "away": "39.5"
+                "home": "60.2",
+                "away": "39.8"
               },
               {
                 "key": "totalShots",
@@ -14490,8 +14490,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "512",
-                "away": "312"
+                "home": "513",
+                "away": "316"
               },
               {
                 "key": "passPct",
@@ -15077,13 +15077,23 @@
                 "relatedPlayer": "Pedri",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "53611654_26",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": "Renato Nhaga",
+                "relatedPlayer": "Lucas Torreira because of an injury",
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.6",
-                "away": "68.4"
+                "home": "31.2",
+                "away": "68.8"
               },
               {
                 "key": "totalShots",
@@ -15128,7 +15138,7 @@
               {
                 "key": "accuratePasses",
                 "home": "181",
-                "away": "492"
+                "away": "503"
               },
               {
                 "key": "passPct",
@@ -15154,8 +15164,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
-          "statusText": "In Progress",
+          "clock": "85'",
+          "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
           "details": {
@@ -15778,8 +15788,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56",
-                "away": "44"
+                "home": "55.6",
+                "away": "44.4"
               },
               {
                 "key": "totalShots",
@@ -15823,8 +15833,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "422",
-                "away": "331"
+                "home": "425",
+                "away": "341"
               },
               {
                 "key": "passPct",
@@ -15850,7 +15860,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -16418,7 +16428,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -17017,13 +17027,23 @@
                 "relatedPlayer": "Luis Díaz",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "53611745_24",
+                "type": "SUBSTITUTION",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Hiroki Ito",
+                "relatedPlayer": "Ismael Saibari",
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.7",
-                "away": "68.3"
+                "home": "32.6",
+                "away": "67.4"
               },
               {
                 "key": "totalShots",
@@ -17037,7 +17057,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "15"
               },
               {
@@ -17067,7 +17087,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "168",
+                "home": "178",
                 "away": "466"
               },
               {
@@ -17094,7 +17114,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -17657,13 +17677,23 @@
                 "relatedPlayer": "Pape Gueye",
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "53611822_28",
+                "type": "YELLOW_CARD",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": "Giovanni Di Lorenzo",
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.1",
-                "away": "47.9"
+                "home": "52.5",
+                "away": "47.5"
               },
               {
                 "key": "totalShots",
@@ -17683,7 +17713,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "12"
+                "away": "14"
               },
               {
                 "key": "offsides",
@@ -17693,7 +17723,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -17707,7 +17737,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "376",
+                "home": "383",
                 "away": "334"
               },
               {
