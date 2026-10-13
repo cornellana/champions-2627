@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:55:59Z",
+  "lastUpdated": "2026-10-13T17:57:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12376,13 +12376,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55",
-                "away": "45"
+                "home": "54.8",
+                "away": "45.2"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -12397,7 +12397,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "4"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -12421,8 +12421,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "256",
-                "away": "197"
+                "home": "260",
+                "away": "201"
               },
               {
                 "key": "passPct",
@@ -12448,8 +12448,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
-          "statusText": "In Progress",
+          "clock": "52'",
+          "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -12893,8 +12893,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.3",
-                "away": "52.7"
+                "home": "47.4",
+                "away": "52.6"
               },
               {
                 "key": "totalShots",
@@ -12913,8 +12913,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
-                "away": "7"
+                "home": "11",
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -12938,8 +12938,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "172",
-                "away": "187"
+                "home": "179",
+                "away": "192"
               },
               {
                 "key": "passPct",
