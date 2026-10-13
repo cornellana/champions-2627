@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:21:26Z",
+  "lastUpdated": "2026-10-13T18:22:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11928,11 +11928,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "0-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12437,8 +12437,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Silas Andersen",
+                "relatedPlayer": "João Simões",
                 "teamName": "Sporting de Portugal",
                 "text": null
               },
@@ -12447,8 +12447,18 @@
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Jesse Derry",
+                "relatedPlayer": "Nestory Irankunda",
+                "teamName": "Sporting de Portugal",
+                "text": null
+              },
+              {
+                "id": "53587992_16",
+                "type": "GOAL",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Issa Doumbia",
+                "relatedPlayer": "Silas Andersen with a through ball following a fast break",
                 "teamName": "Sporting de Portugal",
                 "text": null
               }
@@ -12456,18 +12466,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.9",
-                "away": "43.1"
+                "home": "56.7",
+                "away": "43.3"
               },
               {
                 "key": "totalShots",
                 "home": "18",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -12502,7 +12512,7 @@
               {
                 "key": "accuratePasses",
                 "home": "399",
-                "away": "290"
+                "away": "293"
               },
               {
                 "key": "passPct",
@@ -12528,7 +12538,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -13068,13 +13078,23 @@
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53588015_25",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.2",
-                "away": "55.8"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
@@ -13089,7 +13109,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -13118,8 +13138,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "213",
-                "away": "270"
+                "home": "216",
+                "away": "271"
               },
               {
                 "key": "passPct",
@@ -16409,6 +16429,13 @@
       "athleteID": null
     },
     {
+      "player": "Issa Doumbia",
+      "team": "Sporting de Portugal",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Jamal Musiala",
       "team": "Bayern de Múnich",
       "goals": 1,
@@ -16453,13 +16480,6 @@
     {
       "player": "Lisandro Martínez",
       "team": "Manchester United",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Marcos Llorente",
-      "team": "Atlético de Madrid",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
