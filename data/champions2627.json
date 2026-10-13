@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:19:16Z",
+  "lastUpdated": "2026-10-13T18:20:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12436,13 +12436,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "56.3",
+                "away": "43.7"
               },
               {
                 "key": "totalShots",
                 "home": "18",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
@@ -12482,7 +12482,7 @@
               {
                 "key": "accuratePasses",
                 "home": "390",
-                "away": "276"
+                "away": "290"
               },
               {
                 "key": "passPct",
@@ -12508,7 +12508,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -13008,13 +13008,43 @@
                 "relatedPlayer": "Kaheem Parris",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53587882_21",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Samuel Isife",
+                "relatedPlayer": "Tomás Vlcek",
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "53587883_22",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Christian Nwachukwu",
+                "relatedPlayer": "Du Queiroz",
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "53587884_23",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.4",
-                "away": "55.6"
+                "home": "44.3",
+                "away": "55.7"
               },
               {
                 "key": "totalShots",
