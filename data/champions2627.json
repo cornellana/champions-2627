@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:23:11Z",
+  "lastUpdated": "2026-10-13T19:24:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13668,17 +13668,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "53",
+                "away": "47"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -13709,12 +13709,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "103",
-                "away": "94"
+                "home": "113",
+                "away": "100"
               },
               {
                 "key": "passPct",
@@ -13740,7 +13740,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14184,8 +14184,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.2",
-                "away": "43.8"
+                "home": "53.7",
+                "away": "46.3"
               },
               {
                 "key": "totalShots",
@@ -14229,8 +14229,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "134",
-                "away": "98"
+                "home": "138",
+                "away": "114"
               },
               {
                 "key": "passPct",
@@ -14256,7 +14256,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14752,7 +14752,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15185,12 +15185,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.2",
-                "away": "44.8"
+                "home": "55.7",
+                "away": "44.3"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "1"
               },
               {
@@ -15230,7 +15230,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "137",
+                "home": "140",
                 "away": "113"
               },
               {
@@ -15257,7 +15257,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -15755,7 +15755,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -16199,8 +16199,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "22.7",
-                "away": "77.3"
+                "home": "21.2",
+                "away": "78.8"
               },
               {
                 "key": "totalShots",
@@ -16244,8 +16244,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "28",
-                "away": "136"
+                "home": "29",
+                "away": "152"
               },
               {
                 "key": "passPct",
@@ -16267,11 +16267,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -16674,22 +16674,32 @@
                 "relatedPlayer": null,
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "53596463_2",
+                "type": "GOAL",
+                "minute": 23,
+                "extraTime": null,
+                "playerName": "Georges Mikautadze",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55",
-                "away": "45"
+                "home": "55.2",
+                "away": "44.8"
               },
               {
                 "key": "totalShots",
-                "home": "5",
-                "away": "3"
+                "home": "6",
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -16705,7 +16715,7 @@
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -16724,8 +16734,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "100",
-                "away": "73"
+                "home": "101",
+                "away": "74"
               },
               {
                 "key": "passPct",
@@ -19854,6 +19864,13 @@
       "athleteID": null
     },
     {
+      "player": "Georges Mikautadze",
+      "team": "Villarreal",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Gianni Stensness",
       "team": "Viking",
       "goals": 1,
@@ -19912,13 +19929,6 @@
     {
       "player": "Kaheem Parris",
       "team": "Sabah",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Karim Adeyemi",
-      "team": "FC Barcelona",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
