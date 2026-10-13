@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:26:53Z",
+  "lastUpdated": "2026-10-13T17:27:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12376,13 +12376,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.8",
-                "away": "40.2"
+                "home": "58.5",
+                "away": "41.5"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -12392,7 +12392,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -12422,7 +12422,7 @@
               {
                 "key": "accuratePasses",
                 "home": "211",
-                "away": "128"
+                "away": "136"
               },
               {
                 "key": "passPct",
@@ -12448,7 +12448,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12883,8 +12883,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49",
-                "away": "51"
+                "home": "48.7",
+                "away": "51.3"
               },
               {
                 "key": "totalShots",
@@ -12894,7 +12894,7 @@
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -12929,7 +12929,7 @@
               {
                 "key": "accuratePasses",
                 "home": "149",
-                "away": "147"
+                "away": "149"
               },
               {
                 "key": "passPct",
