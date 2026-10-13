@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:04:07Z",
+  "lastUpdated": "2026-10-13T20:05:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13679,8 +13679,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.7",
-                "away": "43.3"
+                "home": "57.5",
+                "away": "42.5"
               },
               {
                 "key": "totalShots",
@@ -13694,7 +13694,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -13724,7 +13724,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "234",
+                "home": "241",
                 "away": "182"
               },
               {
@@ -14784,8 +14784,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
           "details": {
@@ -15268,8 +15268,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "50.9",
+                "away": "49.1"
               },
               {
                 "key": "totalShots",
@@ -15313,7 +15313,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "213",
+                "home": "215",
                 "away": "211"
               },
               {
@@ -15848,8 +15848,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
@@ -16297,13 +16297,43 @@
                 "relatedPlayer": "Erik Botheim following a fast break",
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "53603207_4",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "53603256_5",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "53603257_6",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27",
-                "away": "73"
+                "home": "26.1",
+                "away": "73.9"
               },
               {
                 "key": "totalShots",
@@ -16348,7 +16378,7 @@
               {
                 "key": "accuratePasses",
                 "home": "82",
-                "away": "310"
+                "away": "327"
               },
               {
                 "key": "passPct",
@@ -16374,7 +16404,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
