@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:29:29Z",
+  "lastUpdated": "2026-10-13T20:30:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13724,22 +13724,32 @@
                 "relatedPlayer": "Bukayo Saka",
                 "teamName": "Arsenal",
                 "text": null
+              },
+              {
+                "id": "53608897_13",
+                "type": "GOAL",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Bukayo Saka",
+                "relatedPlayer": "Kai Havertz",
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.8",
-                "away": "40.2"
+                "home": "60.4",
+                "away": "39.6"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "2"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "0"
               },
               {
@@ -13770,11 +13780,11 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "363",
+                "home": "375",
                 "away": "237"
               },
               {
@@ -13801,7 +13811,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14305,8 +14315,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.3",
-                "away": "36.7"
+                "home": "63.2",
+                "away": "36.8"
               },
               {
                 "key": "totalShots",
@@ -14351,7 +14361,7 @@
               {
                 "key": "accuratePasses",
                 "home": "483",
-                "away": "256"
+                "away": "258"
               },
               {
                 "key": "passPct",
@@ -14377,7 +14387,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14922,13 +14932,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.7",
-                "away": "70.3"
+                "home": "29.8",
+                "away": "70.2"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "17"
+                "away": "18"
               },
               {
                 "key": "shotsOnTarget",
@@ -14942,8 +14952,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
-                "away": "6"
+                "home": "7",
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -14967,8 +14977,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "139",
-                "away": "425"
+                "home": "141",
+                "away": "428"
               },
               {
                 "key": "passPct",
@@ -15600,8 +15610,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
-          "statusText": "In Progress",
+          "clock": "70'",
+          "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -16114,12 +16124,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-2",
+          "result": "2-3",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
-          "statusText": "In Progress",
+          "clock": "71'",
+          "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
@@ -16667,13 +16677,23 @@
                 "relatedPlayer": null,
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "53609014_19",
+                "type": "GOAL",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.1",
-                "away": "74.9"
+                "home": "25.5",
+                "away": "74.5"
               },
               {
                 "key": "totalShots",
@@ -16717,12 +16737,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "103",
-                "away": "438"
+                "home": "109",
+                "away": "445"
               },
               {
                 "key": "passPct",
-                "home": "0.6",
+                "home": "0.7",
                 "away": "0.9"
               }
             ],
@@ -16744,7 +16764,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -17267,13 +17287,23 @@
                 "relatedPlayer": "Alberto Moleiro",
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "53609027_24",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.5",
-                "away": "47.5"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -17317,8 +17347,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "313",
-                "away": "274"
+                "home": "329",
+                "away": "285"
               },
               {
                 "key": "passPct",
@@ -20433,6 +20463,13 @@
       "athleteID": null
     },
     {
+      "player": "Bukayo Saka",
+      "team": "Arsenal",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Carlos Augusto",
       "team": "Inter de Milán",
       "goals": 1,
@@ -20505,13 +20542,6 @@
     {
       "player": "Georges Mikautadze",
       "team": "Villarreal",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Gianni Stensness",
-      "team": "Viking",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -20723,6 +20753,12 @@
       "athleteID": null
     },
     {
+      "player": "Kai Havertz",
+      "team": "Arsenal",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Lamine Yamal following a corner",
       "team": "FC Barcelona",
       "goals": 1,
@@ -20749,12 +20785,6 @@
     {
       "player": "Maghnes Akliouche",
       "team": "Paris Saint-Germain",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Martin Baturina with a through ball",
-      "team": "Como",
       "goals": 1,
       "athleteID": null
     }
