@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:07:12Z",
+  "lastUpdated": "2026-10-13T18:08:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12396,18 +12396,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.3",
-                "away": "43.7"
+                "home": "55.7",
+                "away": "44.3"
               },
               {
                 "key": "totalShots",
-                "home": "14",
-                "away": "7"
+                "home": "15",
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
-                "away": "3"
+                "home": "4",
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -12437,12 +12437,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
                 "home": "321",
-                "away": "235"
+                "away": "242"
               },
               {
                 "key": "passPct",
@@ -12908,6 +12908,26 @@
                 "relatedPlayer": "Ivan Lepinjica following a fast break",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53587465_15",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "53587466_16",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
@@ -12919,12 +12939,12 @@
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "7"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
