@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:08:48Z",
+  "lastUpdated": "2026-10-13T19:09:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13740,7 +13740,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -13979,10 +13979,19 @@
                   "athleteID": "233937"
                 },
                 {
+                  "id": "340206",
+                  "jersey": 15,
+                  "name": "Leny Yoro",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "340206"
+                },
+                {
                   "id": "356044",
                   "jersey": 26,
                   "name": "Ayden Heaven",
-                  "position": "CD-R",
+                  "position": "LB",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "356044"
@@ -13991,19 +14000,10 @@
                   "id": "238902",
                   "jersey": 2,
                   "name": "Diogo Dalot",
-                  "position": "LB",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "238902"
-                },
-                {
-                  "id": "340206",
-                  "jersey": 15,
-                  "name": "Leny Yoro",
                   "position": "RB",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "340206"
+                  "athleteID": "238902"
                 },
                 {
                   "id": "193297",
@@ -14015,22 +14015,22 @@
                   "athleteID": "193297"
                 },
                 {
-                  "id": "314858",
-                  "jersey": 17,
-                  "name": "Andrey Santos",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "314858"
-                },
-                {
                   "id": "338814",
                   "jersey": 20,
                   "name": "Carlos Baleba",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "338814"
+                },
+                {
+                  "id": "314858",
+                  "jersey": 17,
+                  "name": "Andrey Santos",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "314858"
                 },
                 {
                   "id": "271170",
@@ -14184,17 +14184,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.9",
-                "away": "57.1"
+                "home": "53.5",
+                "away": "46.5"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -14229,7 +14229,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "26",
+                "home": "42",
                 "away": "35"
               },
               {
@@ -14257,7 +14257,7 @@
           "shootout": null,
           "state": "in",
           "clock": "8'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -14752,7 +14752,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15185,8 +15185,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.8",
-                "away": "31.2"
+                "home": "66.7",
+                "away": "33.3"
               },
               {
                 "key": "totalShots",
@@ -15205,7 +15205,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -15230,13 +15230,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "49",
-                "away": "21"
+                "home": "61",
+                "away": "30"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -15257,7 +15257,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -15672,12 +15672,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.8",
-                "away": "54.2"
+                "home": "45.6",
+                "away": "54.4"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -15717,12 +15717,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "31",
-                "away": "39"
+                "home": "33",
+                "away": "43"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
@@ -15744,7 +15744,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -16188,8 +16188,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "15.7",
-                "away": "84.3"
+                "home": "15.1",
+                "away": "84.9"
               },
               {
                 "key": "totalShots",
@@ -16234,7 +16234,7 @@
               {
                 "key": "accuratePasses",
                 "home": "5",
-                "away": "63"
+                "away": "66"
               },
               {
                 "key": "passPct",
@@ -16260,7 +16260,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -16653,22 +16653,33 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53592693_1",
+                "type": "GOAL",
+                "minute": 8,
+                "extraTime": null,
+                "playerName": "Amir Rrahmani",
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.7",
-                "away": "53.3"
+                "home": "46.1",
+                "away": "53.9"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -16697,13 +16708,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "38",
-                "away": "38"
+                "home": "40",
+                "away": "43"
               },
               {
                 "key": "passPct",
@@ -19720,6 +19731,13 @@
       "athleteID": null
     },
     {
+      "player": "Amir Rrahmani",
+      "team": "Nápoles",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Andrija Maksimovic",
       "team": "RB Leipzig",
       "goals": 1,
@@ -19890,13 +19908,6 @@
     {
       "player": "Karim Adeyemi",
       "team": "FC Barcelona",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Kylian Mbappé",
-      "team": "Real Madrid",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
