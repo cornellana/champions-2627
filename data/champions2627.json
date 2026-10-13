@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:20:17Z",
+  "lastUpdated": "2026-10-13T17:21:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12376,18 +12376,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.3",
-                "away": "43.7"
+                "home": "56.6",
+                "away": "43.4"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -12416,13 +12416,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "163",
-                "away": "120"
+                "home": "167",
+                "away": "121"
               },
               {
                 "key": "passPct",
@@ -12448,7 +12448,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12883,18 +12883,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.6",
-                "away": "44.4"
+                "home": "50.1",
+                "away": "49.9"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -12928,13 +12928,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "138",
-                "away": "95"
+                "home": "141",
+                "away": "133"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.7"
+                "away": "0.8"
               }
             ],
             "penalties": null
