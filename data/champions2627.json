@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:51:38Z",
+  "lastUpdated": "2026-10-13T20:52:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13901,7 +13901,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14557,7 +14557,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -15152,8 +15152,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.9",
-                "away": "71.1"
+                "home": "29.4",
+                "away": "70.6"
               },
               {
                 "key": "totalShots",
@@ -15197,8 +15197,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "191",
-                "away": "592"
+                "home": "200",
+                "away": "606"
               },
               {
                 "key": "passPct",
@@ -15220,11 +15220,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-4",
+          "result": "3-4",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15863,6 +15863,16 @@
                 "relatedPlayer": "Piotr Zielinski",
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "53613156_32",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": 3,
+                "playerName": "Ange-Yoan Bonny",
+                "relatedPlayer": "Aleksandar Stankovic following a fast break",
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
@@ -15873,12 +15883,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "29",
-                "away": "14"
+                "home": "30",
+                "away": "15"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "11",
+                "home": "12",
                 "away": "6"
               },
               {
@@ -15913,8 +15923,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "453",
-                "away": "390"
+                "home": "458",
+                "away": "394"
               },
               {
                 "key": "passPct",
@@ -15940,7 +15950,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -16486,8 +16496,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.2",
-                "away": "55.8"
+                "home": "43.5",
+                "away": "56.5"
               },
               {
                 "key": "totalShots",
@@ -16502,7 +16512,7 @@
               {
                 "key": "wonCorners",
                 "home": "6",
-                "away": "9"
+                "away": "11"
               },
               {
                 "key": "foulsCommitted",
@@ -16531,8 +16541,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "286",
-                "away": "369"
+                "home": "287",
+                "away": "379"
               },
               {
                 "key": "passPct",
@@ -16558,7 +16568,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -17212,8 +17222,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.1",
-                "away": "65.9"
+                "home": "34",
+                "away": "66"
               },
               {
                 "key": "totalShots",
@@ -17232,7 +17242,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
+                "home": "11",
                 "away": "8"
               },
               {
@@ -17257,8 +17267,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "197",
-                "away": "478"
+                "home": "200",
+                "away": "485"
               },
               {
                 "key": "passPct",
@@ -17279,13 +17289,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "3-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
           "details": {
@@ -17872,8 +17882,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.5",
-                "away": "47.5"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
@@ -17918,7 +17928,7 @@
               {
                 "key": "accuratePasses",
                 "home": "417",
-                "away": "362"
+                "away": "367"
               },
               {
                 "key": "passPct",
@@ -20485,6 +20495,16 @@
       "position": 1
     },
     {
+      "team": "Arsenal",
+      "played": 2,
+      "won": 2,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "position": 2
+    },
+    {
       "team": "Paris Saint-Germain",
       "played": 1,
       "won": 1,
@@ -20492,7 +20512,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 1,
-      "position": 2
+      "position": 3
     },
     {
       "team": "Bayern de Múnich",
@@ -20502,7 +20522,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 0,
-      "position": 3
+      "position": 4
     },
     {
       "team": "FC Barcelona",
@@ -20512,7 +20532,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Manchester United",
@@ -20522,7 +20542,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Como",
@@ -20532,7 +20552,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 1,
-      "position": 6
+      "position": 7
     },
     {
       "team": "Stuttgart",
@@ -20542,7 +20562,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "position": 7
+      "position": 8
     },
     {
       "team": "Manchester City",
@@ -20552,7 +20572,17 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "position": 8
+      "position": 9
+    },
+    {
+      "team": "Villarreal",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 5,
+      "goalsAgainst": 4,
+      "position": 10
     },
     {
       "team": "Aston Villa",
@@ -20562,7 +20592,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 9
+      "position": 11
     },
     {
       "team": "Borussia Dortmund",
@@ -20572,7 +20602,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 10
+      "position": 12
     },
     {
       "team": "Real Betis",
@@ -20582,7 +20612,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 11
+      "position": 13
     },
     {
       "team": "Liverpool",
@@ -20592,7 +20622,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "position": 12
+      "position": 14
     },
     {
       "team": "Real Madrid",
@@ -20602,7 +20632,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "position": 13
+      "position": 15
     },
     {
       "team": "AEK Atenas",
@@ -20612,17 +20642,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "position": 14
-    },
-    {
-      "team": "Arsenal",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 0,
-      "position": 15
+      "position": 16
     },
     {
       "team": "Lens",
@@ -20632,7 +20652,7 @@
       "lost": 1,
       "goalsFor": 3,
       "goalsAgainst": 4,
-      "position": 16
+      "position": 17
     },
     {
       "team": "Sabah",
@@ -20642,7 +20662,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 4,
-      "position": 17
+      "position": 18
     },
     {
       "team": "Fenerbahçe",
@@ -20652,7 +20672,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "position": 18
+      "position": 19
     },
     {
       "team": "PSV",
@@ -20662,7 +20682,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "position": 19
+      "position": 20
     },
     {
       "team": "Roma",
@@ -20672,7 +20692,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "position": 20
+      "position": 21
     },
     {
       "team": "Shajtar Donetsk",
@@ -20682,7 +20702,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "position": 21
+      "position": 22
     },
     {
       "team": "Brujas",
@@ -20692,27 +20712,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "position": 22
-    },
-    {
-      "team": "Lille",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 2,
-      "goalsAgainst": 3,
       "position": 23
-    },
-    {
-      "team": "Villarreal",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 2,
-      "goalsAgainst": 3,
-      "position": 24
     },
     {
       "team": "Atlético de Madrid",
@@ -20722,7 +20722,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 25
+      "position": 24
     },
     {
       "team": "Inter de Milán",
@@ -20732,7 +20732,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 26
+      "position": 25
     },
     {
       "team": "LASK",
@@ -20742,17 +20742,7 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 1,
-      "position": 27
-    },
-    {
-      "team": "Nápoles",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 0,
-      "goalsAgainst": 1,
-      "position": 28
+      "position": 26
     },
     {
       "team": "Galatasaray",
@@ -20762,7 +20752,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 3,
-      "position": 29
+      "position": 27
     },
     {
       "team": "Viking",
@@ -20772,7 +20762,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 3,
-      "position": 30
+      "position": 28
     },
     {
       "team": "Oporto",
@@ -20782,7 +20772,7 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "position": 31
+      "position": 29
     },
     {
       "team": "Slavia de Praga",
@@ -20792,7 +20782,17 @@
       "lost": 2,
       "goalsFor": 2,
       "goalsAgainst": 5,
-      "position": 32
+      "position": 30
+    },
+    {
+      "team": "Nápoles",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "position": 31
     },
     {
       "team": "RB Leipzig",
@@ -20802,6 +20802,16 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 4,
+      "position": 32
+    },
+    {
+      "team": "Lille",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 2,
+      "goalsAgainst": 6,
       "position": 33
     },
     {
@@ -20998,6 +21008,13 @@
       "athleteID": null
     },
     {
+      "player": "Ange-Yoan Bonny",
+      "team": "Inter de Milán",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Anthony Gordon",
       "team": "FC Barcelona",
       "goals": 1,
@@ -21108,13 +21125,6 @@
       "goals": 1,
       "penalties": 0,
       "athleteID": null
-    },
-    {
-      "player": "Florian Thauvin",
-      "team": "Lens",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
     }
   ],
   "topAssists": [
@@ -21122,6 +21132,12 @@
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
       "goals": 2,
+      "athleteID": null
+    },
+    {
+      "player": "Aleksandar Stankovic following a fast break",
+      "team": "Inter de Milán",
+      "goals": 1,
       "athleteID": null
     },
     {
@@ -21349,12 +21365,6 @@
     {
       "player": "Lamine Yamal with a cross",
       "team": "FC Barcelona",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Lautaro Martínez",
-      "team": "Inter de Milán",
       "goals": 1,
       "athleteID": null
     }
