@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:49:58Z",
+  "lastUpdated": "2026-10-13T19:51:05Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13752,7 +13752,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "In Progress",
+          "statusText": "Halftime",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": {
@@ -14195,12 +14195,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.3",
-                "away": "33.7"
+                "home": "65.8",
+                "away": "34.2"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "4"
               },
               {
@@ -14240,8 +14240,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "347",
-                "away": "159"
+                "home": "348",
+                "away": "160"
               },
               {
                 "key": "passPct",
@@ -14268,7 +14268,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+3'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -14738,7 +14738,7 @@
               {
                 "key": "offsides",
                 "home": "5",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "yellowCards",
@@ -14758,7 +14758,7 @@
               {
                 "key": "accuratePasses",
                 "home": "92",
-                "away": "286"
+                "away": "287"
               },
               {
                 "key": "passPct",
@@ -15268,8 +15268,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "50.6",
+                "away": "49.4"
               },
               {
                 "key": "totalShots",
@@ -15314,7 +15314,7 @@
               {
                 "key": "accuratePasses",
                 "home": "212",
-                "away": "212"
+                "away": "211"
               },
               {
                 "key": "passPct",
