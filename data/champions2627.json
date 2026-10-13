@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:30:56Z",
+  "lastUpdated": "2026-10-13T19:32:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13664,7 +13664,18 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53598260_3",
+                "type": "YELLOW_CARD",
+                "minute": 29,
+                "extraTime": null,
+                "playerName": "Mikel Merino",
+                "relatedPlayer": null,
+                "teamName": "Arsenal",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
@@ -13740,7 +13751,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14256,7 +14267,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14691,8 +14702,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.9",
-                "away": "65.1"
+                "home": "34.7",
+                "away": "65.3"
               },
               {
                 "key": "totalShots",
@@ -14711,7 +14722,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -14736,8 +14747,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "74",
-                "away": "173"
+                "home": "75",
+                "away": "177"
               },
               {
                 "key": "passPct",
@@ -14759,11 +14770,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15212,6 +15223,16 @@
                 "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "53598349_3",
+                "type": "PENALTY",
+                "minute": 30,
+                "extraTime": null,
+                "playerName": "Nicolò Tresoldi",
+                "relatedPlayer": null,
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
@@ -15223,12 +15244,12 @@
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -15263,7 +15284,7 @@
               {
                 "key": "accuratePasses",
                 "home": "157",
-                "away": "145"
+                "away": "146"
               },
               {
                 "key": "passPct",
@@ -15289,7 +15310,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -15715,13 +15736,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.9",
-                "away": "62.1"
+                "home": "37.6",
+                "away": "61.8"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -15736,7 +15757,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -15760,7 +15781,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "84",
+                "home": "88",
                 "away": "138"
               },
               {
@@ -15787,8 +15808,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
-          "statusText": "In Progress",
+          "clock": "31'",
+          "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
@@ -16277,7 +16298,7 @@
               {
                 "key": "accuratePasses",
                 "home": "51",
-                "away": "200"
+                "away": "203"
               },
               {
                 "key": "passPct",
@@ -16303,7 +16324,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -16731,8 +16752,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.4",
-                "away": "48.6"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
@@ -16756,7 +16777,7 @@
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -16776,8 +16797,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "107",
-                "away": "95"
+                "home": "134",
+                "away": "98"
               },
               {
                 "key": "passPct",
@@ -19745,6 +19766,13 @@
       "athleteID": null
     },
     {
+      "player": "Nicolò Tresoldi",
+      "team": "Brujas",
+      "goals": 2,
+      "penalties": 2,
+      "athleteID": null
+    },
+    {
       "player": "Ousmane Dembélé",
       "team": "Paris Saint-Germain",
       "goals": 2,
@@ -19964,13 +19992,6 @@
     {
       "player": "Jamal Musiala",
       "team": "Bayern de Múnich",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "John McGinn",
-      "team": "Aston Villa",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
