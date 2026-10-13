@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:19:33Z",
+  "lastUpdated": "2026-10-13T20:20:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13679,8 +13679,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.7",
-                "away": "39.3"
+                "home": "61.1",
+                "away": "38.9"
               },
               {
                 "key": "totalShots",
@@ -13724,8 +13724,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "320",
-                "away": "199"
+                "home": "328",
+                "away": "200"
               },
               {
                 "key": "passPct",
@@ -13751,7 +13751,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14743,8 +14743,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 58,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Lesley Ugochukwu",
+                "relatedPlayer": "Mario Lemina",
                 "teamName": "Galatasaray",
                 "text": null
               },
@@ -14753,8 +14753,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 58,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Gabriel Sara",
+                "relatedPlayer": "Aleksey Batrakov",
                 "teamName": "Galatasaray",
                 "text": null
               },
@@ -14763,21 +14763,41 @@
                 "type": "SUBSTITUTION",
                 "minute": 58,
                 "extraTime": null,
+                "playerName": "Leroy Sané",
+                "relatedPlayer": "Yunus Akgün",
+                "teamName": "Galatasaray",
+                "text": null
+              },
+              {
+                "id": "53606879_16",
+                "type": "SUBSTITUTION",
+                "minute": 58,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
-                "teamName": "Galatasaray",
+                "teamName": "FC Barcelona",
+                "text": null
+              },
+              {
+                "id": "53606880_17",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.4",
-                "away": "69.6"
+                "home": "30.7",
+                "away": "69.3"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "14"
               },
               {
@@ -14817,8 +14837,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "121",
-                "away": "362"
+                "home": "125",
+                "away": "363"
               },
               {
                 "key": "passPct",
@@ -14844,7 +14864,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15400,7 +15420,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -15851,7 +15871,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "7"
               },
               {
@@ -15881,8 +15901,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "206",
-                "away": "280"
+                "home": "211",
+                "away": "287"
               },
               {
                 "key": "passPct",
@@ -15908,7 +15928,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -16442,8 +16462,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.5",
-                "away": "74.5"
+                "home": "25.7",
+                "away": "74.3"
               },
               {
                 "key": "totalShots",
@@ -16462,7 +16482,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "3"
               },
               {
@@ -16492,7 +16512,7 @@
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.6",
                 "away": "0.9"
               }
             ],
@@ -16514,7 +16534,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -16967,13 +16987,33 @@
                 "relatedPlayer": "Giovane",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "53606735_17",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": "Leonardo Spinazzola",
+                "relatedPlayer": "Scott McTominay",
+                "teamName": "Nápoles",
+                "text": null
+              },
+              {
+                "id": "53606736_18",
+                "type": "SUBSTITUTION",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": "David Neres",
+                "relatedPlayer": "Matteo Politano",
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.7",
-                "away": "48.3"
+                "home": "51.2",
+                "away": "48.8"
               },
               {
                 "key": "totalShots",
@@ -16993,12 +17033,12 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "yellowCards",
@@ -17017,13 +17057,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "274",
-                "away": "247"
+                "home": "279",
+                "away": "256"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
