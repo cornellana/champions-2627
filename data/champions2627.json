@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:33:28Z",
+  "lastUpdated": "2026-10-13T18:34:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12483,7 +12483,17 @@
                 "text": null
               },
               {
-                "id": "53588431_19",
+                "id": "53588476_19",
+                "type": "SUBSTITUTION",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": "Fotis Ioannidis",
+                "relatedPlayer": "Luis Suárez",
+                "teamName": "Sporting de Portugal",
+                "text": null
+              },
+              {
+                "id": "53588431_20",
                 "type": "SUBSTITUTION",
                 "minute": 85,
                 "extraTime": null,
@@ -12496,8 +12506,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55",
-                "away": "45"
+                "home": "55.2",
+                "away": "44.8"
               },
               {
                 "key": "totalShots",
@@ -12541,8 +12551,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "445",
-                "away": "355"
+                "home": "450",
+                "away": "357"
               },
               {
                 "key": "passPct",
@@ -13138,22 +13148,32 @@
                 "relatedPlayer": "Veljko Simic",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53588475_28",
+                "type": "GOAL",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": "Joy-Lance Mickels",
+                "relatedPlayer": "Orphé Mbina",
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.9",
-                "away": "56.1"
+                "home": "43.8",
+                "away": "56.2"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "17"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "7"
               },
               {
@@ -13183,13 +13203,13 @@
               },
               {
                 "key": "saves",
-                "home": "4",
+                "home": "5",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "234",
-                "away": "302"
+                "home": "235",
+                "away": "305"
               },
               {
                 "key": "passPct",
@@ -16500,6 +16520,13 @@
       "athleteID": null
     },
     {
+      "player": "Joy-Lance Mickels",
+      "team": "Sabah",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Kaheem Parris",
       "team": "Sabah",
       "goals": 1,
@@ -16523,13 +16550,6 @@
     {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Lisandro Martínez",
-      "team": "Manchester United",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -16759,6 +16779,12 @@
       "athleteID": null
     },
     {
+      "player": "Orphé Mbina",
+      "team": "Sabah",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Ousmane Dembélé with a cross",
       "team": "Paris Saint-Germain",
       "goals": 1,
@@ -16767,12 +16793,6 @@
     {
       "player": "Ousmane Dembélé with a cross following a corner",
       "team": "Paris Saint-Germain",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Pablo Fornals with a cross following a corner",
-      "team": "Real Betis",
       "goals": 1,
       "athleteID": null
     }
