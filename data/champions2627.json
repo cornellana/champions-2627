@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T16:54:05Z",
+  "lastUpdated": "2026-10-13T16:55:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12150,7 +12150,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-2-3-1",
+              "formation": "4-3-3",
               "players": [
                 {
                   "id": "332352",
@@ -12198,22 +12198,22 @@
                   "athleteID": "333209"
                 },
                 {
-                  "id": "386592",
-                  "jersey": 77,
-                  "name": "Issa Doumbia",
-                  "position": "AM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "386592"
-                },
-                {
                   "id": "331426",
                   "jersey": 5,
                   "name": "Sergi Altimira",
-                  "position": "LM",
+                  "position": "CM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "331426"
+                },
+                {
+                  "id": "386592",
+                  "jersey": 77,
+                  "name": "Issa Doumbia",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "386592"
                 },
                 {
                   "id": "392622",
@@ -12237,7 +12237,7 @@
                   "id": "328535",
                   "jersey": 19,
                   "name": "Nestory Irankunda",
-                  "position": "AM-L",
+                  "position": "LF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "328535"
@@ -12246,7 +12246,7 @@
                   "id": "296969",
                   "jersey": 10,
                   "name": "Geny Catamo",
-                  "position": "AM-R",
+                  "position": "RF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "296969"
@@ -12365,8 +12365,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "77.3",
-                "away": "22.7"
+                "home": "72.2",
+                "away": "27.8"
               },
               {
                 "key": "totalShots",
@@ -12386,7 +12386,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -12406,17 +12406,17 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "42",
-                "away": "8"
+                "home": "55",
+                "away": "15"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.5"
+                "away": "0.6"
               }
             ],
             "penalties": null
@@ -12437,7 +12437,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12861,8 +12861,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.2",
-                "away": "33.8"
+                "home": "71",
+                "away": "29"
               },
               {
                 "key": "totalShots",
@@ -12906,12 +12906,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "40",
+                "home": "57",
                 "away": "17"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.7"
               }
             ],
