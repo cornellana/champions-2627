@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:22:32Z",
+  "lastUpdated": "2026-10-13T18:23:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12511,7 +12511,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "399",
+                "home": "400",
                 "away": "293"
               },
               {
@@ -12538,7 +12538,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -13084,7 +13084,17 @@
                 "type": "SUBSTITUTION",
                 "minute": 75,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Oskar Kubiak",
+                "relatedPlayer": "Ange N'Guessan",
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "53588026_26",
+                "type": "YELLOW_CARD",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Oskar Kubiak",
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
@@ -13093,12 +13103,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.4",
-                "away": "55.6"
+                "home": "44.3",
+                "away": "55.7"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "14"
               },
               {
@@ -13114,7 +13124,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "15",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -13124,7 +13134,7 @@
               {
                 "key": "yellowCards",
                 "home": "3",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
