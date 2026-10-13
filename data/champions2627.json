@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:15:58Z",
+  "lastUpdated": "2026-10-13T18:17:05Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12411,13 +12411,23 @@
                 "relatedPlayer": "Saud Abdulhamid",
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "53587721_12",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": "Mezian Mesloub",
+                "relatedPlayer": "Junior Kadile",
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58",
-                "away": "42"
+                "home": "57.8",
+                "away": "42.2"
               },
               {
                 "key": "totalShots",
@@ -12461,8 +12471,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "376",
-                "away": "255"
+                "home": "377",
+                "away": "259"
               },
               {
                 "key": "passPct",
@@ -12488,7 +12498,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -12973,13 +12983,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.7",
-                "away": "55.3"
+                "home": "44.5",
+                "away": "55.5"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "11"
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -13018,12 +13028,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "212",
-                "away": "261"
+                "home": "213",
+                "away": "266"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.8"
               }
             ],
