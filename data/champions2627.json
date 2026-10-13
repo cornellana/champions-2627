@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:06:18Z",
+  "lastUpdated": "2026-10-13T20:07:25Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13751,7 +13751,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14267,7 +14267,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14784,7 +14784,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15268,8 +15268,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.9",
-                "away": "49.1"
+                "home": "54.3",
+                "away": "45.7"
               },
               {
                 "key": "totalShots",
@@ -15288,7 +15288,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "6"
               },
               {
@@ -15313,8 +15313,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "215",
-                "away": "211"
+                "home": "257",
+                "away": "216"
               },
               {
                 "key": "passPct",
@@ -15340,7 +15340,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -15848,7 +15848,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -16404,7 +16404,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -16842,12 +16842,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.9",
-                "away": "54.1"
+                "home": "46",
+                "away": "54"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "7"
               },
               {
@@ -16887,13 +16887,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "186",
-                "away": "214"
+                "home": "193",
+                "away": "221"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
