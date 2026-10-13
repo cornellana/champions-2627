@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:20:21Z",
+  "lastUpdated": "2026-10-13T18:21:26Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12431,13 +12431,33 @@
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "53587968_14",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
+              },
+              {
+                "id": "53587969_15",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.3",
-                "away": "43.7"
+                "home": "56.9",
+                "away": "43.1"
               },
               {
                 "key": "totalShots",
@@ -12481,7 +12501,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "390",
+                "home": "399",
                 "away": "290"
               },
               {
@@ -13010,17 +13030,7 @@
                 "text": null
               },
               {
-                "id": "53587882_21",
-                "type": "SUBSTITUTION",
-                "minute": 73,
-                "extraTime": null,
-                "playerName": "Samuel Isife",
-                "relatedPlayer": "Tomás Vlcek",
-                "teamName": "Slavia de Praga",
-                "text": null
-              },
-              {
-                "id": "53587883_22",
+                "id": "53587883_21",
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
@@ -13030,30 +13040,50 @@
                 "text": null
               },
               {
+                "id": "53587882_22",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Samuel Isife",
+                "relatedPlayer": "Tomás Vlcek",
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
                 "id": "53587884_23",
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Mojmír Chytil",
+                "relatedPlayer": "Tomás Chory",
                 "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "53587950_24",
+                "type": "YELLOW_CARD",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Akim Zedadka",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.3",
-                "away": "55.7"
+                "home": "44.2",
+                "away": "55.8"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "14"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "6"
               },
               {
@@ -13063,7 +13093,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "14",
+                "home": "15",
                 "away": "9"
               },
               {
@@ -13073,7 +13103,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -13089,7 +13119,7 @@
               {
                 "key": "accuratePasses",
                 "home": "213",
-                "away": "269"
+                "away": "270"
               },
               {
                 "key": "passPct",
