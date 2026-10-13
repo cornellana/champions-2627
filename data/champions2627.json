@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T17:53:45Z",
+  "lastUpdated": "2026-10-13T17:54:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -11932,7 +11932,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -12376,12 +12376,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.6",
-                "away": "44.4"
+                "home": "55.7",
+                "away": "44.3"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "5"
               },
               {
@@ -12421,8 +12421,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "242",
-                "away": "181"
+                "home": "256",
+                "away": "191"
               },
               {
                 "key": "passPct",
@@ -12448,8 +12448,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
-          "statusText": "Second Half",
+          "clock": "50'",
+          "statusText": "In Progress",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -12875,6 +12875,16 @@
                 "minute": 14,
                 "extraTime": null,
                 "playerName": "Veljko Simic",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "53586987_14",
+                "type": "GOAL",
+                "minute": 49,
+                "extraTime": null,
+                "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
