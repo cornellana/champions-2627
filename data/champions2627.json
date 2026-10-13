@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:48:51Z",
+  "lastUpdated": "2026-10-13T19:49:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13751,8 +13751,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "First Half",
+          "clock": "45'+2'",
+          "statusText": "In Progress",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": {
@@ -14195,8 +14195,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67",
-                "away": "33"
+                "home": "66.3",
+                "away": "33.7"
               },
               {
                 "key": "totalShots",
@@ -14215,8 +14215,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
-                "away": "6"
+                "home": "3",
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -14241,7 +14241,7 @@
               {
                 "key": "accuratePasses",
                 "home": "347",
-                "away": "154"
+                "away": "159"
               },
               {
                 "key": "passPct",
@@ -14267,7 +14267,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
+          "clock": "45'+3'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14712,23 +14712,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30",
-                "away": "70"
+                "home": "29.9",
+                "away": "70.1"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "1"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -14752,13 +14752,13 @@
               },
               {
                 "key": "saves",
-                "home": "4",
+                "home": "5",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
                 "home": "92",
-                "away": "285"
+                "away": "286"
               },
               {
                 "key": "passPct",
@@ -15341,7 +15341,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -15776,12 +15776,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43",
-                "away": "57"
+                "home": "43.7",
+                "away": "56.3"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "5"
               },
               {
@@ -15821,7 +15821,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "161",
+                "home": "165",
                 "away": "207"
               },
               {
