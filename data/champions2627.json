@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:45:00Z",
+  "lastUpdated": "2026-10-13T20:46:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,8 +13235,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
-          "statusText": "In Progress",
+          "clock": "88'",
+          "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
           "details": {
@@ -13891,7 +13891,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14527,8 +14527,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
-          "statusText": "Second Half",
+          "clock": "85'",
+          "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -15089,7 +15089,7 @@
                 "text": null
               },
               {
-                "id": "53611654_26",
+                "id": "53611654_27",
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
@@ -15103,8 +15103,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 82,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Gavi",
+                "relatedPlayer": "Fermín López",
                 "teamName": "FC Barcelona",
                 "text": null
               }
@@ -15112,13 +15112,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.8",
-                "away": "69.2"
+                "home": "30.6",
+                "away": "69.4"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "20"
+                "away": "22"
               },
               {
                 "key": "shotsOnTarget",
@@ -15133,7 +15133,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -15158,7 +15158,7 @@
               {
                 "key": "accuratePasses",
                 "home": "181",
-                "away": "513"
+                "away": "519"
               },
               {
                 "key": "passPct",
@@ -15184,8 +15184,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
-          "statusText": "In Progress",
+          "clock": "87'",
+          "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
           "details": {
@@ -15813,12 +15813,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "27",
+                "home": "29",
                 "away": "13"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "9",
+                "home": "11",
                 "away": "5"
               },
               {
@@ -15849,12 +15849,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "7"
+                "away": "9"
               },
               {
                 "key": "accuratePasses",
-                "home": "432",
-                "away": "349"
+                "home": "440",
+                "away": "354"
               },
               {
                 "key": "passPct",
@@ -15880,7 +15880,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -16363,7 +16363,7 @@
                 "text": null
               },
               {
-                "id": "53611840_16",
+                "id": "53611840_18",
                 "type": "YELLOW_CARD",
                 "minute": 81,
                 "extraTime": null,
@@ -16371,13 +16371,33 @@
                 "relatedPlayer": null,
                 "teamName": "RB Leipzig",
                 "text": null
+              },
+              {
+                "id": "53612006_23",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": "Ayoni Santos",
+                "relatedPlayer": "Ruben van Bommel",
+                "teamName": "PSV",
+                "text": null
+              },
+              {
+                "id": "53612007_24",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": "Mikkel Hansen",
+                "relatedPlayer": "Sven Mijnans",
+                "teamName": "PSV",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.2",
-                "away": "54.8"
+                "home": "45.3",
+                "away": "54.7"
               },
               {
                 "key": "totalShots",
@@ -16397,7 +16417,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -16421,8 +16441,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "276",
-                "away": "342"
+                "home": "285",
+                "away": "350"
               },
               {
                 "key": "passPct",
@@ -16448,7 +16468,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -17063,8 +17083,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 85,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Simen Kvia-Egeskog",
+                "relatedPlayer": "Joe Bell",
                 "teamName": "Viking",
                 "text": null
               }
@@ -17072,8 +17092,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.8",
-                "away": "67.2"
+                "home": "33",
+                "away": "67"
               },
               {
                 "key": "totalShots",
@@ -17117,8 +17137,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "178",
-                "away": "468"
+                "home": "183",
+                "away": "471"
               },
               {
                 "key": "passPct",
@@ -17144,7 +17164,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -17723,8 +17743,8 @@
                 "type": "GOAL",
                 "minute": 86,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Tani Oluwaseyi",
+                "relatedPlayer": "Ayoze Pérez",
                 "teamName": "Villarreal",
                 "text": null
               }
@@ -17732,8 +17752,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.7",
-                "away": "47.3"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
@@ -17777,8 +17797,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "388",
-                "away": "335"
+                "home": "389",
+                "away": "339"
               },
               {
                 "key": "passPct",
@@ -21003,6 +21023,12 @@
       "athleteID": null
     },
     {
+      "player": "Ayoze Pérez",
+      "team": "Villarreal",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Brahim Díaz",
       "team": "Real Madrid",
       "goals": 1,
@@ -21209,12 +21235,6 @@
     {
       "player": "Lennart Karl",
       "team": "Bayern de Múnich",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Maghnes Akliouche",
-      "team": "Paris Saint-Germain",
       "goals": 1,
       "athleteID": null
     }
