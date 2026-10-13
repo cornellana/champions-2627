@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:35:01Z",
+  "lastUpdated": "2026-10-13T20:36:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -13235,7 +13235,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -13759,8 +13759,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "57.5",
+                "away": "42.5"
               },
               {
                 "key": "totalShots",
@@ -13800,12 +13800,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "accuratePasses",
-                "home": "378",
-                "away": "277"
+                "home": "384",
+                "away": "279"
               },
               {
                 "key": "passPct",
@@ -13831,7 +13831,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -14350,6 +14350,16 @@
                 "relatedPlayer": "Julián Alvarez",
                 "teamName": "Atlético de Madrid",
                 "text": null
+              },
+              {
+                "id": "53610251_16",
+                "type": "RED_CARD",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Leny Yoro",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
@@ -14376,11 +14386,11 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -14427,7 +14437,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -14967,22 +14977,42 @@
                 "relatedPlayer": "Baris Alper Yilmaz",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "53610151_21",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Jules Koundé",
+                "relatedPlayer": "Eric García",
+                "teamName": "FC Barcelona",
+                "text": null
+              },
+              {
+                "id": "53610152_22",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Marc Bernal",
+                "relatedPlayer": "Pedri",
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.8",
-                "away": "69.2"
+                "home": "30.6",
+                "away": "69.4"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "18"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "9"
               },
               {
@@ -15013,12 +15043,12 @@
               {
                 "key": "saves",
                 "home": "5",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "154",
-                "away": "450"
+                "home": "157",
+                "away": "458"
               },
               {
                 "key": "passPct",
@@ -15044,7 +15074,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -15618,8 +15648,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.4",
-                "away": "44.6"
+                "home": "56.3",
+                "away": "43.7"
               },
               {
                 "key": "totalShots",
@@ -15663,8 +15693,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "381",
-                "away": "306"
+                "home": "399",
+                "away": "308"
               },
               {
                 "key": "passPct",
@@ -15686,11 +15716,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -16136,22 +16166,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.2",
-                "away": "53.8"
+                "home": "46.1",
+                "away": "53.9"
               },
               {
                 "key": "totalShots",
-                "home": "18",
+                "home": "20",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "5"
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "8"
               },
               {
@@ -16181,8 +16211,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "268",
-                "away": "318"
+                "home": "271",
+                "away": "322"
               },
               {
                 "key": "passPct",
@@ -16208,7 +16238,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -16797,13 +16827,23 @@
                 "relatedPlayer": null,
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "53610228_23",
+                "type": "SUBSTITUTION",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Josip Stanisic",
+                "relatedPlayer": "Luis Díaz",
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.1",
-                "away": "72.9"
+                "home": "28",
+                "away": "72"
               },
               {
                 "key": "totalShots",
@@ -16847,7 +16887,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "125",
+                "home": "130",
                 "away": "450"
               },
               {
@@ -16874,7 +16914,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -17422,13 +17462,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.9",
-                "away": "48.1"
+                "home": "51.8",
+                "away": "48.2"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -17467,13 +17507,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "343",
-                "away": "310"
+                "home": "347",
+                "away": "314"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
