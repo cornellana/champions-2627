@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:34:28Z",
+  "lastUpdated": "2026-10-14T17:35:34Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
+          "clock": "45'+3'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18417,8 +18417,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.9",
-                "away": "48.1"
+                "home": "51.1",
+                "away": "48.9"
               },
               {
                 "key": "totalShots",
@@ -18437,8 +18437,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
-                "away": "6"
+                "home": "9",
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -18458,12 +18458,12 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "267",
-                "away": "253"
+                "home": "269",
+                "away": "267"
               },
               {
                 "key": "passPct",
