@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:15:51Z",
+  "lastUpdated": "2026-10-14T17:16:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18417,8 +18417,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "54.9",
+                "away": "45.1"
               },
               {
                 "key": "totalShots",
@@ -18437,7 +18437,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "4"
               },
               {
@@ -18462,8 +18462,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "156",
-                "away": "137"
+                "home": "171",
+                "away": "142"
               },
               {
                 "key": "passPct",
@@ -18489,7 +18489,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "In Progress",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18916,8 +18916,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.5",
-                "away": "74.5"
+                "home": "22.4",
+                "away": "77.6"
               },
               {
                 "key": "totalShots",
@@ -18962,7 +18962,7 @@
               {
                 "key": "accuratePasses",
                 "home": "38",
-                "away": "159"
+                "away": "192"
               },
               {
                 "key": "passPct",
