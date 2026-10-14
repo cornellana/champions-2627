@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:00:29Z",
+  "lastUpdated": "2026-10-14T18:01:34Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -18438,8 +18438,8 @@
                 "type": "GOAL",
                 "minute": 52,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Anis Hadj Moussa",
+                "relatedPlayer": "Gaoussou Diarra",
                 "teamName": "Feyenoord",
                 "text": null
               }
@@ -18447,8 +18447,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.1",
-                "away": "46.9"
+                "home": "53",
+                "away": "47"
               },
               {
                 "key": "totalShots",
@@ -18493,7 +18493,7 @@
               {
                 "key": "accuratePasses",
                 "home": "318",
-                "away": "293"
+                "away": "294"
               },
               {
                 "key": "passPct",
@@ -18519,7 +18519,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -22074,6 +22074,13 @@
       "athleteID": null
     },
     {
+      "player": "Anis Hadj Moussa",
+      "team": "Feyenoord",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Anthony Gordon",
       "team": "FC Barcelona",
       "goals": 1,
@@ -22160,13 +22167,6 @@
     {
       "player": "Fabián Ruiz",
       "team": "Paris Saint-Germain",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Federico Valverde",
-      "team": "Real Madrid",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -22312,6 +22312,12 @@
       "athleteID": null
     },
     {
+      "player": "Gaoussou Diarra",
+      "team": "Feyenoord",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Gaëtan Perrin with a cross following a corner",
       "team": "Lille",
       "goals": 1,
@@ -22404,12 +22410,6 @@
     {
       "player": "Kai Havertz",
       "team": "Arsenal",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Konrad Laimer",
-      "team": "Bayern de Múnich",
       "goals": 1,
       "athleteID": null
     }
