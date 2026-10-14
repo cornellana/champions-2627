@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:23:24Z",
+  "lastUpdated": "2026-10-14T18:24:30Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18507,8 +18507,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.5",
-                "away": "51.5"
+                "home": "48.6",
+                "away": "51.4"
               },
               {
                 "key": "totalShots",
@@ -18527,7 +18527,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "16",
+                "home": "17",
                 "away": "13"
               },
               {
@@ -18552,8 +18552,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "389",
-                "away": "431"
+                "home": "395",
+                "away": "433"
               },
               {
                 "key": "passPct",
@@ -18579,7 +18579,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19141,6 +19141,16 @@
                 "relatedPlayer": "Yvan Dibango with a cross",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "53627380_19",
+                "type": "YELLOW_CARD",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Daniel Elfadli",
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
@@ -19152,7 +19162,7 @@
               {
                 "key": "totalShots",
                 "home": "10",
-                "away": "24"
+                "away": "25"
               },
               {
                 "key": "shotsOnTarget",
@@ -19162,7 +19172,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "foulsCommitted",
@@ -19176,7 +19186,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
