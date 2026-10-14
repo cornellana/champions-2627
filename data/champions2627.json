@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:25:42Z",
+  "lastUpdated": "2026-10-14T17:26:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18417,8 +18417,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "52.2",
+                "away": "47.8"
               },
               {
                 "key": "totalShots",
@@ -18463,7 +18463,7 @@
               {
                 "key": "accuratePasses",
                 "home": "242",
-                "away": "210"
+                "away": "225"
               },
               {
                 "key": "passPct",
@@ -18489,7 +18489,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18926,8 +18926,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "24",
-                "away": "76"
+                "home": "26",
+                "away": "74"
               },
               {
                 "key": "totalShots",
@@ -18941,13 +18941,13 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "8"
               },
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -18971,8 +18971,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "54",
-                "away": "238"
+                "home": "61",
+                "away": "240"
               },
               {
                 "key": "passPct",
