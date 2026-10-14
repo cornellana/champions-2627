@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:52:50Z",
+  "lastUpdated": "2026-10-14T17:53:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,8 +17971,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -18418,8 +18418,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Gaoussou Diarra",
+                "relatedPlayer": "Luciano Valente",
                 "teamName": "Feyenoord",
                 "text": null
               }
@@ -18499,7 +18499,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18946,8 +18946,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.1",
-                "away": "67.9"
+                "home": "31",
+                "away": "69"
               },
               {
                 "key": "totalShots",
@@ -18992,7 +18992,7 @@
               {
                 "key": "accuratePasses",
                 "home": "105",
-                "away": "281"
+                "away": "295"
               },
               {
                 "key": "passPct",
