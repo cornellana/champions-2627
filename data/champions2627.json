@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:39:45Z",
+  "lastUpdated": "2026-10-14T18:40:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18558,8 +18558,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 90,
                 "extraTime": 1,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Jerayno Schaken",
+                "relatedPlayer": "Anis Hadj Moussa",
                 "teamName": "Feyenoord",
                 "text": null
               }
@@ -18567,8 +18567,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.1",
-                "away": "51.9"
+                "home": "48",
+                "away": "52"
               },
               {
                 "key": "totalShots",
@@ -18588,7 +18588,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "18",
-                "away": "17"
+                "away": "18"
               },
               {
                 "key": "offsides",
@@ -18613,7 +18613,7 @@
               {
                 "key": "accuratePasses",
                 "home": "450",
-                "away": "506"
+                "away": "510"
               },
               {
                 "key": "passPct",
