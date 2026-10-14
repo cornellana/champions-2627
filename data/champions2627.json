@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:26:49Z",
+  "lastUpdated": "2026-10-14T20:27:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19776,17 +19776,47 @@
                 "type": "PENALTY",
                 "minute": 68,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Ross Barkley",
                 "relatedPlayer": null,
                 "teamName": "Aston Villa",
+                "text": null
+              },
+              {
+                "id": "53639992_10",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "53639993_11",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "53639994_12",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.6",
-                "away": "55.4"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
@@ -19831,7 +19861,7 @@
               {
                 "key": "accuratePasses",
                 "home": "254",
-                "away": "318"
+                "away": "320"
               },
               {
                 "key": "passPct",
@@ -19857,7 +19887,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20397,7 +20427,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20921,12 +20951,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.1",
-                "away": "50.9"
+                "home": "48.5",
+                "away": "51.5"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "12"
               },
               {
@@ -20966,8 +20996,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "276",
-                "away": "308"
+                "home": "282",
+                "away": "321"
               },
               {
                 "key": "passPct",
@@ -20993,7 +21023,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21537,8 +21567,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.5",
-                "away": "44.5"
+                "home": "55.9",
+                "away": "44.1"
               },
               {
                 "key": "totalShots",
@@ -21552,7 +21582,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -21582,8 +21612,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "325",
-                "away": "242"
+                "home": "333",
+                "away": "245"
               },
               {
                 "key": "passPct",
@@ -21609,7 +21639,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22144,8 +22174,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "54.3",
+                "away": "45.7"
               },
               {
                 "key": "totalShots",
@@ -22184,13 +22214,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "345",
-                "away": "295"
+                "home": "364",
+                "away": "300"
               },
               {
                 "key": "passPct",
@@ -22216,7 +22246,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22712,12 +22742,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "13"
               },
               {
@@ -22757,8 +22787,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "291",
-                "away": "247"
+                "home": "297",
+                "away": "261"
               },
               {
                 "key": "passPct",
@@ -22784,7 +22814,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -23231,8 +23261,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.8",
-                "away": "61.2"
+                "home": "39.2",
+                "away": "60.8"
               },
               {
                 "key": "totalShots",
@@ -23276,8 +23306,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "213",
-                "away": "360"
+                "home": "220",
+                "away": "363"
               },
               {
                 "key": "passPct",
