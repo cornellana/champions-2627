@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:17:22Z",
+  "lastUpdated": "2026-10-14T19:18:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19745,22 +19745,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.4",
-                "away": "60.6"
+                "home": "41.8",
+                "away": "58.2"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -19790,8 +19790,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "51",
-                "away": "83"
+                "home": "55",
+                "away": "84"
               },
               {
                 "key": "passPct",
@@ -19817,8 +19817,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
-          "statusText": "In Progress",
+          "clock": "18'",
+          "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -20216,7 +20216,7 @@
                 "type": "YELLOW_CARD",
                 "minute": 13,
                 "extraTime": null,
-                "playerName": "Kouakou Gadou",
+                "playerName": "Joane Gadou",
                 "relatedPlayer": null,
                 "teamName": "Borussia Dortmund",
                 "text": null
@@ -20225,8 +20225,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.7",
-                "away": "50.3"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -20246,7 +20246,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -20270,8 +20270,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "58",
-                "away": "58"
+                "home": "80",
+                "away": "69"
               },
               {
                 "key": "passPct",
@@ -20297,8 +20297,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
-          "statusText": "In Progress",
+          "clock": "15'",
+          "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": {
@@ -20733,7 +20733,7 @@
                 "minute": 13,
                 "extraTime": null,
                 "playerName": "Désiré Doué",
-                "relatedPlayer": null,
+                "relatedPlayer": "Fabián Ruiz",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               }
@@ -20741,8 +20741,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.1",
-                "away": "51.9"
+                "home": "48.5",
+                "away": "51.5"
               },
               {
                 "key": "totalShots",
@@ -20786,7 +20786,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "49",
+                "home": "50",
                 "away": "54"
               },
               {
@@ -20813,7 +20813,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21246,8 +21246,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.8",
-                "away": "38.2"
+                "home": "60.8",
+                "away": "39.2"
               },
               {
                 "key": "totalShots",
@@ -21267,7 +21267,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -21291,8 +21291,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "103",
-                "away": "57"
+                "home": "104",
+                "away": "59"
               },
               {
                 "key": "passPct",
@@ -21318,7 +21318,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21814,7 +21814,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22229,13 +22229,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.1",
-                "away": "42.9"
+                "home": "61.2",
+                "away": "38.8"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -22274,8 +22274,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "75",
-                "away": "48"
+                "home": "91",
+                "away": "49"
               },
               {
                 "key": "passPct",
@@ -22301,7 +22301,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -25895,6 +25895,12 @@
       "athleteID": null
     },
     {
+      "player": "Fabián Ruiz",
+      "team": "Paris Saint-Germain",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Federico Dimarco following a fast break",
       "team": "Inter de Milán",
       "goals": 1,
@@ -25999,12 +26005,6 @@
     {
       "player": "Joshua Kimmich with a cross following a corner",
       "team": "Bayern de Múnich",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "João Cancelo",
-      "team": "FC Barcelona",
       "goals": 1,
       "athleteID": null
     }
