@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:40:25Z",
+  "lastUpdated": "2026-10-14T19:41:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19756,8 +19756,8 @@
                 "type": "GOAL",
                 "minute": 39,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Nicolas Jackson",
+                "relatedPlayer": "Ross Barkley",
                 "teamName": "Aston Villa",
                 "text": null
               }
@@ -19765,8 +19765,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.8",
-                "away": "57.2"
+                "home": "42.3",
+                "away": "57.7"
               },
               {
                 "key": "totalShots",
@@ -19785,7 +19785,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "1"
               },
               {
@@ -19810,8 +19810,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "142",
-                "away": "197"
+                "home": "140",
+                "away": "201"
               },
               {
                 "key": "passPct",
@@ -19837,7 +19837,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20327,7 +20327,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "36'",
+          "clock": "38'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20863,7 +20863,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21368,7 +21368,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21823,8 +21823,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.9",
-                "away": "44.1"
+                "home": "56",
+                "away": "44"
               },
               {
                 "key": "totalShots",
@@ -21838,7 +21838,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -21868,7 +21868,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
+                "home": "222",
                 "away": "169"
               },
               {
@@ -21895,7 +21895,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22341,8 +22341,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
@@ -22356,7 +22356,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -22386,8 +22386,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "165",
-                "away": "138"
+                "home": "176",
+                "away": "139"
               },
               {
                 "key": "passPct",
@@ -22413,7 +22413,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -22850,12 +22850,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.6",
-                "away": "60.4"
+                "home": "41.8",
+                "away": "58.2"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "8"
               },
               {
@@ -22895,8 +22895,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "133",
-                "away": "205"
+                "home": "147",
+                "away": "207"
               },
               {
                 "key": "passPct",
@@ -25654,6 +25654,13 @@
       "athleteID": null
     },
     {
+      "player": "Nicolas Jackson",
+      "team": "Aston Villa",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Ousmane Dembélé",
       "team": "Paris Saint-Germain",
       "goals": 3,
@@ -25726,13 +25733,6 @@
     {
       "player": "Michael Olise",
       "team": "Bayern de Múnich",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Nicolas Jackson",
-      "team": "Aston Villa",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
