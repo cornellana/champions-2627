@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:25:43Z",
+  "lastUpdated": "2026-10-14T20:26:49Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19324,11 +19324,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-0",
+          "result": "4-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19770,6 +19770,16 @@
                 "relatedPlayer": null,
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "53639790_9",
+                "type": "PENALTY",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
@@ -19780,12 +19790,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "12"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "9",
+                "home": "10",
                 "away": "4"
               },
               {
@@ -19847,7 +19857,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20315,13 +20325,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53",
-                "away": "47"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -20360,8 +20370,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "395",
-                "away": "341"
+                "home": "396",
+                "away": "343"
               },
               {
                 "key": "passPct",
@@ -20387,7 +20397,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20983,7 +20993,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21508,8 +21518,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Dani Ceballos",
+                "relatedPlayer": "Nelson Deossa",
                 "teamName": "Real Betis",
                 "text": null
               },
@@ -21518,8 +21528,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Cucho Hernández",
+                "relatedPlayer": "Troy Parrott",
                 "teamName": "Real Betis",
                 "text": null
               }
@@ -21543,12 +21553,12 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "1"
+                "away": "0"
               },
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -21599,7 +21609,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22206,7 +22216,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22702,8 +22712,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.6",
-                "away": "47.4"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -22717,7 +22727,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "2"
               },
               {
@@ -22727,7 +22737,7 @@
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -22747,8 +22757,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "282",
-                "away": "242"
+                "home": "291",
+                "away": "247"
               },
               {
                 "key": "passPct",
@@ -22774,7 +22784,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -23221,12 +23231,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.9",
-                "away": "63.1"
+                "home": "38.8",
+                "away": "61.2"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "12"
               },
               {
@@ -23242,7 +23252,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -23266,8 +23276,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "192",
-                "away": "358"
+                "home": "213",
+                "away": "360"
               },
               {
                 "key": "passPct",
