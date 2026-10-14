@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:08:13Z",
+  "lastUpdated": "2026-10-14T17:09:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18407,8 +18407,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.8",
-                "away": "44.2"
+                "home": "55.1",
+                "away": "44.9"
               },
               {
                 "key": "totalShots",
@@ -18427,7 +18427,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "4"
               },
               {
@@ -18453,7 +18453,7 @@
               {
                 "key": "accuratePasses",
                 "home": "131",
-                "away": "108"
+                "away": "111"
               },
               {
                 "key": "passPct",
@@ -18475,11 +18475,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18881,27 +18881,38 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53625513_1",
+                "type": "GOAL",
+                "minute": 22,
+                "extraTime": null,
+                "playerName": "Ronald Araujo",
+                "relatedPlayer": "Kostas Tsimikas with a cross following a corner",
+                "teamName": "Liverpool",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "23",
-                "away": "77"
+                "home": "22.5",
+                "away": "77.5"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "3"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -18930,8 +18941,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "23",
-                "away": "130"
+                "home": "24",
+                "away": "134"
               },
               {
                 "key": "passPct",
@@ -22317,8 +22328,8 @@
       "athleteID": null
     },
     {
-      "player": "Lamine Yamal following a corner",
-      "team": "FC Barcelona",
+      "player": "Kostas Tsimikas with a cross following a corner",
+      "team": "Liverpool",
       "goals": 1,
       "athleteID": null
     }
