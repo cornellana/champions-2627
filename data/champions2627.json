@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:09:42Z",
+  "lastUpdated": "2026-10-14T19:10:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -20203,8 +20203,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.2",
-                "away": "68.8"
+                "home": "42.5",
+                "away": "57.5"
               },
               {
                 "key": "totalShots",
@@ -20248,12 +20248,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "17",
-                "away": "44"
+                "home": "36",
+                "away": "47"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -20275,8 +20275,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
-          "statusText": "In Progress",
+          "clock": "7'",
+          "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": {
@@ -20781,7 +20781,7 @@
           "shootout": null,
           "state": "in",
           "clock": "9'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
           "details": {
@@ -21213,8 +21213,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.3",
-                "away": "46.7"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
@@ -21258,7 +21258,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "47",
+                "home": "56",
                 "away": "38"
               },
               {
@@ -21285,7 +21285,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
+          "clock": "10'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21781,8 +21781,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
-          "statusText": "First Half",
+          "clock": "10'",
+          "statusText": "In Progress",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -22196,8 +22196,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.7",
-                "away": "39.3"
+                "home": "66.3",
+                "away": "33.7"
               },
               {
                 "key": "totalShots",
@@ -22241,8 +22241,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "32",
-                "away": "15"
+                "home": "49",
+                "away": "18"
               },
               {
                 "key": "passPct",
@@ -22674,8 +22674,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.6",
-                "away": "63.4"
+                "home": "42.9",
+                "away": "57.1"
               },
               {
                 "key": "totalShots",
@@ -22719,7 +22719,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "29",
+                "home": "39",
                 "away": "52"
               },
               {
