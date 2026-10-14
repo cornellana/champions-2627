@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:29:57Z",
+  "lastUpdated": "2026-10-14T18:31:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17967,11 +17967,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-1",
+          "result": "3-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18532,13 +18532,23 @@
                 "relatedPlayer": "Martin Baturina",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "53627535_26",
+                "type": "OWN_GOAL",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": "Robert Sánchez",
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.6",
-                "away": "51.4"
+                "home": "48.5",
+                "away": "51.5"
               },
               {
                 "key": "totalShots",
@@ -18583,7 +18593,7 @@
               {
                 "key": "accuratePasses",
                 "home": "420",
-                "away": "463"
+                "away": "465"
               },
               {
                 "key": "passPct",
@@ -18609,7 +18619,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19205,10 +19215,10 @@
               {
                 "id": "53627554_22",
                 "type": "SUBSTITUTION",
-                "minute": 86,
+                "minute": 85,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Luke Chambers",
+                "relatedPlayer": "Rio Ngumoha because of an injury",
                 "teamName": "Liverpool",
                 "text": null
               }
@@ -19216,8 +19226,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.4",
-                "away": "63.6"
+                "home": "37.5",
+                "away": "62.5"
               },
               {
                 "key": "totalShots",
@@ -19261,7 +19271,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "229",
+                "home": "242",
                 "away": "468"
               },
               {
