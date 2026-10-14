@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:20:08Z",
+  "lastUpdated": "2026-10-14T18:21:14Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18497,8 +18497,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.5",
-                "away": "50.5"
+                "home": "49.2",
+                "away": "50.8"
               },
               {
                 "key": "totalShots",
@@ -18517,7 +18517,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "15",
+                "home": "16",
                 "away": "12"
               },
               {
@@ -18543,7 +18543,7 @@
               {
                 "key": "accuratePasses",
                 "home": "387",
-                "away": "410"
+                "away": "414"
               },
               {
                 "key": "passPct",
@@ -18565,7 +18565,7 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-6",
+          "result": "3-6",
           "aggregate": null,
           "shootout": null,
           "state": "in",
@@ -19121,22 +19121,32 @@
                 "relatedPlayer": "Yvan Dibango",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "53627300_18",
+                "type": "GOAL",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Florian Flecker",
+                "relatedPlayer": "Yvan Dibango with a cross",
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.4",
-                "away": "65.6"
+                "home": "35",
+                "away": "65"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "24"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "9"
               },
               {
@@ -19171,8 +19181,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "195",
-                "away": "439"
+                "home": "200",
+                "away": "441"
               },
               {
                 "key": "passPct",
@@ -22098,6 +22108,13 @@
       "athleteID": null
     },
     {
+      "player": "Florian Flecker",
+      "team": "LASK",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Karim Adeyemi",
       "team": "FC Barcelona",
       "goals": 2,
@@ -22310,13 +22327,6 @@
     {
       "player": "Emiliano Buendía",
       "team": "Aston Villa",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Fabián Ruiz",
-      "team": "Paris Saint-Germain",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
