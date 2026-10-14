@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:19:07Z",
+  "lastUpdated": "2026-10-14T17:20:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "31'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18417,18 +18417,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.9",
-                "away": "48.1"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -18462,8 +18462,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "172",
-                "away": "163"
+                "home": "188",
+                "away": "175"
               },
               {
                 "key": "passPct",
@@ -18489,7 +18489,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18916,13 +18916,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "22.6",
-                "away": "77.4"
+                "home": "22.3",
+                "away": "77.7"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "10"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
@@ -18932,7 +18932,7 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -18961,8 +18961,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "41",
-                "away": "209"
+                "home": "44",
+                "away": "223"
               },
               {
                 "key": "passPct",
