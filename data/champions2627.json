@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:12:59Z",
+  "lastUpdated": "2026-10-14T19:14:05Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19324,11 +19324,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19730,26 +19730,37 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53630450_1",
+                "type": "GOAL",
+                "minute": 12,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.8",
-                "away": "56.2"
+                "home": "45.1",
+                "away": "54.9"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -19779,7 +19790,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "49",
+                "home": "50",
                 "away": "62"
               },
               {
@@ -19806,7 +19817,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20275,7 +20286,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20708,8 +20719,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.9",
-                "away": "46.1"
+                "home": "54.1",
+                "away": "45.9"
               },
               {
                 "key": "totalShots",
@@ -20729,7 +20740,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -20753,8 +20764,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "45",
-                "away": "36"
+                "home": "49",
+                "away": "39"
               },
               {
                 "key": "passPct",
@@ -20780,7 +20791,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21213,8 +21224,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.2",
-                "away": "35.8"
+                "home": "59.8",
+                "away": "40.2"
               },
               {
                 "key": "totalShots",
@@ -21258,8 +21269,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "79",
-                "away": "39"
+                "home": "80",
+                "away": "49"
               },
               {
                 "key": "passPct",
@@ -21285,7 +21296,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21781,8 +21792,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
-          "statusText": "In Progress",
+          "clock": "13'",
+          "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -22196,8 +22207,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.2",
-                "away": "29.8"
+                "home": "67.2",
+                "away": "32.8"
               },
               {
                 "key": "totalShots",
@@ -22241,8 +22252,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "59",
-                "away": "18"
+                "home": "70",
+                "away": "26"
               },
               {
                 "key": "passPct",
@@ -22268,7 +22279,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -22670,12 +22681,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53630431_1",
+                "type": "YELLOW_CARD",
+                "minute": 12,
+                "extraTime": null,
+                "playerName": "Ramon Hendriks",
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.9",
-                "away": "58.1"
+                "home": "42.7",
+                "away": "57.3"
               },
               {
                 "key": "totalShots",
@@ -22705,7 +22727,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -22719,8 +22741,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "46",
-                "away": "65"
+                "home": "49",
+                "away": "68"
               },
               {
                 "key": "passPct",
