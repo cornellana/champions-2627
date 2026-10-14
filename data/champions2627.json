@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:10:24Z",
+  "lastUpdated": "2026-10-14T17:11:29Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,8 +17971,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
-          "statusText": "First Half",
+          "clock": "24'",
+          "statusText": "In Progress",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -18402,13 +18402,23 @@
                 "relatedPlayer": "Luciano Valente",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "53625543_3",
+                "type": "SUBSTITUTION",
+                "minute": 23,
+                "extraTime": null,
+                "playerName": "Jesús Rodríguez",
+                "relatedPlayer": "Assane Diao because of an injury",
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
@@ -18427,7 +18437,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "4"
               },
               {
@@ -18452,8 +18462,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "131",
-                "away": "111"
+                "home": "135",
+                "away": "131"
               },
               {
                 "key": "passPct",
@@ -18891,23 +18901,33 @@
                 "relatedPlayer": "Kostas Tsimikas with a cross following a corner",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "53625550_2",
+                "type": "GOAL",
+                "minute": 24,
+                "extraTime": null,
+                "playerName": "Bradley Barcola",
+                "relatedPlayer": "Lewis Koumas",
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "22.3",
-                "away": "77.7"
+                "home": "22.5",
+                "away": "77.5"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "8"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -18941,8 +18961,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "24",
-                "away": "140"
+                "home": "25",
+                "away": "141"
               },
               {
                 "key": "passPct",
@@ -22015,6 +22035,13 @@
       "athleteID": null
     },
     {
+      "player": "Bradley Barcola",
+      "team": "Liverpool",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Brajan Gruda",
       "team": "RB Leipzig",
       "goals": 1,
@@ -22080,13 +22107,6 @@
     {
       "player": "Federico Valverde",
       "team": "Real Madrid",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Fermín López",
-      "team": "FC Barcelona",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
