@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:49:15Z",
+  "lastUpdated": "2026-10-14T19:50:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -20337,7 +20337,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20873,8 +20873,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "First Half",
+          "clock": "45'+4'",
+          "statusText": "Halftime",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
           "details": {
@@ -21317,8 +21317,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.9",
-                "away": "47.1"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -21338,7 +21338,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -21362,8 +21362,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
-                "away": "191"
+                "home": "230",
+                "away": "195"
               },
               {
                 "key": "passPct",
