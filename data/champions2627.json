@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:50:02Z",
+  "lastUpdated": "2026-10-14T20:51:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -20527,7 +20527,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -21167,7 +21167,7 @@
               {
                 "key": "accuratePasses",
                 "home": "392",
-                "away": "364"
+                "away": "365"
               },
               {
                 "key": "passPct",
@@ -21193,7 +21193,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21808,8 +21808,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 87,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Pablo Fornals",
+                "relatedPlayer": "Marc Roca",
                 "teamName": "Real Betis",
                 "text": null
               },
@@ -21818,8 +21818,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 87,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Facundo Bernal",
+                "relatedPlayer": "Isco",
                 "teamName": "Real Betis",
                 "text": null
               }
@@ -21827,8 +21827,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.4",
-                "away": "43.6"
+                "home": "56.7",
+                "away": "43.3"
               },
               {
                 "key": "totalShots",
@@ -21842,7 +21842,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -21872,8 +21872,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "410",
-                "away": "293"
+                "home": "427",
+                "away": "301"
               },
               {
                 "key": "passPct",
@@ -21895,11 +21895,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-3",
+          "result": "3-4",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22509,23 +22509,33 @@
                 "relatedPlayer": null,
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "53643218_36",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Antonio Rüdiger",
+                "relatedPlayer": "Arda Güler with a cross following a corner",
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.3",
-                "away": "46.7"
+                "home": "53.4",
+                "away": "46.6"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "7",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "wonCorners",
@@ -22559,7 +22569,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "448",
+                "home": "451",
                 "away": "377"
               },
               {
@@ -22586,7 +22596,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -23177,13 +23187,23 @@
                 "relatedPlayer": "Alisson Santana",
                 "teamName": "Shajtar Donetsk",
                 "text": null
+              },
+              {
+                "id": "53643198_31",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Barnabás Varga",
+                "relatedPlayer": null,
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.4",
+                "away": "45.6"
               },
               {
                 "key": "totalShots",
@@ -23208,12 +23228,12 @@
               {
                 "key": "offsides",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "redCards",
@@ -23227,8 +23247,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "387",
-                "away": "302"
+                "home": "389",
+                "away": "305"
               },
               {
                 "key": "passPct",
@@ -23254,7 +23274,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -23831,12 +23851,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.2",
-                "away": "63.8"
+                "home": "36.4",
+                "away": "63.6"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "15"
               },
               {
@@ -23876,7 +23896,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "281",
+                "home": "287",
                 "away": "534"
               },
               {
@@ -26368,7 +26388,7 @@
       "position": 13
     },
     {
-      "team": "Borussia Dortmund",
+      "team": "Real Betis",
       "played": 1,
       "won": 1,
       "drawn": 0,
@@ -26378,16 +26398,6 @@
       "position": 14
     },
     {
-      "team": "Real Betis",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 2,
-      "position": 15
-    },
-    {
       "team": "Real Madrid",
       "played": 1,
       "won": 1,
@@ -26395,7 +26405,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 1,
-      "position": 16
+      "position": 15
     },
     {
       "team": "AEK Atenas",
@@ -26405,7 +26415,7 @@
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 0,
-      "position": 17
+      "position": 16
     },
     {
       "team": "Brujas",
@@ -26415,6 +26425,16 @@
       "lost": 1,
       "goalsFor": 6,
       "goalsAgainst": 6,
+      "position": 17
+    },
+    {
+      "team": "Borussia Dortmund",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 3,
+      "goalsAgainst": 3,
       "position": 18
     },
     {
@@ -26458,17 +26478,17 @@
       "position": 22
     },
     {
-      "team": "Roma",
-      "played": 1,
-      "won": 0,
-      "drawn": 1,
-      "lost": 0,
+      "team": "Bodø/Glimt",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
       "goalsFor": 1,
-      "goalsAgainst": 1,
+      "goalsAgainst": 5,
       "position": 23
     },
     {
-      "team": "Shajtar Donetsk",
+      "team": "Roma",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -26478,6 +26498,16 @@
       "position": 24
     },
     {
+      "team": "Shajtar Donetsk",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "position": 25
+    },
+    {
       "team": "PSV",
       "played": 2,
       "won": 0,
@@ -26485,7 +26515,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 25
+      "position": 26
     },
     {
       "team": "Viking",
@@ -26495,7 +26525,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 26
+      "position": 27
     },
     {
       "team": "Fenerbahçe",
@@ -26505,7 +26535,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 7,
-      "position": 27
+      "position": 28
     },
     {
       "team": "Inter de Milán",
@@ -26515,7 +26545,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 28
+      "position": 29
     },
     {
       "team": "Oporto",
@@ -26525,7 +26555,7 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "position": 29
+      "position": 30
     },
     {
       "team": "Slavia de Praga",
@@ -26535,7 +26565,7 @@
       "lost": 2,
       "goalsFor": 2,
       "goalsAgainst": 5,
-      "position": 30
+      "position": 31
     },
     {
       "team": "Nápoles",
@@ -26545,7 +26575,7 @@
       "lost": 2,
       "goalsFor": 1,
       "goalsAgainst": 4,
-      "position": 31
+      "position": 32
     },
     {
       "team": "LASK",
@@ -26555,7 +26585,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 7,
-      "position": 32
+      "position": 33
     },
     {
       "team": "Lille",
@@ -26565,7 +26595,7 @@
       "lost": 2,
       "goalsFor": 2,
       "goalsAgainst": 6,
-      "position": 33
+      "position": 34
     },
     {
       "team": "Galatasaray",
@@ -26575,7 +26605,7 @@
       "lost": 2,
       "goalsFor": 2,
       "goalsAgainst": 7,
-      "position": 34
+      "position": 35
     },
     {
       "team": "Slovan Bratislava",
@@ -26585,16 +26615,6 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 6,
-      "position": 35
-    },
-    {
-      "team": "Bodø/Glimt",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 0,
-      "goalsAgainst": 5,
       "position": 36
     }
   ],
@@ -26852,6 +26872,13 @@
       "athleteID": null
     },
     {
+      "player": "Antonio Rüdiger",
+      "team": "Real Madrid",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Archie Brown",
       "team": "Fenerbahçe",
       "goals": 1,
@@ -26871,16 +26898,15 @@
       "goals": 1,
       "penalties": 0,
       "athleteID": null
-    },
-    {
-      "player": "Brajan Gruda",
-      "team": "RB Leipzig",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
     }
   ],
   "topAssists": [
+    {
+      "player": "Arda Güler with a cross following a corner",
+      "team": "Real Madrid",
+      "goals": 2,
+      "athleteID": null
+    },
     {
       "player": "Isaque",
       "team": "Shajtar Donetsk",
@@ -26938,12 +26964,6 @@
     {
       "player": "Antony",
       "team": "Real Betis",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Arda Güler with a cross following a corner",
-      "team": "Real Madrid",
       "goals": 1,
       "athleteID": null
     },
