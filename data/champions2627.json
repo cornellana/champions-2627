@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:36:29Z",
+  "lastUpdated": "2026-10-14T18:37:34Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -21800,6 +21800,16 @@
       "position": 1
     },
     {
+      "team": "Liverpool",
+      "played": 2,
+      "won": 2,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 8,
+      "goalsAgainst": 4,
+      "position": 2
+    },
+    {
       "team": "Sporting de Portugal",
       "played": 2,
       "won": 2,
@@ -21807,7 +21817,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "position": 2
+      "position": 3
     },
     {
       "team": "Arsenal",
@@ -21817,7 +21827,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "position": 3
+      "position": 4
     },
     {
       "team": "Bayern de Múnich",
@@ -21827,7 +21837,7 @@
       "lost": 0,
       "goalsFor": 8,
       "goalsAgainst": 3,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Paris Saint-Germain",
@@ -21837,7 +21847,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 1,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Como",
@@ -21847,7 +21857,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 1,
-      "position": 6
+      "position": 7
     },
     {
       "team": "Manchester United",
@@ -21857,7 +21867,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "position": 7
+      "position": 8
     },
     {
       "team": "Stuttgart",
@@ -21867,7 +21877,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "position": 8
+      "position": 9
     },
     {
       "team": "Manchester City",
@@ -21877,7 +21887,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "position": 9
+      "position": 10
     },
     {
       "team": "Villarreal",
@@ -21887,7 +21897,7 @@
       "lost": 1,
       "goalsFor": 5,
       "goalsAgainst": 4,
-      "position": 10
+      "position": 11
     },
     {
       "team": "Aston Villa",
@@ -21897,7 +21907,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 11
+      "position": 12
     },
     {
       "team": "Atlético de Madrid",
@@ -21907,7 +21917,7 @@
       "lost": 1,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 12
+      "position": 13
     },
     {
       "team": "Borussia Dortmund",
@@ -21917,7 +21927,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 13
+      "position": 14
     },
     {
       "team": "Real Betis",
@@ -21927,16 +21937,6 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 2,
-      "position": 14
-    },
-    {
-      "team": "Liverpool",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 2,
-      "goalsAgainst": 1,
       "position": 15
     },
     {
@@ -22050,16 +22050,6 @@
       "position": 26
     },
     {
-      "team": "LASK",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 0,
-      "goalsAgainst": 1,
-      "position": 27
-    },
-    {
       "team": "Inter de Milán",
       "played": 2,
       "won": 0,
@@ -22067,7 +22057,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 28
+      "position": 27
     },
     {
       "team": "Oporto",
@@ -22077,7 +22067,7 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "position": 29
+      "position": 28
     },
     {
       "team": "Slavia de Praga",
@@ -22087,7 +22077,7 @@
       "lost": 2,
       "goalsFor": 2,
       "goalsAgainst": 5,
-      "position": 30
+      "position": 29
     },
     {
       "team": "Nápoles",
@@ -22097,6 +22087,16 @@
       "lost": 2,
       "goalsFor": 1,
       "goalsAgainst": 4,
+      "position": 30
+    },
+    {
+      "team": "LASK",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 3,
+      "goalsAgainst": 7,
       "position": 31
     },
     {
