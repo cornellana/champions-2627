@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:04:56Z",
+  "lastUpdated": "2026-10-14T17:06:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17967,11 +17967,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18382,22 +18382,33 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53625442_1",
+                "type": "GOAL",
+                "minute": 18,
+                "extraTime": null,
+                "playerName": "Assane Diao",
+                "relatedPlayer": "Jacobo Ramón",
+                "teamName": "Como",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.9",
-                "away": "43.1"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -18432,7 +18443,7 @@
               {
                 "key": "accuratePasses",
                 "home": "121",
-                "away": "94"
+                "away": "108"
               },
               {
                 "key": "passPct",
@@ -18458,7 +18469,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18864,8 +18875,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "23.8",
-                "away": "76.2"
+                "home": "23.3",
+                "away": "76.7"
               },
               {
                 "key": "totalShots",
@@ -18890,7 +18901,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -18910,7 +18921,7 @@
               {
                 "key": "accuratePasses",
                 "home": "20",
-                "away": "110"
+                "away": "114"
               },
               {
                 "key": "passPct",
@@ -21808,6 +21819,13 @@
       "athleteID": null
     },
     {
+      "player": "Assane Diao",
+      "team": "Como",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Danijel Sturm",
       "team": "Slavia de Praga",
       "goals": 2,
@@ -21957,13 +21975,6 @@
     {
       "player": "Archie Brown",
       "team": "Fenerbahçe",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Assane Diao",
-      "team": "Como",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -22248,6 +22259,12 @@
       "athleteID": null
     },
     {
+      "player": "Jacobo Ramón",
+      "team": "Como",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Jan Virgili",
       "team": "Brujas",
       "goals": 1,
@@ -22291,12 +22308,6 @@
     },
     {
       "player": "Lamine Yamal following a corner",
-      "team": "FC Barcelona",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Lamine Yamal with a cross",
       "team": "FC Barcelona",
       "goals": 1,
       "athleteID": null
