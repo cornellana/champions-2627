@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:07:08Z",
+  "lastUpdated": "2026-10-14T17:08:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17967,11 +17967,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18399,7 +18399,7 @@
                 "minute": 20,
                 "extraTime": null,
                 "playerName": "Gjivai Zechiël",
-                "relatedPlayer": null,
+                "relatedPlayer": "Luciano Valente",
                 "teamName": "Feyenoord",
                 "text": null
               }
@@ -18407,8 +18407,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.6",
-                "away": "44.4"
+                "home": "55.8",
+                "away": "44.2"
               },
               {
                 "key": "totalShots",
@@ -18479,7 +18479,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
