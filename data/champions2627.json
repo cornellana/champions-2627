@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:45:38Z",
+  "lastUpdated": "2026-10-14T20:46:44Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19896,7 +19896,7 @@
               {
                 "key": "shotsOnTarget",
                 "home": "10",
-                "away": "5"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -19930,8 +19930,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "329",
-                "away": "403"
+                "home": "336",
+                "away": "413"
               },
               {
                 "key": "passPct",
@@ -19957,7 +19957,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20445,8 +20445,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.9",
-                "away": "51.1"
+                "home": "48.3",
+                "away": "51.7"
               },
               {
                 "key": "totalShots",
@@ -20491,7 +20491,7 @@
               {
                 "key": "accuratePasses",
                 "home": "466",
-                "away": "481"
+                "away": "494"
               },
               {
                 "key": "passPct",
@@ -20517,7 +20517,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -21086,13 +21086,23 @@
                 "relatedPlayer": "Maghnes Akliouche",
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "53642816_17",
+                "type": "SUBSTITUTION",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
@@ -21136,8 +21146,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "367",
-                "away": "358"
+                "home": "375",
+                "away": "359"
               },
               {
                 "key": "passPct",
@@ -21159,11 +21169,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-2",
+          "result": "3-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21742,6 +21752,16 @@
                 "relatedPlayer": null,
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "53642718_30",
+                "type": "PENALTY",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": "Isco",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
@@ -21752,12 +21772,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "2"
               },
               {
@@ -21819,7 +21839,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22496,7 +22516,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -23063,8 +23083,8 @@
                 "type": "GOAL",
                 "minute": 86,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Gleiker Mendoza",
+                "relatedPlayer": "Isaque",
                 "teamName": "Shajtar Donetsk",
                 "text": null
               }
@@ -23072,17 +23092,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.7",
+                "away": "45.3"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "13"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -23117,8 +23137,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "378",
-                "away": "296"
+                "home": "384",
+                "away": "297"
               },
               {
                 "key": "passPct",
@@ -23144,8 +23164,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
-          "statusText": "In Progress",
+          "clock": "90'",
+          "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
           "details": {
@@ -23711,8 +23731,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.3",
-                "away": "64.7"
+                "home": "35.1",
+                "away": "64.9"
               },
               {
                 "key": "totalShots",
@@ -23731,7 +23751,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
+                "home": "11",
                 "away": "15"
               },
               {
@@ -23757,7 +23777,7 @@
               {
                 "key": "accuratePasses",
                 "home": "260",
-                "away": "517"
+                "away": "524"
               },
               {
                 "key": "passPct",
@@ -26564,6 +26584,13 @@
       "athleteID": null
     },
     {
+      "player": "Gleiker Mendoza",
+      "team": "Shajtar Donetsk",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Karim Adeyemi",
       "team": "FC Barcelona",
       "goals": 2,
@@ -26751,16 +26778,15 @@
       "goals": 1,
       "penalties": 0,
       "athleteID": null
-    },
-    {
-      "player": "Bruno Fernandes",
-      "team": "Manchester United",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
     }
   ],
   "topAssists": [
+    {
+      "player": "Isaque",
+      "team": "Shajtar Donetsk",
+      "goals": 2,
+      "athleteID": null
+    },
     {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
@@ -26992,12 +27018,6 @@
     {
       "player": "Henrik Bjørdal",
       "team": "Viking",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Ibrahim Mbaye",
-      "team": "Aston Villa",
       "goals": 1,
       "athleteID": null
     }
