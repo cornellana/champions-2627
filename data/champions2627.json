@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:21:13Z",
+  "lastUpdated": "2026-10-14T20:22:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19775,8 +19775,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.7",
-                "away": "55.3"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
@@ -19795,7 +19795,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "3"
               },
               {
@@ -19821,7 +19821,7 @@
               {
                 "key": "accuratePasses",
                 "home": "247",
-                "away": "306"
+                "away": "308"
               },
               {
                 "key": "passPct",
@@ -19847,7 +19847,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20387,7 +20387,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20891,8 +20891,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "49.6",
+                "away": "50.4"
               },
               {
                 "key": "totalShots",
@@ -20911,7 +20911,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "7"
               },
               {
@@ -20936,8 +20936,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "270",
-                "away": "282"
+                "home": "273",
+                "away": "296"
               },
               {
                 "key": "passPct",
@@ -20963,7 +20963,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21448,6 +21448,26 @@
                 "type": "SUBSTITUTION",
                 "minute": 59,
                 "extraTime": null,
+                "playerName": "Oskar Pietuszewski",
+                "relatedPlayer": "Borja Sainz",
+                "teamName": "Oporto",
+                "text": null
+              },
+              {
+                "id": "53639105_11",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Oporto",
+                "text": null
+              },
+              {
+                "id": "53639106_12",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "Oporto",
@@ -21457,8 +21477,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.4",
-                "away": "44.6"
+                "home": "56.3",
+                "away": "43.7"
               },
               {
                 "key": "totalShots",
@@ -21478,7 +21498,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -21502,8 +21522,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "301",
-                "away": "226"
+                "home": "318",
+                "away": "227"
               },
               {
                 "key": "passPct",
@@ -21529,7 +21549,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22050,12 +22070,12 @@
               {
                 "key": "totalShots",
                 "home": "10",
-                "away": "5"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "6",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -22084,7 +22104,7 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "3"
               },
               {
@@ -22116,7 +22136,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22587,17 +22607,27 @@
                 "relatedPlayer": null,
                 "teamName": "AEK Atenas",
                 "text": null
+              },
+              {
+                "id": "53638992_15",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Isaque",
+                "relatedPlayer": "Pedrinho",
+                "teamName": "Shajtar Donetsk",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.3",
-                "away": "46.7"
+                "home": "53",
+                "away": "47"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "13"
               },
               {
@@ -22607,12 +22637,12 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "9"
               },
               {
@@ -22637,8 +22667,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "268",
-                "away": "223"
+                "home": "275",
+                "away": "231"
               },
               {
                 "key": "passPct",
@@ -22660,11 +22690,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "0-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -23094,6 +23124,16 @@
                 "extraTime": null,
                 "playerName": "Deniz Undav",
                 "relatedPlayer": "Angelo Stiller following a fast break",
+                "teamName": "Stuttgart",
+                "text": null
+              },
+              {
+                "id": "53639130_8",
+                "type": "OWN_GOAL",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Sandro Cruz",
+                "relatedPlayer": null,
                 "teamName": "Stuttgart",
                 "text": null
               }
