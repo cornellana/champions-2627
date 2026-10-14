@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:28:51Z",
+  "lastUpdated": "2026-10-14T18:29:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18528,8 +18528,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 79,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Mattia Liberali",
+                "relatedPlayer": "Martin Baturina",
                 "teamName": "Como",
                 "text": null
               }
@@ -18537,22 +18537,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.1",
-                "away": "51.9"
+                "home": "48.6",
+                "away": "51.4"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "11",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -18578,12 +18578,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "413",
-                "away": "462"
+                "home": "420",
+                "away": "463"
               },
               {
                 "key": "passPct",
@@ -18609,7 +18609,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19195,6 +19195,16 @@
               {
                 "id": "53627513_21",
                 "type": "SUBSTITUTION",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": "Alexis Mac Allister",
+                "relatedPlayer": "Trey Nyoni",
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "53627554_22",
+                "type": "SUBSTITUTION",
                 "minute": 86,
                 "extraTime": null,
                 "playerName": null,
@@ -19206,8 +19216,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.7",
-                "away": "64.3"
+                "home": "36.4",
+                "away": "63.6"
               },
               {
                 "key": "totalShots",
@@ -19251,7 +19261,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "221",
+                "home": "229",
                 "away": "468"
               },
               {
