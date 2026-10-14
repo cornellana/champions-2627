@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:27:55Z",
+  "lastUpdated": "2026-10-14T20:29:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19786,8 +19786,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 69,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Bartug Elmaz",
+                "relatedPlayer": "Ismail Yüksek",
                 "teamName": "Fenerbahçe",
                 "text": null
               },
@@ -19796,8 +19796,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 70,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Romelu Lukaku",
+                "relatedPlayer": "Vedat Muriqi",
                 "teamName": "Fenerbahçe",
                 "text": null
               },
@@ -19806,8 +19806,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 70,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Dorgeles Nene",
+                "relatedPlayer": "Mason Greenwood",
                 "teamName": "Fenerbahçe",
                 "text": null
               }
@@ -19887,7 +19887,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20355,13 +20355,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -20376,7 +20376,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -20400,8 +20400,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "396",
-                "away": "343"
+                "home": "398",
+                "away": "365"
               },
               {
                 "key": "passPct",
@@ -20427,8 +20427,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
-          "statusText": "Second Half",
+          "clock": "68'",
+          "statusText": "In Progress",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": {
@@ -20951,8 +20951,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.5",
-                "away": "51.5"
+                "home": "49.2",
+                "away": "50.8"
               },
               {
                 "key": "totalShots",
@@ -20996,7 +20996,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "282",
+                "home": "291",
                 "away": "321"
               },
               {
@@ -21023,7 +21023,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21612,8 +21612,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "333",
-                "away": "245"
+                "home": "334",
+                "away": "247"
               },
               {
                 "key": "passPct",
@@ -21639,7 +21639,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22174,8 +22174,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.3",
-                "away": "45.7"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
@@ -22194,7 +22194,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "5"
               },
               {
@@ -22219,8 +22219,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "364",
-                "away": "300"
+                "home": "365",
+                "away": "302"
               },
               {
                 "key": "passPct",
@@ -22246,7 +22246,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22742,8 +22742,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -22762,7 +22762,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "10"
               },
               {
@@ -22787,7 +22787,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "297",
+                "home": "308",
                 "away": "261"
               },
               {
@@ -23256,6 +23256,16 @@
                 "relatedPlayer": null,
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "53640098_9",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
@@ -23281,7 +23291,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "11"
               },
               {
@@ -23307,7 +23317,7 @@
               {
                 "key": "accuratePasses",
                 "home": "220",
-                "away": "363"
+                "away": "364"
               },
               {
                 "key": "passPct",
