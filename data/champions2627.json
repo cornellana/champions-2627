@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:41:56Z",
+  "lastUpdated": "2026-10-14T18:44:05Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -21871,12 +21871,12 @@
     },
     {
       "team": "Como",
-      "played": 1,
+      "played": 2,
       "won": 1,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 4,
-      "goalsAgainst": 1,
+      "lost": 1,
+      "goalsFor": 6,
+      "goalsAgainst": 4,
       "position": 7
     },
     {
@@ -22020,17 +22020,17 @@
       "position": 21
     },
     {
-      "team": "Fenerbahçe",
-      "played": 1,
-      "won": 0,
-      "drawn": 1,
-      "lost": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
+      "team": "Feyenoord",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 7,
       "position": 22
     },
     {
-      "team": "Roma",
+      "team": "Fenerbahçe",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -22040,7 +22040,7 @@
       "position": 23
     },
     {
-      "team": "Shajtar Donetsk",
+      "team": "Roma",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -22050,6 +22050,16 @@
       "position": 24
     },
     {
+      "team": "Shajtar Donetsk",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "position": 25
+    },
+    {
       "team": "PSV",
       "played": 2,
       "won": 0,
@@ -22057,7 +22067,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 25
+      "position": 26
     },
     {
       "team": "Viking",
@@ -22067,7 +22077,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 26
+      "position": 27
     },
     {
       "team": "Inter de Milán",
@@ -22077,7 +22087,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 27
+      "position": 28
     },
     {
       "team": "Oporto",
@@ -22087,7 +22097,7 @@
       "lost": 1,
       "goalsFor": 0,
       "goalsAgainst": 2,
-      "position": 28
+      "position": 29
     },
     {
       "team": "Slavia de Praga",
@@ -22097,7 +22107,7 @@
       "lost": 2,
       "goalsFor": 2,
       "goalsAgainst": 5,
-      "position": 29
+      "position": 30
     },
     {
       "team": "Nápoles",
@@ -22107,7 +22117,7 @@
       "lost": 2,
       "goalsFor": 1,
       "goalsAgainst": 4,
-      "position": 30
+      "position": 31
     },
     {
       "team": "LASK",
@@ -22117,7 +22127,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 7,
-      "position": 31
+      "position": 32
     },
     {
       "team": "Lille",
@@ -22127,16 +22137,6 @@
       "lost": 2,
       "goalsFor": 2,
       "goalsAgainst": 6,
-      "position": 32
-    },
-    {
-      "team": "Feyenoord",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 5,
       "position": 33
     },
     {
