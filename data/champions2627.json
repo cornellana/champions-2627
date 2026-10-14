@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:21:14Z",
+  "lastUpdated": "2026-10-14T18:22:19Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18569,7 +18569,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19136,8 +19136,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35",
-                "away": "65"
+                "home": "34.7",
+                "away": "65.3"
               },
               {
                 "key": "totalShots",
@@ -19156,7 +19156,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "3"
               },
               {
@@ -19182,7 +19182,7 @@
               {
                 "key": "accuratePasses",
                 "home": "200",
-                "away": "441"
+                "away": "450"
               },
               {
                 "key": "passPct",
