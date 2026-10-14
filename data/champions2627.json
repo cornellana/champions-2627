@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:48:57Z",
+  "lastUpdated": "2026-10-14T20:50:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19323,13 +19323,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "6-0",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+2'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
           "details": {
@@ -19895,8 +19895,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.3",
-                "away": "54.7"
+                "home": "44.8",
+                "away": "55.2"
               },
               {
                 "key": "totalShots",
@@ -19941,7 +19941,7 @@
               {
                 "key": "accuratePasses",
                 "home": "350",
-                "away": "415"
+                "away": "425"
               },
               {
                 "key": "passPct",
@@ -19962,13 +19962,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "1-0",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+2'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -20455,23 +20455,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.9",
-                "away": "52.1"
+                "home": "47.8",
+                "away": "52.2"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "7"
+                "away": "10"
               },
               {
                 "key": "foulsCommitted",
@@ -20501,7 +20501,7 @@
               {
                 "key": "accuratePasses",
                 "home": "467",
-                "away": "505"
+                "away": "504"
               },
               {
                 "key": "passPct",
@@ -20527,7 +20527,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -21121,8 +21121,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "52.6",
+                "away": "47.4"
               },
               {
                 "key": "totalShots",
@@ -21141,7 +21141,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "9"
               },
               {
@@ -21166,8 +21166,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "391",
-                "away": "359"
+                "home": "392",
+                "away": "364"
               },
               {
                 "key": "passPct",
@@ -21193,7 +21193,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21798,17 +21798,37 @@
                 "type": "YELLOW_CARD",
                 "minute": 86,
                 "extraTime": null,
-                "playerName": "Santiago Gimenez",
+                "playerName": "Santiago Giménez",
                 "relatedPlayer": null,
                 "teamName": "Oporto",
+                "text": null
+              },
+              {
+                "id": "53643178_33",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
+              },
+              {
+                "id": "53643179_34",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.1",
-                "away": "43.9"
+                "home": "56.4",
+                "away": "43.6"
               },
               {
                 "key": "totalShots",
@@ -21822,7 +21842,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "0"
               },
               {
@@ -21852,7 +21872,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "405",
+                "home": "410",
                 "away": "293"
               },
               {
@@ -21879,7 +21899,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22479,13 +22499,23 @@
                 "relatedPlayer": "Arda Güler with a cross following a corner",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "53643121_35",
+                "type": "YELLOW_CARD",
+                "minute": 89,
+                "extraTime": null,
+                "playerName": "Lorenzo Pellegrini",
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53",
-                "away": "47"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -22500,11 +22530,11 @@
               {
                 "key": "wonCorners",
                 "home": "5",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "foulsCommitted",
-                "home": "13",
+                "home": "14",
                 "away": "7"
               },
               {
@@ -22514,7 +22544,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -22529,8 +22559,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "437",
-                "away": "374"
+                "home": "448",
+                "away": "377"
               },
               {
                 "key": "passPct",
@@ -22556,7 +22586,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -23139,9 +23169,9 @@
                 "text": null
               },
               {
-                "id": "53642950_27",
+                "id": "53642950_26",
                 "type": "SUBSTITUTION",
-                "minute": 89,
+                "minute": 87,
                 "extraTime": null,
                 "playerName": "Lucas Ferreira",
                 "relatedPlayer": "Alisson Santana",
@@ -23173,7 +23203,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "15",
-                "away": "15"
+                "away": "16"
               },
               {
                 "key": "offsides",
@@ -23197,8 +23227,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "385",
-                "away": "300"
+                "home": "387",
+                "away": "302"
               },
               {
                 "key": "passPct",
@@ -23224,7 +23254,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -23801,12 +23831,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.8",
-                "away": "65.2"
+                "home": "36.2",
+                "away": "63.8"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "15"
               },
               {
@@ -23846,8 +23876,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "261",
-                "away": "535"
+                "home": "281",
+                "away": "534"
               },
               {
                 "key": "passPct",
@@ -26208,7 +26238,7 @@
   ],
   "standings": [
     {
-      "team": "FC Barcelona",
+      "team": "Aston Villa",
       "played": 2,
       "won": 2,
       "drawn": 0,
@@ -26218,6 +26248,16 @@
       "position": 1
     },
     {
+      "team": "FC Barcelona",
+      "played": 2,
+      "won": 2,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 9,
+      "goalsAgainst": 2,
+      "position": 2
+    },
+    {
       "team": "Liverpool",
       "played": 2,
       "won": 2,
@@ -26225,7 +26265,7 @@
       "lost": 0,
       "goalsFor": 8,
       "goalsAgainst": 4,
-      "position": 2
+      "position": 3
     },
     {
       "team": "Sporting de Portugal",
@@ -26235,7 +26275,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "position": 3
+      "position": 4
     },
     {
       "team": "Arsenal",
@@ -26245,7 +26285,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Bayern de Múnich",
@@ -26255,7 +26295,7 @@
       "lost": 0,
       "goalsFor": 8,
       "goalsAgainst": 3,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Paris Saint-Germain",
@@ -26265,7 +26305,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 1,
-      "position": 6
+      "position": 7
     },
     {
       "team": "Como",
@@ -26275,7 +26315,7 @@
       "lost": 1,
       "goalsFor": 6,
       "goalsAgainst": 4,
-      "position": 7
+      "position": 8
     },
     {
       "team": "Manchester United",
@@ -26285,7 +26325,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "position": 8
+      "position": 9
     },
     {
       "team": "Stuttgart",
@@ -26295,7 +26335,7 @@
       "lost": 0,
       "goalsFor": 3,
       "goalsAgainst": 1,
-      "position": 9
+      "position": 10
     },
     {
       "team": "Manchester City",
@@ -26305,7 +26345,7 @@
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "position": 10
+      "position": 11
     },
     {
       "team": "Villarreal",
@@ -26315,16 +26355,6 @@
       "lost": 1,
       "goalsFor": 5,
       "goalsAgainst": 4,
-      "position": 11
-    },
-    {
-      "team": "Aston Villa",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 2,
       "position": 12
     },
     {
@@ -26428,7 +26458,7 @@
       "position": 22
     },
     {
-      "team": "Fenerbahçe",
+      "team": "Roma",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -26438,7 +26468,7 @@
       "position": 23
     },
     {
-      "team": "Roma",
+      "team": "Shajtar Donetsk",
       "played": 1,
       "won": 0,
       "drawn": 1,
@@ -26448,16 +26478,6 @@
       "position": 24
     },
     {
-      "team": "Shajtar Donetsk",
-      "played": 1,
-      "won": 0,
-      "drawn": 1,
-      "lost": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "position": 25
-    },
-    {
       "team": "PSV",
       "played": 2,
       "won": 0,
@@ -26465,7 +26485,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 26
+      "position": 25
     },
     {
       "team": "Viking",
@@ -26475,6 +26495,16 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 6,
+      "position": 26
+    },
+    {
+      "team": "Fenerbahçe",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 7,
       "position": 27
     },
     {
