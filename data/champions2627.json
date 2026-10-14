@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:31:10Z",
+  "lastUpdated": "2026-10-14T17:32:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18489,7 +18489,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18926,18 +18926,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.6",
-                "away": "71.4"
+                "home": "29.4",
+                "away": "70.6"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "17"
+                "away": "18"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -18946,7 +18946,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -18966,13 +18966,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "81",
-                "away": "265"
+                "home": "85",
+                "away": "267"
               },
               {
                 "key": "passPct",
