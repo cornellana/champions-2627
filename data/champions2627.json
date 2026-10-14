@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:48:28Z",
+  "lastUpdated": "2026-10-14T17:49:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -18489,7 +18489,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18936,8 +18936,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.5",
-                "away": "70.5"
+                "home": "30",
+                "away": "70"
               },
               {
                 "key": "totalShots",
@@ -18981,8 +18981,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "86",
-                "away": "267"
+                "home": "90",
+                "away": "274"
               },
               {
                 "key": "passPct",
