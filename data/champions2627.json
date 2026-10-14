@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:26:11Z",
+  "lastUpdated": "2026-10-14T19:27:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19745,8 +19745,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.3",
-                "away": "54.7"
+                "home": "42.7",
+                "away": "57.3"
               },
               {
                 "key": "totalShots",
@@ -19765,7 +19765,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -19790,8 +19790,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "86",
-                "away": "113"
+                "home": "87",
+                "away": "127"
               },
               {
                 "key": "passPct",
@@ -19817,7 +19817,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20220,13 +20220,23 @@
                 "relatedPlayer": null,
                 "teamName": "Borussia Dortmund",
                 "text": null
+              },
+              {
+                "id": "53632633_2",
+                "type": "YELLOW_CARD",
+                "minute": 25,
+                "extraTime": null,
+                "playerName": "Fábio Silva",
+                "relatedPlayer": null,
+                "teamName": "Borussia Dortmund",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61",
-                "away": "39"
+                "home": "60.9",
+                "away": "39.1"
               },
               {
                 "key": "totalShots",
@@ -20246,7 +20256,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -20256,7 +20266,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -20270,8 +20280,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "159",
-                "away": "95"
+                "home": "161",
+                "away": "96"
               },
               {
                 "key": "passPct",
@@ -20297,7 +20307,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20751,8 +20761,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.7",
-                "away": "54.3"
+                "home": "46.1",
+                "away": "53.9"
               },
               {
                 "key": "totalShots",
@@ -20796,8 +20806,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "75",
-                "away": "98"
+                "home": "79",
+                "away": "101"
               },
               {
                 "key": "passPct",
@@ -20823,7 +20833,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21256,8 +21266,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.3",
-                "away": "39.7"
+                "home": "58.1",
+                "away": "41.9"
               },
               {
                 "key": "totalShots",
@@ -21301,8 +21311,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "157",
-                "away": "93"
+                "home": "160",
+                "away": "107"
               },
               {
                 "key": "passPct",
@@ -21324,11 +21334,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21768,23 +21778,33 @@
                 "relatedPlayer": "Matías Soulé",
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "53632502_7",
+                "type": "GOAL",
+                "minute": 25,
+                "extraTime": null,
+                "playerName": "Kylian Mbappé",
+                "relatedPlayer": "Yan Diomande with a headed pass",
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.8",
-                "away": "45.2"
+                "home": "54.6",
+                "away": "45.4"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -21818,8 +21838,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "130",
-                "away": "104"
+                "home": "131",
+                "away": "106"
               },
               {
                 "key": "passPct",
@@ -21845,7 +21865,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22271,8 +22291,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.1",
-                "away": "42.9"
+                "home": "55.8",
+                "away": "44.2"
               },
               {
                 "key": "totalShots",
@@ -22317,7 +22337,7 @@
               {
                 "key": "accuratePasses",
                 "home": "130",
-                "away": "88"
+                "away": "94"
               },
               {
                 "key": "passPct",
@@ -22343,7 +22363,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -22755,13 +22775,23 @@
                 "relatedPlayer": null,
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "53632568_2",
+                "type": "YELLOW_CARD",
+                "minute": 26,
+                "extraTime": null,
+                "playerName": "Bilal El Khannouss",
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37",
-                "away": "63"
+                "home": "34.6",
+                "away": "65.4"
               },
               {
                 "key": "totalShots",
@@ -22781,7 +22811,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -22791,7 +22821,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -22806,7 +22836,7 @@
               {
                 "key": "accuratePasses",
                 "home": "76",
-                "away": "136"
+                "away": "153"
               },
               {
                 "key": "passPct",
@@ -25606,6 +25636,13 @@
       "athleteID": null
     },
     {
+      "player": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Lautaro Martínez",
       "team": "Inter de Milán",
       "goals": 2,
@@ -25797,13 +25834,6 @@
     {
       "player": "Dominik Szoboszlai",
       "team": "Liverpool",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Désiré Doué",
-      "team": "Paris Saint-Germain",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
