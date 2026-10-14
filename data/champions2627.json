@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:18:28Z",
+  "lastUpdated": "2026-10-14T19:19:34Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19745,18 +19745,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.8",
-                "away": "58.2"
+                "home": "43.4",
+                "away": "56.6"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -19785,13 +19785,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "3",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "55",
-                "away": "84"
+                "home": "65",
+                "away": "91"
               },
               {
                 "key": "passPct",
@@ -19817,7 +19817,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20225,12 +20225,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "60.2",
+                "away": "39.8"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -20270,12 +20270,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "80",
-                "away": "69"
+                "home": "117",
+                "away": "70"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.8"
               }
             ],
@@ -20293,11 +20293,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "0-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20736,23 +20736,33 @@
                 "relatedPlayer": "Fabián Ruiz",
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "53631209_2",
+                "type": "GOAL",
+                "minute": 15,
+                "extraTime": null,
+                "playerName": "Ousmane Dembélé",
+                "relatedPlayer": "Désiré Doué",
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.5",
-                "away": "51.5"
+                "home": "47.3",
+                "away": "52.7"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -20786,8 +20796,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "50",
-                "away": "54"
+                "home": "52",
+                "away": "61"
               },
               {
                 "key": "passPct",
@@ -20813,7 +20823,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21246,8 +21256,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.8",
-                "away": "39.2"
+                "home": "61.8",
+                "away": "38.2"
               },
               {
                 "key": "totalShots",
@@ -21291,8 +21301,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "104",
-                "away": "59"
+                "home": "110",
+                "away": "60"
               },
               {
                 "key": "passPct",
@@ -21318,7 +21328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21814,7 +21824,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22225,12 +22235,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53631282_5",
+                "type": "YELLOW_CARD",
+                "minute": 18,
+                "extraTime": null,
+                "playerName": "Lovro Majer",
+                "relatedPlayer": null,
+                "teamName": "AEK Atenas",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.2",
-                "away": "38.8"
+                "home": "63.4",
+                "away": "36.6"
               },
               {
                 "key": "totalShots",
@@ -22250,7 +22271,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -22260,7 +22281,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -22274,7 +22295,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "91",
+                "home": "100",
                 "away": "49"
               },
               {
@@ -22301,7 +22322,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -22718,8 +22739,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.3",
-                "away": "62.7"
+                "home": "39.4",
+                "away": "60.6"
               },
               {
                 "key": "totalShots",
@@ -22739,7 +22760,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -22763,8 +22784,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "50",
-                "away": "85"
+                "home": "60",
+                "away": "100"
               },
               {
                 "key": "passPct",
@@ -25522,6 +25543,13 @@
       "athleteID": null
     },
     {
+      "player": "Ousmane Dembélé",
+      "team": "Paris Saint-Germain",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Assane Diao",
       "team": "Como",
       "goals": 2,
@@ -25580,13 +25608,6 @@
     {
       "player": "Michael Olise",
       "team": "Bayern de Múnich",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Ousmane Dembélé",
-      "team": "Paris Saint-Germain",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
@@ -25877,6 +25898,12 @@
       "athleteID": null
     },
     {
+      "player": "Désiré Doué",
+      "team": "Paris Saint-Germain",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Enzo Fernández",
       "team": "Manchester City",
       "goals": 1,
@@ -25999,12 +26026,6 @@
     {
       "player": "Jeremie Frimpong with a cross",
       "team": "Liverpool",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Joshua Kimmich with a cross following a corner",
-      "team": "Bayern de Múnich",
       "goals": 1,
       "athleteID": null
     }
