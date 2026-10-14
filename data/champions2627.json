@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:23:30Z",
+  "lastUpdated": "2026-10-14T20:24:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19775,17 +19775,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.5",
-                "away": "55.5"
+                "home": "44.2",
+                "away": "55.8"
               },
               {
                 "key": "totalShots",
-                "home": "15",
-                "away": "11"
+                "home": "16",
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "8",
+                "home": "9",
                 "away": "4"
               },
               {
@@ -19816,12 +19816,12 @@
               {
                 "key": "saves",
                 "home": "4",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "accuratePasses",
-                "home": "248",
-                "away": "308"
+                "home": "250",
+                "away": "317"
               },
               {
                 "key": "passPct",
@@ -19847,7 +19847,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20383,11 +20383,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-3",
+          "result": "1-4",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20886,23 +20886,33 @@
                 "relatedPlayer": "Iliman Ndiaye with a cross",
                 "teamName": "Manchester City",
                 "text": null
+              },
+              {
+                "id": "53639336_10",
+                "type": "YELLOW_CARD",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": "Antoine Semenyo",
+                "relatedPlayer": null,
+                "teamName": "Manchester City",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.6",
-                "away": "50.4"
+                "home": "48.8",
+                "away": "51.2"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "wonCorners",
@@ -20921,7 +20931,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -20937,7 +20947,7 @@
               {
                 "key": "accuratePasses",
                 "home": "273",
-                "away": "296"
+                "away": "308"
               },
               {
                 "key": "passPct",
@@ -20959,11 +20969,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "1-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21472,13 +21482,23 @@
                 "relatedPlayer": "Martim Fernandes",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "53639368_13",
+                "type": "GOAL",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": "Samu Aghehowa",
+                "relatedPlayer": "Pepê",
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.5",
-                "away": "44.5"
+                "home": "55.6",
+                "away": "44.4"
               },
               {
                 "key": "totalShots",
@@ -21522,7 +21542,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "318",
+                "home": "319",
                 "away": "235"
               },
               {
@@ -21549,7 +21569,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22069,6 +22089,16 @@
                 "relatedPlayer": "Matías Soulé",
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "53639414_23",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Leonardo Balerdi",
+                "relatedPlayer": "Gianluca Mancini",
+                "teamName": "Roma",
+                "text": null
               }
             ],
             "teamStats": [
@@ -22146,7 +22176,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22627,6 +22657,16 @@
                 "relatedPlayer": "Pedrinho",
                 "teamName": "Shajtar Donetsk",
                 "text": null
+              },
+              {
+                "id": "53639352_16",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Shajtar Donetsk",
+                "text": null
               }
             ],
             "teamStats": [
@@ -22704,8 +22744,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
-          "statusText": "Second Half",
+          "clock": "68'",
+          "statusText": "In Progress",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
           "details": {
@@ -23151,12 +23191,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38",
-                "away": "62"
+                "home": "37.2",
+                "away": "62.8"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "12"
               },
               {
@@ -23196,8 +23236,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "191",
-                "away": "336"
+                "home": "192",
+                "away": "352"
               },
               {
                 "key": "passPct",
