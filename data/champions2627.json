@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:17:58Z",
+  "lastUpdated": "2026-10-14T18:19:03Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,8 +17971,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
-          "statusText": "In Progress",
+          "clock": "71'",
+          "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -18482,13 +18482,23 @@
                 "relatedPlayer": "Ivan Smolcic",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "53627228_17",
+                "type": "YELLOW_CARD",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": "Jacobo Ramón",
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.7",
-                "away": "50.3"
+                "home": "49.6",
+                "away": "50.4"
               },
               {
                 "key": "totalShots",
@@ -18508,7 +18518,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "13",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -18518,7 +18528,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -18532,8 +18542,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "385",
-                "away": "403"
+                "home": "384",
+                "away": "404"
               },
               {
                 "key": "passPct",
@@ -18559,7 +18569,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
