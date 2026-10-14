@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:22:19Z",
+  "lastUpdated": "2026-10-14T18:23:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18492,13 +18492,23 @@
                 "relatedPlayer": null,
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "53627358_22",
+                "type": "YELLOW_CARD",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Lucas da Cunha",
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.2",
-                "away": "50.8"
+                "home": "48.5",
+                "away": "51.5"
               },
               {
                 "key": "totalShots",
@@ -18518,7 +18528,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "16",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -18528,7 +18538,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -18542,8 +18552,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "387",
-                "away": "414"
+                "home": "389",
+                "away": "431"
               },
               {
                 "key": "passPct",
@@ -18569,7 +18579,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19136,8 +19146,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.7",
-                "away": "65.3"
+                "home": "34.4",
+                "away": "65.6"
               },
               {
                 "key": "totalShots",
@@ -19156,7 +19166,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "3"
               },
               {
@@ -19182,7 +19192,7 @@
               {
                 "key": "accuratePasses",
                 "home": "200",
-                "away": "450"
+                "away": "456"
               },
               {
                 "key": "passPct",
