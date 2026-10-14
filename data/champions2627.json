@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:39:00Z",
+  "lastUpdated": "2026-10-14T20:40:06Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19947,7 +19947,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20435,8 +20435,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.8",
-                "away": "49.2"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
@@ -20451,7 +20451,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -20480,8 +20480,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "453",
-                "away": "433"
+                "home": "455",
+                "away": "450"
               },
               {
                 "key": "passPct",
@@ -20507,7 +20507,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -21062,8 +21062,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 76,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ferran Torres",
+                "relatedPlayer": "Ousmane Dembélé",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               },
@@ -21072,8 +21072,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 76,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "João Neves",
+                "relatedPlayer": "Maghnes Akliouche",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               }
@@ -21081,13 +21081,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "50.8",
+                "away": "49.2"
               },
               {
                 "key": "totalShots",
                 "home": "23",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -21126,8 +21126,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "326",
-                "away": "339"
+                "home": "332",
+                "away": "340"
               },
               {
                 "key": "passPct",
@@ -21153,7 +21153,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21722,13 +21722,23 @@
                 "relatedPlayer": "Antony",
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "53641816_27",
+                "type": "YELLOW_CARD",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Dani Ceballos",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "54.7",
+                "away": "45.3"
               },
               {
                 "key": "totalShots",
@@ -21747,7 +21757,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "11"
               },
               {
@@ -21757,7 +21767,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -21772,8 +21782,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "358",
-                "away": "274"
+                "home": "363",
+                "away": "282"
               },
               {
                 "key": "passPct",
@@ -21799,8 +21809,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
-          "statusText": "In Progress",
+          "clock": "81'",
+          "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
           "details": {
@@ -22355,8 +22365,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 78,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Álvaro Carreras",
+                "relatedPlayer": "Marc Cucurella",
                 "teamName": "Real Madrid",
                 "text": null
               },
@@ -22365,8 +22375,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 78,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Carlos Espí",
+                "relatedPlayer": "Yan Diomande",
                 "teamName": "Real Madrid",
                 "text": null
               }
@@ -22442,11 +22452,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22973,21 +22983,31 @@
                 "type": "SUBSTITUTION",
                 "minute": 79,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Barnabás Varga",
+                "relatedPlayer": "Luka Jovic",
                 "teamName": "AEK Atenas",
+                "text": null
+              },
+              {
+                "id": "53641721_21",
+                "type": "OWN_GOAL",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Alberto Brignoli",
+                "relatedPlayer": null,
+                "teamName": "Shajtar Donetsk",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.8",
-                "away": "45.2"
+                "home": "54.6",
+                "away": "45.4"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "13"
               },
               {
@@ -23028,7 +23048,7 @@
               {
                 "key": "accuratePasses",
                 "home": "362",
-                "away": "280"
+                "away": "281"
               },
               {
                 "key": "passPct",
@@ -23054,7 +23074,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -23566,13 +23586,43 @@
                 "relatedPlayer": "Bilal El Khannouss",
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "53641768_16",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": "Roman Cerepkai",
+                "relatedPlayer": "Tigran Barseghyan",
+                "teamName": "Slovan Bratislava",
+                "text": null
+              },
+              {
+                "id": "53641769_17",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": "Alasana Yirajang",
+                "relatedPlayer": "Andraz Sporar",
+                "teamName": "Slovan Bratislava",
+                "text": null
+              },
+              {
+                "id": "53641770_18",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": "Nino Marcelli",
+                "relatedPlayer": "Suleiman Camara",
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.8",
-                "away": "64.2"
+                "home": "36.8",
+                "away": "63.2"
               },
               {
                 "key": "totalShots",
@@ -23592,7 +23642,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "12"
+                "away": "15"
               },
               {
                 "key": "offsides",
@@ -23616,8 +23666,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "236",
-                "away": "459"
+                "home": "249",
+                "away": "460"
               },
               {
                 "key": "passPct",
