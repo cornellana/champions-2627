@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:06:24Z",
+  "lastUpdated": "2026-10-14T19:07:30Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19585,22 +19585,22 @@
                   "athleteID": "211923"
                 },
                 {
-                  "id": "305629",
-                  "jersey": 5,
-                  "name": "Ismail Yüksek",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "305629"
-                },
-                {
                   "id": "248676",
                   "jersey": 6,
                   "name": "Matteo Guendouzi",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "248676"
+                },
+                {
+                  "id": "305629",
+                  "jersey": 5,
+                  "name": "Ismail Yüksek",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "305629"
                 },
                 {
                   "id": "240209",
@@ -19734,12 +19734,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50",
-                "away": "50"
+                "home": "55.8",
+                "away": "44.2"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -19755,7 +19755,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -19779,8 +19779,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "18",
-                "away": "19"
+                "home": "25",
+                "away": "20"
               },
               {
                 "key": "passPct",
@@ -19807,12 +19807,12 @@
           "shootout": null,
           "state": "in",
           "clock": "6'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
             "homeLineup": {
-              "formation": "4-3-3",
+              "formation": "4-4-2",
               "players": [
                 {
                   "id": "217655",
@@ -19860,22 +19860,31 @@
                   "athleteID": "333755"
                 },
                 {
+                  "id": "208353",
+                  "jersey": 19,
+                  "name": "Sondre Brunstad Fet",
+                  "position": "CM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "208353"
+                },
+                {
                   "id": "205924",
                   "jersey": 7,
                   "name": "Patrick Berg",
-                  "position": "CM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "205924"
                 },
                 {
-                  "id": "208353",
-                  "jersey": 19,
-                  "name": "Sondre Brunstad Fet",
+                  "id": "235789",
+                  "jersey": 10,
+                  "name": "Jens Petter Hauge",
                   "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "208353"
+                  "athleteID": "235789"
                 },
                 {
                   "id": "303740",
@@ -19890,25 +19899,16 @@
                   "id": "218561",
                   "jersey": 9,
                   "name": "Andreas Helmersen",
-                  "position": "F",
+                  "position": "CF-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "218561"
                 },
                 {
-                  "id": "235789",
-                  "jersey": 10,
-                  "name": "Jens Petter Hauge",
-                  "position": "LF",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "235789"
-                },
-                {
                   "id": "307798",
                   "jersey": 11,
                   "name": "Ole Didrik Blomberg",
-                  "position": "RF",
+                  "position": "CF-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "307798"
@@ -20203,8 +20203,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.3",
-                "away": "71.7"
+                "home": "27.1",
+                "away": "72.9"
               },
               {
                 "key": "totalShots",
@@ -20248,8 +20248,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "12",
-                "away": "33"
+                "home": "13",
+                "away": "41"
               },
               {
                 "key": "passPct",
@@ -20275,7 +20275,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20780,7 +20780,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21213,8 +21213,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.3",
-                "away": "37.7"
+                "home": "45.9",
+                "away": "54.1"
               },
               {
                 "key": "totalShots",
@@ -21258,8 +21258,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "27",
-                "away": "15"
+                "home": "28",
+                "away": "31"
               },
               {
                 "key": "passPct",
@@ -21285,7 +21285,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21709,17 +21709,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "63.1",
+                "away": "36.9"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "3",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -21750,12 +21750,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "20",
-                "away": "21"
+                "home": "44",
+                "away": "24"
               },
               {
                 "key": "passPct",
@@ -21781,7 +21781,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22196,8 +22196,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.5",
-                "away": "62.5"
+                "home": "55.6",
+                "away": "44.4"
               },
               {
                 "key": "totalShots",
@@ -22241,12 +22241,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "9",
+                "home": "21",
                 "away": "13"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.7"
               }
             ],
@@ -22268,7 +22268,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -22674,8 +22674,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.3",
-                "away": "59.7"
+                "home": "38.6",
+                "away": "61.4"
               },
               {
                 "key": "totalShots",
@@ -22695,7 +22695,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -22719,8 +22719,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "23",
-                "away": "36"
+                "home": "26",
+                "away": "43"
               },
               {
                 "key": "passPct",
