@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:29:27Z",
+  "lastUpdated": "2026-10-14T19:30:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19817,7 +19817,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20235,12 +20235,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.9",
-                "away": "39.1"
+                "home": "63.6",
+                "away": "36.4"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "1"
               },
               {
@@ -20280,8 +20280,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "161",
-                "away": "96"
+                "home": "192",
+                "away": "99"
               },
               {
                 "key": "passPct",
@@ -20307,7 +20307,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "27'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20761,12 +20761,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.8",
-                "away": "50.2"
+                "home": "46.5",
+                "away": "53.5"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "4"
               },
               {
@@ -20781,7 +20781,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -20806,8 +20806,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "101",
-                "away": "108"
+                "home": "103",
+                "away": "127"
               },
               {
                 "key": "passPct",
@@ -20833,7 +20833,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21266,12 +21266,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.5",
-                "away": "42.5"
+                "home": "56.7",
+                "away": "43.3"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "2"
               },
               {
@@ -21311,8 +21311,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "170",
-                "away": "117"
+                "home": "172",
+                "away": "123"
               },
               {
                 "key": "passPct",
@@ -21338,7 +21338,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21865,8 +21865,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
-          "statusText": "In Progress",
+          "clock": "30'",
+          "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -22292,8 +22292,8 @@
                 "type": "GOAL",
                 "minute": 28,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Lovro Majer",
+                "relatedPlayer": "Stavros Pilios following a fast break",
                 "teamName": "AEK Atenas",
                 "text": null
               }
@@ -22301,8 +22301,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.6",
-                "away": "45.4"
+                "home": "54.9",
+                "away": "45.1"
               },
               {
                 "key": "totalShots",
@@ -22346,7 +22346,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "145",
+                "home": "147",
                 "away": "110"
               },
               {
@@ -22369,11 +22369,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -22795,23 +22795,33 @@
                 "relatedPlayer": null,
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "53633146_3",
+                "type": "GOAL",
+                "minute": 29,
+                "extraTime": null,
+                "playerName": "Deniz Undav",
+                "relatedPlayer": "Angelo Stiller following a fast break",
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.8",
-                "away": "59.2"
+                "home": "40.7",
+                "away": "59.3"
               },
               {
                 "key": "totalShots",
-                "home": "3",
-                "away": "6"
+                "home": "4",
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -22845,8 +22855,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "104",
-                "away": "154"
+                "home": "105",
+                "away": "156"
               },
               {
                 "key": "passPct",
@@ -25842,8 +25852,8 @@
       "athleteID": null
     },
     {
-      "player": "Dominik Szoboszlai",
-      "team": "Liverpool",
+      "player": "Deniz Undav",
+      "team": "Stuttgart",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -25876,6 +25886,12 @@
     },
     {
       "player": "Angelo Stiller",
+      "team": "Stuttgart",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
+      "player": "Angelo Stiller following a fast break",
       "team": "Stuttgart",
       "goals": 1,
       "athleteID": null
@@ -26080,12 +26096,6 @@
     },
     {
       "player": "Jeremie Frimpong",
-      "team": "Liverpool",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Jeremie Frimpong with a cross",
       "team": "Liverpool",
       "goals": 1,
       "athleteID": null
