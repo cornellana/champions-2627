@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:33:50Z",
+  "lastUpdated": "2026-10-14T19:34:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19827,8 +19827,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
-          "statusText": "First Half",
+          "clock": "34'",
+          "statusText": "In Progress",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -20245,8 +20245,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.1",
-                "away": "34.9"
+                "home": "63.7",
+                "away": "36.3"
               },
               {
                 "key": "totalShots",
@@ -20265,7 +20265,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "6"
               },
               {
@@ -20290,8 +20290,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
-                "away": "104"
+                "home": "219",
+                "away": "112"
               },
               {
                 "key": "passPct",
@@ -20317,7 +20317,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20771,13 +20771,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.1",
-                "away": "55.9"
+                "home": "43.7",
+                "away": "56.3"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -20792,7 +20792,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -20816,8 +20816,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "111",
-                "away": "156"
+                "home": "113",
+                "away": "163"
               },
               {
                 "key": "passPct",
@@ -20843,7 +20843,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21276,8 +21276,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.1",
-                "away": "43.9"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
@@ -21296,7 +21296,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "4"
               },
               {
@@ -21321,8 +21321,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "186",
-                "away": "138"
+                "home": "188",
+                "away": "152"
               },
               {
                 "key": "passPct",
@@ -21348,7 +21348,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -21803,13 +21803,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.4",
-                "away": "42.6"
+                "home": "54.7",
+                "away": "45.3"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -21819,7 +21819,7 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -21848,8 +21848,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "180",
-                "away": "131"
+                "home": "182",
+                "away": "148"
               },
               {
                 "key": "passPct",
@@ -21876,7 +21876,7 @@
           "shootout": null,
           "state": "in",
           "clock": "33'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -22306,22 +22306,32 @@
                 "relatedPlayer": "Stavros Pilios following a fast break",
                 "teamName": "AEK Atenas",
                 "text": null
+              },
+              {
+                "id": "53633928_9",
+                "type": "PENALTY",
+                "minute": 34,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Shajtar Donetsk",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -22331,8 +22341,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
-                "away": "3"
+                "home": "1",
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -22356,8 +22366,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "156",
-                "away": "113"
+                "home": "154",
+                "away": "112"
               },
               {
                 "key": "passPct",
