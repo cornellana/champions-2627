@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:12:35Z",
+  "lastUpdated": "2026-10-14T17:13:40Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18417,12 +18417,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.9",
-                "away": "48.1"
+                "home": "52.6",
+                "away": "47.4"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -18462,8 +18462,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "140",
-                "away": "134"
+                "home": "147",
+                "away": "135"
               },
               {
                 "key": "passPct",
@@ -18489,7 +18489,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "26'",
+          "clock": "27'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18916,8 +18916,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "23.7",
-                "away": "76.3"
+                "home": "25.5",
+                "away": "74.5"
               },
               {
                 "key": "totalShots",
@@ -18961,12 +18961,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "28",
-                "away": "147"
+                "home": "38",
+                "away": "159"
               },
               {
                 "key": "passPct",
-                "home": "0.6",
+                "home": "0.7",
                 "away": "0.9"
               }
             ],
