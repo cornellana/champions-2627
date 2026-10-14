@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:25:36Z",
+  "lastUpdated": "2026-10-14T18:26:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18507,13 +18507,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.4",
-                "away": "50.6"
+                "home": "48.7",
+                "away": "51.3"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -18552,8 +18552,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "411",
-                "away": "435"
+                "home": "412",
+                "away": "449"
               },
               {
                 "key": "passPct",
@@ -18579,7 +18579,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19151,13 +19151,23 @@
                 "relatedPlayer": null,
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "53627447_20",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.3",
-                "away": "65.7"
+                "home": "35.5",
+                "away": "64.5"
               },
               {
                 "key": "totalShots",
@@ -19201,7 +19211,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
+                "home": "217",
                 "away": "463"
               },
               {
