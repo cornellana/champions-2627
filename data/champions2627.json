@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:46:19Z",
+  "lastUpdated": "2026-10-14T17:48:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -18489,8 +18489,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
           "details": {
@@ -18921,13 +18921,23 @@
                 "relatedPlayer": "Florian Wirtz",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "53626405_5",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Florian Flecker",
+                "relatedPlayer": "Kasper Jørgensen",
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.3",
-                "away": "70.7"
+                "home": "29.5",
+                "away": "70.5"
               },
               {
                 "key": "totalShots",
@@ -18971,7 +18981,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "85",
+                "home": "86",
                 "away": "267"
               },
               {
