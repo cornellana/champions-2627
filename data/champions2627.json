@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:48:09Z",
+  "lastUpdated": "2026-10-14T19:49:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -20337,7 +20337,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -20801,8 +20801,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.1",
-                "away": "54.9"
+                "home": "45.6",
+                "away": "54.4"
               },
               {
                 "key": "totalShots",
@@ -20846,8 +20846,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "161",
-                "away": "220"
+                "home": "172",
+                "away": "227"
               },
               {
                 "key": "passPct",
@@ -20873,7 +20873,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
+          "clock": "45'+3'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21844,8 +21844,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.1",
-                "away": "45.9"
+                "home": "54",
+                "away": "46"
               },
               {
                 "key": "totalShots",
@@ -21917,7 +21917,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -22372,8 +22372,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
@@ -22417,7 +22417,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
+                "home": "214",
                 "away": "175"
               },
               {
