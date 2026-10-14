@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:26:41Z",
+  "lastUpdated": "2026-10-14T18:27:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18502,6 +18502,26 @@
                 "relatedPlayer": null,
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "53627469_23",
+                "type": "SUBSTITUTION",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
+              },
+              {
+                "id": "53627470_24",
+                "type": "SUBSTITUTION",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
@@ -18579,7 +18599,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19157,8 +19177,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 82,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Nael Kane",
+                "relatedPlayer": "Christoph Lang",
                 "teamName": "LASK",
                 "text": null
               }
@@ -19166,12 +19186,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.5",
-                "away": "64.5"
+                "home": "35.6",
+                "away": "64.4"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "26"
               },
               {
@@ -19211,8 +19231,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "217",
-                "away": "463"
+                "home": "220",
+                "away": "468"
               },
               {
                 "key": "passPct",
