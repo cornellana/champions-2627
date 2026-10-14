@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:40:51Z",
+  "lastUpdated": "2026-10-14T18:41:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17966,13 +17966,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
-          "result": "3-1",
+          "done": true,
+          "result": "3-2",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -18562,23 +18562,33 @@
                 "relatedPlayer": "Anis Hadj Moussa",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "53627826_29",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": 3,
+                "playerName": "Tasos Douvikas",
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48",
-                "away": "52"
+                "home": "47.9",
+                "away": "52.1"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -18587,7 +18597,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "18",
+                "home": "19",
                 "away": "18"
               },
               {
@@ -18612,8 +18622,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "450",
-                "away": "510"
+                "home": "451",
+                "away": "512"
               },
               {
                 "key": "passPct",
@@ -22288,6 +22298,13 @@
       "athleteID": null
     },
     {
+      "player": "Tasos Douvikas",
+      "team": "Como",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Abdallah Sima",
       "team": "Lens",
       "goals": 1,
@@ -22430,13 +22447,6 @@
     {
       "player": "Eberechi Eze",
       "team": "Arsenal",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Emiliano Buendía",
-      "team": "Aston Villa",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
