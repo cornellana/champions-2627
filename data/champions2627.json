@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:52:14Z",
+  "lastUpdated": "2026-10-14T20:53:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -20527,7 +20527,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -21116,13 +21116,33 @@
                 "relatedPlayer": "Fabián Ruiz",
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "53643405_21",
+                "type": "MISSED_PENALTY",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Ferran Torres",
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "53643437_22",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Nico O'Reilly",
+                "relatedPlayer": "Enzo Fernández",
+                "teamName": "Manchester City",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -21166,12 +21186,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "397",
-                "away": "366"
+                "home": "406",
+                "away": "367"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -21822,18 +21842,28 @@
                 "relatedPlayer": "Marc Roca",
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "53643436_35",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.7",
-                "away": "43.3"
+                "home": "56.9",
+                "away": "43.1"
               },
               {
                 "key": "totalShots",
                 "home": "17",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
@@ -21872,8 +21902,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "427",
-                "away": "301"
+                "home": "434",
+                "away": "302"
               },
               {
                 "key": "passPct",
@@ -21899,7 +21929,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22524,18 +22554,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.5",
-                "away": "46.5"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
-                "home": "13",
-                "away": "14"
+                "home": "14",
+                "away": "15"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "7",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "wonCorners",
@@ -22564,12 +22594,12 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "454",
+                "home": "466",
                 "away": "377"
               },
               {
@@ -22596,7 +22626,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -23202,8 +23232,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.8",
+                "away": "45.2"
               },
               {
                 "key": "totalShots",
@@ -23247,8 +23277,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "392",
-                "away": "307"
+                "home": "401",
+                "away": "311"
               },
               {
                 "key": "passPct",
@@ -23269,13 +23299,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "0-3",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+5'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
           "details": {
@@ -23851,8 +23881,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.2",
-                "away": "63.8"
+                "home": "35.9",
+                "away": "64.1"
               },
               {
                 "key": "totalShots",
@@ -23896,8 +23926,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "287",
-                "away": "542"
+                "home": "291",
+                "away": "561"
               },
               {
                 "key": "passPct",
@@ -26278,6 +26308,16 @@
       "position": 2
     },
     {
+      "team": "Stuttgart",
+      "played": 2,
+      "won": 2,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 6,
+      "goalsAgainst": 1,
+      "position": 3
+    },
+    {
       "team": "Liverpool",
       "played": 2,
       "won": 2,
@@ -26285,7 +26325,7 @@
       "lost": 0,
       "goalsFor": 8,
       "goalsAgainst": 4,
-      "position": 3
+      "position": 4
     },
     {
       "team": "Sporting de Portugal",
@@ -26295,7 +26335,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Arsenal",
@@ -26305,7 +26345,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Bayern de Múnich",
@@ -26315,7 +26355,7 @@
       "lost": 0,
       "goalsFor": 8,
       "goalsAgainst": 3,
-      "position": 6
+      "position": 7
     },
     {
       "team": "Paris Saint-Germain",
@@ -26325,7 +26365,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 1,
-      "position": 7
+      "position": 8
     },
     {
       "team": "Como",
@@ -26335,7 +26375,7 @@
       "lost": 1,
       "goalsFor": 6,
       "goalsAgainst": 4,
-      "position": 8
+      "position": 9
     },
     {
       "team": "Manchester United",
@@ -26345,16 +26385,6 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "position": 9
-    },
-    {
-      "team": "Stuttgart",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 1,
       "position": 10
     },
     {
@@ -26609,12 +26639,12 @@
     },
     {
       "team": "Slovan Bratislava",
-      "played": 1,
+      "played": 2,
       "won": 0,
       "drawn": 0,
-      "lost": 1,
+      "lost": 2,
       "goalsFor": 1,
-      "goalsAgainst": 6,
+      "goalsAgainst": 9,
       "position": 36
     }
   ],
