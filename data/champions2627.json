@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:06:02Z",
+  "lastUpdated": "2026-10-14T17:07:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18392,22 +18392,32 @@
                 "relatedPlayer": "Jacobo Ramón",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "53625478_2",
+                "type": "GOAL",
+                "minute": 20,
+                "extraTime": null,
+                "playerName": "Gjivai Zechiël",
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.8",
-                "away": "46.2"
+                "home": "55.6",
+                "away": "44.4"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -18442,7 +18452,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "121",
+                "home": "131",
                 "away": "108"
               },
               {
@@ -18469,7 +18479,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18875,8 +18885,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "23.3",
-                "away": "76.7"
+                "home": "23",
+                "away": "77"
               },
               {
                 "key": "totalShots",
@@ -18920,8 +18930,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "20",
-                "away": "114"
+                "home": "23",
+                "away": "130"
               },
               {
                 "key": "passPct",
