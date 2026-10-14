@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:00:11Z",
+  "lastUpdated": "2026-10-14T20:02:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19847,8 +19847,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -20265,8 +20265,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.5",
-                "away": "40.5"
+                "home": "59.6",
+                "away": "40.4"
               },
               {
                 "key": "totalShots",
@@ -20311,7 +20311,7 @@
               {
                 "key": "accuratePasses",
                 "home": "302",
-                "away": "191"
+                "away": "190"
               },
               {
                 "key": "passPct",
