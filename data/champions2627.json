@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:03:29Z",
+  "lastUpdated": "2026-10-14T20:04:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19775,8 +19775,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.4",
-                "away": "55.6"
+                "home": "46.1",
+                "away": "53.9"
               },
               {
                 "key": "totalShots",
@@ -19796,7 +19796,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -19820,8 +19820,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "172",
-                "away": "225"
+                "home": "187",
+                "away": "226"
               },
               {
                 "key": "passPct",
@@ -19847,7 +19847,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20265,8 +20265,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60",
-                "away": "40"
+                "home": "58.6",
+                "away": "41.4"
               },
               {
                 "key": "totalShots",
@@ -20310,8 +20310,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "309",
-                "away": "191"
+                "home": "312",
+                "away": "205"
               },
               {
                 "key": "passPct",
@@ -21916,8 +21916,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -22444,7 +22444,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -22881,8 +22881,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39",
-                "away": "61"
+                "home": "39.6",
+                "away": "60.4"
               },
               {
                 "key": "totalShots",
@@ -22901,7 +22901,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "10"
               },
               {
@@ -22926,8 +22926,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "154",
-                "away": "252"
+                "home": "159",
+                "away": "254"
               },
               {
                 "key": "passPct",
