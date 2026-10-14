@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:57:09Z",
+  "lastUpdated": "2026-10-14T00:08:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17972,7 +17972,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": null
@@ -17993,7 +17993,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
           "details": null
@@ -18014,7 +18014,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
           "details": null
@@ -18035,7 +18035,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": null
@@ -18056,7 +18056,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": null
@@ -18077,7 +18077,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
           "details": null
@@ -18098,7 +18098,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Olimpico",
           "venueCity": "Roma",
           "details": null
@@ -18119,9 +18119,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Stamford Bridge",
-          "venueCity": "Londres",
+          "venueCity": "London",
           "details": null
         },
         {
@@ -18140,7 +18140,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
           "details": null
