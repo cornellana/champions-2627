@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:58:19Z",
+  "lastUpdated": "2026-10-14T17:59:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18422,13 +18422,23 @@
                 "relatedPlayer": "Luciano Valente",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "53626602_11",
+                "type": "YELLOW_CARD",
+                "minute": 50,
+                "extraTime": null,
+                "playerName": "Gaoussou Diarra",
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.4",
-                "away": "47.6"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
@@ -18447,7 +18457,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
+                "home": "11",
                 "away": "9"
               },
               {
@@ -18457,7 +18467,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -18472,8 +18482,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "303",
-                "away": "285"
+                "home": "306",
+                "away": "293"
               },
               {
                 "key": "passPct",
@@ -18499,7 +18509,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18956,8 +18966,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.9",
-                "away": "69.1"
+                "home": "31.7",
+                "away": "68.3"
               },
               {
                 "key": "totalShots",
@@ -18976,7 +18986,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "2"
               },
               {
@@ -19001,12 +19011,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "108",
-                "away": "309"
+                "home": "122",
+                "away": "329"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
