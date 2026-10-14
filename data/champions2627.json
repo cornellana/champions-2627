@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:53:56Z",
+  "lastUpdated": "2026-10-14T17:55:01Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18427,8 +18427,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.9",
-                "away": "48.1"
+                "home": "53",
+                "away": "47"
               },
               {
                 "key": "totalShots",
@@ -18448,7 +18448,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -18472,7 +18472,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "277",
+                "home": "290",
                 "away": "268"
               },
               {
@@ -18495,11 +18495,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-3",
+          "result": "0-4",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18941,23 +18941,33 @@
                 "relatedPlayer": "Kasper Jørgensen",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "53626501_7",
+                "type": "GOAL",
+                "minute": 51,
+                "extraTime": null,
+                "playerName": "Jeremie Frimpong",
+                "relatedPlayer": "Kostas Tsimikas with a cross",
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31",
-                "away": "69"
+                "home": "30.8",
+                "away": "69.2"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "19"
+                "away": "20"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "wonCorners",
@@ -18992,7 +19002,7 @@
               {
                 "key": "accuratePasses",
                 "home": "105",
-                "away": "295"
+                "away": "299"
               },
               {
                 "key": "passPct",
