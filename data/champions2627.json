@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:34:35Z",
+  "lastUpdated": "2026-10-14T20:35:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -19328,7 +19328,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -19845,12 +19845,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.6",
-                "away": "53.4"
+                "home": "45.7",
+                "away": "54.3"
               },
               {
                 "key": "totalShots",
-                "home": "18",
+                "home": "19",
                 "away": "12"
               },
               {
@@ -19890,8 +19890,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "302",
-                "away": "343"
+                "home": "303",
+                "away": "358"
               },
               {
                 "key": "passPct",
@@ -19917,7 +19917,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -20380,13 +20380,33 @@
                 "relatedPlayer": "Samuele Inácio",
                 "teamName": "Borussia Dortmund",
                 "text": null
+              },
+              {
+                "id": "53641219_10",
+                "type": "SUBSTITUTION",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Borussia Dortmund",
+                "text": null
+              },
+              {
+                "id": "53641220_11",
+                "type": "SUBSTITUTION",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.2",
-                "away": "47.8"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
@@ -20430,8 +20450,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "447",
-                "away": "400"
+                "home": "448",
+                "away": "411"
               },
               {
                 "key": "passPct",
@@ -20457,7 +20477,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -21001,12 +21021,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.7",
-                "away": "50.3"
+                "home": "50.3",
+                "away": "49.7"
               },
               {
                 "key": "totalShots",
-                "home": "19",
+                "home": "20",
                 "away": "12"
               },
               {
@@ -21026,7 +21046,7 @@
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -21046,8 +21066,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "309",
-                "away": "330"
+                "home": "319",
+                "away": "333"
               },
               {
                 "key": "passPct",
@@ -21073,7 +21093,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -21622,22 +21642,42 @@
                 "relatedPlayer": "Gabri Veiga",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "53641256_25",
+                "type": "YELLOW_CARD",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Alan Varela",
+                "relatedPlayer": null,
+                "teamName": "Oporto",
+                "text": null
+              },
+              {
+                "id": "53641264_26",
+                "type": "GOAL",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Cucho Hernández",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55",
-                "away": "45"
+                "home": "54.9",
+                "away": "45.1"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "16",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "2"
               },
               {
@@ -21648,7 +21688,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -21658,7 +21698,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -21672,8 +21712,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "346",
-                "away": "266"
+                "home": "352",
+                "away": "272"
               },
               {
                 "key": "passPct",
@@ -21699,7 +21739,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -22254,8 +22294,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.3",
-                "away": "46.7"
+                "home": "53.7",
+                "away": "46.3"
               },
               {
                 "key": "totalShots",
@@ -22299,7 +22339,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "393",
+                "home": "400",
                 "away": "335"
               },
               {
@@ -22326,7 +22366,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -22842,8 +22882,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.1",
-                "away": "46.9"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
@@ -22863,7 +22903,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "14",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -22887,7 +22927,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "331",
+                "home": "348",
                 "away": "277"
               },
               {
@@ -22914,7 +22954,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -23396,13 +23436,23 @@
                 "relatedPlayer": "Sandro Cruz",
                 "teamName": "Slovan Bratislava",
                 "text": null
+              },
+              {
+                "id": "53641267_13",
+                "type": "YELLOW_CARD",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Josha Vagnoman",
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.9",
-                "away": "63.1"
+                "home": "36.7",
+                "away": "63.3"
               },
               {
                 "key": "totalShots",
@@ -23417,12 +23467,12 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -23432,7 +23482,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -23446,8 +23496,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "234",
-                "away": "432"
+                "home": "236",
+                "away": "441"
               },
               {
                 "key": "passPct",
