@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:14:41Z",
+  "lastUpdated": "2026-10-14T18:15:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18487,8 +18487,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.3",
-                "away": "50.7"
+                "home": "49.5",
+                "away": "50.5"
               },
               {
                 "key": "totalShots",
@@ -18532,7 +18532,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "367",
+                "home": "372",
                 "away": "394"
               },
               {
@@ -18555,11 +18555,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-5",
+          "result": "1-6",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19077,9 +19077,19 @@
                 "type": "SUBSTITUTION",
                 "minute": 71,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Daniel Elfadli",
+                "relatedPlayer": "Alessandro Schöpf",
                 "teamName": "LASK",
+                "text": null
+              },
+              {
+                "id": "53627162_15",
+                "type": "GOAL",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": "Lewis Koumas",
+                "relatedPlayer": "Jeremie Frimpong with a cross",
+                "teamName": "Liverpool",
                 "text": null
               }
             ],
@@ -19092,12 +19102,12 @@
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "24"
+                "away": "25"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "wonCorners",
@@ -19131,7 +19141,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "186",
+                "home": "187",
                 "away": "402"
               },
               {
@@ -22500,6 +22510,12 @@
       "athleteID": null
     },
     {
+      "player": "Jeremie Frimpong with a cross",
+      "team": "Liverpool",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Joshua Kimmich with a cross following a corner",
       "team": "Bayern de Múnich",
       "goals": 1,
@@ -22514,12 +22530,6 @@
     {
       "player": "João Gomes",
       "team": "Aston Villa",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Julián Alvarez with a through ball",
-      "team": "Atlético de Madrid",
       "goals": 1,
       "athleteID": null
     }
