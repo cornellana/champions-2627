@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:08:09Z",
+  "lastUpdated": "2026-10-14T18:09:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17972,7 +17972,7 @@
           "shootout": null,
           "state": "in",
           "clock": "61'",
-          "statusText": "In Progress",
+          "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -18452,13 +18452,43 @@
                 "relatedPlayer": null,
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "53626963_14",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
+              },
+              {
+                "id": "53626964_15",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
+              },
+              {
+                "id": "53626965_16",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.1",
-                "away": "48.9"
+                "home": "50.3",
+                "away": "49.7"
               },
               {
                 "key": "totalShots",
@@ -18503,7 +18533,7 @@
               {
                 "key": "accuratePasses",
                 "home": "341",
-                "away": "341"
+                "away": "354"
               },
               {
                 "key": "passPct",
@@ -18525,11 +18555,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-4",
+          "result": "1-5",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19021,23 +19051,33 @@
                 "relatedPlayer": "Yvan Dibango",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "53626979_12",
+                "type": "GOAL",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.3",
-                "away": "66.7"
+                "home": "33.1",
+                "away": "66.9"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "20"
+                "away": "21"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "wonCorners",
@@ -19071,8 +19111,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "158",
-                "away": "379"
+                "home": "159",
+                "away": "387"
               },
               {
                 "key": "passPct",
