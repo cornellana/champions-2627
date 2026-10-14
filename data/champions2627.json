@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:38:39Z",
+  "lastUpdated": "2026-10-14T18:39:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18552,23 +18552,33 @@
                 "relatedPlayer": null,
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "53627803_28",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": 1,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.9",
-                "away": "52.1"
+                "home": "48.1",
+                "away": "51.9"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -18602,8 +18612,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "444",
-                "away": "502"
+                "home": "450",
+                "away": "506"
               },
               {
                 "key": "passPct",
