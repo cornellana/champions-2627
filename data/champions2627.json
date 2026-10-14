@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:14:45Z",
+  "lastUpdated": "2026-10-14T17:15:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "27'",
+          "clock": "28'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18489,8 +18489,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
-          "statusText": "First Half",
+          "clock": "30'",
+          "statusText": "In Progress",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
           "details": {
