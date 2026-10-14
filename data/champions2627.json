@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:15:47Z",
+  "lastUpdated": "2026-10-14T18:16:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18487,13 +18487,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.5",
-                "away": "50.5"
+                "home": "49.3",
+                "away": "50.7"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
@@ -18503,7 +18503,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -18532,8 +18532,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "372",
-                "away": "394"
+                "home": "373",
+                "away": "399"
               },
               {
                 "key": "passPct",
@@ -18559,7 +18559,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19089,6 +19089,16 @@
                 "extraTime": null,
                 "playerName": "Lewis Koumas",
                 "relatedPlayer": "Jeremie Frimpong with a cross",
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "53627182_16",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Víctor Muñoz",
+                "relatedPlayer": "Bradley Barcola",
                 "teamName": "Liverpool",
                 "text": null
               }
