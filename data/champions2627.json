@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:27:46Z",
+  "lastUpdated": "2026-10-14T18:28:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18508,8 +18508,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 79,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Tsuyoshi Watanabe",
+                "relatedPlayer": "Jeremiah St",
                 "teamName": "Feyenoord",
                 "text": null
               },
@@ -18518,17 +18518,27 @@
                 "type": "SUBSTITUTION",
                 "minute": 79,
                 "extraTime": null,
+                "playerName": "Tobias van den Elshout",
+                "relatedPlayer": "Nacho Ferri",
+                "teamName": "Feyenoord",
+                "text": null
+              },
+              {
+                "id": "53627507_25",
+                "type": "SUBSTITUTION",
+                "minute": 79,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
-                "teamName": "Feyenoord",
+                "teamName": "Como",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.7",
-                "away": "51.3"
+                "home": "48.1",
+                "away": "51.9"
               },
               {
                 "key": "totalShots",
@@ -18572,8 +18582,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "412",
-                "away": "449"
+                "home": "413",
+                "away": "462"
               },
               {
                 "key": "passPct",
@@ -18599,7 +18609,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -19181,13 +19191,23 @@
                 "relatedPlayer": "Christoph Lang",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "53627513_21",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.6",
-                "away": "64.4"
+                "home": "35.7",
+                "away": "64.3"
               },
               {
                 "key": "totalShots",
@@ -19231,7 +19251,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
+                "home": "221",
                 "away": "468"
               },
               {
