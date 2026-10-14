@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:51:44Z",
+  "lastUpdated": "2026-10-14T17:52:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -18412,6 +18412,16 @@
                 "relatedPlayer": "Assane Diao because of an injury",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "53626470_9",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
@@ -18489,7 +18499,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18936,12 +18946,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.7",
-                "away": "70.3"
+                "home": "32.1",
+                "away": "67.9"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "19"
               },
               {
@@ -18981,7 +18991,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "92",
+                "home": "105",
                 "away": "281"
               },
               {
