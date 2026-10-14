@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:03:45Z",
+  "lastUpdated": "2026-10-14T18:04:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -17971,7 +17971,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -18442,18 +18442,28 @@
                 "relatedPlayer": "Gaoussou Diarra",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "53626848_13",
+                "type": "YELLOW_CARD",
+                "minute": 57,
+                "extraTime": null,
+                "playerName": "Ivan Smolcic",
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "51.5",
+                "away": "48.5"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -18468,7 +18478,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -18478,7 +18488,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -18519,7 +18529,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "62'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -18997,7 +19007,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
