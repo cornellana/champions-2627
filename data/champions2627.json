@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:08:21Z",
+  "lastUpdated": "2026-10-20T17:09:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24430,13 +24430,23 @@
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "53976577_8",
+                "type": "SUBSTITUTION",
+                "minute": 21,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.3",
-                "away": "32.7"
+                "home": "66.1",
+                "away": "33.9"
               },
               {
                 "key": "totalShots",
@@ -24456,7 +24466,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -24480,8 +24490,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "87",
-                "away": "40"
+                "home": "88",
+                "away": "43"
               },
               {
                 "key": "passPct",
@@ -24507,7 +24517,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -24961,8 +24971,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.7",
-                "away": "61.3"
+                "home": "38.1",
+                "away": "61.9"
               },
               {
                 "key": "totalShots",
@@ -24991,7 +25001,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -25001,13 +25011,13 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
                 "home": "73",
-                "away": "128"
+                "away": "131"
               },
               {
                 "key": "passPct",
