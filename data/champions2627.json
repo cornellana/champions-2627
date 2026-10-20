@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:34:53Z",
+  "lastUpdated": "2026-10-20T20:35:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25889,8 +25889,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Bradley Barcola",
+                "relatedPlayer": "Rio Ngumoha",
                 "teamName": "Liverpool",
                 "text": null
               },
@@ -25899,8 +25899,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Joe Gomez",
+                "relatedPlayer": "Jérémy Jacquet",
                 "teamName": "Liverpool",
                 "text": null
               }
@@ -25908,12 +25908,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.7",
-                "away": "41.3"
+                "home": "58",
+                "away": "42"
               },
               {
                 "key": "totalShots",
-                "home": "20",
+                "home": "21",
                 "away": "11"
               },
               {
@@ -25954,7 +25954,7 @@
               {
                 "key": "accuratePasses",
                 "home": "407",
-                "away": "271"
+                "away": "280"
               },
               {
                 "key": "passPct",
@@ -25976,12 +25976,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "4-1",
+          "result": "5-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
-          "statusText": "Second Half",
+          "clock": "78'",
+          "statusText": "In Progress",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": {
@@ -26502,22 +26502,32 @@
                 "relatedPlayer": "Enzo Fernández",
                 "teamName": "Manchester City",
                 "text": null
+              },
+              {
+                "id": "53989382_19",
+                "type": "GOAL",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": "Phil Foden",
+                "relatedPlayer": "Ryan McAidoo",
+                "teamName": "Manchester City",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.4",
-                "away": "39.6"
+                "home": "60.7",
+                "away": "39.3"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "16",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "3"
               },
               {
@@ -26552,7 +26562,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "505",
+                "home": "511",
                 "away": "320"
               },
               {
@@ -26575,12 +26585,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-2",
+          "result": "3-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
-          "statusText": "In Progress",
+          "clock": "76'",
+          "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -27092,7 +27102,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27589,8 +27599,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 76,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Seko Fofana",
+                "relatedPlayer": "Victor Froholdt",
                 "teamName": "Oporto",
                 "text": null
               }
@@ -27598,17 +27608,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.4",
-                "away": "64.6"
+                "home": "35.8",
+                "away": "64.2"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "16"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -27639,12 +27649,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "243",
-                "away": "488"
+                "home": "251",
+                "away": "492"
               },
               {
                 "key": "passPct",
@@ -27670,7 +27680,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28199,22 +28209,32 @@
                 "relatedPlayer": "Marc Bernal",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "53989375_25",
+                "type": "GOAL",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": "Lucas Hernández",
+                "relatedPlayer": "Désiré Doué with a cross following a corner",
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.3",
-                "away": "52.7"
+                "home": "47.4",
+                "away": "52.6"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "13"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "12",
+                "home": "13",
                 "away": "4"
               },
               {
@@ -28250,7 +28270,7 @@
               {
                 "key": "accuratePasses",
                 "home": "321",
-                "away": "369"
+                "away": "368"
               },
               {
                 "key": "passPct",
@@ -28276,7 +28296,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28842,8 +28862,18 @@
                 "type": "SUBSTITUTION",
                 "minute": 77,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Konstantinos Koulierakis",
+                "relatedPlayer": "Mario Hermoso",
+                "teamName": "Roma",
+                "text": null
+              },
+              {
+                "id": "53989371_26",
+                "type": "SUBSTITUTION",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Gianluca Mancini",
+                "relatedPlayer": "Marten de Roon",
                 "teamName": "Roma",
                 "text": null
               }
@@ -28851,8 +28881,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.8",
-                "away": "27.2"
+                "home": "73.3",
+                "away": "26.7"
               },
               {
                 "key": "totalShots",
@@ -28896,7 +28926,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "509",
+                "home": "525",
                 "away": "151"
               },
               {
@@ -28923,7 +28953,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -32078,6 +32108,13 @@
       "athleteID": null
     },
     {
+      "player": "Phil Foden",
+      "team": "Manchester City",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Assane Diao",
       "team": "Como",
       "goals": 2,
@@ -32157,13 +32194,6 @@
     {
       "player": "Michael Olise",
       "team": "Bayern de Múnich",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Phil Foden",
-      "team": "Manchester City",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
@@ -32481,6 +32511,12 @@
       "athleteID": null
     },
     {
+      "player": "Désiré Doué with a cross following a corner",
+      "team": "Paris Saint-Germain",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Emmanuel Ayaosi with a cross",
       "team": "Slavia de Praga",
       "goals": 1,
@@ -32513,12 +32549,6 @@
     {
       "player": "Federico Dimarco following a fast break",
       "team": "Inter de Milán",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Fermín López with a through ball",
-      "team": "FC Barcelona",
       "goals": 1,
       "athleteID": null
     }
