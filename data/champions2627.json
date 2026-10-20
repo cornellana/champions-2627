@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:37:18Z",
+  "lastUpdated": "2026-10-20T18:38:23Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23975,13 +23975,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "2-2",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "In Progress",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -24585,8 +24585,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.2",
-                "away": "50.8"
+                "home": "49",
+                "away": "51"
               },
               {
                 "key": "totalShots",
@@ -24631,7 +24631,7 @@
               {
                 "key": "accuratePasses",
                 "home": "341",
-                "away": "351"
+                "away": "353"
               },
               {
                 "key": "passPct",
