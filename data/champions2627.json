@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:08:59Z",
+  "lastUpdated": "2026-10-20T18:10:04Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24515,8 +24515,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.7",
-                "away": "48.3"
+                "home": "51.3",
+                "away": "48.7"
               },
               {
                 "key": "totalShots",
@@ -24561,7 +24561,7 @@
               {
                 "key": "accuratePasses",
                 "home": "231",
-                "away": "216"
+                "away": "219"
               },
               {
                 "key": "passPct",
@@ -24587,7 +24587,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25079,6 +25079,16 @@
               },
               {
                 "id": "53977916_13",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "53977930_14",
                 "type": "SUBSTITUTION",
                 "minute": 65,
                 "extraTime": null,
