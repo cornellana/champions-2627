@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:19:52Z",
+  "lastUpdated": "2026-10-20T18:20:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24510,13 +24510,23 @@
                 "relatedPlayer": "Oguz Aydin",
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "53978298_22",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Toumani Diakité",
+                "relatedPlayer": "Oskar Kubiak",
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.5",
-                "away": "50.5"
+                "home": "49.1",
+                "away": "50.9"
               },
               {
                 "key": "totalShots",
@@ -24531,7 +24541,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -24560,8 +24570,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "253",
-                "away": "262"
+                "home": "263",
+                "away": "277"
               },
               {
                 "key": "passPct",
@@ -24587,7 +24597,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25126,13 +25136,23 @@
                 "relatedPlayer": "Ramy Bensebaini",
                 "teamName": "Borussia Dortmund",
                 "text": null
+              },
+              {
+                "id": "53978343_18",
+                "type": "SUBSTITUTION",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Borussia Dortmund",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.7",
-                "away": "57.3"
+                "home": "42.8",
+                "away": "57.2"
               },
               {
                 "key": "totalShots",
@@ -25151,7 +25171,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "8"
               },
               {
@@ -25176,8 +25196,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "264",
-                "away": "373"
+                "home": "271",
+                "away": "381"
               },
               {
                 "key": "passPct",
