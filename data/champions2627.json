@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T16:56:21Z",
+  "lastUpdated": "2026-10-20T16:57:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24415,8 +24415,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "78.7",
-                "away": "21.3"
+                "home": "74.8",
+                "away": "25.2"
               },
               {
                 "key": "totalShots",
@@ -24435,7 +24435,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -24460,13 +24460,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "60",
-                "away": "14"
+                "home": "71",
+                "away": "20"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -24487,7 +24487,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -24916,22 +24916,33 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53976257_1",
+                "type": "GOAL",
+                "minute": 10,
+                "extraTime": null,
+                "playerName": "Serhou Guirassy",
+                "relatedPlayer": null,
+                "teamName": "Borussia Dortmund",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.1",
-                "away": "68.9"
+                "home": "31.6",
+                "away": "68.4"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "4"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "2"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -24965,7 +24976,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "31",
+                "home": "32",
                 "away": "82"
               },
               {
@@ -27696,6 +27707,13 @@
       "athleteID": null
     },
     {
+      "player": "Serhou Guirassy",
+      "team": "Borussia Dortmund",
+      "goals": 3,
+      "penalties": 1,
+      "athleteID": null
+    },
+    {
       "player": "Assane Diao",
       "team": "Como",
       "goals": 2,
@@ -27791,13 +27809,6 @@
       "team": "Villarreal",
       "goals": 2,
       "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Serhou Guirassy",
-      "team": "Borussia Dortmund",
-      "goals": 2,
-      "penalties": 1,
       "athleteID": null
     },
     {
