@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:30:46Z",
+  "lastUpdated": "2026-10-20T18:31:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24546,18 +24546,18 @@
                 "type": "SUBSTITUTION",
                 "minute": 85,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Michal Sadílek",
+                "relatedPlayer": "Lukás Provod",
                 "teamName": "Slavia de Praga",
                 "text": null
               },
               {
                 "id": "53978621_26",
                 "type": "SUBSTITUTION",
-                "minute": 86,
+                "minute": 85,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Pavel Kacor",
+                "relatedPlayer": "Mubarak Suleiman",
                 "teamName": "Slavia de Praga",
                 "text": null
               }
@@ -24565,8 +24565,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "49.7",
+                "away": "50.3"
               },
               {
                 "key": "totalShots",
@@ -24585,7 +24585,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
+                "home": "11",
                 "away": "13"
               },
               {
@@ -24610,8 +24610,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "330",
-                "away": "323"
+                "home": "335",
+                "away": "338"
               },
               {
                 "key": "passPct",
@@ -25211,8 +25211,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.4",
-                "away": "56.6"
+                "home": "43.5",
+                "away": "56.5"
               },
               {
                 "key": "totalShots",
@@ -25226,7 +25226,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "9"
               },
               {
@@ -25241,7 +25241,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -25256,8 +25256,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "300",
-                "away": "407"
+                "home": "304",
+                "away": "412"
               },
               {
                 "key": "passPct",
