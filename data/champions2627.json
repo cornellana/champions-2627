@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:49:50Z",
+  "lastUpdated": "2026-10-20T19:50:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -27350,7 +27350,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
+          "clock": "45'+3'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -27824,12 +27824,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "51.4",
+                "away": "48.6"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "7"
               },
               {
@@ -27869,8 +27869,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "200",
-                "away": "187"
+                "home": "206",
+                "away": "196"
               },
               {
                 "key": "passPct",
