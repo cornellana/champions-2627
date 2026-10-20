@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:14:25Z",
+  "lastUpdated": "2026-10-20T18:15:30Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24587,7 +24587,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25096,18 +25096,48 @@
                 "relatedPlayer": "Kaheem Parris",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53978144_15",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Marcel Sabitzer",
+                "relatedPlayer": "Carney Chukwuemeka",
+                "teamName": "Borussia Dortmund",
+                "text": null
+              },
+              {
+                "id": "53978145_16",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Jobe Bellingham",
+                "relatedPlayer": "Felix Nmecha",
+                "teamName": "Borussia Dortmund",
+                "text": null
+              },
+              {
+                "id": "53978146_17",
+                "type": "SUBSTITUTION",
+                "minute": 72,
+                "extraTime": null,
+                "playerName": "Joane Gadou",
+                "relatedPlayer": "Ramy Bensebaini",
+                "teamName": "Borussia Dortmund",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42",
-                "away": "58"
+                "home": "42.4",
+                "away": "57.6"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "19"
+                "away": "20"
               },
               {
                 "key": "shotsOnTarget",
@@ -25146,13 +25176,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "250",
-                "away": "362"
+                "home": "258",
+                "away": "366"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
