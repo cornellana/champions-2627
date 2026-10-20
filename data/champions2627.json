@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:24:13Z",
+  "lastUpdated": "2026-10-20T18:25:19Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24597,7 +24597,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25145,6 +25145,26 @@
                 "playerName": "Maximilian Beier",
                 "relatedPlayer": "Daniel Svensson",
                 "teamName": "Borussia Dortmund",
+                "text": null
+              },
+              {
+                "id": "53978419_19",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "53978420_20",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
                 "text": null
               }
             ],
