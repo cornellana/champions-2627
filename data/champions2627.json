@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:33:48Z",
+  "lastUpdated": "2026-10-20T20:34:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25883,18 +25883,38 @@
                 "relatedPlayer": "Cody Gakpo following a fast break",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "53989227_17",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "53989228_18",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.4",
-                "away": "41.6"
+                "home": "58.7",
+                "away": "41.3"
               },
               {
                 "key": "totalShots",
                 "home": "20",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
@@ -25933,8 +25953,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "400",
-                "away": "270"
+                "home": "407",
+                "away": "271"
               },
               {
                 "key": "passPct",
@@ -25960,7 +25980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26493,17 +26513,17 @@
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "6",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
                 "home": "8",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -26527,13 +26547,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "495",
-                "away": "316"
+                "home": "505",
+                "away": "320"
               },
               {
                 "key": "passPct",
@@ -26559,8 +26579,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
-          "statusText": "Second Half",
+          "clock": "74'",
+          "statusText": "In Progress",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -27000,8 +27020,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.7",
-                "away": "51.3"
+                "home": "47.2",
+                "away": "52.8"
               },
               {
                 "key": "totalShots",
@@ -27046,7 +27066,7 @@
               {
                 "key": "accuratePasses",
                 "home": "409",
-                "away": "437"
+                "away": "468"
               },
               {
                 "key": "passPct",
@@ -27072,7 +27092,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27563,13 +27583,23 @@
                 "relatedPlayer": null,
                 "teamName": "PSV",
                 "text": null
+              },
+              {
+                "id": "53989226_15",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.1",
-                "away": "64.9"
+                "home": "35.4",
+                "away": "64.6"
               },
               {
                 "key": "totalShots",
@@ -27589,7 +27619,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -27613,8 +27643,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "239",
-                "away": "483"
+                "home": "243",
+                "away": "488"
               },
               {
                 "key": "passPct",
@@ -27640,7 +27670,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28174,12 +28204,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.5",
-                "away": "54.5"
+                "home": "47.3",
+                "away": "52.7"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "17",
                 "away": "13"
               },
               {
@@ -28189,7 +28219,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
@@ -28219,8 +28249,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "288",
-                "away": "363"
+                "home": "321",
+                "away": "369"
               },
               {
                 "key": "passPct",
@@ -28246,7 +28276,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28806,17 +28836,27 @@
                 "relatedPlayer": null,
                 "teamName": "Slovan Bratislava",
                 "text": null
+              },
+              {
+                "id": "53989199_25",
+                "type": "SUBSTITUTION",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.3",
-                "away": "27.7"
+                "home": "72.8",
+                "away": "27.2"
               },
               {
                 "key": "totalShots",
-                "home": "20",
+                "home": "21",
                 "away": "1"
               },
               {
@@ -28856,7 +28896,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "493",
+                "home": "509",
                 "away": "151"
               },
               {
@@ -28883,7 +28923,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -29388,12 +29428,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.9",
-                "away": "48.1"
+                "home": "51.8",
+                "away": "48.2"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "10"
               },
               {
@@ -29408,7 +29448,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "6"
               },
               {
@@ -29433,8 +29473,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "369",
-                "away": "345"
+                "home": "377",
+                "away": "353"
               },
               {
                 "key": "passPct",
