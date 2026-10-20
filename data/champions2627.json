@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:38:23Z",
+  "lastUpdated": "2026-10-20T18:39:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -27849,6 +27849,16 @@
       "position": 24
     },
     {
+      "team": "Fenerbahçe",
+      "played": 3,
+      "won": 0,
+      "drawn": 2,
+      "lost": 1,
+      "goalsFor": 3,
+      "goalsAgainst": 9,
+      "position": 25
+    },
+    {
       "team": "Roma",
       "played": 2,
       "won": 0,
@@ -27856,7 +27866,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 5,
-      "position": 25
+      "position": 26
     },
     {
       "team": "PSV",
@@ -27866,7 +27876,7 @@
       "lost": 1,
       "goalsFor": 1,
       "goalsAgainst": 2,
-      "position": 26
+      "position": 27
     },
     {
       "team": "Viking",
@@ -27876,17 +27886,17 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 27
+      "position": 28
     },
     {
-      "team": "Fenerbahçe",
-      "played": 2,
+      "team": "Slavia de Praga",
+      "played": 3,
       "won": 0,
       "drawn": 1,
-      "lost": 1,
-      "goalsFor": 1,
+      "lost": 2,
+      "goalsFor": 4,
       "goalsAgainst": 7,
-      "position": 28
+      "position": 29
     },
     {
       "team": "Inter de Milán",
@@ -27896,20 +27906,10 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 29
-    },
-    {
-      "team": "Oporto",
-      "played": 2,
-      "won": 0,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 2,
-      "goalsAgainst": 5,
       "position": 30
     },
     {
-      "team": "Slavia de Praga",
+      "team": "Oporto",
       "played": 2,
       "won": 0,
       "drawn": 0,
