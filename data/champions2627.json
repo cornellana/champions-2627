@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:39:55Z",
+  "lastUpdated": "2026-10-20T19:41:01Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,13 +25323,13 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": {
             "homeLineup": {
-              "formation": "4-3-3",
+              "formation": "4-2-3-1",
               "players": [
                 {
                   "id": "196876",
@@ -25377,10 +25377,19 @@
                   "athleteID": "270821"
                 },
                 {
+                  "id": "379588",
+                  "jersey": 73,
+                  "name": "Rio Ngumoha",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "379588"
+                },
+                {
                   "id": "356075",
                   "jersey": 42,
                   "name": "Trey Nyoni",
-                  "position": "CM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "356075"
@@ -25389,19 +25398,10 @@
                   "id": "274632",
                   "jersey": 38,
                   "name": "Ryan Gravenberch",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "274632"
-                },
-                {
-                  "id": "249299",
-                  "jersey": 10,
-                  "name": "Alexis Mac Allister",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "249299"
+                  "athleteID": "274632"
                 },
                 {
                   "id": "350661",
@@ -25416,19 +25416,19 @@
                   "id": "249524",
                   "jersey": 18,
                   "name": "Cody Gakpo",
-                  "position": "LF",
+                  "position": "AM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "249524"
                 },
                 {
-                  "id": "379588",
-                  "jersey": 73,
-                  "name": "Rio Ngumoha",
-                  "position": "RF",
+                  "id": "249299",
+                  "jersey": 10,
+                  "name": "Alexis Mac Allister",
+                  "position": "AM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "379588"
+                  "athleteID": "249299"
                 },
                 {
                   "id": "32572",
@@ -25788,8 +25788,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.6",
-                "away": "44.4"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
@@ -25808,7 +25808,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "4"
               },
               {
@@ -25834,7 +25834,7 @@
               {
                 "key": "accuratePasses",
                 "home": "202",
-                "away": "154"
+                "away": "159"
               },
               {
                 "key": "passPct",
@@ -25860,7 +25860,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26359,7 +26359,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "36'",
+          "clock": "37'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26750,8 +26750,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.8",
-                "away": "50.2"
+                "home": "53.2",
+                "away": "46.8"
               },
               {
                 "key": "totalShots",
@@ -26771,7 +26771,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -26795,8 +26795,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "176",
-                "away": "184"
+                "home": "233",
+                "away": "207"
               },
               {
                 "key": "passPct",
@@ -27309,7 +27309,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "36'",
+          "clock": "38'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -27768,6 +27768,16 @@
                 "relatedPlayer": "Dani Olmo because of an injury",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "53984221_8",
+                "type": "GOAL",
+                "minute": 38,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
@@ -27845,7 +27855,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28345,8 +28355,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "255",
-                "away": "67"
+                "home": "260",
+                "away": "68"
               },
               {
                 "key": "passPct",
@@ -28372,7 +28382,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -28817,13 +28827,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.5",
-                "away": "44.5"
+                "home": "54.9",
+                "away": "45.1"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -28833,7 +28843,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -28862,8 +28872,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "231",
-                "away": "179"
+                "home": "232",
+                "away": "184"
               },
               {
                 "key": "passPct",
