@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:56:53Z",
+  "lastUpdated": "2026-10-20T20:57:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -27895,13 +27895,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "4-2",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+3'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": {
@@ -28504,8 +28504,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.7",
-                "away": "53.3"
+                "home": "47.2",
+                "away": "52.8"
               },
               {
                 "key": "totalShots",
@@ -28549,8 +28549,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "402",
-                "away": "470"
+                "home": "409",
+                "away": "471"
               },
               {
                 "key": "passPct",
@@ -32009,6 +32009,16 @@
   ],
   "standings": [
     {
+      "team": "Paris Saint-Germain",
+      "played": 3,
+      "won": 3,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 14,
+      "goalsAgainst": 5,
+      "position": 1
+    },
+    {
       "team": "Liverpool",
       "played": 3,
       "won": 3,
@@ -32016,7 +32026,7 @@
       "lost": 0,
       "goalsFor": 12,
       "goalsAgainst": 7,
-      "position": 1
+      "position": 2
     },
     {
       "team": "Stuttgart",
@@ -32026,16 +32036,6 @@
       "lost": 0,
       "goalsFor": 7,
       "goalsAgainst": 2,
-      "position": 2
-    },
-    {
-      "team": "Paris Saint-Germain",
-      "played": 2,
-      "won": 2,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 10,
-      "goalsAgainst": 3,
       "position": 3
     },
     {
@@ -32050,12 +32050,12 @@
     },
     {
       "team": "FC Barcelona",
-      "played": 2,
+      "played": 3,
       "won": 2,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 9,
-      "goalsAgainst": 2,
+      "lost": 1,
+      "goalsFor": 11,
+      "goalsAgainst": 6,
       "position": 5
     },
     {
