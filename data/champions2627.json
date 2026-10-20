@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:55:48Z",
+  "lastUpdated": "2026-10-20T20:56:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -27900,7 +27900,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28550,7 +28550,7 @@
               {
                 "key": "accuratePasses",
                 "home": "402",
-                "away": "469"
+                "away": "470"
               },
               {
                 "key": "passPct",
@@ -32219,6 +32219,16 @@
       "position": 21
     },
     {
+      "team": "Nápoles",
+      "played": 3,
+      "won": 1,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 7,
+      "position": 22
+    },
+    {
       "team": "RB Leipzig",
       "played": 2,
       "won": 1,
@@ -32226,7 +32236,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 4,
-      "position": 22
+      "position": 23
     },
     {
       "team": "Feyenoord",
@@ -32236,7 +32246,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 7,
-      "position": 23
+      "position": 24
     },
     {
       "team": "Sabah",
@@ -32246,17 +32256,17 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 6,
-      "position": 24
+      "position": 25
     },
     {
       "team": "Bodø/Glimt",
-      "played": 2,
+      "played": 3,
       "won": 1,
       "drawn": 0,
-      "lost": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 5,
-      "position": 25
+      "lost": 2,
+      "goalsFor": 4,
+      "goalsAgainst": 9,
+      "position": 26
     },
     {
       "team": "AEK Atenas",
@@ -32266,7 +32276,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 8,
-      "position": 26
+      "position": 27
     },
     {
       "team": "Fenerbahçe",
@@ -32276,7 +32286,7 @@
       "lost": 1,
       "goalsFor": 3,
       "goalsAgainst": 9,
-      "position": 27
+      "position": 28
     },
     {
       "team": "Viking",
@@ -32286,7 +32296,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 28
+      "position": 29
     },
     {
       "team": "Slavia de Praga",
@@ -32296,7 +32306,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 7,
-      "position": 29
+      "position": 30
     },
     {
       "team": "Inter de Milán",
@@ -32306,16 +32316,6 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 30
-    },
-    {
-      "team": "Nápoles",
-      "played": 2,
-      "won": 0,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 1,
-      "goalsAgainst": 4,
       "position": 31
     },
     {
