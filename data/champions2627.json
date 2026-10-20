@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:05:04Z",
+  "lastUpdated": "2026-10-20T17:06:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24435,8 +24435,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.3",
-                "away": "32.7"
+                "home": "67.7",
+                "away": "32.3"
               },
               {
                 "key": "totalShots",
@@ -24507,7 +24507,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -24951,12 +24951,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.1",
-                "away": "62.9"
+                "home": "40.7",
+                "away": "59.3"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "6"
               },
               {
@@ -24966,7 +24966,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -24996,8 +24996,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "57",
-                "away": "108"
+                "home": "67",
+                "away": "109"
               },
               {
                 "key": "passPct",
