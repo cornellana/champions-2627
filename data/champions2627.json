@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:09:27Z",
+  "lastUpdated": "2026-10-20T17:10:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24436,8 +24436,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 21,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Kojo Peprah Oppong",
+                "relatedPlayer": "Nathan Aké because of an injury",
                 "teamName": "Fenerbahçe",
                 "text": null
               }
@@ -24445,12 +24445,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.1",
-                "away": "33.9"
+                "home": "62.9",
+                "away": "37.1"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -24490,8 +24490,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "88",
-                "away": "43"
+                "home": "90",
+                "away": "52"
               },
               {
                 "key": "passPct",
@@ -24517,7 +24517,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
