@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:30:03Z",
+  "lastUpdated": "2026-10-20T19:31:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25319,11 +25319,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "0-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25377,22 +25377,22 @@
                   "athleteID": "270821"
                 },
                 {
-                  "id": "274632",
-                  "jersey": 38,
-                  "name": "Ryan Gravenberch",
-                  "position": "AM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "274632"
-                },
-                {
                   "id": "356075",
                   "jersey": 42,
                   "name": "Trey Nyoni",
-                  "position": "LM",
+                  "position": "CM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "356075"
+                },
+                {
+                  "id": "274632",
+                  "jersey": 38,
+                  "name": "Ryan Gravenberch",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "274632"
                 },
                 {
                   "id": "249299",
@@ -25416,7 +25416,7 @@
                   "id": "249524",
                   "jersey": 18,
                   "name": "Cody Gakpo",
-                  "position": "AM-L",
+                  "position": "LF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "249524"
@@ -25425,7 +25425,7 @@
                   "id": "379588",
                   "jersey": 73,
                   "name": "Rio Ngumoha",
-                  "position": "AM-R",
+                  "position": "RF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "379588"
@@ -25769,8 +25769,8 @@
                 "type": "GOAL",
                 "minute": 29,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Sergi Cardona",
+                "relatedPlayer": "Nathan Saliba with a through ball following a fast break",
                 "teamName": "Villarreal",
                 "text": null
               }
@@ -25778,18 +25778,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.2",
-                "away": "46.8"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -25823,8 +25823,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "141",
-                "away": "118"
+                "home": "143",
+                "away": "120"
               },
               {
                 "key": "passPct",
@@ -25850,7 +25850,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26335,11 +26335,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "27'",
+          "clock": "28'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26715,23 +26715,33 @@
                 "relatedPlayer": "Leonardo Spinazzola with a cross",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "53982830_6",
+                "type": "GOAL",
+                "minute": 27,
+                "extraTime": null,
+                "playerName": "Jens Petter Hauge",
+                "relatedPlayer": "Sondre Fet",
+                "teamName": "Bodø/Glimt",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.9",
-                "away": "44.1"
+                "home": "52.7",
+                "away": "47.3"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -26765,8 +26775,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "162",
-                "away": "129"
+                "home": "163",
+                "away": "150"
               },
               {
                 "key": "passPct",
@@ -26792,7 +26802,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27279,7 +27289,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "27'",
+          "clock": "28'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -27733,8 +27743,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49",
-                "away": "51"
+                "home": "49.1",
+                "away": "50.9"
               },
               {
                 "key": "totalShots",
@@ -27778,8 +27788,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "105",
-                "away": "109"
+                "home": "109",
+                "away": "114"
               },
               {
                 "key": "passPct",
@@ -27805,7 +27815,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28322,7 +28332,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -28757,13 +28767,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.1",
-                "away": "36.9"
+                "home": "61.7",
+                "away": "38.3"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -28803,7 +28813,7 @@
               {
                 "key": "accuratePasses",
                 "home": "213",
-                "away": "113"
+                "away": "120"
               },
               {
                 "key": "passPct",
