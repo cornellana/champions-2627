@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:36:13Z",
+  "lastUpdated": "2026-10-20T18:37:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,8 +23980,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
-          "statusText": "Second Half",
+          "clock": "90'+3'",
+          "statusText": "In Progress",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -24585,12 +24585,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49",
-                "away": "51"
+                "home": "49.2",
+                "away": "50.8"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "15"
               },
               {
@@ -24605,8 +24605,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
-                "away": "14"
+                "home": "12",
+                "away": "15"
               },
               {
                 "key": "offsides",
@@ -24630,8 +24630,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "336",
-                "away": "350"
+                "home": "341",
+                "away": "351"
               },
               {
                 "key": "passPct",
