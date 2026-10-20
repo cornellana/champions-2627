@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T16:50:54Z",
+  "lastUpdated": "2026-10-20T16:51:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23976,11 +23976,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24406,8 +24406,8 @@
                 "type": "GOAL",
                 "minute": 4,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Oguz Aydin",
+                "relatedPlayer": "Milan Skriniar",
                 "teamName": "Fenerbahçe",
                 "text": null
               }
@@ -24415,8 +24415,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "92.9",
-                "away": "7.1"
+                "home": "89.7",
+                "away": "10.3"
               },
               {
                 "key": "totalShots",
@@ -24461,12 +24461,12 @@
               {
                 "key": "accuratePasses",
                 "home": "43",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -24487,7 +24487,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -24753,13 +24753,13 @@
                   "athleteID": "240912"
                 },
                 {
-                  "id": "294317",
-                  "jersey": 17,
-                  "name": "Carney Chukwuemeka",
+                  "id": "281122",
+                  "jersey": 8,
+                  "name": "Felix Nmecha",
                   "position": "CM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "294317"
+                  "athleteID": "281122"
                 },
                 {
                   "id": "310709",
@@ -24789,22 +24789,22 @@
                   "athleteID": "186381"
                 },
                 {
-                  "id": "281122",
-                  "jersey": 8,
-                  "name": "Felix Nmecha",
-                  "position": "CF-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "281122"
-                },
-                {
                   "id": "291629",
                   "jersey": 21,
                   "name": "Fábio Silva",
-                  "position": "CF-R",
+                  "position": "CF-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "291629"
+                },
+                {
+                  "id": "294317",
+                  "jersey": 17,
+                  "name": "Carney Chukwuemeka",
+                  "position": "CF-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "294317"
                 },
                 {
                   "id": "174521",
@@ -24920,18 +24920,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.9",
-                "away": "63.1"
+                "home": "30.1",
+                "away": "69.9"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -24960,18 +24960,18 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "19",
-                "away": "32"
+                "home": "18",
+                "away": "49"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
-                "away": "0.8"
+                "home": "0.7",
+                "away": "0.9"
               }
             ],
             "penalties": null
