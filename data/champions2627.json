@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:12:15Z",
+  "lastUpdated": "2026-10-20T18:13:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24515,13 +24515,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.2",
-                "away": "49.8"
+                "home": "49.5",
+                "away": "50.5"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "10"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
@@ -24560,8 +24560,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "235",
-                "away": "236"
+                "home": "236",
+                "away": "243"
               },
               {
                 "key": "passPct",
@@ -24587,7 +24587,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25101,13 +25101,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.7",
-                "away": "58.3"
+                "home": "41.1",
+                "away": "58.9"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "18"
+                "away": "19"
               },
               {
                 "key": "shotsOnTarget",
@@ -25122,7 +25122,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -25147,12 +25147,12 @@
               {
                 "key": "accuratePasses",
                 "home": "240",
-                "away": "353"
+                "away": "362"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
