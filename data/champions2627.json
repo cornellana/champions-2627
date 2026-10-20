@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:35:59Z",
+  "lastUpdated": "2026-10-20T20:37:05Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25908,8 +25908,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58",
-                "away": "42"
+                "home": "58.4",
+                "away": "41.6"
               },
               {
                 "key": "totalShots",
@@ -25953,8 +25953,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "407",
-                "away": "280"
+                "home": "420",
+                "away": "285"
               },
               {
                 "key": "passPct",
@@ -25980,8 +25980,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
-          "statusText": "In Progress",
+          "clock": "79'",
+          "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": {
@@ -26517,8 +26517,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.7",
-                "away": "39.3"
+                "home": "60.6",
+                "away": "39.4"
               },
               {
                 "key": "totalShots",
@@ -26562,8 +26562,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "511",
-                "away": "320"
+                "home": "513",
+                "away": "321"
               },
               {
                 "key": "passPct",
@@ -26589,7 +26589,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -27025,22 +27025,32 @@
                 "relatedPlayer": "Sondre Fet",
                 "teamName": "Bodø/Glimt",
                 "text": null
+              },
+              {
+                "id": "53989430_14",
+                "type": "GOAL",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Scott McTominay",
+                "relatedPlayer": "Matteo Politano with a cross",
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.2",
-                "away": "52.8"
+                "home": "47.3",
+                "away": "52.7"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "11"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "5"
               },
               {
@@ -27075,8 +27085,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "409",
-                "away": "468"
+                "home": "415",
+                "away": "475"
               },
               {
                 "key": "passPct",
@@ -27102,7 +27112,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27608,8 +27618,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.8",
-                "away": "64.2"
+                "home": "36.5",
+                "away": "63.5"
               },
               {
                 "key": "totalShots",
@@ -27653,8 +27663,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "251",
-                "away": "492"
+                "home": "262",
+                "away": "495"
               },
               {
                 "key": "passPct",
@@ -27676,11 +27686,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28270,7 +28280,7 @@
               {
                 "key": "accuratePasses",
                 "home": "321",
-                "away": "368"
+                "away": "369"
               },
               {
                 "key": "passPct",
@@ -28296,7 +28306,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28886,7 +28896,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "21",
+                "home": "22",
                 "away": "1"
               },
               {
@@ -28953,7 +28963,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -29453,13 +29463,33 @@
                 "relatedPlayer": "Jamie Leweling",
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "53989508_15",
+                "type": "SUBSTITUTION",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Atlético de Madrid",
+                "text": null
+              },
+              {
+                "id": "53989510_16",
+                "type": "SUBSTITUTION",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Atlético de Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.8",
-                "away": "48.2"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -29503,13 +29533,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "377",
+                "home": "393",
                 "away": "353"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -32227,6 +32257,13 @@
       "athleteID": null
     },
     {
+      "player": "Scott McTominay",
+      "team": "Nápoles",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Tasos Douvikas",
       "team": "Como",
       "goals": 2,
@@ -32299,13 +32336,6 @@
     {
       "player": "Andrija Maksimovic",
       "team": "RB Leipzig",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Ange-Yoan Bonny",
-      "team": "Inter de Milán",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
