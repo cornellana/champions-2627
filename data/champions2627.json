@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:31:51Z",
+  "lastUpdated": "2026-10-20T18:32:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24637,7 +24637,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25206,13 +25206,23 @@
                 "relatedPlayer": "Joy-Lance Mickels",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53978672_21",
+                "type": "YELLOW_CARD",
+                "minute": 89,
+                "extraTime": null,
+                "playerName": "Akim Zedadka",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.5",
-                "away": "56.5"
+                "home": "43.6",
+                "away": "56.4"
               },
               {
                 "key": "totalShots",
@@ -25256,8 +25266,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "304",
-                "away": "412"
+                "home": "310",
+                "away": "415"
               },
               {
                 "key": "passPct",
