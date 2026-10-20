@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:06:09Z",
+  "lastUpdated": "2026-10-20T20:07:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25900,7 +25900,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26347,8 +26347,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.1",
-                "away": "34.9"
+                "home": "64.4",
+                "away": "35.6"
               },
               {
                 "key": "totalShots",
@@ -26368,7 +26368,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -26392,8 +26392,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "375",
-                "away": "192"
+                "home": "382",
+                "away": "203"
               },
               {
                 "key": "passPct",
@@ -26419,8 +26419,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "47'",
+          "statusText": "In Progress",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
           "details": {
@@ -26892,7 +26892,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27936,8 +27936,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
-          "statusText": "Second Half",
+          "clock": "51'",
+          "statusText": "In Progress",
           "stadium": "Olimpico",
           "venueCity": "Roma",
           "details": {
@@ -28391,8 +28391,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.7",
-                "away": "27.3"
+                "home": "72.9",
+                "away": "27.1"
               },
               {
                 "key": "totalShots",
@@ -28406,13 +28406,13 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -28436,8 +28436,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "317",
-                "away": "92"
+                "home": "335",
+                "away": "95"
               },
               {
                 "key": "passPct",
@@ -28463,7 +28463,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -28928,13 +28928,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.1",
-                "away": "49.9"
+                "home": "50.7",
+                "away": "49.3"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -28949,7 +28949,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -28973,8 +28973,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "252",
-                "away": "251"
+                "home": "259",
+                "away": "252"
               },
               {
                 "key": "passPct",
