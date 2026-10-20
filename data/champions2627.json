@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:06:48Z",
+  "lastUpdated": "2026-10-20T18:07:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24470,22 +24470,62 @@
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "53977884_18",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Mojmír Chytil",
+                "relatedPlayer": "Danijel Sturm",
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "53977910_19",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Samuel Isife",
+                "relatedPlayer": "Tomás Vlcek",
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "53977911_20",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Romelu Lukaku",
+                "relatedPlayer": "Vedat Muriqi",
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "53977912_21",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Dorgeles Nene",
+                "relatedPlayer": "Oguz Aydin",
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53",
-                "away": "47"
+                "home": "52.5",
+                "away": "47.5"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "11",
                 "away": "10"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -24520,8 +24560,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "229",
-                "away": "202"
+                "home": "230",
+                "away": "209"
               },
               {
                 "key": "passPct",
@@ -24547,7 +24587,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25047,7 +25087,7 @@
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "17"
+                "away": "18"
               },
               {
                 "key": "shotsOnTarget",
@@ -25057,7 +25097,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "foulsCommitted",
