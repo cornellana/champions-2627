@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:10:04Z",
+  "lastUpdated": "2026-10-20T18:11:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24515,8 +24515,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.3",
-                "away": "48.7"
+                "home": "51.4",
+                "away": "48.6"
               },
               {
                 "key": "totalShots",
@@ -24531,7 +24531,7 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -24560,8 +24560,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "231",
-                "away": "219"
+                "home": "234",
+                "away": "220"
               },
               {
                 "key": "passPct",
@@ -24587,7 +24587,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25082,8 +25082,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 65,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Aleksey Isayev",
+                "relatedPlayer": "Du Queiroz",
                 "teamName": "Sabah",
                 "text": null
               },
@@ -25092,8 +25092,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 65,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Orphé Mbina",
+                "relatedPlayer": "Kaheem Parris",
                 "teamName": "Sabah",
                 "text": null
               }
@@ -25101,8 +25101,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.3",
-                "away": "58.7"
+                "home": "40.5",
+                "away": "59.5"
               },
               {
                 "key": "totalShots",
@@ -25126,7 +25126,7 @@
               },
               {
                 "key": "offsides",
-                "home": "5",
+                "home": "6",
                 "away": "2"
               },
               {
@@ -25146,8 +25146,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
-                "away": "331"
+                "home": "227",
+                "away": "353"
               },
               {
                 "key": "passPct",
