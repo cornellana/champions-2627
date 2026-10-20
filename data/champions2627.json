@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:17:14Z",
+  "lastUpdated": "2026-10-20T20:18:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25838,8 +25838,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.7",
-                "away": "40.3"
+                "home": "60.2",
+                "away": "39.8"
               },
               {
                 "key": "totalShots",
@@ -25853,7 +25853,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "2"
               },
               {
@@ -25879,12 +25879,12 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "312",
-                "away": "198"
+                "home": "320",
+                "away": "199"
               },
               {
                 "key": "passPct",
@@ -25910,7 +25910,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26449,7 +26449,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -27383,13 +27383,23 @@
                 "relatedPlayer": "Oskar Pietuszewski",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "53987056_11",
+                "type": "SUBSTITUTION",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "Hwang In-Beom",
+                "relatedPlayer": "Gabri Veiga",
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32",
-                "away": "68"
+                "home": "31.7",
+                "away": "68.3"
               },
               {
                 "key": "totalShots",
@@ -27434,7 +27444,7 @@
               {
                 "key": "accuratePasses",
                 "home": "178",
-                "away": "420"
+                "away": "426"
               },
               {
                 "key": "passPct",
@@ -27460,7 +27470,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -27934,8 +27944,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.3",
-                "away": "51.7"
+                "home": "48.1",
+                "away": "51.9"
               },
               {
                 "key": "totalShots",
@@ -27980,7 +27990,7 @@
               {
                 "key": "accuratePasses",
                 "home": "249",
-                "away": "276"
+                "away": "277"
               },
               {
                 "key": "passPct",
@@ -28006,7 +28016,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28521,12 +28531,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.9",
-                "away": "28.1"
+                "home": "72.8",
+                "away": "27.2"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "1"
               },
               {
@@ -28566,7 +28576,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "367",
+                "home": "386",
                 "away": "113"
               },
               {
@@ -28593,7 +28603,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
