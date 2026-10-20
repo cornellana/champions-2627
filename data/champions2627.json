@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:03:40Z",
+  "lastUpdated": "2026-10-20T19:04:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25747,8 +25747,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "0",
-                "away": "0"
+                "home": "23.3",
+                "away": "76.7"
               },
               {
                 "key": "totalShots",
@@ -25768,7 +25768,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -25792,13 +25792,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "0",
-                "away": "0"
+                "home": "7",
+                "away": "27"
               },
               {
                 "key": "passPct",
-                "home": "0.0",
-                "away": "0.0"
+                "home": "0.8",
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -25819,7 +25819,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -25837,22 +25837,22 @@
                   "athleteID": "217092"
                 },
                 {
-                  "id": "362211",
-                  "jersey": 45,
-                  "name": "Abdukodir Khusanov",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "362211"
-                },
-                {
                   "id": "234878",
                   "jersey": 3,
                   "name": "Rúben Dias",
-                  "position": "CD-R",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "234878"
+                },
+                {
+                  "id": "362211",
+                  "jersey": 45,
+                  "name": "Abdukodir Khusanov",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "362211"
                 },
                 {
                   "id": "299910",
@@ -25909,22 +25909,22 @@
                   "athleteID": "410320"
                 },
                 {
-                  "id": "250787",
-                  "jersey": 47,
-                  "name": "Phil Foden",
-                  "position": "AM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "250787"
-                },
-                {
                   "id": "382966",
                   "jersey": 37,
                   "name": "Allan Elias",
-                  "position": "AM-R",
+                  "position": "AM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "382966"
+                },
+                {
+                  "id": "250787",
+                  "jersey": 47,
+                  "name": "Phil Foden",
+                  "position": "AM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "250787"
                 },
                 {
                   "id": "373927",
@@ -26225,8 +26225,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "6.2",
-                "away": "93.8"
+                "home": "37.3",
+                "away": "62.7"
               },
               {
                 "key": "totalShots",
@@ -26270,13 +26270,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "1",
-                "away": "29"
+                "home": "20",
+                "away": "35"
               },
               {
                 "key": "passPct",
-                "home": "0.5",
-                "away": "1.0"
+                "home": "0.9",
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -26297,7 +26297,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26739,7 +26739,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "In Progress",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27474,22 +27474,22 @@
                   "athleteID": "368992"
                 },
                 {
-                  "id": "403582",
-                  "jersey": 12,
-                  "name": "Xavi Espart",
-                  "position": "LB",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "403582"
-                },
-                {
                   "id": "176399",
                   "jersey": 2,
                   "name": "João Cancelo",
-                  "position": "RB",
+                  "position": "LB",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "176399"
+                },
+                {
+                  "id": "403582",
+                  "jersey": 12,
+                  "name": "Xavi Espart",
+                  "position": "RB",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "403582"
                 },
                 {
                   "id": "227765",
@@ -27659,8 +27659,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "0",
-                "away": "0"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
@@ -27684,7 +27684,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -27704,13 +27704,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "0",
-                "away": "0"
+                "home": "8",
+                "away": "8"
               },
               {
                 "key": "passPct",
-                "home": "0.0",
-                "away": "0.0"
+                "home": "0.7",
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -27731,7 +27731,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -27821,22 +27821,22 @@
                   "athleteID": "259481"
                 },
                 {
-                  "id": "387204",
-                  "jersey": 86,
-                  "name": "Rodrigo Mora",
-                  "position": "CF-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "387204"
-                },
-                {
                   "id": "204320",
                   "jersey": 7,
                   "name": "Lorenzo Pellegrini",
-                  "position": "CF-R",
+                  "position": "CF-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "204320"
+                },
+                {
+                  "id": "387204",
+                  "jersey": 86,
+                  "name": "Rodrigo Mora",
+                  "position": "CF-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "387204"
                 },
                 {
                   "id": "398120",
@@ -28155,8 +28155,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "84",
-                "away": "16"
+                "home": "79.5",
+                "away": "20.5"
               },
               {
                 "key": "totalShots",
@@ -28200,13 +28200,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "17",
-                "away": "1"
+                "home": "25",
+                "away": "4"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.3"
+                "away": "0.5"
               }
             ],
             "penalties": null
@@ -28227,13 +28227,13 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
             "homeLineup": {
-              "formation": "3-4-2-1",
+              "formation": "4-2-3-1",
               "players": [
                 {
                   "id": "362585",
@@ -28245,10 +28245,19 @@
                   "athleteID": "362585"
                 },
                 {
+                  "id": "258909",
+                  "jersey": 24,
+                  "name": "Jeff Chabot",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "258909"
+                },
+                {
                   "id": "289322",
                   "jersey": 3,
                   "name": "Ramon Hendriks",
-                  "position": "CD",
+                  "position": "CD-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "289322"
@@ -28257,25 +28266,34 @@
                   "id": "216225",
                   "jersey": 7,
                   "name": "Maximilian Mittelstädt",
-                  "position": "CD-L",
+                  "position": "LB",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "216225"
                 },
                 {
-                  "id": "258909",
-                  "jersey": 24,
-                  "name": "Jeff Chabot",
-                  "position": "CD-R",
+                  "id": "266839",
+                  "jersey": 4,
+                  "name": "Josha Vagnoman",
+                  "position": "RB",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "258909"
+                  "athleteID": "266839"
+                },
+                {
+                  "id": "336595",
+                  "jersey": 11,
+                  "name": "Bilal El Khannouss",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "336595"
                 },
                 {
                   "id": "290232",
                   "jersey": 6,
                   "name": "Angelo Stiller",
-                  "position": "CM-L",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "290232"
@@ -28284,28 +28302,10 @@
                   "id": "218714",
                   "jersey": 21,
                   "name": "Grischa Prömel",
-                  "position": "CM-R",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "218714"
-                },
-                {
-                  "id": "268951",
-                  "jersey": 10,
-                  "name": "Chris Führich",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "268951"
-                },
-                {
-                  "id": "266839",
-                  "jersey": 4,
-                  "name": "Josha Vagnoman",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "266839"
+                  "athleteID": "218714"
                 },
                 {
                   "id": "273300",
@@ -28317,19 +28317,19 @@
                   "athleteID": "273300"
                 },
                 {
-                  "id": "336595",
-                  "jersey": 11,
-                  "name": "Bilal El Khannouss",
-                  "position": "CF-L",
+                  "id": "268951",
+                  "jersey": 10,
+                  "name": "Chris Führich",
+                  "position": "AM-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "336595"
+                  "athleteID": "268951"
                 },
                 {
                   "id": "290811",
                   "jersey": 18,
                   "name": "Jamie Leweling",
-                  "position": "CF-R",
+                  "position": "AM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "290811"
@@ -28651,12 +28651,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.3",
-                "away": "66.7"
+                "home": "51",
+                "away": "49"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -28696,8 +28696,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "7",
-                "away": "13"
+                "home": "22",
+                "away": "19"
               },
               {
                 "key": "passPct",
