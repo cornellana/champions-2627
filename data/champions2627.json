@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:13:35Z",
+  "lastUpdated": "2026-10-20T19:14:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25758,8 +25758,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.9",
-                "away": "56.1"
+                "home": "48.2",
+                "away": "51.8"
               },
               {
                 "key": "totalShots",
@@ -25779,7 +25779,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -25803,13 +25803,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "40",
-                "away": "51"
+                "home": "51",
+                "away": "53"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -25826,11 +25826,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26232,7 +26232,18 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53980627_1",
+                "type": "GOAL",
+                "minute": 12,
+                "extraTime": null,
+                "playerName": "Elliot Anderson",
+                "relatedPlayer": null,
+                "teamName": "Manchester City",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
@@ -26241,12 +26252,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "2",
                 "away": "2"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -26282,7 +26293,7 @@
               {
                 "key": "accuratePasses",
                 "home": "71",
-                "away": "72"
+                "away": "73"
               },
               {
                 "key": "passPct",
@@ -26308,7 +26319,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26689,8 +26700,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.5",
-                "away": "47.5"
+                "home": "50.9",
+                "away": "49.1"
               },
               {
                 "key": "totalShots",
@@ -26709,7 +26720,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -26734,8 +26745,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "66",
-                "away": "61"
+                "home": "73",
+                "away": "72"
               },
               {
                 "key": "passPct",
@@ -26761,7 +26772,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27176,8 +27187,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.1",
-                "away": "62.9"
+                "home": "37.4",
+                "away": "62.6"
               },
               {
                 "key": "totalShots",
@@ -27196,7 +27207,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -27221,8 +27232,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "56",
-                "away": "99"
+                "home": "57",
+                "away": "101"
               },
               {
                 "key": "passPct",
@@ -27248,7 +27259,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -27681,18 +27692,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.9",
-                "away": "49.1"
+                "home": "50.4",
+                "away": "49.6"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "2"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "1"
+                "away": "0"
               },
               {
                 "key": "wonCorners",
@@ -27721,17 +27732,17 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "0",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "41",
-                "away": "42"
+                "home": "50",
+                "away": "49"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -27753,7 +27764,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28249,7 +28260,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -28673,12 +28684,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.6",
-                "away": "34.4"
+                "home": "71.4",
+                "away": "28.6"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "0"
               },
               {
@@ -28718,7 +28729,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "91",
+                "home": "122",
                 "away": "42"
               },
               {
