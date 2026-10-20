@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:26:04Z",
+  "lastUpdated": "2026-10-20T20:27:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25863,6 +25863,16 @@
                 "relatedPlayer": "Rio Ngumoha",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "53988184_15",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
@@ -25940,7 +25950,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26447,8 +26457,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.1",
-                "away": "38.9"
+                "home": "61.2",
+                "away": "38.8"
               },
               {
                 "key": "totalShots",
@@ -26462,7 +26472,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "7",
+                "home": "8",
                 "away": "0"
               },
               {
@@ -26492,7 +26502,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "460",
+                "home": "461",
                 "away": "283"
               },
               {
@@ -26519,7 +26529,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26960,8 +26970,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "49.9",
+                "away": "50.1"
               },
               {
                 "key": "totalShots",
@@ -27006,7 +27016,7 @@
               {
                 "key": "accuratePasses",
                 "home": "378",
-                "away": "375"
+                "away": "384"
               },
               {
                 "key": "passPct",
@@ -27032,7 +27042,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27493,18 +27503,28 @@
                 "relatedPlayer": "Gabri Veiga",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "53988185_12",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": "Souza",
+                "relatedPlayer": "Zaidu Sanusi",
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.8",
-                "away": "67.2"
+                "home": "33.8",
+                "away": "66.2"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "15"
+                "away": "16"
               },
               {
                 "key": "shotsOnTarget",
@@ -27543,7 +27563,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "212",
+                "home": "223",
                 "away": "475"
               },
               {
@@ -27570,7 +27590,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28176,7 +28196,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28696,6 +28716,36 @@
                 "relatedPlayer": null,
                 "teamName": "Slovan Bratislava",
                 "text": null
+              },
+              {
+                "id": "53988226_21",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slovan Bratislava",
+                "text": null
+              },
+              {
+                "id": "53988227_22",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slovan Bratislava",
+                "text": null
+              },
+              {
+                "id": "53988228_23",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
@@ -28716,12 +28766,12 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "1"
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "9"
               },
               {
@@ -28746,7 +28796,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "453",
+                "home": "455",
                 "away": "129"
               },
               {
@@ -28773,7 +28823,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -29253,13 +29303,23 @@
                 "relatedPlayer": null,
                 "teamName": "Atlético de Madrid",
                 "text": null
+              },
+              {
+                "id": "53988142_13",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": "Johnny Cardoso",
+                "relatedPlayer": "Álex Baena",
+                "teamName": "Atlético de Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.3",
-                "away": "49.7"
+                "home": "50.9",
+                "away": "49.1"
               },
               {
                 "key": "totalShots",
@@ -29273,12 +29333,12 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "3"
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "5"
               },
               {
@@ -29303,7 +29363,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "332",
+                "home": "339",
                 "away": "331"
               },
               {
