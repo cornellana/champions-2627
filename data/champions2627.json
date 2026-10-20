@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T16:58:32Z",
+  "lastUpdated": "2026-10-20T16:59:37Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24425,8 +24425,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "74.4",
-                "away": "25.6"
+                "home": "72.5",
+                "away": "27.5"
               },
               {
                 "key": "totalShots",
@@ -24445,7 +24445,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -24470,8 +24470,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "72",
-                "away": "21"
+                "home": "75",
+                "away": "25"
               },
               {
                 "key": "passPct",
@@ -24497,7 +24497,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -24941,8 +24941,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.6",
-                "away": "66.4"
+                "home": "35",
+                "away": "65"
               },
               {
                 "key": "totalShots",
@@ -24986,7 +24986,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "36",
+                "home": "38",
                 "away": "82"
               },
               {
