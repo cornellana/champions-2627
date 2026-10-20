@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:21:40Z",
+  "lastUpdated": "2026-10-20T20:22:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25930,7 +25930,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26408,8 +26408,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 63,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ryan McAidoo",
+                "relatedPlayer": "Floyd Samba",
                 "teamName": "Manchester City",
                 "text": null
               }
@@ -26489,7 +26489,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "62'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26992,7 +26992,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27530,7 +27530,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28009,13 +28009,23 @@
                 "relatedPlayer": "Fermín López with a through ball",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "53987671_18",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46",
-                "away": "54"
+                "home": "46.2",
+                "away": "53.8"
               },
               {
                 "key": "totalShots",
@@ -28059,7 +28069,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "250",
+                "home": "252",
                 "away": "306"
               },
               {
@@ -28086,7 +28096,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28601,8 +28611,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73",
-                "away": "27"
+                "home": "72.3",
+                "away": "27.7"
               },
               {
                 "key": "totalShots",
@@ -28622,7 +28632,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -28647,7 +28657,7 @@
               {
                 "key": "accuratePasses",
                 "home": "414",
-                "away": "120"
+                "away": "126"
               },
               {
                 "key": "passPct",
@@ -28673,8 +28683,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
-          "statusText": "Second Half",
+          "clock": "66'",
+          "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -29143,6 +29153,16 @@
                 "relatedPlayer": "Josha Vagnoman because of an injury",
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "53987629_8",
+                "type": "RED_CARD",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Morten Hjulmand",
+                "relatedPlayer": null,
+                "teamName": "Atlético de Madrid",
+                "text": null
               }
             ],
             "teamStats": [
@@ -29184,7 +29204,7 @@
               {
                 "key": "redCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "saves",
@@ -29194,7 +29214,7 @@
               {
                 "key": "accuratePasses",
                 "home": "322",
-                "away": "314"
+                "away": "315"
               },
               {
                 "key": "passPct",
