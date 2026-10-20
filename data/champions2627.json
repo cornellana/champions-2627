@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:06:09Z",
+  "lastUpdated": "2026-10-20T17:07:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24435,8 +24435,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.7",
-                "away": "32.3"
+                "home": "67.3",
+                "away": "32.7"
               },
               {
                 "key": "totalShots",
@@ -24481,7 +24481,7 @@
               {
                 "key": "accuratePasses",
                 "home": "87",
-                "away": "39"
+                "away": "40"
               },
               {
                 "key": "passPct",
@@ -24507,7 +24507,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -24951,8 +24951,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.7",
-                "away": "59.3"
+                "home": "38.7",
+                "away": "61.3"
               },
               {
                 "key": "totalShots",
@@ -24971,7 +24971,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -24996,8 +24996,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "67",
-                "away": "109"
+                "home": "73",
+                "away": "128"
               },
               {
                 "key": "passPct",
