@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:58:47Z",
+  "lastUpdated": "2026-10-20T00:32:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23981,9 +23981,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
-          "stadium": "Ulker Stadyumu",
-          "venueCity": "Estambul",
+          "statusText": null,
+          "stadium": "Şükrü Saracoğlu Stadium",
+          "venueCity": "Istanbul",
           "details": null
         },
         {
@@ -24002,9 +24002,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
-          "stadium": null,
-          "venueCity": null,
+          "statusText": null,
+          "stadium": "Baku Olympic Stadium",
+          "venueCity": "Baku",
           "details": null
         },
         {
@@ -24023,7 +24023,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": null
@@ -24044,7 +24044,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": null
@@ -24065,9 +24065,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Stadio Diego Armando Maradona",
-          "venueCity": "Nápoles",
+          "venueCity": "Napoli",
           "details": null
         },
         {
@@ -24086,9 +24086,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estádio do Dragão",
-          "venueCity": "Oporto",
+          "venueCity": "Porto",
           "details": null
         },
         {
@@ -24107,7 +24107,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": null
@@ -24128,7 +24128,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Olimpico",
           "venueCity": "Roma",
           "details": null
@@ -24149,7 +24149,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": null
