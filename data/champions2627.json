@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:23:53Z",
+  "lastUpdated": "2026-10-20T20:24:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25858,12 +25858,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.8",
-                "away": "38.2"
+                "home": "62",
+                "away": "38"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "16",
                 "away": "9"
               },
               {
@@ -25903,8 +25903,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "361",
-                "away": "207"
+                "home": "373",
+                "away": "210"
               },
               {
                 "key": "passPct",
@@ -25926,11 +25926,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-1",
+          "result": "4-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26412,22 +26412,42 @@
                 "relatedPlayer": "Floyd Samba",
                 "teamName": "Manchester City",
                 "text": null
+              },
+              {
+                "id": "53987833_15",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Oleksandr Zubkov",
+                "relatedPlayer": "João Mário",
+                "teamName": "AEK Atenas",
+                "text": null
+              },
+              {
+                "id": "53987857_16",
+                "type": "GOAL",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Phil Foden",
+                "relatedPlayer": "Rico Lewis",
+                "teamName": "Manchester City",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.1",
-                "away": "39.9"
+                "home": "60.7",
+                "away": "39.3"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "1"
               },
               {
@@ -26462,8 +26482,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "433",
-                "away": "281"
+                "home": "450",
+                "away": "282"
               },
               {
                 "key": "passPct",
@@ -26489,7 +26509,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26921,8 +26941,8 @@
                 "type": "GOAL",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Andreas Helmersen",
+                "relatedPlayer": "Sondre Fet",
                 "teamName": "Bodø/Glimt",
                 "text": null
               }
@@ -26930,8 +26950,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.2",
-                "away": "49.8"
+                "home": "51",
+                "away": "49"
               },
               {
                 "key": "totalShots",
@@ -26975,7 +26995,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "364",
+                "home": "377",
                 "away": "367"
               },
               {
@@ -27002,7 +27022,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27540,8 +27560,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
-          "statusText": "Second Half",
+          "clock": "62'",
+          "statusText": "In Progress",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": {
@@ -28035,8 +28055,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 59,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Maghnes Akliouche",
+                "relatedPlayer": "Khvicha Kvaratskhelia because of an injury",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               },
@@ -28045,8 +28065,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 60,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Karim Adeyemi",
+                "relatedPlayer": "Raphinha",
                 "teamName": "FC Barcelona",
                 "text": null
               },
@@ -28055,8 +28075,18 @@
                 "type": "SUBSTITUTION",
                 "minute": 60,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Gavi",
+                "relatedPlayer": "Pedri",
+                "teamName": "FC Barcelona",
+                "text": null
+              },
+              {
+                "id": "53987947_24",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": "Rodri",
+                "relatedPlayer": "Marc Bernal",
                 "teamName": "FC Barcelona",
                 "text": null
               }
@@ -28064,8 +28094,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.2",
-                "away": "53.8"
+                "home": "46",
+                "away": "54"
               },
               {
                 "key": "totalShots",
@@ -28110,7 +28140,7 @@
               {
                 "key": "accuratePasses",
                 "home": "252",
-                "away": "306"
+                "away": "310"
               },
               {
                 "key": "passPct",
@@ -28136,7 +28166,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28661,8 +28691,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.8",
-                "away": "27.2"
+                "home": "73.5",
+                "away": "26.5"
               },
               {
                 "key": "totalShots",
@@ -28706,8 +28736,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "425",
-                "away": "126"
+                "home": "453",
+                "away": "129"
               },
               {
                 "key": "passPct",
@@ -28733,8 +28763,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
-          "statusText": "Second Half",
+          "clock": "68'",
+          "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -31952,6 +31982,13 @@
       "athleteID": null
     },
     {
+      "player": "Phil Foden",
+      "team": "Manchester City",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Raphinha",
       "team": "FC Barcelona",
       "goals": 2,
@@ -32043,6 +32080,13 @@
       "athleteID": null
     },
     {
+      "player": "Andreas Helmersen",
+      "team": "Bodø/Glimt",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Andrija Maksimovic",
       "team": "RB Leipzig",
       "goals": 1,
@@ -32052,20 +32096,6 @@
     {
       "player": "Ange-Yoan Bonny",
       "team": "Inter de Milán",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Anis Hadj Moussa",
-      "team": "Feyenoord",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Anthony Gordon",
-      "team": "FC Barcelona",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
@@ -32099,6 +32129,18 @@
     {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
+      "player": "Rico Lewis",
+      "team": "Manchester City",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
+      "player": "Sondre Fet",
+      "team": "Bodø/Glimt",
       "goals": 2,
       "athleteID": null
     },
@@ -32297,18 +32339,6 @@
     {
       "player": "Florian Wirtz",
       "team": "Liverpool",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Fran García",
-      "team": "Real Betis",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Fábio Silva",
-      "team": "Borussia Dortmund",
       "goals": 1,
       "athleteID": null
     }
