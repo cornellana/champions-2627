@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:25:19Z",
+  "lastUpdated": "2026-10-20T18:26:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,8 +23980,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
-          "statusText": "Second Half",
+          "clock": "83'",
+          "statusText": "In Progress",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -24525,8 +24525,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.9",
-                "away": "51.1"
+                "home": "50.1",
+                "away": "49.9"
               },
               {
                 "key": "totalShots",
@@ -24565,13 +24565,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "272",
-                "away": "287"
+                "home": "301",
+                "away": "299"
               },
               {
                 "key": "passPct",
@@ -24597,7 +24597,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25152,8 +25152,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Abdulla Xaybulayev",
+                "relatedPlayer": "Umarali Rakhmonaliev",
                 "teamName": "Sabah",
                 "text": null
               },
@@ -25162,8 +25162,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Christian Nwachukwu",
+                "relatedPlayer": "Joy-Lance Mickels",
                 "teamName": "Sabah",
                 "text": null
               }
@@ -25171,13 +25171,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.4",
-                "away": "56.6"
+                "home": "43.3",
+                "away": "56.7"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "23"
+                "away": "22"
               },
               {
                 "key": "shotsOnTarget",
@@ -25192,7 +25192,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -25216,8 +25216,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "284",
-                "away": "387"
+                "home": "292",
+                "away": "399"
               },
               {
                 "key": "passPct",
