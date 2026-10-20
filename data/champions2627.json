@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:41:01Z",
+  "lastUpdated": "2026-10-20T19:42:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25377,13 +25377,13 @@
                   "athleteID": "270821"
                 },
                 {
-                  "id": "379588",
-                  "jersey": 73,
-                  "name": "Rio Ngumoha",
+                  "id": "274632",
+                  "jersey": 38,
+                  "name": "Ryan Gravenberch",
                   "position": "AM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "379588"
+                  "athleteID": "274632"
                 },
                 {
                   "id": "356075",
@@ -25395,13 +25395,13 @@
                   "athleteID": "356075"
                 },
                 {
-                  "id": "274632",
-                  "jersey": 38,
-                  "name": "Ryan Gravenberch",
+                  "id": "249299",
+                  "jersey": 10,
+                  "name": "Alexis Mac Allister",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "274632"
+                  "athleteID": "249299"
                 },
                 {
                   "id": "350661",
@@ -25422,13 +25422,13 @@
                   "athleteID": "249524"
                 },
                 {
-                  "id": "249299",
-                  "jersey": 10,
-                  "name": "Alexis Mac Allister",
+                  "id": "379588",
+                  "jersey": 73,
+                  "name": "Rio Ngumoha",
                   "position": "AM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "249299"
+                  "athleteID": "379588"
                 },
                 {
                   "id": "32572",
@@ -25788,23 +25788,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55",
-                "away": "45"
+                "home": "53.6",
+                "away": "46.4"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -25828,13 +25828,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
-                "away": "159"
+                "home": "201",
+                "away": "170"
               },
               {
                 "key": "passPct",
@@ -25860,7 +25860,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26287,17 +26287,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.8",
-                "away": "37.2"
+                "home": "62.9",
+                "away": "37.1"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "10",
                 "away": "2"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -26328,12 +26328,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "0"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "291",
-                "away": "168"
+                "home": "300",
+                "away": "170"
               },
               {
                 "key": "passPct",
@@ -26359,7 +26359,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "37'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26822,7 +26822,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27233,16 +27233,27 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "53984142_1",
+                "type": "YELLOW_CARD",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Lutsharel Geertruida",
+                "relatedPlayer": null,
+                "teamName": "PSV",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.9",
-                "away": "67.1"
+                "home": "33",
+                "away": "67"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "8"
               },
               {
@@ -27258,7 +27269,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -27268,7 +27279,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -27282,8 +27293,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "138",
-                "away": "313"
+                "home": "140",
+                "away": "316"
               },
               {
                 "key": "passPct",
@@ -27305,11 +27316,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -27774,8 +27785,8 @@
                 "type": "GOAL",
                 "minute": 38,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Désiré Doué",
+                "relatedPlayer": "João Neves with a headed pass",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               }
@@ -27783,17 +27794,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "50.9",
+                "away": "49.1"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "1"
               },
               {
@@ -27828,8 +27839,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "164",
-                "away": "158"
+                "home": "171",
+                "away": "170"
               },
               {
                 "key": "passPct",
@@ -27855,7 +27866,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28382,7 +28393,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -28827,8 +28838,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.9",
-                "away": "45.1"
+                "home": "52.7",
+                "away": "47.3"
               },
               {
                 "key": "totalShots",
@@ -28873,12 +28884,12 @@
               {
                 "key": "accuratePasses",
                 "home": "232",
-                "away": "184"
+                "away": "204"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -31491,6 +31502,13 @@
       "athleteID": null
     },
     {
+      "player": "Désiré Doué",
+      "team": "Paris Saint-Germain",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Florian Flecker",
       "team": "LASK",
       "goals": 2,
@@ -31668,13 +31686,6 @@
     {
       "player": "Antonio Rüdiger",
       "team": "Real Madrid",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Archie Brown",
-      "team": "Fenerbahçe",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
