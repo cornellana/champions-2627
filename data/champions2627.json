@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:00:42Z",
+  "lastUpdated": "2026-10-20T20:02:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -26852,8 +26852,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -27278,8 +27278,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.8",
-                "away": "67.2"
+                "home": "32.9",
+                "away": "67.1"
               },
               {
                 "key": "totalShots",
@@ -27323,8 +27323,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "155",
-                "away": "353"
+                "home": "156",
+                "away": "351"
               },
               {
                 "key": "passPct",
@@ -27896,8 +27896,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
           "details": {
@@ -28351,8 +28351,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.9",
-                "away": "27.1"
+                "home": "73",
+                "away": "27"
               },
               {
                 "key": "totalShots",
@@ -28396,7 +28396,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "301",
+                "home": "302",
                 "away": "88"
               },
               {
@@ -28423,8 +28423,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -28863,13 +28863,23 @@
                 "relatedPlayer": null,
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "53985319_4",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Ademola Lookman",
+                "relatedPlayer": "Jonathan David",
+                "teamName": "Atlético de Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "51.5",
+                "away": "48.5"
               },
               {
                 "key": "totalShots",
@@ -28914,7 +28924,7 @@
               {
                 "key": "accuratePasses",
                 "home": "237",
-                "away": "221"
+                "away": "222"
               },
               {
                 "key": "passPct",
