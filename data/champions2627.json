@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:24:32Z",
+  "lastUpdated": "2026-10-20T19:25:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25758,8 +25758,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "52.9",
+                "away": "47.1"
               },
               {
                 "key": "totalShots",
@@ -25778,7 +25778,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "2"
               },
               {
@@ -25803,8 +25803,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "114",
-                "away": "92"
+                "home": "118",
+                "away": "97"
               },
               {
                 "key": "passPct",
@@ -25830,7 +25830,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26319,7 +26319,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26510,7 +26510,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-3-3",
+              "formation": "4-4-2",
               "players": [
                 {
                   "id": "217655",
@@ -26558,22 +26558,31 @@
                   "athleteID": "333755"
                 },
                 {
+                  "id": "208353",
+                  "jersey": 19,
+                  "name": "Sondre Brunstad Fet",
+                  "position": "CM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "208353"
+                },
+                {
                   "id": "205924",
                   "jersey": 7,
                   "name": "Patrick Berg",
-                  "position": "CM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "205924"
                 },
                 {
-                  "id": "208353",
-                  "jersey": 19,
-                  "name": "Sondre Brunstad Fet",
+                  "id": "235789",
+                  "jersey": 10,
+                  "name": "Jens Petter Hauge",
                   "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "208353"
+                  "athleteID": "235789"
                 },
                 {
                   "id": "303740",
@@ -26588,25 +26597,16 @@
                   "id": "218561",
                   "jersey": 9,
                   "name": "Andreas Helmersen",
-                  "position": "F",
+                  "position": "CF-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "218561"
                 },
                 {
-                  "id": "235789",
-                  "jersey": 10,
-                  "name": "Jens Petter Hauge",
-                  "position": "LF",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "235789"
-                },
-                {
                   "id": "307798",
                   "jersey": 11,
                   "name": "Ole Didrik Blomberg",
-                  "position": "RF",
+                  "position": "CF-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "307798"
@@ -26700,12 +26700,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.4",
-                "away": "51.6"
+                "home": "50.6",
+                "away": "49.4"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "0"
               },
               {
@@ -26745,7 +26745,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "107",
+                "home": "118",
                 "away": "120"
               },
               {
@@ -26772,7 +26772,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27259,8 +27259,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
-          "statusText": "First Half",
+          "clock": "23'",
+          "statusText": "In Progress",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": {
@@ -27713,18 +27713,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.4",
-                "away": "52.6"
+                "home": "51.3",
+                "away": "48.7"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "3"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -27734,7 +27734,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -27758,8 +27758,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "79",
-                "away": "90"
+                "home": "97",
+                "away": "93"
               },
               {
                 "key": "passPct",
@@ -27785,7 +27785,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28302,8 +28302,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
-          "statusText": "First Half",
+          "clock": "26'",
+          "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -28737,8 +28737,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.9",
-                "away": "34.1"
+                "home": "67.5",
+                "away": "32.5"
               },
               {
                 "key": "totalShots",
@@ -28782,7 +28782,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "177",
+                "home": "193",
                 "away": "82"
               },
               {
