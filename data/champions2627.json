@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:39:17Z",
+  "lastUpdated": "2026-10-20T20:40:23Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25918,8 +25918,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.4",
-                "away": "42.6"
+                "home": "57.2",
+                "away": "42.8"
               },
               {
                 "key": "totalShots",
@@ -25964,7 +25964,7 @@
               {
                 "key": "accuratePasses",
                 "home": "434",
-                "away": "306"
+                "away": "310"
               },
               {
                 "key": "passPct",
@@ -25990,7 +25990,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26599,7 +26599,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -27055,13 +27055,23 @@
                 "relatedPlayer": "Andreas Helmersen",
                 "teamName": "Bodø/Glimt",
                 "text": null
+              },
+              {
+                "id": "53989897_16",
+                "type": "SUBSTITUTION",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.9",
-                "away": "54.1"
+                "home": "45.7",
+                "away": "54.3"
               },
               {
                 "key": "totalShots",
@@ -27106,7 +27116,7 @@
               {
                 "key": "accuratePasses",
                 "home": "415",
-                "away": "504"
+                "away": "509"
               },
               {
                 "key": "passPct",
@@ -27132,7 +27142,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27633,18 +27643,38 @@
                 "relatedPlayer": "Victor Froholdt",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "53989898_16",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "PSV",
+                "text": null
+              },
+              {
+                "id": "53989899_17",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "PSV",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.1",
-                "away": "62.9"
+                "home": "37.4",
+                "away": "62.6"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "16"
+                "away": "17"
               },
               {
                 "key": "shotsOnTarget",
@@ -27683,8 +27713,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "271",
-                "away": "495"
+                "home": "275",
+                "away": "498"
               },
               {
                 "key": "passPct",
@@ -27710,7 +27740,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28264,12 +28294,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.5",
-                "away": "53.5"
+                "home": "47",
+                "away": "53"
               },
               {
                 "key": "totalShots",
-                "home": "18",
+                "home": "19",
                 "away": "13"
               },
               {
@@ -28309,7 +28339,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "329",
+                "home": "337",
                 "away": "390"
               },
               {
@@ -28336,7 +28366,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28916,17 +28946,27 @@
                 "relatedPlayer": "Marten de Roon",
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "53989873_27",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Kevin Wimmer",
+                "relatedPlayer": "Sandro Cruz",
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.8",
-                "away": "26.2"
+                "home": "73.6",
+                "away": "26.4"
               },
               {
                 "key": "totalShots",
-                "home": "22",
+                "home": "23",
                 "away": "1"
               },
               {
@@ -28936,12 +28976,12 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "1"
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "10"
               },
               {
@@ -28966,8 +29006,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "545",
-                "away": "151"
+                "home": "548",
+                "away": "152"
               },
               {
                 "key": "passPct",
@@ -28993,7 +29033,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -29518,8 +29558,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "52.5",
+                "away": "47.5"
               },
               {
                 "key": "totalShots",
@@ -29538,12 +29578,12 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "12",
+                "home": "13",
                 "away": "6"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -29564,7 +29604,7 @@
               {
                 "key": "accuratePasses",
                 "home": "393",
-                "away": "353"
+                "away": "358"
               },
               {
                 "key": "passPct",
