@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:34:02Z",
+  "lastUpdated": "2026-10-20T18:35:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23976,11 +23976,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-1",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24560,23 +24560,43 @@
                 "relatedPlayer": "Mubarak Suleiman",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "53978735_27",
+                "type": "YELLOW_CARD",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": "Ismail Yüksek",
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "53978746_28",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Pavel Kacor",
+                "relatedPlayer": "Emmanuel Ayaosi with a cross",
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.2",
-                "away": "50.8"
+                "home": "48.9",
+                "away": "51.1"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "14"
+                "away": "15"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -24595,7 +24615,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -24611,7 +24631,7 @@
               {
                 "key": "accuratePasses",
                 "home": "335",
-                "away": "345"
+                "away": "350"
               },
               {
                 "key": "passPct",
@@ -24632,13 +24652,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "1-2",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+1'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -25216,13 +25236,23 @@
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53978748_22",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": 1,
+                "playerName": "Ethan Nwaneri",
+                "relatedPlayer": "Fábio Silva",
+                "teamName": "Borussia Dortmund",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44",
-                "away": "56"
+                "home": "44.9",
+                "away": "55.1"
               },
               {
                 "key": "totalShots",
@@ -25266,8 +25296,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "316",
-                "away": "416"
+                "home": "332",
+                "away": "418"
               },
               {
                 "key": "passPct",
@@ -28385,6 +28415,12 @@
       "athleteID": null
     },
     {
+      "player": "Emmanuel Ayaosi with a cross",
+      "team": "Slavia de Praga",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Enzo Fernández",
       "team": "Manchester City",
       "goals": 1,
@@ -28453,12 +28489,6 @@
     {
       "player": "Gerard Moreno",
       "team": "Villarreal",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Gonçalo Borges with a cross",
-      "team": "Feyenoord",
       "goals": 1,
       "athleteID": null
     }
