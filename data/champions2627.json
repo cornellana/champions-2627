@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:32:56Z",
+  "lastUpdated": "2026-10-20T18:34:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24565,18 +24565,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.7",
-                "away": "50.3"
+                "home": "49.2",
+                "away": "50.8"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -24586,7 +24586,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "offsides",
@@ -24605,13 +24605,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
                 "home": "335",
-                "away": "338"
+                "away": "345"
               },
               {
                 "key": "passPct",
@@ -25221,8 +25221,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.6",
-                "away": "56.4"
+                "home": "44",
+                "away": "56"
               },
               {
                 "key": "totalShots",
@@ -25266,8 +25266,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "310",
-                "away": "415"
+                "home": "316",
+                "away": "416"
               },
               {
                 "key": "passPct",
