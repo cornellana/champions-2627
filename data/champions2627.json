@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:00:43Z",
+  "lastUpdated": "2026-10-20T17:01:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23976,12 +23976,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-0",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
           "clock": "15'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -24420,23 +24420,33 @@
                 "relatedPlayer": "Nélson Semedo",
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "53976371_3",
+                "type": "GOAL",
+                "minute": 15,
+                "extraTime": null,
+                "playerName": "Lukás Provod",
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.5",
-                "away": "27.5"
+                "home": "67.3",
+                "away": "32.7"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -24470,13 +24480,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "75",
-                "away": "25"
+                "home": "79",
+                "away": "34"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.7"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -24497,8 +24507,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
-          "statusText": "In Progress",
+          "clock": "16'",
+          "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -24941,8 +24951,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.6",
-                "away": "64.4"
+                "home": "34.3",
+                "away": "65.7"
               },
               {
                 "key": "totalShots",
@@ -24961,7 +24971,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -24986,8 +24996,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "40",
-                "away": "83"
+                "home": "47",
+                "away": "105"
               },
               {
                 "key": "passPct",
