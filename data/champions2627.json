@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:18:09Z",
+  "lastUpdated": "2026-10-20T17:19:14Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,8 +23980,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
-          "statusText": "In Progress",
+          "clock": "34'",
+          "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -24440,13 +24440,23 @@
                 "relatedPlayer": "Nathan Aké because of an injury",
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "53976864_9",
+                "type": "YELLOW_CARD",
+                "minute": 31,
+                "extraTime": null,
+                "playerName": "N'Golo Kanté",
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.1",
-                "away": "40.9"
+                "home": "56.7",
+                "away": "43.3"
               },
               {
                 "key": "totalShots",
@@ -24461,11 +24471,11 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "4"
               },
               {
@@ -24475,7 +24485,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -24490,8 +24500,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "120",
-                "away": "81"
+                "home": "123",
+                "away": "93"
               },
               {
                 "key": "passPct",
@@ -24517,7 +24527,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
