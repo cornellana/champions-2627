@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:07:15Z",
+  "lastUpdated": "2026-10-20T17:08:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24507,7 +24507,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -24945,6 +24945,16 @@
                 "playerName": "Serhou Guirassy",
                 "relatedPlayer": null,
                 "teamName": "Borussia Dortmund",
+                "text": null
+              },
+              {
+                "id": "53976544_6",
+                "type": "YELLOW_CARD",
+                "minute": 22,
+                "extraTime": null,
+                "playerName": "Steve Solvet",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
                 "text": null
               }
             ],
