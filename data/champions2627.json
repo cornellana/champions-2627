@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:12:51Z",
+  "lastUpdated": "2026-10-20T20:13:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25828,8 +25828,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.1",
-                "away": "40.9"
+                "home": "59.2",
+                "away": "40.8"
               },
               {
                 "key": "totalShots",
@@ -25843,13 +25843,13 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "2"
               },
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -25873,8 +25873,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "290",
-                "away": "188"
+                "home": "295",
+                "away": "191"
               },
               {
                 "key": "passPct",
@@ -25900,7 +25900,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26357,12 +26357,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.5",
-                "away": "36.5"
+                "home": "62.8",
+                "away": "37.2"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "3"
               },
               {
@@ -26403,7 +26403,7 @@
               {
                 "key": "accuratePasses",
                 "home": "413",
-                "away": "229"
+                "away": "236"
               },
               {
                 "key": "passPct",
@@ -26429,7 +26429,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26840,8 +26840,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.3",
-                "away": "49.7"
+                "home": "48.2",
+                "away": "51.8"
               },
               {
                 "key": "totalShots",
@@ -26861,7 +26861,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -26885,8 +26885,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "282",
-                "away": "282"
+                "home": "288",
+                "away": "316"
               },
               {
                 "key": "passPct",
@@ -26912,7 +26912,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27410,7 +27410,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -27884,8 +27884,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.4",
-                "away": "50.6"
+                "home": "48.2",
+                "away": "51.8"
               },
               {
                 "key": "totalShots",
@@ -27900,11 +27900,11 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "8"
               },
               {
@@ -27929,8 +27929,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "222",
-                "away": "231"
+                "home": "231",
+                "away": "255"
               },
               {
                 "key": "passPct",
@@ -27956,7 +27956,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28513,7 +28513,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -28988,8 +28988,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.2",
-                "away": "47.8"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
@@ -29008,7 +29008,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "4"
               },
               {
@@ -29033,7 +29033,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "302",
+                "home": "303",
                 "away": "274"
               },
               {
