@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:08:04Z",
+  "lastUpdated": "2026-10-20T19:09:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25758,8 +25758,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35",
-                "away": "65"
+                "home": "41.8",
+                "away": "58.2"
               },
               {
                 "key": "totalShots",
@@ -25778,7 +25778,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -25803,13 +25803,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "12",
-                "away": "28"
+                "home": "24",
+                "away": "35"
               },
               {
                 "key": "passPct",
-                "home": "0.6",
-                "away": "0.7"
+                "home": "0.8",
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -25830,7 +25830,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26308,7 +26308,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26761,7 +26761,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27248,8 +27248,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
-          "statusText": "First Half",
+          "clock": "6'",
+          "statusText": "In Progress",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": {
@@ -27681,17 +27681,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -27722,17 +27722,17 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "0"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "20",
-                "away": "18"
+                "home": "24",
+                "away": "21"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
-                "away": "0.8"
+                "home": "0.8",
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -27753,7 +27753,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28177,12 +28177,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "87.2",
-                "away": "12.8"
+                "home": "88.4",
+                "away": "11.6"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -28192,7 +28192,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -28222,7 +28222,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "64",
+                "home": "70",
                 "away": "5"
               },
               {
@@ -28249,7 +28249,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -28673,12 +28673,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50",
-                "away": "50"
+                "home": "51.9",
+                "away": "48.1"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -28688,7 +28688,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -28718,7 +28718,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "43",
+                "home": "47",
                 "away": "42"
               },
               {
