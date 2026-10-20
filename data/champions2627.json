@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:27:30Z",
+  "lastUpdated": "2026-10-20T18:28:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24520,13 +24520,33 @@
                 "relatedPlayer": "Oskar Kubiak",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "53978520_23",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Irfan Can Kahveci",
+                "relatedPlayer": "Mason Greenwood",
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "53978521_24",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Ismail Yüksek",
+                "relatedPlayer": "Kerem Aktürkoglu",
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
@@ -24545,7 +24565,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "13"
               },
               {
@@ -24570,8 +24590,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "307",
-                "away": "299"
+                "home": "315",
+                "away": "315"
               },
               {
                 "key": "passPct",
@@ -24597,7 +24617,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25176,7 +25196,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "22"
               },
               {
@@ -25192,7 +25212,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -25216,8 +25236,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "292",
-                "away": "399"
+                "home": "293",
+                "away": "400"
               },
               {
                 "key": "passPct",
