@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:02:51Z",
+  "lastUpdated": "2026-10-20T20:03:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -26307,8 +26307,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.7",
-                "away": "35.3"
+                "home": "64.4",
+                "away": "35.6"
               },
               {
                 "key": "totalShots",
@@ -26353,7 +26353,7 @@
               {
                 "key": "accuratePasses",
                 "home": "363",
-                "away": "189"
+                "away": "192"
               },
               {
                 "key": "passPct",
@@ -26852,7 +26852,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27896,8 +27896,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
-          "statusText": "Second Half",
+          "clock": "47'",
+          "statusText": "In Progress",
           "stadium": "Olimpico",
           "venueCity": "Roma",
           "details": {
@@ -28351,8 +28351,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73",
-                "away": "27"
+                "home": "72",
+                "away": "28"
               },
               {
                 "key": "totalShots",
@@ -28377,7 +28377,7 @@
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -28396,8 +28396,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "302",
-                "away": "88"
+                "home": "304",
+                "away": "92"
               },
               {
                 "key": "passPct",
@@ -28423,7 +28423,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -28878,18 +28878,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.5",
-                "away": "48.5"
+                "home": "49.8",
+                "away": "50.2"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -28898,7 +28898,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "2"
               },
               {
@@ -28924,7 +28924,7 @@
               {
                 "key": "accuratePasses",
                 "home": "237",
-                "away": "222"
+                "away": "239"
               },
               {
                 "key": "passPct",
