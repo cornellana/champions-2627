@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:41:29Z",
+  "lastUpdated": "2026-10-20T20:42:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25919,8 +25919,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "James McConnell",
+                "relatedPlayer": "Trey Nyoni",
                 "teamName": "Liverpool",
                 "text": null
               }
@@ -25928,8 +25928,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.1",
-                "away": "42.9"
+                "home": "56.4",
+                "away": "43.6"
               },
               {
                 "key": "totalShots",
@@ -25973,8 +25973,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "434",
-                "away": "312"
+                "home": "439",
+                "away": "327"
               },
               {
                 "key": "passPct",
@@ -26000,7 +26000,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26532,13 +26532,33 @@
                 "relatedPlayer": "Ryan McAidoo",
                 "teamName": "Manchester City",
                 "text": null
+              },
+              {
+                "id": "53990099_20",
+                "type": "SUBSTITUTION",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Kaden Braithwaite",
+                "relatedPlayer": "Rúben Dias",
+                "teamName": "Manchester City",
+                "text": null
+              },
+              {
+                "id": "53990100_21",
+                "type": "SUBSTITUTION",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Mijat Gacinovic",
+                "relatedPlayer": "Kervin Arriaga",
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.9",
-                "away": "38.1"
+                "home": "62.4",
+                "away": "37.6"
               },
               {
                 "key": "totalShots",
@@ -26582,7 +26602,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "546",
+                "home": "558",
                 "away": "322"
               },
               {
@@ -26609,7 +26629,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -27081,8 +27101,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 79,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Giovane",
+                "relatedPlayer": "Noa Lang",
                 "teamName": "Nápoles",
                 "text": null
               },
@@ -27091,8 +27111,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 79,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Sam Beukema",
+                "relatedPlayer": "Leonardo Spinazzola",
                 "teamName": "Nápoles",
                 "text": null
               }
@@ -27100,8 +27120,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.5",
-                "away": "54.5"
+                "home": "45.6",
+                "away": "54.4"
               },
               {
                 "key": "totalShots",
@@ -27115,7 +27135,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
@@ -27145,8 +27165,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "416",
-                "away": "513"
+                "home": "417",
+                "away": "514"
               },
               {
                 "key": "passPct",
@@ -27172,7 +27192,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27714,16 +27734,16 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "4"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "8"
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -27743,7 +27763,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "283",
+                "home": "284",
                 "away": "510"
               },
               {
@@ -27770,7 +27790,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28319,13 +28339,23 @@
                 "relatedPlayer": "Xavi Espart",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "53990101_27",
+                "type": "SUBSTITUTION",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47",
-                "away": "53"
+                "home": "47.1",
+                "away": "52.9"
               },
               {
                 "key": "totalShots",
@@ -28369,8 +28399,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "337",
-                "away": "390"
+                "home": "348",
+                "away": "397"
               },
               {
                 "key": "passPct",
@@ -28396,7 +28426,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -28991,12 +29021,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.3",
-                "away": "26.7"
+                "home": "72.7",
+                "away": "27.3"
               },
               {
                 "key": "totalShots",
-                "home": "22",
+                "home": "23",
                 "away": "1"
               },
               {
@@ -29036,8 +29066,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "548",
-                "away": "156"
+                "home": "568",
+                "away": "168"
               },
               {
                 "key": "passPct",
@@ -29063,8 +29093,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
-          "statusText": "Second Half",
+          "clock": "86'",
+          "statusText": "In Progress",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
