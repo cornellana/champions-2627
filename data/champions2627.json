@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:24:41Z",
+  "lastUpdated": "2026-10-20T17:25:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24455,8 +24455,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54",
-                "away": "46"
+                "home": "55.8",
+                "away": "44.2"
               },
               {
                 "key": "totalShots",
@@ -24500,8 +24500,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "130",
-                "away": "111"
+                "home": "142",
+                "away": "113"
               },
               {
                 "key": "passPct",
@@ -24523,12 +24523,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
-          "statusText": "First Half",
+          "clock": "40'",
+          "statusText": "In Progress",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -24976,6 +24976,16 @@
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53977078_7",
+                "type": "GOAL",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Aden McCarthy",
+                "relatedPlayer": "Tymoteusz Puchacz with a cross following a set piece situation",
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
@@ -24986,12 +24996,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "11"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "5"
               },
               {
@@ -27890,6 +27900,13 @@
       "athleteID": null
     },
     {
+      "player": "Aden McCarthy",
+      "team": "Sabah",
+      "goals": 1,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Aleksey Batrakov",
       "team": "Galatasaray",
       "goals": 1,
@@ -27969,13 +27986,6 @@
     {
       "player": "Ayase Ueda",
       "team": "Lille",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Benjamin Sesko",
-      "team": "Manchester United",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
