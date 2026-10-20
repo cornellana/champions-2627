@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:44:48Z",
+  "lastUpdated": "2026-10-20T20:45:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -25928,8 +25928,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.6",
-                "away": "44.4"
+                "home": "56",
+                "away": "44"
               },
               {
                 "key": "totalShots",
@@ -25973,7 +25973,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "442",
+                "home": "449",
                 "away": "344"
               },
               {
@@ -26000,7 +26000,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26567,8 +26567,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.6",
-                "away": "37.4"
+                "home": "63.5",
+                "away": "36.5"
               },
               {
                 "key": "totalShots",
@@ -26588,7 +26588,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -26612,7 +26612,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "568",
+                "home": "593",
                 "away": "325"
               },
               {
@@ -26639,7 +26639,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -27125,6 +27125,46 @@
                 "relatedPlayer": "Leonardo Spinazzola",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "53990431_19",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
+              },
+              {
+                "id": "53990432_20",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
+              },
+              {
+                "id": "53990433_21",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
+              },
+              {
+                "id": "53990434_22",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
               }
             ],
             "teamStats": [
@@ -27202,7 +27242,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27723,6 +27763,16 @@
                 "relatedPlayer": "Esmir Bajraktarevic",
                 "teamName": "PSV",
                 "text": null
+              },
+              {
+                "id": "53990366_21",
+                "type": "SUBSTITUTION",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": "Ryan Flamingo",
+                "relatedPlayer": "Filip Kostic because of an injury",
+                "teamName": "PSV",
+                "text": null
               }
             ],
             "teamStats": [
@@ -27800,7 +27850,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28385,7 +28435,7 @@
                 "type": "GOAL",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Vitinha",
                 "relatedPlayer": null,
                 "teamName": "Paris Saint-Germain",
                 "text": null
@@ -28394,12 +28444,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.8",
-                "away": "52.2"
+                "home": "47.7",
+                "away": "52.3"
               },
               {
                 "key": "totalShots",
-                "home": "20",
+                "home": "21",
                 "away": "14"
               },
               {
@@ -28440,7 +28490,7 @@
               {
                 "key": "accuratePasses",
                 "home": "360",
-                "away": "400"
+                "away": "401"
               },
               {
                 "key": "passPct",
@@ -28466,7 +28516,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -29061,8 +29111,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.2",
-                "away": "26.8"
+                "home": "72.9",
+                "away": "27.1"
               },
               {
                 "key": "totalShots",
@@ -29106,8 +29156,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "582",
-                "away": "168"
+                "home": "589",
+                "away": "174"
               },
               {
                 "key": "passPct",
@@ -29133,7 +29183,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
@@ -29659,13 +29709,23 @@
                 "type": "SUBSTITUTION",
                 "minute": 87,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Alexander Sørloth",
+                "relatedPlayer": "Giuliano Simeone",
                 "teamName": "Atlético de Madrid",
                 "text": null
               },
               {
                 "id": "53990337_18",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": "Leo Sauer",
+                "relatedPlayer": "Chris Führich",
+                "teamName": "Stuttgart",
+                "text": null
+              },
+              {
+                "id": "53990430_19",
                 "type": "SUBSTITUTION",
                 "minute": 87,
                 "extraTime": null,
@@ -29678,8 +29738,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "52.2",
+                "away": "47.8"
               },
               {
                 "key": "totalShots",
@@ -29698,8 +29758,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "13",
-                "away": "7"
+                "home": "14",
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -29723,7 +29783,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "402",
+                "home": "405",
                 "away": "367"
               },
               {
@@ -32468,6 +32528,13 @@
       "athleteID": null
     },
     {
+      "player": "Vitinha",
+      "team": "Paris Saint-Germain",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Abdallah Sima",
       "team": "Lens",
       "goals": 1,
@@ -32519,13 +32586,6 @@
     {
       "player": "Amir Rrahmani",
       "team": "Nápoles",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Andreas Helmersen",
-      "team": "Bodø/Glimt",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
