@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:07:54Z",
+  "lastUpdated": "2026-10-20T18:08:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24515,8 +24515,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.5",
-                "away": "47.5"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
@@ -24556,12 +24556,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "230",
-                "away": "209"
+                "home": "231",
+                "away": "216"
               },
               {
                 "key": "passPct",
@@ -24587,7 +24587,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -25076,17 +25076,27 @@
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "53977916_13",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.8",
-                "away": "59.2"
+                "home": "41.3",
+                "away": "58.7"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "18"
               },
               {
@@ -25126,8 +25136,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "214",
-                "away": "330"
+                "home": "220",
+                "away": "331"
               },
               {
                 "key": "passPct",
