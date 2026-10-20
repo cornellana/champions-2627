@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:42:35Z",
+  "lastUpdated": "2026-10-20T20:43:42Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25323,7 +25323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
@@ -26000,7 +26000,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -26552,17 +26552,27 @@
                 "relatedPlayer": "Kervin Arriaga",
                 "teamName": "AEK Atenas",
                 "text": null
+              },
+              {
+                "id": "53990169_22",
+                "type": "SUBSTITUTION",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Milán Vitális",
+                "relatedPlayer": "Luka Jovic",
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.4",
-                "away": "37.6"
+                "home": "62.6",
+                "away": "37.4"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "8"
               },
               {
@@ -26578,7 +26588,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -26602,8 +26612,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "558",
-                "away": "322"
+                "home": "568",
+                "away": "325"
               },
               {
                 "key": "passPct",
@@ -26629,7 +26639,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -27192,7 +27202,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -27786,11 +27796,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-1",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -28345,27 +28355,47 @@
                 "type": "SUBSTITUTION",
                 "minute": 78,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Warren Zaïre-Emery",
+                "relatedPlayer": "Lucas Hernández",
                 "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "53990179_28",
+                "type": "SUBSTITUTION",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": "Senny Mayulu",
+                "relatedPlayer": "Désiré Doué",
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "53990153_29",
+                "type": "GOAL",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": "Lamine Yamal",
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.1",
-                "away": "52.9"
+                "home": "47.2",
+                "away": "52.8"
               },
               {
                 "key": "totalShots",
                 "home": "19",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "13",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -28399,8 +28429,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "348",
-                "away": "397"
+                "home": "351",
+                "away": "400"
               },
               {
                 "key": "passPct",
@@ -28426,7 +28456,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Olimpico",
           "venueCity": "Roma",
@@ -29093,8 +29123,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
-          "statusText": "In Progress",
+          "clock": "87'",
+          "statusText": "Second Half",
           "stadium": "MHPArena",
           "venueCity": "Stuttgart",
           "details": {
@@ -29618,8 +29648,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.1",
-                "away": "47.9"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
@@ -29663,8 +29693,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "394",
-                "away": "363"
+                "home": "402",
+                "away": "367"
               },
               {
                 "key": "passPct",
@@ -32331,6 +32361,13 @@
       "athleteID": null
     },
     {
+      "player": "Lamine Yamal",
+      "team": "FC Barcelona",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Lautaro Martínez",
       "team": "Inter de Milán",
       "goals": 2,
@@ -32459,13 +32496,6 @@
     {
       "player": "Andreas Helmersen",
       "team": "Bodø/Glimt",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Andrija Maksimovic",
-      "team": "RB Leipzig",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
