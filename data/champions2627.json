@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:29:40Z",
+  "lastUpdated": "2026-10-20T18:30:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -23980,7 +23980,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -24540,13 +24540,33 @@
                 "relatedPlayer": "Kerem Aktürkoglu",
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "53978620_25",
+                "type": "SUBSTITUTION",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "53978621_26",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "50.4",
+                "away": "49.6"
               },
               {
                 "key": "totalShots",
@@ -24590,8 +24610,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "329",
-                "away": "316"
+                "home": "330",
+                "away": "323"
               },
               {
                 "key": "passPct",
@@ -24617,7 +24637,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
