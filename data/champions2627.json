@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:47:38Z",
+  "lastUpdated": "2026-10-20T19:48:44Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -25324,7 +25324,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Anfield",
           "venueCity": "Liverpool",
           "details": {
@@ -25799,8 +25799,8 @@
                 "type": "GOAL",
                 "minute": 45,
                 "extraTime": 2,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ronald Araujo",
+                "relatedPlayer": "Rio Ngumoha following a corner",
                 "teamName": "Liverpool",
                 "text": null
               }
@@ -25808,22 +25808,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.6",
+                "away": "45.4"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -25880,8 +25880,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
-          "statusText": "First Half",
+          "clock": "45'+1'",
+          "statusText": "Halftime",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": {
@@ -26307,8 +26307,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.6",
-                "away": "35.4"
+                "home": "64.7",
+                "away": "35.3"
               },
               {
                 "key": "totalShots",
@@ -26352,7 +26352,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "364",
+                "home": "363",
                 "away": "189"
               },
               {
@@ -26379,7 +26379,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Stadio Diego Armando Maradona",
           "venueCity": "Napoli",
@@ -26780,13 +26780,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.7",
-                "away": "45.3"
+                "home": "52.5",
+                "away": "47.5"
               },
               {
                 "key": "totalShots",
-                "home": "11",
-                "away": "1"
+                "home": "12",
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
@@ -26825,8 +26825,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "268",
-                "away": "222"
+                "home": "273",
+                "away": "248"
               },
               {
                 "key": "passPct",
@@ -27324,7 +27324,7 @@
               {
                 "key": "accuratePasses",
                 "home": "155",
-                "away": "352"
+                "away": "353"
               },
               {
                 "key": "passPct",
@@ -27350,7 +27350,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -31609,6 +31609,13 @@
       "athleteID": null
     },
     {
+      "player": "Ronald Araujo",
+      "team": "Liverpool",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Ross Barkley",
       "team": "Aston Villa",
       "goals": 2,
@@ -31709,13 +31716,6 @@
     {
       "player": "Anthony Gordon",
       "team": "FC Barcelona",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Antonio Rüdiger",
-      "team": "Real Madrid",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
