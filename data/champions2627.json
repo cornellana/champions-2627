@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T17:34:28Z",
+  "lastUpdated": "2026-10-20T17:35:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -24745,8 +24745,116 @@
               ]
             },
             "awayLineup": {
-              "formation": "3-4-2-1",
+              "formation": "3-1-4-2",
               "players": [
+                {
+                  "id": "174521",
+                  "jersey": 30,
+                  "name": "Patrick Drewes",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "174521"
+                },
+                {
+                  "id": "371500",
+                  "jersey": 22,
+                  "name": "Kouakou Gadou",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "371500"
+                },
+                {
+                  "id": "173907",
+                  "jersey": 20,
+                  "name": "Marcel Sabitzer",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "173907"
+                },
+                {
+                  "id": "403833",
+                  "jersey": 40,
+                  "name": "Samuele Inácio",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "403833"
+                },
+                {
+                  "id": "387437",
+                  "jersey": 39,
+                  "name": "Filippo Mané",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "387437"
+                },
+                {
+                  "id": "403781",
+                  "jersey": 41,
+                  "name": "Mathis Albert",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "403781"
+                },
+                {
+                  "id": "401450",
+                  "jersey": 44,
+                  "name": "Enzo De Pina Duarte Dos Santos",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "401450"
+                },
+                {
+                  "id": "413817",
+                  "jersey": 49,
+                  "name": "Luca Reggiani",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "413817"
+                },
+                {
+                  "id": "290639",
+                  "jersey": 14,
+                  "name": "Maximilian Beier",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "290639"
+                },
+                {
+                  "id": "349733",
+                  "jersey": 18,
+                  "name": "Ethan Nwaneri",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "349733"
+                },
+                {
+                  "id": "324820",
+                  "jersey": 7,
+                  "name": "Jobe Bellingham",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "324820"
+                },
+                {
+                  "id": "178380",
+                  "jersey": 33,
+                  "name": "Alexander Meyer",
+                  "position": null,
+                  "isStarter": false,
+                  "events": null,
+                  "athleteID": "178380"
+                },
                 {
                   "id": "238544",
                   "jersey": 1,
@@ -24757,19 +24865,10 @@
                   "athleteID": "238544"
                 },
                 {
-                  "id": "286828",
-                  "jersey": 4,
-                  "name": "Nico Schlotterbeck",
-                  "position": "CD",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "286828"
-                },
-                {
                   "id": "220703",
                   "jersey": 5,
                   "name": "Ramy Bensebaini",
-                  "position": "CD-L",
+                  "position": "CD",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "220703"
@@ -24778,16 +24877,25 @@
                   "id": "220714",
                   "jersey": 3,
                   "name": "Waldemar Anton",
-                  "position": "CD-R",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "220714"
                 },
                 {
+                  "id": "286828",
+                  "jersey": 4,
+                  "name": "Nico Schlotterbeck",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "286828"
+                },
+                {
                   "id": "240912",
                   "jersey": 25,
                   "name": "Joey Veerman",
-                  "position": "CM-L",
+                  "position": "SW",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "240912"
@@ -24796,10 +24904,19 @@
                   "id": "281122",
                   "jersey": 8,
                   "name": "Felix Nmecha",
-                  "position": "CM-R",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "281122"
+                },
+                {
+                  "id": "294317",
+                  "jersey": 17,
+                  "name": "Carney Chukwuemeka",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "294317"
                 },
                 {
                   "id": "310709",
@@ -24820,15 +24937,6 @@
                   "athleteID": "222991"
                 },
                 {
-                  "id": "186381",
-                  "jersey": 9,
-                  "name": "Serhou Guirassy",
-                  "position": "F",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "186381"
-                },
-                {
                   "id": "291629",
                   "jersey": 21,
                   "name": "Fábio Silva",
@@ -24838,121 +24946,13 @@
                   "athleteID": "291629"
                 },
                 {
-                  "id": "294317",
-                  "jersey": 17,
-                  "name": "Carney Chukwuemeka",
+                  "id": "186381",
+                  "jersey": 9,
+                  "name": "Serhou Guirassy",
                   "position": "CF-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "294317"
-                },
-                {
-                  "id": "174521",
-                  "jersey": 30,
-                  "name": "Patrick Drewes",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "174521"
-                },
-                {
-                  "id": "371500",
-                  "jersey": 22,
-                  "name": "Kouakou Gadou",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "371500"
-                },
-                {
-                  "id": "173907",
-                  "jersey": 20,
-                  "name": "Marcel Sabitzer",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "173907"
-                },
-                {
-                  "id": "403833",
-                  "jersey": 40,
-                  "name": "Samuele Inácio",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "403833"
-                },
-                {
-                  "id": "387437",
-                  "jersey": 39,
-                  "name": "Filippo Mané",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "387437"
-                },
-                {
-                  "id": "403781",
-                  "jersey": 41,
-                  "name": "Mathis Albert",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "403781"
-                },
-                {
-                  "id": "401450",
-                  "jersey": 44,
-                  "name": "Enzo De Pina Duarte Dos Santos",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "401450"
-                },
-                {
-                  "id": "413817",
-                  "jersey": 49,
-                  "name": "Luca Reggiani",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "413817"
-                },
-                {
-                  "id": "290639",
-                  "jersey": 14,
-                  "name": "Maximilian Beier",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "290639"
-                },
-                {
-                  "id": "349733",
-                  "jersey": 18,
-                  "name": "Ethan Nwaneri",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "349733"
-                },
-                {
-                  "id": "324820",
-                  "jersey": 7,
-                  "name": "Jobe Bellingham",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "324820"
-                },
-                {
-                  "id": "178380",
-                  "jersey": 33,
-                  "name": "Alexander Meyer",
-                  "position": "SUB",
-                  "isStarter": false,
-                  "events": null,
-                  "athleteID": "178380"
+                  "athleteID": "186381"
                 }
               ]
             },
