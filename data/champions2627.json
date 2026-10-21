@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:07:13Z",
+  "lastUpdated": "2026-10-21T17:08:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30306,7 +30306,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -30330,8 +30330,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "153",
-                "away": "88"
+                "home": "166",
+                "away": "95"
               },
               {
                 "key": "passPct",
@@ -30357,8 +30357,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
-          "statusText": "In Progress",
+          "clock": "23'",
+          "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
@@ -30788,13 +30788,23 @@
                 "relatedPlayer": "Alexsandro with a through ball",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "54006392_3",
+                "type": "YELLOW_CARD",
+                "minute": 21,
+                "extraTime": null,
+                "playerName": "Nabil Bentaleb",
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "49.1",
+                "away": "50.9"
               },
               {
                 "key": "totalShots",
@@ -30823,7 +30833,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -30839,12 +30849,12 @@
               {
                 "key": "accuratePasses",
                 "home": "91",
-                "away": "90"
+                "away": "96"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
