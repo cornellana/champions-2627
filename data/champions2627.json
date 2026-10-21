@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:12:12Z",
+  "lastUpdated": "2026-10-21T18:13:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30356,8 +30356,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 67,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Joshua Zirkzee",
+                "relatedPlayer": "Bruno Fernandes",
                 "teamName": "Manchester United",
                 "text": null
               }
@@ -30365,8 +30365,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.5",
-                "away": "42.5"
+                "home": "56.8",
+                "away": "43.2"
               },
               {
                 "key": "totalShots",
@@ -30410,8 +30410,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "473",
-                "away": "333"
+                "home": "479",
+                "away": "350"
               },
               {
                 "key": "passPct",
@@ -30437,7 +30437,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30973,8 +30973,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "53.5",
+                "away": "46.5"
               },
               {
                 "key": "totalShots",
@@ -30999,7 +30999,7 @@
               {
                 "key": "offsides",
                 "home": "3",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "yellowCards",
@@ -31018,8 +31018,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "321",
-                "away": "278"
+                "home": "337",
+                "away": "279"
               },
               {
                 "key": "passPct",
