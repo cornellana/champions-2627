@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:22:00Z",
+  "lastUpdated": "2026-10-21T18:23:05Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30385,17 +30385,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "58",
+                "away": "42"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "9"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "2"
               },
               {
@@ -30426,12 +30426,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "538",
-                "away": "384"
+                "home": "561",
+                "away": "387"
               },
               {
                 "key": "passPct",
@@ -30457,7 +30457,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -31033,8 +31033,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -31078,8 +31078,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "376",
-                "away": "308"
+                "home": "381",
+                "away": "319"
               },
               {
                 "key": "passPct",
