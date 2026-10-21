@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:46:33Z",
+  "lastUpdated": "2026-10-21T19:47:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31670,8 +31670,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.6",
-                "away": "32.4"
+                "home": "67.5",
+                "away": "32.5"
               },
               {
                 "key": "totalShots",
@@ -31715,8 +31715,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "255",
-                "away": "109"
+                "home": "261",
+                "away": "112"
               },
               {
                 "key": "passPct",
@@ -31742,7 +31742,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "First Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32195,7 +32195,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "6"
               },
               {
@@ -32205,7 +32205,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -32262,7 +32262,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32691,7 +32691,18 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54015543_9",
+                "type": "YELLOW_CARD",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Matthieu Udol",
+                "relatedPlayer": null,
+                "teamName": "Lens",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
@@ -32700,7 +32711,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "11"
               },
               {
@@ -32716,7 +32727,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -32726,7 +32737,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -32767,7 +32778,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33221,8 +33232,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.1",
-                "away": "53.9"
+                "home": "45.4",
+                "away": "54.6"
               },
               {
                 "key": "totalShots",
@@ -33267,7 +33278,7 @@
               {
                 "key": "accuratePasses",
                 "home": "198",
-                "away": "244"
+                "away": "252"
               },
               {
                 "key": "passPct",
@@ -33294,7 +33305,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+1'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
           "details": {
@@ -33728,13 +33739,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.1",
-                "away": "47.9"
+                "home": "51.5",
+                "away": "48.5"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -33773,8 +33784,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "269",
-                "away": "249"
+                "home": "272",
+                "away": "257"
               },
               {
                 "key": "passPct",
@@ -33800,7 +33811,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34233,7 +34244,7 @@
               {
                 "id": "54015405_1",
                 "type": "GOAL",
-                "minute": 44,
+                "minute": 43,
                 "extraTime": null,
                 "playerName": "Bernardo Silva",
                 "relatedPlayer": null,
@@ -34244,8 +34255,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.5",
-                "away": "40.5"
+                "home": "59.4",
+                "away": "40.6"
               },
               {
                 "key": "totalShots",
@@ -34290,7 +34301,7 @@
               {
                 "key": "accuratePasses",
                 "home": "310",
-                "away": "203"
+                "away": "204"
               },
               {
                 "key": "passPct",
@@ -34316,7 +34327,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -34771,18 +34782,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.1",
-                "away": "42.9"
+                "home": "58",
+                "away": "42"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -34792,7 +34803,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -34802,7 +34813,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -34811,13 +34822,13 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "226",
-                "away": "161"
+                "home": "238",
+                "away": "164"
               },
               {
                 "key": "passPct",
