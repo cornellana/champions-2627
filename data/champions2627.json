@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:02:24Z",
+  "lastUpdated": "2026-10-21T18:03:29Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30391,7 +30391,7 @@
               {
                 "key": "accuratePasses",
                 "home": "420",
-                "away": "284"
+                "away": "285"
               },
               {
                 "key": "passPct",
@@ -30417,7 +30417,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30888,13 +30888,23 @@
                 "relatedPlayer": "Gabriel Sara with a cross following a corner",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54007729_11",
+                "type": "YELLOW_CARD",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Benjamin André",
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.4",
-                "away": "47.6"
+                "home": "52.6",
+                "away": "47.4"
               },
               {
                 "key": "totalShots",
@@ -30913,7 +30923,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "5"
               },
               {
@@ -30923,7 +30933,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -30938,8 +30948,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "274",
-                "away": "242"
+                "home": "280",
+                "away": "244"
               },
               {
                 "key": "passPct",
