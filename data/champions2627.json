@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:27:02Z",
+  "lastUpdated": "2026-10-21T20:28:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31679,7 +31679,7 @@
               {
                 "id": "54018147_12",
                 "type": "SUBSTITUTION",
-                "minute": 64,
+                "minute": 63,
                 "extraTime": null,
                 "playerName": "Henrik Bjørdal",
                 "relatedPlayer": "Tobias Moi",
@@ -31689,7 +31689,7 @@
               {
                 "id": "54018148_13",
                 "type": "SUBSTITUTION",
-                "minute": 65,
+                "minute": 63,
                 "extraTime": null,
                 "playerName": "Simen Kvia-Egeskog",
                 "relatedPlayer": "Erik Botheim",
@@ -31700,12 +31700,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.9",
-                "away": "39.1"
+                "home": "60.5",
+                "away": "39.5"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "5"
               },
               {
@@ -31716,7 +31716,7 @@
               {
                 "key": "wonCorners",
                 "home": "6",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -31745,8 +31745,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "358",
-                "away": "208"
+                "home": "359",
+                "away": "210"
               },
               {
                 "key": "passPct",
@@ -31772,7 +31772,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32235,6 +32235,26 @@
                 "relatedPlayer": null,
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "54018368_16",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "54018369_17",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
@@ -32246,12 +32266,12 @@
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -32312,7 +32332,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32811,13 +32831,23 @@
                 "relatedPlayer": null,
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "54018279_18",
+                "type": "SUBSTITUTION",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": "Hugo Vetlesen",
+                "relatedPlayer": "Félix Lemaréchal",
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.2",
-                "away": "43.8"
+                "home": "56.1",
+                "away": "43.9"
               },
               {
                 "key": "totalShots",
@@ -32862,7 +32892,7 @@
               {
                 "key": "accuratePasses",
                 "home": "441",
-                "away": "321"
+                "away": "323"
               },
               {
                 "key": "passPct",
@@ -32888,7 +32918,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33454,7 +33484,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -33929,8 +33959,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.6",
-                "away": "49.4"
+                "home": "49.3",
+                "away": "50.7"
               },
               {
                 "key": "totalShots",
@@ -33974,8 +34004,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "358",
-                "away": "352"
+                "home": "357",
+                "away": "372"
               },
               {
                 "key": "passPct",
@@ -34001,7 +34031,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34475,17 +34505,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.5",
-                "away": "38.5"
+                "home": "62.1",
+                "away": "37.9"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "14",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "8",
+                "home": "9",
                 "away": "4"
               },
               {
@@ -34516,11 +34546,11 @@
               {
                 "key": "saves",
                 "home": "4",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "accuratePasses",
-                "home": "460",
+                "home": "472",
                 "away": "275"
               },
               {
@@ -34547,7 +34577,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -35049,31 +35079,41 @@
                 "text": null
               },
               {
-                "id": "54018195_17",
+                "id": "54018196_17",
                 "type": "SUBSTITUTION",
                 "minute": 65,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Alessandro Schöpf",
+                "relatedPlayer": "Sascha Horvath",
                 "teamName": "LASK",
                 "text": null
               },
               {
-                "id": "54018196_18",
+                "id": "54018195_18",
                 "type": "SUBSTITUTION",
-                "minute": 66,
+                "minute": 65,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Samuel Adeniran",
+                "relatedPlayer": "Christoph Lang",
                 "teamName": "LASK",
+                "text": null
+              },
+              {
+                "id": "54018296_19",
+                "type": "SUBSTITUTION",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": "Flávio Gonçalves",
+                "relatedPlayer": "João Simões",
+                "teamName": "Sporting de Portugal",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.8",
-                "away": "39.2"
+                "home": "61",
+                "away": "39"
               },
               {
                 "key": "totalShots",
@@ -35092,8 +35132,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
-                "away": "12"
+                "home": "6",
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -35117,8 +35157,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "322",
-                "away": "199"
+                "home": "330",
+                "away": "201"
               },
               {
                 "key": "passPct",
