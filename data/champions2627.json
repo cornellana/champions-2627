@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:13:52Z",
+  "lastUpdated": "2026-10-21T20:14:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31670,13 +31670,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.5",
-                "away": "38.5"
+                "home": "59.8",
+                "away": "40.2"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
@@ -31716,7 +31716,7 @@
               {
                 "key": "accuratePasses",
                 "home": "287",
-                "away": "167"
+                "away": "179"
               },
               {
                 "key": "passPct",
@@ -32200,8 +32200,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.8",
-                "away": "55.2"
+                "home": "45.9",
+                "away": "54.1"
               },
               {
                 "key": "totalShots",
@@ -32221,7 +32221,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -32245,8 +32245,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "212",
-                "away": "254"
+                "home": "223",
+                "away": "253"
               },
               {
                 "key": "passPct",
@@ -32272,7 +32272,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32746,8 +32746,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.5",
-                "away": "42.5"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
@@ -32791,8 +32791,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "372",
-                "away": "258"
+                "home": "377",
+                "away": "265"
               },
               {
                 "key": "passPct",
@@ -32818,7 +32818,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33272,8 +33272,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.3",
-                "away": "56.7"
+                "home": "43.7",
+                "away": "56.3"
               },
               {
                 "key": "totalShots",
@@ -33317,8 +33317,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "221",
-                "away": "317"
+                "home": "223",
+                "away": "318"
               },
               {
                 "key": "passPct",
@@ -33344,7 +33344,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -34307,7 +34307,7 @@
                 "minute": 52,
                 "extraTime": null,
                 "playerName": "Arda Güler",
-                "relatedPlayer": "Kylian Mbappé with a headed pass",
+                "relatedPlayer": "Kylian Mbappé",
                 "teamName": "Real Madrid",
                 "text": null
               }
@@ -34315,8 +34315,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.6",
-                "away": "40.4"
+                "home": "59.3",
+                "away": "40.7"
               },
               {
                 "key": "totalShots",
@@ -34335,7 +34335,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "3"
               },
               {
@@ -34360,8 +34360,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "356",
-                "away": "234"
+                "home": "358",
+                "away": "239"
               },
               {
                 "key": "passPct",
@@ -34387,7 +34387,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -34862,8 +34862,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60",
-                "away": "40"
+                "home": "61.3",
+                "away": "38.7"
               },
               {
                 "key": "totalShots",
@@ -34907,8 +34907,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "267",
-                "away": "169"
+                "home": "283",
+                "away": "170"
               },
               {
                 "key": "passPct",
