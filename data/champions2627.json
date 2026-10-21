@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T20:57:58Z",
+  "lastUpdated": "2026-10-21T00:01:03Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29878,7 +29878,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": null
@@ -29899,7 +29899,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": null
@@ -29920,7 +29920,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
           "details": null
@@ -29941,7 +29941,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": null
@@ -29962,7 +29962,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": null
@@ -29983,9 +29983,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "San Siro",
-          "venueCity": "Milán",
+          "venueCity": "Milano",
           "details": null
         },
         {
@@ -30004,7 +30004,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
           "details": null
@@ -30025,7 +30025,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": null
@@ -30046,9 +30046,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estádio José Alvalade",
-          "venueCity": "Lisboa",
+          "venueCity": "Lisbon",
           "details": null
         }
       ]
