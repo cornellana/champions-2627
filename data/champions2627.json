@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:12:42Z",
+  "lastUpdated": "2026-10-21T17:13:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "26'",
+          "clock": "27'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30280,13 +30280,23 @@
                 "relatedPlayer": "Lucas da Cunha",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "54006607_2",
+                "type": "YELLOW_CARD",
+                "minute": 25,
+                "extraTime": null,
+                "playerName": "Andrey Santos",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.1",
-                "away": "36.9"
+                "home": "63.8",
+                "away": "36.2"
               },
               {
                 "key": "totalShots",
@@ -30316,7 +30326,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -30330,8 +30340,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "209",
-                "away": "119"
+                "home": "220",
+                "away": "121"
               },
               {
                 "key": "passPct",
@@ -30357,7 +30367,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "27'",
+          "clock": "28'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30803,8 +30813,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "49.8",
+                "away": "50.2"
               },
               {
                 "key": "totalShots",
@@ -30823,7 +30833,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -30849,7 +30859,7 @@
               {
                 "key": "accuratePasses",
                 "home": "115",
-                "away": "113"
+                "away": "116"
               },
               {
                 "key": "passPct",
