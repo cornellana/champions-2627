@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:34:29Z",
+  "lastUpdated": "2026-10-21T19:35:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31732,7 +31732,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32165,12 +32165,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -32180,7 +32180,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "1"
               },
               {
@@ -32205,8 +32205,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "131",
-                "away": "157"
+                "home": "136",
+                "away": "162"
               },
               {
                 "key": "passPct",
@@ -32232,7 +32232,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32737,7 +32737,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "33'",
+          "clock": "34'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33172,8 +33172,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 32,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Yehor Nazaryna",
+                "relatedPlayer": "Pedrinho because of an injury",
                 "teamName": "Shajtar Donetsk",
                 "text": null
               }
@@ -33181,8 +33181,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.7",
-                "away": "47.3"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
@@ -33201,7 +33201,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -33226,8 +33226,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "170",
-                "away": "157"
+                "home": "175",
+                "away": "164"
               },
               {
                 "key": "passPct",
@@ -33253,7 +33253,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -33760,7 +33760,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34193,18 +34193,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59",
-                "away": "41"
+                "home": "59.7",
+                "away": "40.3"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "2"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -34233,13 +34233,13 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "228",
-                "away": "150"
+                "home": "243",
+                "away": "155"
               },
               {
                 "key": "passPct",
@@ -34265,7 +34265,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -34710,8 +34710,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.4",
-                "away": "42.6"
+                "home": "57.1",
+                "away": "42.9"
               },
               {
                 "key": "totalShots",
@@ -34725,17 +34725,17 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -34755,8 +34755,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "164",
-                "away": "119"
+                "home": "167",
+                "away": "122"
               },
               {
                 "key": "passPct",
