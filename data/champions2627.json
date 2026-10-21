@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:53:41Z",
+  "lastUpdated": "2026-10-21T17:54:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -30310,22 +30310,32 @@
                 "relatedPlayer": "Andrey Santos",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "54007511_11",
+                "type": "GOAL",
+                "minute": 49,
+                "extraTime": null,
+                "playerName": "Tasos Douvikas",
+                "relatedPlayer": "Nico Paz with a through ball",
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.2",
-                "away": "36.8"
+                "home": "61.9",
+                "away": "38.1"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -30360,8 +30370,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "402",
-                "away": "221"
+                "home": "412",
+                "away": "239"
               },
               {
                 "key": "passPct",
@@ -30387,7 +30397,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -33461,6 +33471,13 @@
       "athleteID": null
     },
     {
+      "player": "Tasos Douvikas",
+      "team": "Como",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Aleksey Batrakov",
       "team": "Galatasaray",
       "goals": 2,
@@ -33615,13 +33632,6 @@
       "athleteID": null
     },
     {
-      "player": "Tasos Douvikas",
-      "team": "Como",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
       "player": "Vitinha",
       "team": "Paris Saint-Germain",
       "goals": 2,
@@ -33685,6 +33695,12 @@
     {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
+      "player": "Nico Paz with a through ball",
+      "team": "Como",
       "goals": 2,
       "athleteID": null
     },
@@ -33889,12 +33905,6 @@
     {
       "player": "Enzo Fernández",
       "team": "Manchester City",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Erik Botheim following a fast break",
-      "team": "Viking",
       "goals": 1,
       "athleteID": null
     }
