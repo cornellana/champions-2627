@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:01:18Z",
+  "lastUpdated": "2026-10-21T18:02:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29873,11 +29873,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-0",
+          "result": "3-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30330,22 +30330,32 @@
                 "relatedPlayer": null,
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "54007717_13",
+                "type": "GOAL",
+                "minute": 57,
+                "extraTime": null,
+                "playerName": "Nico Paz",
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.7",
-                "away": "41.3"
+                "home": "58.4",
+                "away": "41.6"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -30381,7 +30391,7 @@
               {
                 "key": "accuratePasses",
                 "home": "420",
-                "away": "282"
+                "away": "284"
               },
               {
                 "key": "passPct",
@@ -30407,7 +30417,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30883,8 +30893,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
@@ -30928,7 +30938,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "272",
+                "home": "274",
                 "away": "242"
               },
               {
@@ -33603,6 +33613,13 @@
       "athleteID": null
     },
     {
+      "player": "Nico Paz",
+      "team": "Como",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Raphinha",
       "team": "FC Barcelona",
       "goals": 2,
@@ -33675,13 +33692,6 @@
     {
       "player": "Ademola Lookman",
       "team": "Atlético de Madrid",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Aden McCarthy",
-      "team": "Sabah",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
