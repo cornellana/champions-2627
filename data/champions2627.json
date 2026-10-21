@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:15:50Z",
+  "lastUpdated": "2026-10-21T19:16:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31721,8 +31721,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
-          "statusText": "First Half",
+          "clock": "16'",
+          "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": {
@@ -32139,8 +32139,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.8",
-                "away": "65.2"
+                "home": "42.8",
+                "away": "57.2"
               },
               {
                 "key": "totalShots",
@@ -32159,7 +32159,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -32184,8 +32184,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "39",
-                "away": "79"
+                "home": "56",
+                "away": "80"
               },
               {
                 "key": "passPct",
@@ -32211,7 +32211,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32644,13 +32644,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.5",
-                "away": "52.5"
+                "home": "43.9",
+                "away": "56.1"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -32690,12 +32690,12 @@
               {
                 "key": "accuratePasses",
                 "home": "77",
-                "away": "84"
+                "away": "97"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -32716,7 +32716,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33149,8 +33149,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.9",
-                "away": "46.1"
+                "home": "52.9",
+                "away": "47.1"
               },
               {
                 "key": "totalShots",
@@ -33195,7 +33195,7 @@
               {
                 "key": "accuratePasses",
                 "home": "78",
-                "away": "70"
+                "away": "73"
               },
               {
                 "key": "passPct",
@@ -33221,8 +33221,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
-          "statusText": "In Progress",
+          "clock": "17'",
+          "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
           "details": {
@@ -33641,12 +33641,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54011409_1",
+                "type": "YELLOW_CARD",
+                "minute": 14,
+                "extraTime": null,
+                "playerName": "Mika Mármol",
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "58.3",
+                "away": "41.7"
               },
               {
                 "key": "totalShots",
@@ -33676,7 +33687,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -33690,7 +33701,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "106",
+                "home": "111",
                 "away": "82"
               },
               {
@@ -33717,7 +33728,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34150,8 +34161,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.4",
-                "away": "43.6"
+                "home": "58.8",
+                "away": "41.2"
               },
               {
                 "key": "totalShots",
@@ -34170,7 +34181,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -34195,8 +34206,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "93",
-                "away": "67"
+                "home": "106",
+                "away": "68"
               },
               {
                 "key": "passPct",
@@ -34222,7 +34233,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
