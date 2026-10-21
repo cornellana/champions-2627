@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:15:29Z",
+  "lastUpdated": "2026-10-21T18:16:34Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30375,8 +30375,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.4",
-                "away": "42.6"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
@@ -30395,7 +30395,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "10"
               },
               {
@@ -30420,8 +30420,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "501",
-                "away": "356"
+                "home": "508",
+                "away": "362"
               },
               {
                 "key": "passPct",
@@ -30447,7 +30447,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30983,8 +30983,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "53.4",
+                "away": "46.6"
               },
               {
                 "key": "totalShots",
@@ -31028,8 +31028,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "344",
-                "away": "281"
+                "home": "355",
+                "away": "295"
               },
               {
                 "key": "passPct",
