@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:24:41Z",
+  "lastUpdated": "2026-10-21T17:25:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,8 +29877,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
-          "statusText": "In Progress",
+          "clock": "39'",
+          "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -30363,11 +30363,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30808,22 +30808,32 @@
                 "relatedPlayer": null,
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "54006991_6",
+                "type": "GOAL",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Soriba Diaoune",
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.6",
-                "away": "42.4"
+                "home": "57.8",
+                "away": "42.2"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "8",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "5",
                 "away": "1"
               },
               {
@@ -30854,11 +30864,11 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "197",
+                "home": "199",
                 "away": "138"
               },
               {
@@ -33554,6 +33564,13 @@
       "athleteID": null
     },
     {
+      "player": "Soriba Diaoune",
+      "team": "Lille",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Tani Oluwaseyi",
       "team": "Villarreal",
       "goals": 2,
@@ -33605,13 +33622,6 @@
     {
       "player": "Aleksey Batrakov",
       "team": "Galatasaray",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Alexsandro",
-      "team": "Lille",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
