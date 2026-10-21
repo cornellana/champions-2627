@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:14:53Z",
+  "lastUpdated": "2026-10-21T17:15:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30295,8 +30295,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.8",
-                "away": "36.2"
+                "home": "63.2",
+                "away": "36.8"
               },
               {
                 "key": "totalShots",
@@ -30321,7 +30321,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -30340,8 +30340,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
-                "away": "121"
+                "home": "238",
+                "away": "135"
               },
               {
                 "key": "passPct",
@@ -30367,8 +30367,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
-          "statusText": "First Half",
+          "clock": "30'",
+          "statusText": "In Progress",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
