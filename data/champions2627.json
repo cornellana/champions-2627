@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:50:24Z",
+  "lastUpdated": "2026-10-21T17:51:30Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30296,8 +30296,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Amad Diallo",
+                "relatedPlayer": "Matheus Cunha",
                 "teamName": "Manchester United",
                 "text": null
               },
@@ -30306,8 +30306,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Carlos Baleba",
+                "relatedPlayer": "Andrey Santos",
                 "teamName": "Manchester United",
                 "text": null
               }
@@ -30315,8 +30315,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.6",
-                "away": "36.4"
+                "home": "63.2",
+                "away": "36.8"
               },
               {
                 "key": "totalShots",
@@ -30360,8 +30360,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "398",
-                "away": "215"
+                "home": "402",
+                "away": "221"
               },
               {
                 "key": "passPct",
@@ -30387,8 +30387,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
-          "statusText": "In Progress",
+          "clock": "48'",
+          "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
