@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:48:46Z",
+  "lastUpdated": "2026-10-21T19:49:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
+          "clock": "45'+3'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31670,12 +31670,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.8",
-                "away": "32.2"
+                "home": "66.6",
+                "away": "33.4"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "0"
               },
               {
@@ -31685,7 +31685,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "0"
               },
               {
@@ -31715,8 +31715,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "264",
-                "away": "112"
+                "home": "266",
+                "away": "120"
               },
               {
                 "key": "passPct",
@@ -32258,12 +32258,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "First Half",
+          "clock": "45'+4'",
+          "statusText": "Halftime",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": {
@@ -32701,27 +32701,37 @@
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "54015700_10",
+                "type": "GOAL",
+                "minute": 45,
+                "extraTime": 3,
+                "playerName": "Hans Vanaken",
+                "relatedPlayer": null,
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.8",
-                "away": "46.2"
+                "home": "53.9",
+                "away": "46.1"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "4",
                 "away": "11"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "2",
                 "away": "3"
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -33232,8 +33242,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.5",
-                "away": "55.5"
+                "home": "45",
+                "away": "55"
               },
               {
                 "key": "totalShots",
@@ -33247,7 +33257,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -33277,8 +33287,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "198",
-                "away": "263"
+                "home": "202",
+                "away": "264"
               },
               {
                 "key": "passPct",
@@ -34327,7 +34337,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -34792,12 +34802,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.1",
-                "away": "41.9"
+                "home": "58.2",
+                "away": "41.8"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "6"
               },
               {
@@ -34817,7 +34827,7 @@
               },
               {
                 "key": "offsides",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
