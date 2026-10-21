@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:13:18Z",
+  "lastUpdated": "2026-10-21T18:14:23Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,8 +29877,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
-          "statusText": "Second Half",
+          "clock": "70'",
+          "statusText": "In Progress",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -30360,13 +30360,23 @@
                 "relatedPlayer": "Bruno Fernandes",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "54008281_16",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.8",
-                "away": "43.2"
+                "home": "57.1",
+                "away": "42.9"
               },
               {
                 "key": "totalShots",
@@ -30410,8 +30420,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "479",
-                "away": "350"
+                "home": "487",
+                "away": "351"
               },
               {
                 "key": "passPct",
@@ -30437,8 +30447,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
-          "statusText": "Second Half",
+          "clock": "72'",
+          "statusText": "In Progress",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
@@ -30973,12 +30983,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.5",
-                "away": "46.5"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "9"
               },
               {
@@ -30988,7 +30998,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -31018,7 +31028,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "337",
+                "home": "342",
                 "away": "279"
               },
               {
