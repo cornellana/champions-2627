@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:28:08Z",
+  "lastUpdated": "2026-10-21T20:29:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31700,8 +31700,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.5",
-                "away": "39.5"
+                "home": "60.4",
+                "away": "39.6"
               },
               {
                 "key": "totalShots",
@@ -31716,7 +31716,7 @@
               {
                 "key": "wonCorners",
                 "home": "6",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -31745,8 +31745,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "359",
-                "away": "210"
+                "home": "367",
+                "away": "213"
               },
               {
                 "key": "passPct",
@@ -31772,7 +31772,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32241,8 +32241,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 68,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Luis Díaz",
+                "relatedPlayer": "Ismael Saibari",
                 "teamName": "Bayern de Múnich",
                 "text": null
               },
@@ -32251,8 +32251,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 68,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Lennart Karl",
+                "relatedPlayer": "Serge Gnabry",
                 "teamName": "Bayern de Múnich",
                 "text": null
               }
@@ -32846,8 +32846,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.1",
-                "away": "43.9"
+                "home": "55.8",
+                "away": "44.2"
               },
               {
                 "key": "totalShots",
@@ -32867,7 +32867,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -32891,8 +32891,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "441",
-                "away": "323"
+                "home": "451",
+                "away": "334"
               },
               {
                 "key": "passPct",
@@ -32918,7 +32918,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33407,27 +33407,37 @@
                 "relatedPlayer": "Federico Dimarco",
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "54018365_13",
+                "type": "YELLOW_CARD",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Alessandro Bastoni",
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.2",
-                "away": "50.8"
+                "home": "49.3",
+                "away": "50.7"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "2"
               },
               {
@@ -33442,7 +33452,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -33457,7 +33467,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "309",
+                "home": "310",
                 "away": "339"
               },
               {
@@ -33484,7 +33494,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -34031,7 +34041,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34573,11 +34583,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-2",
+          "result": "1-3",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -35107,23 +35117,33 @@
                 "relatedPlayer": "João Simões",
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "54018385_20",
+                "type": "GOAL",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": "Krystof Danek",
+                "relatedPlayer": "Samuel Adeniran following a fast break",
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61",
-                "away": "39"
+                "home": "60.5",
+                "away": "39.5"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "wonCorners",
@@ -35157,8 +35177,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "330",
-                "away": "201"
+                "home": "334",
+                "away": "209"
               },
               {
                 "key": "passPct",
