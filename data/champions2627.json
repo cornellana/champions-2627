@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:02:36Z",
+  "lastUpdated": "2026-10-21T19:03:42Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31649,8 +31649,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "0",
-                "away": "100"
+                "home": "80",
+                "away": "20"
               },
               {
                 "key": "totalShots",
@@ -31670,7 +31670,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -31694,13 +31694,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "0",
-                "away": "1"
+                "home": "19",
+                "away": "3"
               },
               {
                 "key": "passPct",
-                "home": "0.0",
-                "away": "1.0"
+                "home": "1.0",
+                "away": "0.6"
               }
             ],
             "penalties": null
@@ -31721,7 +31721,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "In Progress",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -31784,22 +31784,22 @@
                   "athleteID": "304572"
                 },
                 {
-                  "id": "324660",
-                  "jersey": 8,
-                  "name": "Tom Bischof",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "324660"
-                },
-                {
                   "id": "359370",
                   "jersey": 45,
                   "name": "Aleksandar Pavlović",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "359370"
+                },
+                {
+                  "id": "324660",
+                  "jersey": 8,
+                  "name": "Tom Bischof",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "324660"
                 },
                 {
                   "id": "142200",
@@ -32190,7 +32190,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32695,7 +32695,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33200,7 +33200,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -33624,8 +33624,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "100",
-                "away": "0"
+                "home": "81.8",
+                "away": "18.2"
               },
               {
                 "key": "totalShots",
@@ -33645,7 +33645,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -33669,13 +33669,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "2",
-                "away": "0"
+                "home": "20",
+                "away": "4"
               },
               {
                 "key": "passPct",
-                "home": "1.0",
-                "away": "0.0"
+                "home": "0.8",
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -33696,8 +33696,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
-          "statusText": "In Progress",
+          "clock": "2'",
+          "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -34201,7 +34201,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "1'",
+          "clock": "2'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -34476,13 +34476,13 @@
                   "athleteID": "286853"
                 },
                 {
-                  "id": "259131",
-                  "jersey": 11,
-                  "name": "Sasa Kalajdzic",
+                  "id": "193294",
+                  "jersey": 30,
+                  "name": "Sascha Horvath",
                   "position": "CM-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "259131"
+                  "athleteID": "193294"
                 },
                 {
                   "id": "273480",
@@ -34494,13 +34494,13 @@
                   "athleteID": "273480"
                 },
                 {
-                  "id": "193294",
-                  "jersey": 30,
-                  "name": "Sascha Horvath",
+                  "id": "37442",
+                  "jersey": 27,
+                  "name": "Christoph Lang",
                   "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "193294"
+                  "athleteID": "37442"
                 },
                 {
                   "id": "306899",
@@ -34512,13 +34512,13 @@
                   "athleteID": "306899"
                 },
                 {
-                  "id": "37442",
-                  "jersey": 27,
-                  "name": "Christoph Lang",
+                  "id": "259131",
+                  "jersey": 11,
+                  "name": "Sasa Kalajdzic",
                   "position": "F",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "37442"
+                  "athleteID": "259131"
                 },
                 {
                   "id": "203868",
@@ -34622,7 +34622,63 @@
               ]
             },
             "events": null,
-            "teamStats": null,
+            "teamStats": [
+              {
+                "key": "possessionPct",
+                "home": "0",
+                "away": "100"
+              },
+              {
+                "key": "totalShots",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "shotsOnTarget",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "wonCorners",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "foulsCommitted",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "offsides",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "yellowCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "redCards",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "saves",
+                "home": "0",
+                "away": "0"
+              },
+              {
+                "key": "accuratePasses",
+                "home": "0",
+                "away": "3"
+              },
+              {
+                "key": "passPct",
+                "home": "0.0",
+                "away": "1.0"
+              }
+            ],
             "penalties": null
           }
         }
