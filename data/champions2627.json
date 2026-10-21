@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:18:44Z",
+  "lastUpdated": "2026-10-21T18:19:49Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30375,8 +30375,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.8",
-                "away": "43.2"
+                "home": "57",
+                "away": "43"
               },
               {
                 "key": "totalShots",
@@ -30420,8 +30420,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "517",
-                "away": "377"
+                "home": "530",
+                "away": "383"
               },
               {
                 "key": "passPct",
@@ -30447,7 +30447,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30980,13 +30980,43 @@
                 "text": null
               },
               {
-                "id": "54008538_17",
+                "id": "54008559_17",
                 "type": "SUBSTITUTION",
                 "minute": 75,
                 "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "Lille",
+                "text": null
+              },
+              {
+                "id": "54008538_18",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Basar Önal",
+                "relatedPlayer": "Nabil Bentaleb",
+                "teamName": "Lille",
+                "text": null
+              },
+              {
+                "id": "54008560_19",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
+              },
+              {
+                "id": "54008561_20",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
                 "text": null
               }
             ],
@@ -30999,12 +31029,12 @@
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -31033,13 +31063,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "356",
-                "away": "303"
+                "home": "358",
+                "away": "305"
               },
               {
                 "key": "passPct",
