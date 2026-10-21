@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:34:44Z",
+  "lastUpdated": "2026-10-21T20:35:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,8 +31225,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
-          "statusText": "Second Half",
+          "clock": "75'",
+          "statusText": "In Progress",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
           "details": {
@@ -31731,6 +31731,16 @@
                 "type": "SUBSTITUTION",
                 "minute": 72,
                 "extraTime": null,
+                "playerName": "Alejandro Garnacho",
+                "relatedPlayer": "Ibrahim Mbaye",
+                "teamName": "Aston Villa",
+                "text": null
+              },
+              {
+                "id": "54019188_18",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "Aston Villa",
@@ -31740,23 +31750,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.6",
-                "away": "40.4"
+                "home": "60.5",
+                "away": "39.5"
               },
               {
                 "key": "totalShots",
                 "home": "18",
-                "away": "6"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "9",
-                "away": "3"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
                 "home": "7",
-                "away": "7"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -31766,7 +31776,7 @@
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "yellowCards",
@@ -31785,8 +31795,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "387",
-                "away": "236"
+                "home": "398",
+                "away": "234"
               },
               {
                 "key": "passPct",
@@ -31812,7 +31822,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32936,8 +32946,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.7"
+                "home": "55.4",
+                "away": "44.6"
               },
               {
                 "key": "totalShots",
@@ -32981,8 +32991,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "462",
-                "away": "355"
+                "home": "475",
+                "away": "361"
               },
               {
                 "key": "passPct",
@@ -33008,7 +33018,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33543,8 +33553,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 72,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Isaque",
+                "relatedPlayer": "Oleh Ocheretko",
                 "teamName": "Shajtar Donetsk",
                 "text": null
               },
@@ -33553,37 +33563,37 @@
                 "type": "SUBSTITUTION",
                 "minute": 72,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Newerton",
+                "relatedPlayer": "Gleiker Mendoza",
                 "teamName": "Shajtar Donetsk",
                 "text": null
               },
               {
-                "id": "54019016_19",
+                "id": "54019017_19",
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
-                "teamName": "Shajtar Donetsk",
-                "text": null
-              },
-              {
-                "id": "54019017_20",
-                "type": "SUBSTITUTION",
-                "minute": 73,
-                "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Luis Henrique",
+                "relatedPlayer": "Petar Sucic",
                 "teamName": "Inter de Milán",
+                "text": null
+              },
+              {
+                "id": "54019016_20",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Lassina Traoré",
+                "relatedPlayer": "Kauã Elias",
+                "teamName": "Shajtar Donetsk",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.6",
-                "away": "52.4"
+                "home": "47",
+                "away": "53"
               },
               {
                 "key": "totalShots",
@@ -33627,8 +33637,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "311",
-                "away": "364"
+                "home": "313",
+                "away": "377"
               },
               {
                 "key": "passPct",
@@ -33654,7 +33664,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -34201,7 +34211,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34735,8 +34745,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.8",
-                "away": "37.2"
+                "home": "62.3",
+                "away": "37.7"
               },
               {
                 "key": "totalShots",
@@ -34755,8 +34765,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "12",
-                "away": "7"
+                "home": "13",
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -34780,8 +34790,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "524",
-                "away": "296"
+                "home": "527",
+                "away": "304"
               },
               {
                 "key": "passPct",
@@ -34807,7 +34817,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -35362,8 +35372,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.2",
-                "away": "37.8"
+                "home": "61.6",
+                "away": "38.4"
               },
               {
                 "key": "totalShots",
@@ -35403,12 +35413,12 @@
               {
                 "key": "saves",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "375",
-                "away": "217"
+                "home": "379",
+                "away": "225"
               },
               {
                 "key": "passPct",
