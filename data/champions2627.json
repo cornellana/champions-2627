@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:20:55Z",
+  "lastUpdated": "2026-10-21T18:22:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30376,8 +30376,8 @@
                 "type": "GOAL",
                 "minute": 76,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Jacobo Ramón",
+                "relatedPlayer": "Kaiki",
                 "teamName": "Como",
                 "text": null
               }
@@ -30385,17 +30385,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57",
-                "away": "43"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "9"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "2"
               },
               {
@@ -30430,8 +30430,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "530",
-                "away": "383"
+                "home": "538",
+                "away": "384"
               },
               {
                 "key": "passPct",
@@ -30457,7 +30457,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -31058,7 +31058,7 @@
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -31078,8 +31078,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "370",
-                "away": "305"
+                "home": "376",
+                "away": "308"
               },
               {
                 "key": "passPct",
