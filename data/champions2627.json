@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:31:49Z",
+  "lastUpdated": "2026-10-21T18:32:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30440,13 +30440,23 @@
                 "relatedPlayer": "Bryan Mbeumo",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "54009136_24",
+                "type": "YELLOW_CARD",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Shea Lacey",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "56.8",
+                "away": "43.2"
               },
               {
                 "key": "totalShots",
@@ -30461,11 +30471,11 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "11"
               },
               {
@@ -30490,8 +30500,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "587",
-                "away": "419"
+                "home": "588",
+                "away": "428"
               },
               {
                 "key": "passPct",
@@ -30517,7 +30527,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -31123,12 +31133,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "55.4",
+                "away": "44.6"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "10"
               },
               {
@@ -31143,7 +31153,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "8"
               },
               {
@@ -31168,8 +31178,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "418",
-                "away": "324"
+                "home": "429",
+                "away": "327"
               },
               {
                 "key": "passPct",
