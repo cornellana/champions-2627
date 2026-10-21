@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:55:52Z",
+  "lastUpdated": "2026-10-21T17:56:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30324,7 +30324,7 @@
               {
                 "id": "54007530_12",
                 "type": "YELLOW_CARD",
-                "minute": 51,
+                "minute": 50,
                 "extraTime": null,
                 "playerName": "Carlos Baleba",
                 "relatedPlayer": null,
@@ -30335,13 +30335,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.5",
-                "away": "38.5"
+                "home": "61.1",
+                "away": "38.9"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
@@ -30355,8 +30355,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
-                "away": "11"
+                "home": "3",
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -30380,8 +30380,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "412",
-                "away": "243"
+                "home": "413",
+                "away": "249"
               },
               {
                 "key": "passPct",
@@ -30407,7 +30407,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30868,13 +30868,23 @@
                 "relatedPlayer": "Roland Sallai with a cross",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54007527_10",
+                "type": "GOAL",
+                "minute": 52,
+                "extraTime": null,
+                "playerName": "Lucas Torreira",
+                "relatedPlayer": "Gabriel Sara with a cross following a corner",
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.1",
-                "away": "47.9"
+                "home": "52.5",
+                "away": "47.5"
               },
               {
                 "key": "totalShots",
@@ -30918,8 +30928,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "252",
-                "away": "226"
+                "home": "259",
+                "away": "227"
               },
               {
                 "key": "passPct",
