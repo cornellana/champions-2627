@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:18:15Z",
+  "lastUpdated": "2026-10-21T20:19:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31742,8 +31742,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
-          "statusText": "In Progress",
+          "clock": "60'",
+          "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
           "details": {
@@ -32205,7 +32205,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "8"
               },
               {
@@ -32221,7 +32221,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -32272,7 +32272,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32747,8 +32747,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 58,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Odsonne Édouard",
+                "relatedPlayer": "Franjo Ivanovic",
                 "teamName": "Lens",
                 "text": null
               }
@@ -32756,23 +32756,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.4",
-                "away": "43.6"
+                "home": "56",
+                "away": "44"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "13"
+                "away": "15"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -32801,8 +32801,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "391",
-                "away": "284"
+                "home": "397",
+                "away": "290"
               },
               {
                 "key": "passPct",
@@ -32828,7 +32828,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33292,8 +33292,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.6",
-                "away": "54.4"
+                "home": "47.1",
+                "away": "52.9"
               },
               {
                 "key": "totalShots",
@@ -33337,7 +33337,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "246",
+                "home": "264",
                 "away": "321"
               },
               {
@@ -33364,7 +33364,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -33810,7 +33810,7 @@
                 "type": "PENALTY",
                 "minute": 59,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Isco",
                 "relatedPlayer": null,
                 "teamName": "Real Betis",
                 "text": null
@@ -33864,8 +33864,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "321",
-                "away": "318"
+                "home": "322",
+                "away": "320"
               },
               {
                 "key": "passPct",
@@ -33891,7 +33891,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34345,17 +34345,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.9",
-                "away": "40.1"
+                "home": "59.4",
+                "away": "40.6"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "4"
               },
               {
@@ -34386,12 +34386,12 @@
               {
                 "key": "saves",
                 "home": "4",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "accuratePasses",
-                "home": "378",
-                "away": "246"
+                "home": "383",
+                "away": "253"
               },
               {
                 "key": "passPct",
@@ -34417,7 +34417,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -34892,8 +34892,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61",
-                "away": "39"
+                "home": "60.5",
+                "away": "39.5"
               },
               {
                 "key": "totalShots",
@@ -34908,7 +34908,7 @@
               {
                 "key": "wonCorners",
                 "home": "5",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -34937,8 +34937,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "295",
-                "away": "180"
+                "home": "302",
+                "away": "190"
               },
               {
                 "key": "passPct",
@@ -37451,6 +37451,13 @@
       "athleteID": null
     },
     {
+      "player": "Isco",
+      "team": "Real Betis",
+      "goals": 2,
+      "penalties": 2,
+      "athleteID": null
+    },
+    {
       "player": "Karim Adeyemi",
       "team": "FC Barcelona",
       "goals": 2,
@@ -37537,13 +37544,6 @@
     {
       "player": "Tani Oluwaseyi",
       "team": "Villarreal",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Vitinha",
-      "team": "Paris Saint-Germain",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
