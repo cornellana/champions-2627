@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:19:22Z",
+  "lastUpdated": "2026-10-21T20:20:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,8 +31225,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
-          "statusText": "Second Half",
+          "clock": "60'",
+          "statusText": "In Progress",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
           "details": {
@@ -31670,12 +31670,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.5",
-                "away": "38.5"
+                "home": "61.1",
+                "away": "38.9"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "16",
                 "away": "4"
               },
               {
@@ -31690,7 +31690,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "12"
               },
               {
@@ -31715,8 +31715,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "317",
-                "away": "183"
+                "home": "326",
+                "away": "190"
               },
               {
                 "key": "passPct",
@@ -31738,11 +31738,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "62'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32195,6 +32195,16 @@
                 "relatedPlayer": "Kim Min-Jae",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "54017554_15",
+                "type": "PENALTY",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
@@ -32205,12 +32215,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -32272,7 +32282,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32751,18 +32761,28 @@
                 "relatedPlayer": "Franjo Ivanovic",
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "54017502_16",
+                "type": "SUBSTITUTION",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "Florian Thauvin",
+                "relatedPlayer": "Thorgan Hazard",
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56",
-                "away": "44"
+                "home": "56.1",
+                "away": "43.9"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "15"
+                "away": "16"
               },
               {
                 "key": "shotsOnTarget",
@@ -32796,13 +32816,13 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "397",
-                "away": "290"
+                "home": "402",
+                "away": "294"
               },
               {
                 "key": "passPct",
@@ -32828,7 +32848,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33287,13 +33307,23 @@
                 "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "54017553_10",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.1",
-                "away": "52.9"
+                "home": "47.6",
+                "away": "52.4"
               },
               {
                 "key": "totalShots",
@@ -33337,7 +33367,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "264",
+                "home": "269",
                 "away": "321"
               },
               {
@@ -33364,7 +33394,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -33819,8 +33849,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.3",
-                "away": "49.7"
+                "home": "49.3",
+                "away": "50.7"
               },
               {
                 "key": "totalShots",
@@ -33864,8 +33894,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "322",
-                "away": "320"
+                "home": "323",
+                "away": "335"
               },
               {
                 "key": "passPct",
@@ -33891,7 +33921,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34345,8 +34375,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.4",
-                "away": "40.6"
+                "home": "59.3",
+                "away": "40.7"
               },
               {
                 "key": "totalShots",
@@ -34366,7 +34396,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -34390,8 +34420,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "383",
-                "away": "253"
+                "home": "390",
+                "away": "259"
               },
               {
                 "key": "passPct",
@@ -34417,7 +34447,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
