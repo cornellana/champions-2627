@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:49:19Z",
+  "lastUpdated": "2026-10-21T17:50:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,8 +29877,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -30290,13 +30290,33 @@
                 "relatedPlayer": null,
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "54007350_8",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
+              },
+              {
+                "id": "54007351_9",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.7",
-                "away": "36.3"
+                "home": "63.6",
+                "away": "36.4"
               },
               {
                 "key": "totalShots",
@@ -30340,8 +30360,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "399",
-                "away": "216"
+                "home": "398",
+                "away": "215"
               },
               {
                 "key": "passPct",
@@ -30367,8 +30387,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
-          "statusText": "Second Half",
+          "clock": "47'",
+          "statusText": "In Progress",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": {
@@ -30833,8 +30853,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
@@ -30878,8 +30898,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "216",
-                "away": "183"
+                "home": "217",
+                "away": "194"
               },
               {
                 "key": "passPct",
