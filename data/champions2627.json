@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:39:25Z",
+  "lastUpdated": "2026-10-21T18:40:30Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -33365,6 +33365,16 @@
       "position": 5
     },
     {
+      "team": "Como",
+      "played": 3,
+      "won": 2,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 5,
+      "position": 6
+    },
+    {
       "team": "Manchester City",
       "played": 3,
       "won": 2,
@@ -33372,7 +33382,7 @@
       "lost": 1,
       "goalsFor": 9,
       "goalsAgainst": 5,
-      "position": 6
+      "position": 7
     },
     {
       "team": "Sporting de Portugal",
@@ -33382,7 +33392,7 @@
       "lost": 0,
       "goalsFor": 5,
       "goalsAgainst": 1,
-      "position": 7
+      "position": 8
     },
     {
       "team": "Arsenal",
@@ -33392,7 +33402,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 0,
-      "position": 8
+      "position": 9
     },
     {
       "team": "Real Betis",
@@ -33402,7 +33412,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 4,
-      "position": 9
+      "position": 10
     },
     {
       "team": "Real Madrid",
@@ -33412,7 +33422,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 4,
-      "position": 10
+      "position": 11
     },
     {
       "team": "Borussia Dortmund",
@@ -33422,7 +33432,7 @@
       "lost": 1,
       "goalsFor": 5,
       "goalsAgainst": 4,
-      "position": 11
+      "position": 12
     },
     {
       "team": "Bayern de Múnich",
@@ -33432,7 +33442,7 @@
       "lost": 0,
       "goalsFor": 8,
       "goalsAgainst": 3,
-      "position": 12
+      "position": 13
     },
     {
       "team": "Roma",
@@ -33442,7 +33452,7 @@
       "lost": 1,
       "goalsFor": 8,
       "goalsAgainst": 5,
-      "position": 13
+      "position": 14
     },
     {
       "team": "Shajtar Donetsk",
@@ -33452,7 +33462,7 @@
       "lost": 0,
       "goalsFor": 4,
       "goalsAgainst": 2,
-      "position": 14
+      "position": 15
     },
     {
       "team": "Atlético de Madrid",
@@ -33462,7 +33472,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 3,
-      "position": 15
+      "position": 16
     },
     {
       "team": "PSV",
@@ -33472,27 +33482,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "position": 16
-    },
-    {
-      "team": "Como",
-      "played": 2,
-      "won": 1,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 6,
-      "goalsAgainst": 4,
       "position": 17
-    },
-    {
-      "team": "Manchester United",
-      "played": 2,
-      "won": 1,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 4,
-      "goalsAgainst": 2,
-      "position": 18
     },
     {
       "team": "Villarreal",
@@ -33502,7 +33492,7 @@
       "lost": 2,
       "goalsFor": 8,
       "goalsAgainst": 8,
-      "position": 19
+      "position": 18
     },
     {
       "team": "Brujas",
@@ -33511,6 +33501,16 @@
       "drawn": 0,
       "lost": 1,
       "goalsFor": 6,
+      "goalsAgainst": 6,
+      "position": 19
+    },
+    {
+      "team": "Manchester United",
+      "played": 3,
+      "won": 1,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 5,
       "goalsAgainst": 6,
       "position": 20
     },
