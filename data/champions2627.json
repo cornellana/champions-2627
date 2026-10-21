@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T16:51:58Z",
+  "lastUpdated": "2026-10-21T16:53:04Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -29895,22 +29895,22 @@
                   "athleteID": "214740"
                 },
                 {
-                  "id": "380318",
-                  "jersey": 4,
-                  "name": "Jacobo Ramón",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "380318"
-                },
-                {
                   "id": "175887",
                   "jersey": 2,
                   "name": "Marc-Oliver Kempf",
-                  "position": "CD-R",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "175887"
+                },
+                {
+                  "id": "380318",
+                  "jersey": 4,
+                  "name": "Jacobo Ramón",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "380318"
                 },
                 {
                   "id": "192146",
@@ -30357,7 +30357,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
