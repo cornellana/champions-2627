@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:03:29Z",
+  "lastUpdated": "2026-10-21T18:04:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30350,12 +30350,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "0"
               },
               {
@@ -30386,12 +30386,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "420",
-                "away": "285"
+                "home": "429",
+                "away": "291"
               },
               {
                 "key": "passPct",
@@ -30417,7 +30417,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "62'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30881,11 +30881,11 @@
               },
               {
                 "id": "54007527_10",
-                "type": "GOAL",
+                "type": "OWN_GOAL",
                 "minute": 52,
                 "extraTime": null,
-                "playerName": "Lucas Torreira",
-                "relatedPlayer": "Gabriel Sara with a cross following a corner",
+                "playerName": "Berke Özer",
+                "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
               },
@@ -30903,8 +30903,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.6",
-                "away": "47.4"
+                "home": "53.1",
+                "away": "46.9"
               },
               {
                 "key": "totalShots",
@@ -30948,8 +30948,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "280",
-                "away": "244"
+                "home": "291",
+                "away": "248"
               },
               {
                 "key": "passPct",
