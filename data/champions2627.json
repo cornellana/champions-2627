@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:23:45Z",
+  "lastUpdated": "2026-10-21T20:24:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31680,8 +31680,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.5",
-                "away": "38.5"
+                "home": "61.4",
+                "away": "38.6"
               },
               {
                 "key": "totalShots",
@@ -31726,7 +31726,7 @@
               {
                 "key": "accuratePasses",
                 "home": "357",
-                "away": "204"
+                "away": "205"
               },
               {
                 "key": "passPct",
@@ -31752,7 +31752,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32220,8 +32220,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.1",
-                "away": "51.9"
+                "home": "48.3",
+                "away": "51.7"
               },
               {
                 "key": "totalShots",
@@ -32240,7 +32240,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "3"
               },
               {
@@ -32265,13 +32265,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "264",
-                "away": "276"
+                "home": "273",
+                "away": "284"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -32292,7 +32292,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32787,7 +32787,7 @@
                 "type": "YELLOW_CARD",
                 "minute": 61,
                 "extraTime": null,
-                "playerName": "Felix Lemarechal",
+                "playerName": "Félix Lemaréchal",
                 "relatedPlayer": null,
                 "teamName": "Brujas",
                 "text": null
@@ -32796,8 +32796,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.2",
-                "away": "44.8"
+                "home": "55.5",
+                "away": "44.5"
               },
               {
                 "key": "totalShots",
@@ -32841,8 +32841,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "414",
-                "away": "314"
+                "home": "420",
+                "away": "315"
               },
               {
                 "key": "passPct",
@@ -32868,7 +32868,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33362,8 +33362,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.6",
-                "away": "51.4"
+                "home": "48.7",
+                "away": "51.3"
               },
               {
                 "key": "totalShots",
@@ -33382,7 +33382,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "5"
               },
               {
@@ -33407,8 +33407,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "288",
-                "away": "325"
+                "home": "296",
+                "away": "332"
               },
               {
                 "key": "passPct",
@@ -33434,8 +33434,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
-          "statusText": "In Progress",
+          "clock": "67'",
+          "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
           "details": {
@@ -33890,8 +33890,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Dani Ceballos",
+                "relatedPlayer": "Pablo Fornals",
                 "teamName": "Real Betis",
                 "text": null
               },
@@ -33900,8 +33900,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Rodrigo Riquelme",
+                "relatedPlayer": "Antony",
                 "teamName": "Real Betis",
                 "text": null
               }
@@ -33909,8 +33909,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.2",
-                "away": "50.8"
+                "home": "50.5",
+                "away": "49.5"
               },
               {
                 "key": "totalShots",
@@ -33934,7 +33934,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -33954,7 +33954,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "333",
+                "home": "353",
                 "away": "349"
               },
               {
@@ -33981,7 +33981,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34430,17 +34430,37 @@
                 "relatedPlayer": "Kylian Mbappé",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "54018000_5",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
+              },
+              {
+                "id": "54018001_6",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61",
-                "away": "39"
+                "home": "60.8",
+                "away": "39.2"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "6"
               },
               {
@@ -34455,7 +34475,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "5"
               },
               {
@@ -34480,8 +34500,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "432",
-                "away": "265"
+                "home": "435",
+                "away": "269"
               },
               {
                 "key": "passPct",
@@ -34507,7 +34527,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -34987,13 +35007,23 @@
                 "relatedPlayer": "Robert Ljubicic following a fast break",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "54017984_15",
+                "type": "YELLOW_CARD",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Issa Doumbia",
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.4",
-                "away": "39.6"
+                "home": "60.8",
+                "away": "39.2"
               },
               {
                 "key": "totalShots",
@@ -35012,7 +35042,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "12"
               },
               {
@@ -35022,7 +35052,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -35037,8 +35067,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "314",
-                "away": "197"
+                "home": "322",
+                "away": "199"
               },
               {
                 "key": "passPct",
