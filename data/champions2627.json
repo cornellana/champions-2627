@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:29:15Z",
+  "lastUpdated": "2026-10-21T20:30:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31700,8 +31700,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.4",
-                "away": "39.6"
+                "home": "61.3",
+                "away": "38.7"
               },
               {
                 "key": "totalShots",
@@ -31715,7 +31715,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "6"
               },
               {
@@ -31745,7 +31745,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "367",
+                "home": "382",
                 "away": "213"
               },
               {
@@ -31772,7 +31772,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32255,13 +32255,33 @@
                 "relatedPlayer": "Serge Gnabry",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "54018536_18",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Arsenal",
+                "text": null
+              },
+              {
+                "id": "54018537_19",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.5",
-                "away": "51.5"
+                "home": "48.3",
+                "away": "51.7"
               },
               {
                 "key": "totalShots",
@@ -32271,7 +32291,7 @@
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "4"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -32305,8 +32325,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "275",
-                "away": "285"
+                "home": "282",
+                "away": "296"
               },
               {
                 "key": "passPct",
@@ -32332,7 +32352,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32846,8 +32866,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.8",
-                "away": "44.2"
+                "home": "56",
+                "away": "44"
               },
               {
                 "key": "totalShots",
@@ -32891,7 +32911,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "451",
+                "home": "452",
                 "away": "334"
               },
               {
@@ -32918,7 +32938,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33417,6 +33437,16 @@
                 "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "54018539_14",
+                "type": "RED_CARD",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": "Alessandro Bastoni",
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
@@ -33442,7 +33472,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "6"
               },
               {
@@ -33452,12 +33482,12 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "redCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -33494,7 +33524,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -34041,7 +34071,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34510,18 +34540,28 @@
                 "relatedPlayer": "Brajan Gruda",
                 "teamName": "RB Leipzig",
                 "text": null
+              },
+              {
+                "id": "54018483_7",
+                "type": "YELLOW_CARD",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": "Álvaro Carreras",
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.1",
-                "away": "37.9"
+                "home": "61.4",
+                "away": "38.6"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
@@ -34536,7 +34576,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -34545,7 +34585,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -34560,8 +34600,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "472",
-                "away": "275"
+                "home": "491",
+                "away": "296"
               },
               {
                 "key": "passPct",
@@ -34587,7 +34627,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -35132,8 +35172,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.5",
-                "away": "39.5"
+                "home": "61.3",
+                "away": "38.7"
               },
               {
                 "key": "totalShots",
@@ -35152,7 +35192,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "13"
               },
               {
@@ -35177,8 +35217,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "334",
-                "away": "209"
+                "home": "350",
+                "away": "211"
               },
               {
                 "key": "passPct",
