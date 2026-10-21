@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:12:46Z",
+  "lastUpdated": "2026-10-21T20:13:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31670,8 +31670,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.6",
-                "away": "37.4"
+                "home": "61.5",
+                "away": "38.5"
               },
               {
                 "key": "totalShots",
@@ -31695,7 +31695,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -31716,7 +31716,7 @@
               {
                 "key": "accuratePasses",
                 "home": "287",
-                "away": "158"
+                "away": "167"
               },
               {
                 "key": "passPct",
@@ -31742,7 +31742,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32200,18 +32200,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.9",
-                "away": "53.1"
+                "home": "44.8",
+                "away": "55.2"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -32240,13 +32240,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "211",
-                "away": "227"
+                "home": "212",
+                "away": "254"
               },
               {
                 "key": "passPct",
@@ -32272,7 +32272,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32746,8 +32746,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.6",
-                "away": "43.4"
+                "home": "57.5",
+                "away": "42.5"
               },
               {
                 "key": "totalShots",
@@ -32766,7 +32766,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "4"
               },
               {
@@ -32791,8 +32791,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "354",
-                "away": "256"
+                "home": "372",
+                "away": "258"
               },
               {
                 "key": "passPct",
@@ -32818,7 +32818,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33272,8 +33272,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.1",
-                "away": "56.9"
+                "home": "43.3",
+                "away": "56.7"
               },
               {
                 "key": "totalShots",
@@ -33293,7 +33293,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -33317,7 +33317,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
+                "home": "221",
                 "away": "317"
               },
               {
@@ -33344,7 +33344,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -33789,8 +33789,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.6",
-                "away": "49.4"
+                "home": "51.1",
+                "away": "48.9"
               },
               {
                 "key": "totalShots",
@@ -33834,8 +33834,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "303",
-                "away": "296"
+                "home": "313",
+                "away": "299"
               },
               {
                 "key": "passPct",
@@ -33857,11 +33857,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "2-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34300,22 +34300,32 @@
                 "relatedPlayer": null,
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "54016815_4",
+                "type": "GOAL",
+                "minute": 52,
+                "extraTime": null,
+                "playerName": "Arda Güler",
+                "relatedPlayer": "Kylian Mbappé with a headed pass",
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.5",
-                "away": "40.5"
+                "home": "59.6",
+                "away": "40.4"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "4"
               },
               {
@@ -34350,8 +34360,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "343",
-                "away": "226"
+                "home": "356",
+                "away": "234"
               },
               {
                 "key": "passPct",
@@ -34377,7 +34387,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -34837,13 +34847,23 @@
                 "relatedPlayer": null,
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "54016819_13",
+                "type": "SUBSTITUTION",
+                "minute": 52,
+                "extraTime": null,
+                "playerName": "Tobias Schützenauer",
+                "relatedPlayer": "Lukas Jungwirth because of an injury",
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.4",
-                "away": "39.6"
+                "home": "60",
+                "away": "40"
               },
               {
                 "key": "totalShots",
@@ -34887,8 +34907,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "266",
-                "away": "165"
+                "home": "267",
+                "away": "169"
               },
               {
                 "key": "passPct",
