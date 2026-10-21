@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:31:12Z",
+  "lastUpdated": "2026-10-21T17:32:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30295,8 +30295,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.2",
-                "away": "32.8"
+                "home": "66.3",
+                "away": "33.7"
               },
               {
                 "key": "totalShots",
@@ -30315,7 +30315,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "9"
               },
               {
@@ -30341,7 +30341,7 @@
               {
                 "key": "accuratePasses",
                 "home": "396",
-                "away": "181"
+                "away": "190"
               },
               {
                 "key": "passPct",
@@ -30367,7 +30367,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30833,13 +30833,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.9",
-                "away": "46.1"
+                "home": "53.2",
+                "away": "46.8"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -30879,11 +30879,11 @@
               {
                 "key": "accuratePasses",
                 "home": "211",
-                "away": "175"
+                "away": "180"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
