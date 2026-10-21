@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:42:26Z",
+  "lastUpdated": "2026-10-21T20:43:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31842,7 +31842,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32432,7 +32432,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32991,6 +32991,46 @@
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "54020072_24",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Hugo Siquet",
+                "relatedPlayer": "Kyriani Sabbe",
+                "teamName": "Brujas",
+                "text": null
+              },
+              {
+                "id": "54020073_25",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Romeo Vermant",
+                "relatedPlayer": "Nicolò Tresoldi",
+                "teamName": "Brujas",
+                "text": null
+              },
+              {
+                "id": "54020074_26",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Milan Robberechts",
+                "relatedPlayer": "Carlos Forbs",
+                "teamName": "Brujas",
+                "text": null
+              },
+              {
+                "id": "54020075_27",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Kyllian Antonio",
+                "relatedPlayer": "Ruben Aguilar",
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
@@ -33041,8 +33081,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "554",
-                "away": "370"
+                "home": "559",
+                "away": "374"
               },
               {
                 "key": "passPct",
@@ -33068,7 +33108,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -34269,8 +34309,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47",
-                "away": "53"
+                "home": "47.4",
+                "away": "52.6"
               },
               {
                 "key": "totalShots",
@@ -34314,8 +34354,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "408",
-                "away": "465"
+                "home": "417",
+                "away": "467"
               },
               {
                 "key": "passPct",
@@ -34341,7 +34381,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34895,8 +34935,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.3",
-                "away": "35.7"
+                "home": "64.8",
+                "away": "35.2"
               },
               {
                 "key": "totalShots",
@@ -34916,7 +34956,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "13",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -34940,7 +34980,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "603",
+                "home": "619",
                 "away": "315"
               },
               {
@@ -34967,7 +35007,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -35552,8 +35592,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.1",
-                "away": "40.9"
+                "home": "60.2",
+                "away": "39.8"
               },
               {
                 "key": "totalShots",
@@ -35567,7 +35607,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "3"
               },
               {
@@ -35597,8 +35637,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "403",
-                "away": "270"
+                "home": "430",
+                "away": "271"
               },
               {
                 "key": "passPct",
