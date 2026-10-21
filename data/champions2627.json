@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:04:35Z",
+  "lastUpdated": "2026-10-21T18:05:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30345,18 +30345,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.4",
-                "away": "41.6"
+                "home": "58.7",
+                "away": "41.3"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "5"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "6",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -30385,13 +30385,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "429",
-                "away": "291"
+                "home": "448",
+                "away": "300"
               },
               {
                 "key": "passPct",
@@ -30413,7 +30413,7 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-3",
+          "result": "2-4",
           "aggregate": null,
           "shootout": null,
           "state": "in",
@@ -30897,6 +30897,16 @@
                 "playerName": "Benjamin André",
                 "relatedPlayer": null,
                 "teamName": "Lille",
+                "text": null
+              },
+              {
+                "id": "54007777_12",
+                "type": "GOAL",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": "Victor Osimhen",
+                "relatedPlayer": "Baris Alper Yilmaz following a fast break",
+                "teamName": "Galatasaray",
                 "text": null
               }
             ],
@@ -33847,6 +33857,12 @@
       "athleteID": null
     },
     {
+      "player": "Baris Alper Yilmaz following a fast break",
+      "team": "Galatasaray",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Boubacar Kamara",
       "team": "Aston Villa",
       "goals": 1,
@@ -33939,12 +33955,6 @@
     {
       "player": "Emmanuel Ayaosi with a cross",
       "team": "Slavia de Praga",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Enzo Fernández",
-      "team": "Manchester City",
       "goals": 1,
       "athleteID": null
     }
