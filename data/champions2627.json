@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:58:03Z",
+  "lastUpdated": "2026-10-21T17:59:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30335,12 +30335,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.8",
-                "away": "39.2"
+                "home": "60.7",
+                "away": "39.3"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "4"
               },
               {
@@ -30380,8 +30380,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "417",
-                "away": "255"
+                "home": "419",
+                "away": "256"
               },
               {
                 "key": "passPct",
@@ -30407,7 +30407,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30883,8 +30883,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.1",
-                "away": "46.9"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
@@ -30899,7 +30899,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -30908,7 +30908,7 @@
               },
               {
                 "key": "offsides",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -30929,11 +30929,11 @@
               {
                 "key": "accuratePasses",
                 "home": "267",
-                "away": "227"
+                "away": "234"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
