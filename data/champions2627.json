@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:55:39Z",
+  "lastUpdated": "2026-10-21T20:56:44Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31220,13 +31220,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "3-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+5'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
           "details": {
@@ -31790,13 +31790,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55",
-                "away": "45"
+                "home": "54.5",
+                "away": "45.5"
               },
               {
                 "key": "totalShots",
                 "home": "21",
-                "away": "7"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -31835,8 +31835,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "466",
-                "away": "363"
+                "home": "467",
+                "away": "373"
               },
               {
                 "key": "passPct",
@@ -35137,7 +35137,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+5'",
+          "clock": "90'+6'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -35772,8 +35772,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.6",
-                "away": "38.4"
+                "home": "61.4",
+                "away": "38.6"
               },
               {
                 "key": "totalShots",
@@ -35817,8 +35817,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "483",
-                "away": "286"
+                "home": "486",
+                "away": "291"
               },
               {
                 "key": "passPct",
@@ -37797,6 +37797,16 @@
       "position": 1
     },
     {
+      "team": "Aston Villa",
+      "played": 3,
+      "won": 3,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 12,
+      "goalsAgainst": 3,
+      "position": 2
+    },
+    {
       "team": "Liverpool",
       "played": 3,
       "won": 3,
@@ -37804,7 +37814,7 @@
       "lost": 0,
       "goalsFor": 12,
       "goalsAgainst": 7,
-      "position": 2
+      "position": 3
     },
     {
       "team": "Real Madrid",
@@ -37814,7 +37824,7 @@
       "lost": 0,
       "goalsFor": 10,
       "goalsAgainst": 5,
-      "position": 3
+      "position": 4
     },
     {
       "team": "Real Betis",
@@ -37824,7 +37834,7 @@
       "lost": 0,
       "goalsFor": 7,
       "goalsAgainst": 4,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Stuttgart",
@@ -37834,7 +37844,7 @@
       "lost": 0,
       "goalsFor": 7,
       "goalsAgainst": 2,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Arsenal",
@@ -37843,16 +37853,6 @@
       "drawn": 1,
       "lost": 0,
       "goalsFor": 6,
-      "goalsAgainst": 2,
-      "position": 6
-    },
-    {
-      "team": "Aston Villa",
-      "played": 2,
-      "won": 2,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 9,
       "goalsAgainst": 2,
       "position": 7
     },
@@ -38087,16 +38087,6 @@
       "position": 30
     },
     {
-      "team": "Viking",
-      "played": 2,
-      "won": 0,
-      "drawn": 1,
-      "lost": 1,
-      "goalsFor": 4,
-      "goalsAgainst": 6,
-      "position": 31
-    },
-    {
       "team": "Slavia de Praga",
       "played": 3,
       "won": 0,
@@ -38104,6 +38094,16 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 7,
+      "position": 31
+    },
+    {
+      "team": "Viking",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 9,
       "position": 32
     },
     {
