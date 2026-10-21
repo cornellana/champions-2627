@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:00:13Z",
+  "lastUpdated": "2026-10-21T18:01:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30335,13 +30335,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.9",
-                "away": "40.1"
+                "home": "58.7",
+                "away": "41.3"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -30380,8 +30380,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "419",
-                "away": "265"
+                "home": "420",
+                "away": "282"
               },
               {
                 "key": "passPct",
@@ -30407,7 +30407,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30883,13 +30883,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.4",
-                "away": "47.6"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "6"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -30903,7 +30903,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "5"
               },
               {
@@ -30928,8 +30928,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "267",
-                "away": "234"
+                "home": "272",
+                "away": "242"
               },
               {
                 "key": "passPct",
