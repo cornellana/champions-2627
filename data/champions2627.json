@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:25:16Z",
+  "lastUpdated": "2026-10-21T18:26:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30386,8 +30386,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 79,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Harry Amass",
+                "relatedPlayer": "Matthijs de Ligt",
                 "teamName": "Manchester United",
                 "text": null
               },
@@ -30396,8 +30396,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 80,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Alberto Dossena",
+                "relatedPlayer": "Máximo Perrone",
                 "teamName": "Como",
                 "text": null
               },
@@ -30405,6 +30405,16 @@
                 "id": "54008852_20",
                 "type": "SUBSTITUTION",
                 "minute": 80,
+                "extraTime": null,
+                "playerName": "Samuele Ricci",
+                "relatedPlayer": "Nico Paz",
+                "teamName": "Como",
+                "text": null
+              },
+              {
+                "id": "54008901_21",
+                "type": "SUBSTITUTION",
+                "minute": 81,
                 "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
@@ -30415,13 +30425,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.9",
-                "away": "42.1"
+                "home": "57.4",
+                "away": "42.6"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
@@ -30461,7 +30471,7 @@
               {
                 "key": "accuratePasses",
                 "home": "567",
-                "away": "393"
+                "away": "400"
               },
               {
                 "key": "passPct",
@@ -30487,7 +30497,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -31063,12 +31073,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53",
-                "away": "47"
+                "home": "53.6",
+                "away": "46.4"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "10"
               },
               {
@@ -31108,7 +31118,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "384",
+                "home": "394",
                 "away": "323"
               },
               {
