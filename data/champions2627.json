@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:45:27Z",
+  "lastUpdated": "2026-10-21T19:46:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31670,8 +31670,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.2",
-                "away": "29.8"
+                "home": "67.6",
+                "away": "32.4"
               },
               {
                 "key": "totalShots",
@@ -31691,12 +31691,12 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -31715,8 +31715,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "246",
-                "away": "91"
+                "home": "255",
+                "away": "109"
               },
               {
                 "key": "passPct",
@@ -31742,7 +31742,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32190,8 +32190,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.3",
-                "away": "55.7"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
@@ -32235,8 +32235,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "160",
-                "away": "196"
+                "home": "163",
+                "away": "198"
               },
               {
                 "key": "passPct",
@@ -32695,8 +32695,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "53.7",
+                "away": "46.3"
               },
               {
                 "key": "totalShots",
@@ -32740,7 +32740,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "287",
+                "home": "289",
                 "away": "239"
               },
               {
@@ -32767,8 +32767,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
-          "statusText": "In Progress",
+          "clock": "45'",
+          "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
           "details": {
@@ -33221,13 +33221,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46",
-                "away": "54"
+                "home": "46.1",
+                "away": "53.9"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -33266,7 +33266,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "197",
+                "home": "198",
                 "away": "244"
               },
               {
@@ -33293,7 +33293,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -33773,8 +33773,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "268",
-                "away": "248"
+                "home": "269",
+                "away": "249"
               },
               {
                 "key": "passPct",
@@ -33796,11 +33796,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34229,21 +34229,32 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54015405_1",
+                "type": "GOAL",
+                "minute": 44,
+                "extraTime": null,
+                "playerName": "Bernardo Silva",
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58",
-                "away": "42"
+                "home": "59.5",
+                "away": "40.5"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "5",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "3",
                 "away": "4"
               },
               {
@@ -34274,11 +34285,11 @@
               {
                 "key": "saves",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "289",
+                "home": "310",
                 "away": "203"
               },
               {
@@ -34305,7 +34316,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
