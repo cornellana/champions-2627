@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:07:51Z",
+  "lastUpdated": "2026-10-21T18:08:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30340,13 +30340,23 @@
                 "relatedPlayer": null,
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "54007961_14",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Maxence Caqueret",
+                "relatedPlayer": "Martin Baturina",
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.6",
-                "away": "42.4"
+                "home": "58.3",
+                "away": "41.7"
               },
               {
                 "key": "totalShots",
@@ -30390,8 +30400,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "455",
-                "away": "319"
+                "home": "471",
+                "away": "320"
               },
               {
                 "key": "passPct",
@@ -30417,7 +30427,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30922,7 +30932,7 @@
               {
                 "id": "54007851_14",
                 "type": "SUBSTITUTION",
-                "minute": 63,
+                "minute": 62,
                 "extraTime": null,
                 "playerName": "Maurits Kjærgaard",
                 "relatedPlayer": "Benjamin André",
@@ -30930,17 +30940,7 @@
                 "text": null
               },
               {
-                "id": "54007852_15",
-                "type": "SUBSTITUTION",
-                "minute": 63,
-                "extraTime": null,
-                "playerName": "Olivier Giroud",
-                "relatedPlayer": "Ngal'ayel Mukau",
-                "teamName": "Lille",
-                "text": null
-              },
-              {
-                "id": "54007865_16",
+                "id": "54007865_15",
                 "type": "SUBSTITUTION",
                 "minute": 63,
                 "extraTime": null,
@@ -30948,18 +30948,28 @@
                 "relatedPlayer": "Maxima Goffi",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "54007852_16",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Olivier Giroud",
+                "relatedPlayer": "Ngal'ayel Mukau",
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -30969,12 +30979,12 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -30998,12 +31008,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "292",
-                "away": "259"
+                "home": "299",
+                "away": "264"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.8"
               }
             ],
