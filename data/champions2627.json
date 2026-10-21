@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:11:07Z",
+  "lastUpdated": "2026-10-21T18:12:12Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -30350,23 +30350,33 @@
                 "relatedPlayer": "Martin Baturina",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "54008161_15",
+                "type": "SUBSTITUTION",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.6",
-                "away": "42.4"
+                "home": "57.5",
+                "away": "42.5"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "6",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -30395,7 +30405,7 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -30427,7 +30437,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30963,8 +30973,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.9",
-                "away": "48.1"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
@@ -31008,7 +31018,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "315",
+                "home": "321",
                 "away": "278"
               },
               {
