@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T17:29:02Z",
+  "lastUpdated": "2026-10-21T17:30:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
+          "clock": "43'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30295,8 +30295,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67",
-                "away": "33"
+                "home": "67.3",
+                "away": "32.7"
               },
               {
                 "key": "totalShots",
@@ -30316,11 +30316,11 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -30340,8 +30340,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "372",
-                "away": "174"
+                "home": "389",
+                "away": "179"
               },
               {
                 "key": "passPct",
@@ -30363,11 +30363,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-1",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30818,23 +30818,33 @@
                 "relatedPlayer": "Hákon Haraldsson",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "54007149_7",
+                "type": "GOAL",
+                "minute": 44,
+                "extraTime": null,
+                "playerName": "Aleksey Batrakov",
+                "relatedPlayer": "Roland Sallai with a cross",
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.1",
-                "away": "43.9"
+                "home": "53.7",
+                "away": "46.3"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -30868,8 +30878,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "205",
-                "away": "153"
+                "home": "206",
+                "away": "171"
               },
               {
                 "key": "passPct",
@@ -33431,6 +33441,13 @@
       "athleteID": null
     },
     {
+      "player": "Aleksey Batrakov",
+      "team": "Galatasaray",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Assane Diao",
       "team": "Como",
       "goals": 2,
@@ -33615,13 +33632,6 @@
     {
       "player": "Aden McCarthy",
       "team": "Sabah",
-      "goals": 1,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Aleksey Batrakov",
-      "team": "Galatasaray",
       "goals": 1,
       "penalties": 0,
       "athleteID": null
