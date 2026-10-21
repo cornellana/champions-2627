@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:26:22Z",
+  "lastUpdated": "2026-10-21T18:27:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30416,8 +30416,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ivan Smolcic",
+                "relatedPlayer": "Yan Couto",
                 "teamName": "Como",
                 "text": null
               }
@@ -30497,7 +30497,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -31073,8 +31073,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
@@ -31118,7 +31118,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "394",
+                "home": "404",
                 "away": "323"
               },
               {
