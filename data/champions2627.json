@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:49:53Z",
+  "lastUpdated": "2026-10-21T19:50:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,8 +31225,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "First Half",
+          "clock": "45'+4'",
+          "statusText": "Halftime",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
           "details": {
@@ -31670,13 +31670,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.6",
-                "away": "33.4"
+                "home": "66.2",
+                "away": "33.8"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -31686,12 +31686,12 @@
               {
                 "key": "wonCorners",
                 "home": "6",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -31716,7 +31716,7 @@
               {
                 "key": "accuratePasses",
                 "home": "266",
-                "away": "120"
+                "away": "121"
               },
               {
                 "key": "passPct",
@@ -32716,8 +32716,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.9",
-                "away": "46.1"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
@@ -32757,12 +32757,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
                 "home": "293",
-                "away": "241"
+                "away": "242"
               },
               {
                 "key": "passPct",
@@ -33749,8 +33749,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.5",
-                "away": "48.5"
+                "home": "51.6",
+                "away": "48.4"
               },
               {
                 "key": "totalShots",
@@ -33794,7 +33794,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "272",
+                "home": "273",
                 "away": "257"
               },
               {
@@ -34338,7 +34338,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+2'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
           "details": {
