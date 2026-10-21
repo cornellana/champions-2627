@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:37:15Z",
+  "lastUpdated": "2026-10-21T18:38:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -33545,6 +33545,16 @@
       "position": 23
     },
     {
+      "team": "Galatasaray",
+      "played": 3,
+      "won": 1,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 9,
+      "position": 24
+    },
+    {
       "team": "Feyenoord",
       "played": 2,
       "won": 1,
@@ -33552,7 +33562,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 7,
-      "position": 24
+      "position": 25
     },
     {
       "team": "Sabah",
@@ -33562,7 +33572,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 6,
-      "position": 25
+      "position": 26
     },
     {
       "team": "Bodø/Glimt",
@@ -33572,7 +33582,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 9,
-      "position": 26
+      "position": 27
     },
     {
       "team": "AEK Atenas",
@@ -33582,7 +33592,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 8,
-      "position": 27
+      "position": 28
     },
     {
       "team": "Fenerbahçe",
@@ -33592,7 +33602,7 @@
       "lost": 1,
       "goalsFor": 3,
       "goalsAgainst": 9,
-      "position": 28
+      "position": 29
     },
     {
       "team": "Viking",
@@ -33602,7 +33612,7 @@
       "lost": 1,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 29
+      "position": 30
     },
     {
       "team": "Slavia de Praga",
@@ -33612,7 +33622,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 7,
-      "position": 30
+      "position": 31
     },
     {
       "team": "Inter de Milán",
@@ -33622,7 +33632,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 6,
-      "position": 31
+      "position": 32
     },
     {
       "team": "LASK",
@@ -33632,16 +33642,6 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 7,
-      "position": 32
-    },
-    {
-      "team": "Lille",
-      "played": 2,
-      "won": 0,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 2,
-      "goalsAgainst": 6,
       "position": 33
     },
     {
@@ -33655,13 +33655,13 @@
       "position": 34
     },
     {
-      "team": "Galatasaray",
-      "played": 2,
+      "team": "Lille",
+      "played": 3,
       "won": 0,
       "drawn": 0,
-      "lost": 2,
-      "goalsFor": 2,
-      "goalsAgainst": 7,
+      "lost": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 10,
       "position": 35
     },
     {
