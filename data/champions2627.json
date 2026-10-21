@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:29:38Z",
+  "lastUpdated": "2026-10-21T18:30:44Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -30424,19 +30424,29 @@
               {
                 "id": "54009030_22",
                 "type": "YELLOW_CARD",
-                "minute": 85,
+                "minute": 84,
                 "extraTime": null,
                 "playerName": "Marc Oliver Kempf",
                 "relatedPlayer": null,
                 "teamName": "Como",
+                "text": null
+              },
+              {
+                "id": "54009079_23",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.9",
-                "away": "42.1"
+                "home": "57.6",
+                "away": "42.4"
               },
               {
                 "key": "totalShots",
@@ -30456,7 +30466,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -30480,8 +30490,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "586",
-                "away": "406"
+                "home": "587",
+                "away": "410"
               },
               {
                 "key": "passPct",
@@ -30507,7 +30517,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -31128,7 +31138,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
