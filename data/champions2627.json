@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:57:28Z",
+  "lastUpdated": "2026-10-21T19:59:37Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31434,7 +31434,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-3-3",
+              "formation": "4-5-1",
               "players": [
                 {
                   "id": "149479",
@@ -31482,22 +31482,40 @@
                   "athleteID": "303105"
                 },
                 {
+                  "id": "280963",
+                  "jersey": 7,
+                  "name": "Kristoffer Askildsen",
+                  "position": "CM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "280963"
+                },
+                {
                   "id": "228294",
                   "jersey": 8,
                   "name": "Joe Bell",
-                  "position": "CM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "228294"
                 },
                 {
-                  "id": "280963",
-                  "jersey": 7,
-                  "name": "Kristoffer Askildsen",
+                  "id": "9167",
+                  "jersey": 20,
+                  "name": "Peter Christiansen",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "9167"
+                },
+                {
+                  "id": "164279",
+                  "jersey": 10,
+                  "name": "Zlatko Tripic",
                   "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "280963"
+                  "athleteID": "164279"
                 },
                 {
                   "id": "392602",
@@ -31516,24 +31534,6 @@
                   "isStarter": true,
                   "events": null,
                   "athleteID": "239925"
-                },
-                {
-                  "id": "164279",
-                  "jersey": 10,
-                  "name": "Zlatko Tripic",
-                  "position": "LF",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "164279"
-                },
-                {
-                  "id": "9167",
-                  "jersey": 20,
-                  "name": "Peter Christiansen",
-                  "position": "RF",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "9167"
                 },
                 {
                   "id": "292270",
