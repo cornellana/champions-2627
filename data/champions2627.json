@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:41:20Z",
+  "lastUpdated": "2026-10-21T20:42:26Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31759,7 +31759,7 @@
               {
                 "id": "54019327_20",
                 "type": "SUBSTITUTION",
-                "minute": 76,
+                "minute": 75,
                 "extraTime": null,
                 "playerName": "Vetle Auklend",
                 "relatedPlayer": "Zlatko Tripic",
@@ -31770,12 +31770,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.8",
-                "away": "39.2"
+                "home": "61",
+                "away": "39"
               },
               {
                 "key": "totalShots",
-                "home": "19",
+                "home": "20",
                 "away": "6"
               },
               {
@@ -31785,7 +31785,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "7",
+                "home": "8",
                 "away": "6"
               },
               {
@@ -31811,12 +31811,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "accuratePasses",
-                "home": "438",
-                "away": "256"
+                "home": "445",
+                "away": "258"
               },
               {
                 "key": "passPct",
@@ -31842,7 +31842,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32345,23 +32345,33 @@
                 "relatedPlayer": "Bruno Guimarães",
                 "teamName": "Arsenal",
                 "text": null
+              },
+              {
+                "id": "54019836_20",
+                "type": "GOAL",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Declan Rice",
+                "relatedPlayer": "Viktor Gyökeres",
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.8",
-                "away": "53.2"
+                "home": "46.1",
+                "away": "53.9"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "10"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -32395,8 +32405,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "328",
-                "away": "368"
+                "home": "330",
+                "away": "383"
               },
               {
                 "key": "passPct",
@@ -32422,7 +32432,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32971,6 +32981,16 @@
                 "relatedPlayer": null,
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "54019901_23",
+                "type": "YELLOW_CARD",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Michal Skóras",
+                "relatedPlayer": null,
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
@@ -32981,7 +33001,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "18"
               },
               {
@@ -32997,7 +33017,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -33007,7 +33027,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -33048,7 +33068,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33642,8 +33662,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.9",
-                "away": "53.1"
+                "home": "47",
+                "away": "53"
               },
               {
                 "key": "totalShots",
@@ -33687,8 +33707,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "335",
-                "away": "407"
+                "home": "339",
+                "away": "411"
               },
               {
                 "key": "passPct",
@@ -33714,7 +33734,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -34224,13 +34244,33 @@
                 "relatedPlayer": "Troy Parrott",
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "54019898_16",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Ángel Ortiz",
+                "relatedPlayer": "Héctor Bellerín",
+                "teamName": "Real Betis",
+                "text": null
+              },
+              {
+                "id": "54019899_17",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Sem Steijn",
+                "relatedPlayer": "Luciano Valente",
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.5",
-                "away": "52.5"
+                "home": "47",
+                "away": "53"
               },
               {
                 "key": "totalShots",
@@ -34275,7 +34315,7 @@
               {
                 "key": "accuratePasses",
                 "home": "408",
-                "away": "456"
+                "away": "465"
               },
               {
                 "key": "passPct",
@@ -34301,7 +34341,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34855,8 +34895,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.3",
-                "away": "36.7"
+                "home": "64.3",
+                "away": "35.7"
               },
               {
                 "key": "totalShots",
@@ -34900,8 +34940,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "574",
-                "away": "314"
+                "home": "603",
+                "away": "315"
               },
               {
                 "key": "passPct",
@@ -34927,7 +34967,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
