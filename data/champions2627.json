@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T20:24:51Z",
+  "lastUpdated": "2026-10-21T20:25:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -31225,7 +31225,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Villa Park",
           "venueCity": "Birmingham",
@@ -31675,6 +31675,26 @@
                 "relatedPlayer": null,
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "54018147_12",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Henrik Bjørdal",
+                "relatedPlayer": "Tobias Moi",
+                "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "54018148_13",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Simen Kvia-Egeskog",
+                "relatedPlayer": "Erik Botheim",
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
@@ -31752,7 +31772,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Allianz Arena",
           "venueCity": "München",
@@ -32292,7 +32312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -32796,8 +32816,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.5",
-                "away": "44.5"
+                "home": "56.4",
+                "away": "43.6"
               },
               {
                 "key": "totalShots",
@@ -32841,8 +32861,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "420",
-                "away": "315"
+                "home": "437",
+                "away": "316"
               },
               {
                 "key": "passPct",
@@ -32868,7 +32888,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -33362,8 +33382,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.7",
-                "away": "51.3"
+                "home": "49.2",
+                "away": "50.8"
               },
               {
                 "key": "totalShots",
@@ -33383,7 +33403,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -33407,8 +33427,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "296",
-                "away": "332"
+                "home": "307",
+                "away": "338"
               },
               {
                 "key": "passPct",
@@ -33434,7 +33454,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
@@ -33981,7 +34001,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -34432,22 +34452,22 @@
                 "text": null
               },
               {
-                "id": "54018000_5",
+                "id": "54018001_5",
                 "type": "SUBSTITUTION",
                 "minute": 63,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Rocco Reitz",
+                "relatedPlayer": "Neil El Aynaoui",
                 "teamName": "RB Leipzig",
                 "text": null
               },
               {
-                "id": "54018001_6",
+                "id": "54018000_6",
                 "type": "SUBSTITUTION",
-                "minute": 64,
+                "minute": 63,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Andrija Maksimovic",
+                "relatedPlayer": "Brajan Gruda",
                 "teamName": "RB Leipzig",
                 "text": null
               }
@@ -34455,8 +34475,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.8",
-                "away": "39.2"
+                "home": "60.9",
+                "away": "39.1"
               },
               {
                 "key": "totalShots",
@@ -34500,8 +34520,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "435",
-                "away": "269"
+                "home": "445",
+                "away": "274"
               },
               {
                 "key": "passPct",
@@ -34527,7 +34547,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -35052,7 +35072,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
