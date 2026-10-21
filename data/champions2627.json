@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T16:53:04Z",
+  "lastUpdated": "2026-10-21T16:54:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30285,8 +30285,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.4",
-                "away": "31.6"
+                "home": "53.4",
+                "away": "46.6"
               },
               {
                 "key": "totalShots",
@@ -30306,7 +30306,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -30330,8 +30330,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "35",
-                "away": "17"
+                "home": "43",
+                "away": "38"
               },
               {
                 "key": "passPct",
@@ -30353,7 +30353,7 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
@@ -30778,22 +30778,32 @@
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54005890_2",
+                "type": "GOAL",
+                "minute": 7,
+                "extraTime": null,
+                "playerName": "Soriba Diaoune",
+                "relatedPlayer": "Alexsandro with a through ball",
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.7",
-                "away": "39.3"
+                "home": "65.8",
+                "away": "34.2"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -30828,13 +30838,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "31",
-                "away": "18"
+                "home": "43",
+                "away": "19"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
-                "away": "0.8"
+                "home": "0.9",
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -33661,6 +33671,12 @@
       "athleteID": null
     },
     {
+      "player": "Alexsandro with a through ball",
+      "team": "Lille",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Alisson Santana",
       "team": "Shajtar Donetsk",
       "goals": 1,
@@ -33819,12 +33835,6 @@
     {
       "player": "Erik Botheim following a fast break",
       "team": "Viking",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Ethan Mbappé",
-      "team": "Lille",
       "goals": 1,
       "athleteID": null
     }
