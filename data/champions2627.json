@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:05:41Z",
+  "lastUpdated": "2026-10-21T18:06:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -29877,7 +29877,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -30345,8 +30345,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.7",
-                "away": "41.3"
+                "home": "58.4",
+                "away": "41.6"
               },
               {
                 "key": "totalShots",
@@ -30390,8 +30390,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "448",
-                "away": "300"
+                "home": "452",
+                "away": "306"
               },
               {
                 "key": "passPct",
@@ -30417,7 +30417,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -30908,18 +30908,58 @@
                 "relatedPlayer": "Baris Alper Yilmaz following a fast break",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54007850_13",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Mario Lemina",
+                "relatedPlayer": "Gabriel Sara",
+                "teamName": "Galatasaray",
+                "text": null
+              },
+              {
+                "id": "54007851_14",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Maurits Kjærgaard",
+                "relatedPlayer": "Benjamin André",
+                "teamName": "Lille",
+                "text": null
+              },
+              {
+                "id": "54007852_15",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Olivier Giroud",
+                "relatedPlayer": "Ngal'ayel Mukau",
+                "teamName": "Lille",
+                "text": null
+              },
+              {
+                "id": "54007865_16",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.1",
-                "away": "46.9"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
@@ -30958,8 +30998,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "291",
-                "away": "248"
+                "home": "292",
+                "away": "259"
               },
               {
                 "key": "passPct",
