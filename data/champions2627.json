@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T19:59:37Z",
+  "lastUpdated": "2026-10-21T20:03:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -32162,7 +32162,7 @@
                 "minute": 25,
                 "extraTime": null,
                 "playerName": "Eberechi Eze",
-                "relatedPlayer": "Martin Ødegaard",
+                "relatedPlayer": "Martin Ødegaard with a through ball",
                 "teamName": "Arsenal",
                 "text": null
               },
@@ -33314,8 +33314,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Estadio La Cartuja",
           "venueCity": "Sevilla",
           "details": {
