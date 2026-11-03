@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:25:54Z",
+  "lastUpdated": "2026-11-03T18:26:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36311,6 +36311,16 @@
                 "relatedPlayer": "Atakan Karazor because of an injury",
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "54761881_15",
+                "type": "YELLOW_CARD",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Deniz Undav",
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
@@ -36347,7 +36357,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -36388,7 +36398,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
