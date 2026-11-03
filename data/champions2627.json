@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:04:49Z",
+  "lastUpdated": "2026-11-03T21:05:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -37843,7 +37843,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-2-3-1",
+              "formation": "4-3-3",
               "players": [
                 {
                   "id": "257267",
@@ -37891,13 +37891,13 @@
                   "athleteID": "318577"
                 },
                 {
-                  "id": "345988",
-                  "jersey": 17,
-                  "name": "Ngal'ayel Mukau",
-                  "position": "AM",
+                  "id": "304011",
+                  "jersey": 14,
+                  "name": "Maurits Kjaergaard",
+                  "position": "CM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "345988"
+                  "athleteID": "304011"
                 },
                 {
                   "id": "123683",
@@ -37909,13 +37909,13 @@
                   "athleteID": "123683"
                 },
                 {
-                  "id": "304011",
-                  "jersey": 14,
-                  "name": "Maurits Kjaergaard",
+                  "id": "345988",
+                  "jersey": 17,
+                  "name": "Ngal'ayel Mukau",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "304011"
+                  "athleteID": "345988"
                 },
                 {
                   "id": "318779",
@@ -37930,7 +37930,7 @@
                   "id": "400352",
                   "jersey": 35,
                   "name": "Soriba Diaoune",
-                  "position": "AM-L",
+                  "position": "LF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "400352"
@@ -37939,7 +37939,7 @@
                   "id": "297157",
                   "jersey": 7,
                   "name": "Dilane Bakwa",
-                  "position": "AM-R",
+                  "position": "RF",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "297157"
@@ -38031,8 +38031,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.1",
-                "away": "57.9"
+                "home": "43.5",
+                "away": "56.5"
               },
               {
                 "key": "totalShots",
@@ -38076,8 +38076,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "238",
-                "away": "337"
+                "home": "259",
+                "away": "345"
               },
               {
                 "key": "passPct",
@@ -38573,6 +38573,16 @@
                 "relatedPlayer": null,
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "54779289_11",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
@@ -38623,7 +38633,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "303",
+                "home": "304",
                 "away": "109"
               },
               {
@@ -39134,8 +39144,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.5",
-                "away": "41.5"
+                "home": "58.1",
+                "away": "41.9"
               },
               {
                 "key": "totalShots",
@@ -39180,7 +39190,7 @@
               {
                 "key": "accuratePasses",
                 "home": "268",
-                "away": "174"
+                "away": "177"
               },
               {
                 "key": "passPct",
@@ -39206,8 +39216,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
           "details": {
@@ -39350,22 +39360,22 @@
                   "athleteID": "338948"
                 },
                 {
-                  "id": "193294",
-                  "jersey": 30,
-                  "name": "Sascha Horvath",
-                  "position": "SW",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "193294"
-                },
-                {
                   "id": "290638",
                   "jersey": 6,
                   "name": "Melayro Bogarde",
-                  "position": "CM-L",
+                  "position": "SW",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "290638"
+                },
+                {
+                  "id": "193294",
+                  "jersey": 30,
+                  "name": "Sascha Horvath",
+                  "position": "CM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "193294"
                 },
                 {
                   "id": "273480",
@@ -39395,22 +39405,22 @@
                   "athleteID": "286853"
                 },
                 {
-                  "id": "340760",
-                  "jersey": 8,
-                  "name": "Moses Usor",
-                  "position": "CF-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "340760"
-                },
-                {
                   "id": "318956",
                   "jersey": 7,
                   "name": "Samuel Adeniran",
-                  "position": "CF-R",
+                  "position": "CF-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "318956"
+                },
+                {
+                  "id": "340760",
+                  "jersey": 8,
+                  "name": "Moses Usor",
+                  "position": "CF-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "340760"
                 }
               ]
             },
@@ -39686,6 +39696,16 @@
                 "relatedPlayer": null,
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "54779303_16",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Sandro Cruz",
+                "relatedPlayer": "Kevin Wimmer",
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
@@ -39737,7 +39757,7 @@
               {
                 "key": "accuratePasses",
                 "home": "226",
-                "away": "135"
+                "away": "134"
               },
               {
                 "key": "passPct",
@@ -39763,8 +39783,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -40235,13 +40255,23 @@
                 "relatedPlayer": null,
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "54779297_13",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "53.7",
+                "away": "46.3"
               },
               {
                 "key": "totalShots",
@@ -40285,7 +40315,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "234",
+                "home": "235",
                 "away": "200"
               },
               {
@@ -40312,8 +40342,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
           "details": {
@@ -40755,13 +40785,23 @@
                 "relatedPlayer": null,
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "54779305_7",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.4",
-                "away": "74.6"
+                "home": "25.6",
+                "away": "74.4"
               },
               {
                 "key": "totalShots",
@@ -40805,8 +40845,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "92",
-                "away": "349"
+                "home": "93",
+                "away": "348"
               },
               {
                 "key": "passPct",
