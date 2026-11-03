@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:05:17Z",
+  "lastUpdated": "2026-11-03T18:06:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,8 +35851,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
-          "statusText": "First Half",
+          "clock": "20'",
+          "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -36301,13 +36301,23 @@
                 "relatedPlayer": "Davinson Sánchez",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54761161_12",
+                "type": "SUBSTITUTION",
+                "minute": 18,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.2",
-                "away": "34.8"
+                "home": "64.7",
+                "away": "35.3"
               },
               {
                 "key": "totalShots",
@@ -36352,7 +36362,7 @@
               {
                 "key": "accuratePasses",
                 "home": "56",
-                "away": "28"
+                "away": "29"
               },
               {
                 "key": "passPct",
@@ -36608,40 +36618,31 @@
                   "athleteID": "177898"
                 },
                 {
-                  "id": "304106",
-                  "jersey": 25,
-                  "name": "Gonçalo Inácio",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "304106"
-                },
-                {
                   "id": "398054",
                   "jersey": 73,
                   "name": "Eduardo Felicíssimo",
-                  "position": "CD-R",
+                  "position": "CD",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "398054"
                 },
                 {
-                  "id": "287025",
-                  "jersey": 20,
-                  "name": "Maxi Araújo",
-                  "position": "LB",
+                  "id": "355408",
+                  "jersey": 4,
+                  "name": "Silas Andersen",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "287025"
+                  "athleteID": "355408"
                 },
                 {
-                  "id": "290590",
-                  "jersey": 72,
-                  "name": "Eduardo Quaresma",
-                  "position": "RB",
+                  "id": "304106",
+                  "jersey": 25,
+                  "name": "Gonçalo Inácio",
+                  "position": "CD-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "290590"
+                  "athleteID": "304106"
                 },
                 {
                   "id": "331426",
@@ -36653,28 +36654,10 @@
                   "athleteID": "331426"
                 },
                 {
-                  "id": "355408",
-                  "jersey": 4,
-                  "name": "Silas Andersen",
-                  "position": "CM-R",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "355408"
-                },
-                {
-                  "id": "386592",
-                  "jersey": 77,
-                  "name": "Issa Doumbia",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "386592"
-                },
-                {
                   "id": "296969",
                   "jersey": 10,
                   "name": "Geny Catamo",
-                  "position": "RM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "296969"
@@ -36683,10 +36666,37 @@
                   "id": "266318",
                   "jersey": 7,
                   "name": "Fotis Ioannidis",
-                  "position": "CF-L",
+                  "position": "AM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "266318"
+                },
+                {
+                  "id": "287025",
+                  "jersey": 20,
+                  "name": "Maxi Araújo",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "287025"
+                },
+                {
+                  "id": "290590",
+                  "jersey": 72,
+                  "name": "Eduardo Quaresma",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "290590"
+                },
+                {
+                  "id": "386592",
+                  "jersey": 77,
+                  "name": "Issa Doumbia",
+                  "position": "CF-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "386592"
                 },
                 {
                   "id": "272722",
