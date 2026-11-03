@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:04:11Z",
+  "lastUpdated": "2026-11-03T18:05:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36306,8 +36306,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.6",
-                "away": "35.4"
+                "home": "65.2",
+                "away": "34.8"
               },
               {
                 "key": "totalShots",
@@ -36351,7 +36351,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "54",
+                "home": "56",
                 "away": "28"
               },
               {
@@ -36378,7 +36378,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36596,7 +36596,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-4-2",
+              "formation": "3-4-1-2",
               "players": [
                 {
                   "id": "177898",
@@ -36811,8 +36811,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.5",
-                "away": "42.5"
+                "home": "54.5",
+                "away": "45.5"
               },
               {
                 "key": "totalShots",
@@ -36857,7 +36857,7 @@
               {
                 "key": "accuratePasses",
                 "home": "90",
-                "away": "65"
+                "away": "74"
               },
               {
                 "key": "passPct",
