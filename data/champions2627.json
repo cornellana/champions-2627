@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:50:30Z",
+  "lastUpdated": "2026-11-03T18:51:35Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -36418,7 +36418,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36851,8 +36851,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.4",
-                "away": "48.6"
+                "home": "50.8",
+                "away": "49.2"
               },
               {
                 "key": "totalShots",
@@ -36896,8 +36896,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "205",
-                "away": "201"
+                "home": "209",
+                "away": "209"
               },
               {
                 "key": "passPct",
