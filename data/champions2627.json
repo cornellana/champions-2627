@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:12:12Z",
+  "lastUpdated": "2026-11-03T19:13:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36438,7 +36438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36903,22 +36903,32 @@
                 "type": "SUBSTITUTION",
                 "minute": 67,
                 "extraTime": null,
+                "playerName": "Isaque",
+                "relatedPlayer": "Yehor Nazaryna",
+                "teamName": "Shajtar Donetsk",
+                "text": null
+              },
+              {
+                "id": "54763380_11",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
-                "teamName": "Shajtar Donetsk",
+                "teamName": "Sporting de Portugal",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.9",
-                "away": "50.1"
+                "home": "49",
+                "away": "51"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -36958,7 +36968,7 @@
               {
                 "key": "accuratePasses",
                 "home": "265",
-                "away": "276"
+                "away": "288"
               },
               {
                 "key": "passPct",
