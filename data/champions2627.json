@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:05:47Z",
+  "lastUpdated": "2026-11-03T20:06:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38031,8 +38031,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "18.2",
-                "away": "81.8"
+                "home": "18.6",
+                "away": "81.4"
               },
               {
                 "key": "totalShots",
@@ -38076,12 +38076,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "3",
-                "away": "33"
+                "home": "6",
+                "away": "51"
               },
               {
                 "key": "passPct",
-                "home": "0.4",
+                "home": "0.5",
                 "away": "0.9"
               }
             ],
@@ -38103,7 +38103,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38527,8 +38527,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.3",
-                "away": "46.7"
+                "home": "74",
+                "away": "26"
               },
               {
                 "key": "totalShots",
@@ -38572,13 +38572,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "5",
-                "away": "5"
+                "home": "33",
+                "away": "10"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
-                "away": "0.7"
+                "home": "0.9",
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -38599,7 +38599,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39028,12 +39028,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54767478_1",
+                "type": "YELLOW_CARD",
+                "minute": 3,
+                "extraTime": null,
+                "playerName": "Hakan Çalhanoglu",
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.9",
+                "away": "45.1"
               },
               {
                 "key": "totalShots",
@@ -39077,8 +39088,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "21",
-                "away": "14"
+                "home": "24",
+                "away": "17"
               },
               {
                 "key": "passPct",
@@ -39104,7 +39115,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39149,22 +39160,22 @@
                   "athleteID": "283026"
                 },
                 {
-                  "id": "273480",
-                  "jersey": 10,
-                  "name": "Robert Ljubicic",
-                  "position": "CM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "273480"
-                },
-                {
                   "id": "193294",
                   "jersey": 30,
                   "name": "Sascha Horvath",
-                  "position": "CM-R",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "193294"
+                },
+                {
+                  "id": "273480",
+                  "jersey": 10,
+                  "name": "Robert Ljubicic",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "273480"
                 },
                 {
                   "id": "290638",
@@ -39334,19 +39345,10 @@
                   "athleteID": "260751"
                 },
                 {
-                  "id": "176145",
-                  "jersey": 70,
-                  "name": "Cristian Martínez",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "176145"
-                },
-                {
                   "id": "174526",
                   "jersey": 6,
                   "name": "Kevin Wimmer",
-                  "position": "CD-R",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "174526"
@@ -39355,7 +39357,7 @@
                   "id": "356479",
                   "jersey": 49,
                   "name": "Sahmkou Camara",
-                  "position": "CM-L",
+                  "position": "CD-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "356479"
@@ -39364,10 +39366,19 @@
                   "id": "275601",
                   "jersey": 20,
                   "name": "Alen Mustafic",
-                  "position": "CM-R",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "275601"
+                },
+                {
+                  "id": "176145",
+                  "jersey": 70,
+                  "name": "Cristian Martínez",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "176145"
                 },
                 {
                   "id": "321179",
@@ -39528,8 +39539,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.6",
-                "away": "40.4"
+                "home": "60",
+                "away": "40"
               },
               {
                 "key": "totalShots",
@@ -39553,7 +39564,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -39573,7 +39584,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "27",
+                "home": "28",
                 "away": "15"
               },
               {
@@ -39600,7 +39611,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -39902,22 +39913,22 @@
                   "athleteID": "259481"
                 },
                 {
-                  "id": "323974",
-                  "jersey": 18,
-                  "name": "Matìas Soulè",
-                  "position": "CF-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "323974"
-                },
-                {
                   "id": "387204",
                   "jersey": 86,
                   "name": "Rodrigo Mora",
-                  "position": "CF-R",
+                  "position": "CF-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "387204"
+                },
+                {
+                  "id": "323974",
+                  "jersey": 18,
+                  "name": "Matìas Soulè",
+                  "position": "CF-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "323974"
                 },
                 {
                   "id": "360235",
@@ -40006,8 +40017,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.1",
-                "away": "40.9"
+                "home": "60",
+                "away": "40"
               },
               {
                 "key": "totalShots",
@@ -40051,13 +40062,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "7",
-                "away": "5"
+                "home": "14",
+                "away": "11"
               },
               {
                 "key": "passPct",
-                "home": "0.5",
-                "away": "0.6"
+                "home": "0.6",
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -40078,7 +40089,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40475,12 +40486,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.9",
-                "away": "57.1"
+                "home": "54.3",
+                "away": "45.7"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -40490,7 +40501,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -40520,12 +40531,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "9",
+                "home": "11",
                 "away": "12"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.8"
               }
             ],
