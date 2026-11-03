@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:26:43Z",
+  "lastUpdated": "2026-11-03T21:27:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37637,7 +37637,7 @@
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -37676,8 +37676,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "251",
-                "away": "464"
+                "home": "256",
+                "away": "470"
               },
               {
                 "key": "passPct",
@@ -37703,7 +37703,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38093,8 +38093,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.5",
-                "away": "50.5"
+                "home": "49.6",
+                "away": "50.4"
               },
               {
                 "key": "totalShots",
@@ -38138,7 +38138,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "393",
+                "home": "394",
                 "away": "394"
               },
               {
@@ -38165,7 +38165,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38772,7 +38772,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39297,8 +39297,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Sem Steijn",
+                "relatedPlayer": "Nacho Ferri",
                 "teamName": "Feyenoord",
                 "text": null
               },
@@ -39317,8 +39317,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Jerayno Schaken",
+                "relatedPlayer": "Givairo Read",
                 "teamName": "Feyenoord",
                 "text": null
               }
@@ -39398,7 +39398,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39924,8 +39924,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 63,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Sasa Kalajdzic",
+                "relatedPlayer": "Samuel Adeniran",
                 "teamName": "LASK",
                 "text": null
               },
@@ -39934,8 +39934,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 63,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Leo Hofstädter",
+                "relatedPlayer": "Alexej Maros",
                 "teamName": "Slovan Bratislava",
                 "text": null
               }
@@ -39943,12 +39943,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.2",
-                "away": "41.8"
+                "home": "58.1",
+                "away": "41.9"
               },
               {
                 "key": "totalShots",
-                "home": "19",
+                "home": "20",
                 "away": "4"
               },
               {
@@ -39958,7 +39958,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "7",
+                "home": "6",
                 "away": "2"
               },
               {
@@ -39989,7 +39989,7 @@
               {
                 "key": "accuratePasses",
                 "home": "332",
-                "away": "224"
+                "away": "225"
               },
               {
                 "key": "passPct",
@@ -40015,7 +40015,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40522,22 +40522,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54",
-                "away": "46"
+                "home": "54.4",
+                "away": "45.6"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "11",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "4"
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -40567,8 +40567,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "320",
-                "away": "269"
+                "home": "326",
+                "away": "271"
               },
               {
                 "key": "passPct",
@@ -40594,7 +40594,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -41117,13 +41117,23 @@
                 "relatedPlayer": "Santi Comesaña",
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "54784698_16",
+                "type": "YELLOW_CARD",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Sergi Cardona",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.7",
-                "away": "70.3"
+                "home": "29.4",
+                "away": "70.6"
               },
               {
                 "key": "totalShots",
@@ -41152,7 +41162,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -41168,7 +41178,7 @@
               {
                 "key": "accuratePasses",
                 "home": "162",
-                "away": "457"
+                "away": "465"
               },
               {
                 "key": "passPct",
