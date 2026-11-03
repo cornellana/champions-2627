@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T21:00:00Z",
+  "lastUpdated": "2026-11-03T00:03:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35852,9 +35852,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "RAMS Park",
-          "venueCity": "Estambul",
+          "venueCity": "Istanbul",
           "details": null
         },
         {
@@ -35873,9 +35873,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Stamford Bridge",
-          "venueCity": "Londres",
+          "venueCity": "London",
           "details": null
         },
         {
@@ -35894,7 +35894,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": null
@@ -35915,7 +35915,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": null
@@ -35936,7 +35936,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": null
@@ -35957,7 +35957,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": null
@@ -35978,7 +35978,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
           "details": null
@@ -35999,7 +35999,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": null
@@ -36020,7 +36020,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
           "details": null
