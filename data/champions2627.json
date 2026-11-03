@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:21:59Z",
+  "lastUpdated": "2026-11-03T19:23:06Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36387,28 +36387,28 @@
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Dzenan Pejcinovic",
+                "relatedPlayer": "Ermedin Demirovic",
                 "teamName": "Stuttgart",
                 "text": null
               },
               {
-                "id": "54763597_27",
+                "id": "54763598_27",
                 "type": "SUBSTITUTION",
-                "minute": 75,
+                "minute": 74,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Nikolas Nartey",
+                "relatedPlayer": "Grischa Prömel",
                 "teamName": "Stuttgart",
                 "text": null
               },
               {
-                "id": "54763598_28",
+                "id": "54763597_28",
                 "type": "SUBSTITUTION",
                 "minute": 75,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Lorenz Assignon",
+                "relatedPlayer": "Jamie Leweling",
                 "teamName": "Stuttgart",
                 "text": null
               }
@@ -36416,13 +36416,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54",
-                "away": "46"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -36461,8 +36461,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "224",
-                "away": "188"
+                "home": "227",
+                "away": "193"
               },
               {
                 "key": "passPct",
@@ -36488,8 +36488,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
-          "statusText": "In Progress",
+          "clock": "80'",
+          "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
