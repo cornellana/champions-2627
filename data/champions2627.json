@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:48:26Z",
+  "lastUpdated": "2026-11-03T20:49:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -38104,7 +38104,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+1'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": {
@@ -38555,7 +38555,17 @@
                 "text": null
               },
               {
-                "id": "54777105_6",
+                "id": "54777233_6",
+                "type": "YELLOW_CARD",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Nicolas Jackson",
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
+              },
+              {
+                "id": "54777105_7",
                 "type": "YELLOW_CARD",
                 "minute": 45,
                 "extraTime": null,
@@ -38568,8 +38578,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.6",
-                "away": "32.4"
+                "home": "69.3",
+                "away": "30.7"
               },
               {
                 "key": "totalShots",
@@ -38589,7 +38599,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -38599,7 +38609,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -38613,8 +38623,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "282",
-                "away": "111"
+                "home": "302",
+                "away": "109"
               },
               {
                 "key": "passPct",
@@ -38640,7 +38650,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39124,18 +39134,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.8",
-                "away": "39.2"
+                "home": "61.1",
+                "away": "38.9"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -39145,7 +39155,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -39169,8 +39179,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "259",
-                "away": "148"
+                "home": "268",
+                "away": "151"
               },
               {
                 "key": "passPct",
@@ -39196,7 +39206,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
+          "clock": "45'+2'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39753,8 +39763,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "First Half",
+          "clock": "45'+2'",
+          "statusText": "Halftime",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -40230,17 +40240,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.2",
-                "away": "45.8"
+                "home": "53.4",
+                "away": "46.6"
               },
               {
                 "key": "totalShots",
-                "home": "4",
-                "away": "6"
+                "home": "5",
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "3"
               },
               {
@@ -40251,7 +40261,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -40271,12 +40281,12 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "229",
-                "away": "190"
+                "home": "234",
+                "away": "201"
               },
               {
                 "key": "passPct",
@@ -40302,7 +40312,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
+          "clock": "45'+3'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40734,6 +40744,16 @@
                 "playerName": "Fabián Ruiz",
                 "relatedPlayer": "Maghnes Akliouche",
                 "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "54777174_5",
+                "type": "YELLOW_CARD",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Santi Comesaña",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
                 "text": null
               }
             ],
