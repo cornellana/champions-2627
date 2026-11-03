@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:06:22Z",
+  "lastUpdated": "2026-11-03T18:07:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36307,8 +36307,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 18,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Yanik Spalt",
+                "relatedPlayer": "Atakan Karazor because of an injury",
                 "teamName": "Stuttgart",
                 "text": null
               }
@@ -36316,8 +36316,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.7",
-                "away": "35.3"
+                "home": "60.6",
+                "away": "39.4"
               },
               {
                 "key": "totalShots",
@@ -36336,7 +36336,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -36361,13 +36361,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "56",
-                "away": "29"
+                "home": "59",
+                "away": "38"
               },
               {
                 "key": "passPct",
                 "home": "0.7",
-                "away": "0.7"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -36388,7 +36388,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36627,22 +36627,22 @@
                   "athleteID": "398054"
                 },
                 {
-                  "id": "355408",
-                  "jersey": 4,
-                  "name": "Silas Andersen",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "355408"
-                },
-                {
                   "id": "304106",
                   "jersey": 25,
                   "name": "Gonçalo Inácio",
-                  "position": "CD-R",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "304106"
+                },
+                {
+                  "id": "290590",
+                  "jersey": 72,
+                  "name": "Eduardo Quaresma",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "290590"
                 },
                 {
                   "id": "331426",
@@ -36654,22 +36654,22 @@
                   "athleteID": "331426"
                 },
                 {
-                  "id": "296969",
-                  "jersey": 10,
-                  "name": "Geny Catamo",
+                  "id": "355408",
+                  "jersey": 4,
+                  "name": "Silas Andersen",
                   "position": "CM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "296969"
+                  "athleteID": "355408"
                 },
                 {
-                  "id": "266318",
-                  "jersey": 7,
-                  "name": "Fotis Ioannidis",
+                  "id": "386592",
+                  "jersey": 77,
+                  "name": "Issa Doumbia",
                   "position": "AM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "266318"
+                  "athleteID": "386592"
                 },
                 {
                   "id": "287025",
@@ -36681,22 +36681,22 @@
                   "athleteID": "287025"
                 },
                 {
-                  "id": "290590",
-                  "jersey": 72,
-                  "name": "Eduardo Quaresma",
+                  "id": "296969",
+                  "jersey": 10,
+                  "name": "Geny Catamo",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "290590"
+                  "athleteID": "296969"
                 },
                 {
-                  "id": "386592",
-                  "jersey": 77,
-                  "name": "Issa Doumbia",
+                  "id": "266318",
+                  "jersey": 7,
+                  "name": "Fotis Ioannidis",
                   "position": "CF-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "386592"
+                  "athleteID": "266318"
                 },
                 {
                   "id": "272722",
@@ -36821,8 +36821,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "56.3",
+                "away": "43.7"
               },
               {
                 "key": "totalShots",
@@ -36836,7 +36836,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -36866,8 +36866,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "90",
-                "away": "74"
+                "home": "106",
+                "away": "82"
               },
               {
                 "key": "passPct",
