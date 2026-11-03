@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:53:02Z",
+  "lastUpdated": "2026-11-03T21:54:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -38305,7 +38305,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38900,8 +38900,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.3",
-                "away": "35.7"
+                "home": "64.8",
+                "away": "35.2"
               },
               {
                 "key": "totalShots",
@@ -38945,8 +38945,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "532",
-                "away": "256"
+                "home": "550",
+                "away": "257"
               },
               {
                 "key": "passPct",
@@ -38972,7 +38972,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39566,8 +39566,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.9",
-                "away": "47.1"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -39587,7 +39587,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -39611,8 +39611,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "503",
-                "away": "438"
+                "home": "515",
+                "away": "439"
               },
               {
                 "key": "passPct",
@@ -39633,13 +39633,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "4-0",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+2'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
           "details": {
@@ -40223,8 +40223,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.2",
-                "away": "40.8"
+                "home": "59.6",
+                "away": "40.4"
               },
               {
                 "key": "totalShots",
@@ -40238,7 +40238,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "7",
+                "home": "8",
                 "away": "2"
               },
               {
@@ -40268,8 +40268,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "453",
-                "away": "291"
+                "home": "461",
+                "away": "290"
               },
               {
                 "key": "passPct",
@@ -40295,7 +40295,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40923,7 +40923,7 @@
                 "type": "RED_CARD",
                 "minute": 90,
                 "extraTime": 1,
-                "playerName": "Matheus Cunha",
+                "playerName": "Second yellow card to Matheus Cunha",
                 "relatedPlayer": null,
                 "teamName": "Manchester United",
                 "text": null
@@ -40932,8 +40932,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.8",
-                "away": "46.2"
+                "home": "53.2",
+                "away": "46.8"
               },
               {
                 "key": "totalShots",
@@ -40953,12 +40953,12 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "yellowCards",
@@ -40977,8 +40977,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "413",
-                "away": "347"
+                "home": "416",
+                "away": "359"
               },
               {
                 "key": "passPct",
@@ -43631,16 +43631,6 @@
       "position": 20
     },
     {
-      "team": "Villarreal",
-      "played": 3,
-      "won": 1,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 8,
-      "goalsAgainst": 8,
-      "position": 21
-    },
-    {
       "team": "Inter de Milán",
       "played": 3,
       "won": 1,
@@ -43648,7 +43638,7 @@
       "lost": 2,
       "goalsFor": 5,
       "goalsAgainst": 6,
-      "position": 22
+      "position": 21
     },
     {
       "team": "Manchester United",
@@ -43658,7 +43648,7 @@
       "lost": 2,
       "goalsFor": 5,
       "goalsAgainst": 6,
-      "position": 23
+      "position": 22
     },
     {
       "team": "Nápoles",
@@ -43668,7 +43658,7 @@
       "lost": 2,
       "goalsFor": 5,
       "goalsAgainst": 7,
-      "position": 24
+      "position": 23
     },
     {
       "team": "LASK",
@@ -43678,7 +43668,7 @@
       "lost": 2,
       "goalsFor": 6,
       "goalsAgainst": 9,
-      "position": 25
+      "position": 24
     },
     {
       "team": "Sabah",
@@ -43688,7 +43678,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 6,
-      "position": 26
+      "position": 25
     },
     {
       "team": "Feyenoord",
@@ -43698,7 +43688,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 8,
-      "position": 27
+      "position": 26
     },
     {
       "team": "Lens",
@@ -43708,7 +43698,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 7,
-      "position": 28
+      "position": 27
     },
     {
       "team": "AEK Atenas",
@@ -43718,7 +43708,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 8,
-      "position": 29
+      "position": 28
     },
     {
       "team": "RB Leipzig",
@@ -43728,6 +43718,16 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 8,
+      "position": 29
+    },
+    {
+      "team": "Villarreal",
+      "played": 4,
+      "won": 1,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 8,
+      "goalsAgainst": 14,
       "position": 30
     },
     {
