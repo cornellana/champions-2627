@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:45:20Z",
+  "lastUpdated": "2026-11-03T21:46:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37691,18 +37691,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.8",
-                "away": "60.2"
+                "home": "40.2",
+                "away": "59.8"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "17"
+                "away": "18"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -37736,8 +37736,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "320",
-                "away": "542"
+                "home": "333",
+                "away": "552"
               },
               {
                 "key": "passPct",
@@ -37763,7 +37763,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38200,12 +38200,12 @@
                 "text": null
               },
               {
-                "id": "54788530_17",
+                "id": "54788530_13",
                 "type": "SUBSTITUTION",
                 "minute": 88,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Jostein Gundersen",
+                "relatedPlayer": "Haitam Aleesami because of an injury",
                 "teamName": "Bodø/Glimt",
                 "text": null
               }
@@ -38285,7 +38285,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38880,8 +38880,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.7",
-                "away": "33.3"
+                "home": "67",
+                "away": "33"
               },
               {
                 "key": "totalShots",
@@ -38900,7 +38900,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "13",
+                "home": "14",
                 "away": "8"
               },
               {
@@ -38925,8 +38925,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "499",
-                "away": "207"
+                "home": "516",
+                "away": "211"
               },
               {
                 "key": "passPct",
@@ -38952,7 +38952,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39536,8 +39536,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.4",
-                "away": "45.6"
+                "home": "54",
+                "away": "46"
               },
               {
                 "key": "totalShots",
@@ -39557,7 +39557,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -39581,13 +39581,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "443",
-                "away": "359"
+                "home": "475",
+                "away": "390"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -39608,7 +39608,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -40193,8 +40193,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.9",
-                "away": "41.1"
+                "home": "58.3",
+                "away": "41.7"
               },
               {
                 "key": "totalShots",
@@ -40213,7 +40213,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "9"
               },
               {
@@ -40238,8 +40238,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "413",
-                "away": "265"
+                "home": "416",
+                "away": "275"
               },
               {
                 "key": "passPct",
@@ -40261,11 +40261,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-2",
+          "result": "3-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40847,22 +40847,32 @@
                 "relatedPlayer": null,
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "54788790_33",
+                "type": "GOAL",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Matheus Cunha",
+                "relatedPlayer": "Shea Lacey",
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.7",
-                "away": "45.3"
+                "home": "54.9",
+                "away": "45.1"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "4"
               },
               {
@@ -40897,8 +40907,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "401",
-                "away": "327"
+                "home": "407",
+                "away": "328"
               },
               {
                 "key": "passPct",
@@ -40924,8 +40934,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
-          "statusText": "In Progress",
+          "clock": "86'",
+          "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
           "details": {
@@ -41532,8 +41542,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.2",
-                "away": "71.8"
+                "home": "29",
+                "away": "71"
               },
               {
                 "key": "totalShots",
@@ -41577,8 +41587,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "186",
-                "away": "574"
+                "home": "206",
+                "away": "608"
               },
               {
                 "key": "passPct",
@@ -43825,6 +43835,13 @@
       "athleteID": null
     },
     {
+      "player": "Matheus Cunha",
+      "team": "Manchester United",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Nicolas Jackson",
       "team": "Aston Villa",
       "goals": 3,
@@ -43967,13 +43984,6 @@
     {
       "player": "Marc Bartra",
       "team": "Real Betis",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Matheus Cunha",
-      "team": "Manchester United",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
