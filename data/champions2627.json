@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T17:49:02Z",
+  "lastUpdated": "2026-11-03T17:50:06Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36347,7 +36347,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36780,8 +36780,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "93.8",
-                "away": "6.2"
+                "home": "80.8",
+                "away": "19.2"
               },
               {
                 "key": "totalShots",
@@ -36801,7 +36801,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "0"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -36825,13 +36825,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "15",
-                "away": "1"
+                "home": "20",
+                "away": "4"
               },
               {
                 "key": "passPct",
                 "home": "1.0",
-                "away": "1.0"
+                "away": "0.8"
               }
             ],
             "penalties": null
