@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:15:28Z",
+  "lastUpdated": "2026-11-03T19:16:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36371,13 +36371,23 @@
                 "relatedPlayer": "Baris Alper Yilmaz",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54763451_25",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
@@ -36421,12 +36431,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "205",
-                "away": "167"
+                "home": "206",
+                "away": "172"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.8"
               }
             ],
@@ -36448,7 +36458,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
