@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:25:37Z",
+  "lastUpdated": "2026-11-03T21:26:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37703,7 +37703,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38078,12 +38078,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54784541_7",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": "Ola Brynhildsen",
+                "relatedPlayer": "Andreas Helmersen",
+                "teamName": "Bodø/Glimt",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.2",
-                "away": "50.8"
+                "home": "49.5",
+                "away": "50.5"
               },
               {
                 "key": "totalShots",
@@ -38097,7 +38108,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "3",
                 "away": "4"
               },
               {
@@ -38107,7 +38118,7 @@
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -38127,7 +38138,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "389",
+                "home": "393",
                 "away": "394"
               },
               {
@@ -38150,11 +38161,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-0",
+          "result": "3-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38674,22 +38685,32 @@
                 "relatedPlayer": "João Gomes",
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "54784414_13",
+                "type": "GOAL",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Raphinha",
+                "relatedPlayer": "João Cancelo",
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.7",
-                "away": "31.3"
+                "home": "68.6",
+                "away": "31.4"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "1"
               },
               {
@@ -38725,7 +38746,7 @@
               {
                 "key": "accuratePasses",
                 "home": "403",
-                "away": "153"
+                "away": "154"
               },
               {
                 "key": "passPct",
@@ -38751,7 +38772,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39272,12 +39293,32 @@
                 "text": null
               },
               {
-                "id": "54783679_12",
+                "id": "54784416_12",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
+              },
+              {
+                "id": "54783679_13",
                 "type": "SUBSTITUTION",
                 "minute": 62,
                 "extraTime": null,
                 "playerName": "Tsuyoshi Watanabe",
                 "relatedPlayer": "Javi López",
+                "teamName": "Feyenoord",
+                "text": null
+              },
+              {
+                "id": "54784417_14",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
                 "teamName": "Feyenoord",
                 "text": null
               }
@@ -39357,7 +39398,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39877,13 +39918,33 @@
                 "relatedPlayer": "Robert Ljubicic",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "54784393_25",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
+              },
+              {
+                "id": "54784394_26",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59",
-                "away": "41"
+                "home": "58.2",
+                "away": "41.8"
               },
               {
                 "key": "totalShots",
@@ -39897,13 +39958,13 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "2"
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
-                "away": "7"
+                "home": "2",
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -39927,8 +39988,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "323",
-                "away": "209"
+                "home": "332",
+                "away": "224"
               },
               {
                 "key": "passPct",
@@ -39954,7 +40015,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40461,8 +40522,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.2",
-                "away": "46.8"
+                "home": "54",
+                "away": "46"
               },
               {
                 "key": "totalShots",
@@ -40506,8 +40567,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "304",
-                "away": "266"
+                "home": "320",
+                "away": "269"
               },
               {
                 "key": "passPct",
@@ -40533,7 +40594,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -41061,17 +41122,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.8",
-                "away": "71.2"
+                "home": "29.7",
+                "away": "70.3"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "19"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "11"
               },
               {
@@ -41081,7 +41142,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "13",
+                "home": "14",
                 "away": "4"
               },
               {
@@ -41102,12 +41163,12 @@
               {
                 "key": "saves",
                 "home": "5",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "152",
-                "away": "455"
+                "home": "162",
+                "away": "457"
               },
               {
                 "key": "passPct",
@@ -43298,6 +43359,13 @@
       "athleteID": null
     },
     {
+      "player": "Raphinha",
+      "team": "FC Barcelona",
+      "goals": 4,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Serhou Guirassy",
       "team": "Borussia Dortmund",
       "goals": 4,
@@ -43363,13 +43431,6 @@
     {
       "player": "Phil Foden",
       "team": "Manchester City",
-      "goals": 3,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Raphinha",
-      "team": "FC Barcelona",
       "goals": 3,
       "penalties": 0,
       "athleteID": null
@@ -43550,6 +43611,12 @@
     {
       "player": "Isaque",
       "team": "Shajtar Donetsk",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
+      "player": "João Cancelo",
+      "team": "FC Barcelona",
       "goals": 2,
       "athleteID": null
     },
@@ -43754,12 +43821,6 @@
     {
       "player": "Daniele Ghilardi with a headed pass following a set piece situation",
       "team": "Roma",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Davinson Sánchez",
-      "team": "Galatasaray",
       "goals": 1,
       "athleteID": null
     }
