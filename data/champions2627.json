@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:04:35Z",
+  "lastUpdated": "2026-11-03T19:05:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36346,18 +36346,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.7",
-                "away": "40.3"
+                "home": "58.6",
+                "away": "41.4"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -36367,7 +36367,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -36386,13 +36386,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "197",
-                "away": "121"
+                "home": "199",
+                "away": "129"
               },
               {
                 "key": "passPct",
@@ -36418,7 +36418,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36862,12 +36862,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.3",
-                "away": "48.7"
+                "home": "51.1",
+                "away": "48.9"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "4",
                 "away": "6"
               },
               {
@@ -36907,8 +36907,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "254",
-                "away": "250"
+                "home": "257",
+                "away": "255"
               },
               {
                 "key": "passPct",
