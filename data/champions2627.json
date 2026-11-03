@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:03:07Z",
+  "lastUpdated": "2026-11-03T18:04:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -36298,7 +36298,7 @@
                 "minute": 15,
                 "extraTime": null,
                 "playerName": "Aleksey Batrakov",
-                "relatedPlayer": null,
+                "relatedPlayer": "Davinson Sánchez",
                 "teamName": "Galatasaray",
                 "text": null
               }
@@ -36378,7 +36378,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36811,8 +36811,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.3",
-                "away": "46.7"
+                "home": "57.5",
+                "away": "42.5"
               },
               {
                 "key": "totalShots",
@@ -36832,7 +36832,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "4"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -36856,8 +36856,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "67",
-                "away": "57"
+                "home": "90",
+                "away": "65"
               },
               {
                 "key": "passPct",
@@ -39643,6 +39643,12 @@
       "athleteID": null
     },
     {
+      "player": "Davinson Sánchez",
+      "team": "Galatasaray",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Deniz Undav",
       "team": "Stuttgart",
       "goals": 1,
@@ -39651,12 +39657,6 @@
     {
       "player": "Deniz Undav with a through ball",
       "team": "Stuttgart",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Désiré Doué",
-      "team": "Paris Saint-Germain",
       "goals": 1,
       "athleteID": null
     }
