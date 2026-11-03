@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:01:19Z",
+  "lastUpdated": "2026-11-03T19:02:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36414,11 +36414,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36847,22 +36847,33 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54763029_7",
+                "type": "GOAL",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Issa Doumbia",
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.4",
-                "away": "47.6"
+                "home": "51.2",
+                "away": "48.8"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -36896,8 +36907,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "251",
-                "away": "233"
+                "home": "254",
+                "away": "250"
               },
               {
                 "key": "passPct",
@@ -39382,6 +39393,13 @@
       "athleteID": null
     },
     {
+      "player": "Issa Doumbia",
+      "team": "Sporting de Portugal",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Karim Adeyemi",
       "team": "FC Barcelona",
       "goals": 2,
@@ -39447,13 +39465,6 @@
     {
       "player": "Santiago Mouriño",
       "team": "Villarreal",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Scott McTominay",
-      "team": "Nápoles",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
