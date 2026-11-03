@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:17:38Z",
+  "lastUpdated": "2026-11-03T19:18:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36386,8 +36386,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.2",
-                "away": "45.8"
+                "home": "53.6",
+                "away": "46.4"
               },
               {
                 "key": "totalShots",
@@ -36401,17 +36401,17 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "4"
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "13"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -36431,12 +36431,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "206",
-                "away": "172"
+                "home": "210",
+                "away": "178"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -36458,7 +36458,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "In Progress",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36937,13 +36937,23 @@
                 "relatedPlayer": "Fotis Ioannidis",
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "54763502_14",
+                "type": "YELLOW_CARD",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Isaque",
+                "relatedPlayer": null,
+                "teamName": "Shajtar Donetsk",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "50.7",
+                "away": "49.3"
               },
               {
                 "key": "totalShots",
@@ -36962,7 +36972,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "12"
               },
               {
@@ -36972,7 +36982,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -36987,7 +36997,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "288",
+                "home": "290",
                 "away": "291"
               },
               {
