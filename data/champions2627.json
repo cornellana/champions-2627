@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:21:07Z",
+  "lastUpdated": "2026-11-03T20:22:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37580,12 +37580,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.5",
-                "away": "70.5"
+                "home": "27.1",
+                "away": "72.9"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -37625,8 +37625,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "47",
-                "away": "149"
+                "home": "50",
+                "away": "178"
               },
               {
                 "key": "passPct",
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38103,7 +38103,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38620,8 +38620,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
-          "statusText": "In Progress",
+          "clock": "20'",
+          "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -39074,13 +39074,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.7",
-                "away": "36.3"
+                "home": "66",
+                "away": "34"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
@@ -39114,13 +39114,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "0",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "118",
-                "away": "53"
+                "home": "143",
+                "away": "58"
               },
               {
                 "key": "passPct",
@@ -39566,21 +39566,32 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54771403_1",
+                "type": "GOAL",
+                "minute": 19,
+                "extraTime": null,
+                "playerName": "Kasper Jørgensen",
+                "relatedPlayer": "Moses Usor with a cross following a corner",
+                "teamName": "LASK",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.5",
-                "away": "39.5"
+                "home": "60.4",
+                "away": "39.6"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "4",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -39611,12 +39622,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
                 "home": "108",
-                "away": "63"
+                "away": "64"
               },
               {
                 "key": "passPct",
@@ -40064,13 +40075,33 @@
                 "relatedPlayer": null,
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "54771630_3",
+                "type": "YELLOW_CARD",
+                "minute": 20,
+                "extraTime": null,
+                "playerName": "Matìas Soulè",
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
+              },
+              {
+                "id": "54771631_4",
+                "type": "YELLOW_CARD",
+                "minute": 20,
+                "extraTime": null,
+                "playerName": "Bruno Fernandes",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "56.1",
+                "away": "43.9"
               },
               {
                 "key": "totalShots",
@@ -40099,8 +40130,8 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
-                "away": "0"
+                "home": "1",
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -40114,8 +40145,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "82",
-                "away": "73"
+                "home": "90",
+                "away": "74"
               },
               {
                 "key": "passPct",
@@ -40141,7 +40172,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
