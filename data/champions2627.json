@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:55:13Z",
+  "lastUpdated": "2026-11-03T21:56:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -38967,13 +38967,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "0-3",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+4'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -39566,8 +39566,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.3",
-                "away": "46.7"
+                "home": "53.1",
+                "away": "46.9"
               },
               {
                 "key": "totalShots",
@@ -39611,8 +39611,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "515",
-                "away": "439"
+                "home": "531",
+                "away": "457"
               },
               {
                 "key": "passPct",
@@ -40290,13 +40290,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "3-2",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+5'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
           "details": {
@@ -40932,8 +40932,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53",
-                "away": "47"
+                "home": "52.4",
+                "away": "47.6"
               },
               {
                 "key": "totalShots",
@@ -40978,7 +40978,7 @@
               {
                 "key": "accuratePasses",
                 "home": "416",
-                "away": "364"
+                "away": "372"
               },
               {
                 "key": "passPct",
@@ -43441,14 +43441,24 @@
       "position": 1
     },
     {
-      "team": "Aston Villa",
-      "played": 3,
+      "team": "FC Barcelona",
+      "played": 4,
       "won": 3,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 12,
-      "goalsAgainst": 3,
+      "lost": 1,
+      "goalsFor": 14,
+      "goalsAgainst": 6,
       "position": 2
+    },
+    {
+      "team": "Aston Villa",
+      "played": 4,
+      "won": 3,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 12,
+      "goalsAgainst": 6,
+      "position": 3
     },
     {
       "team": "Liverpool",
@@ -43458,7 +43468,7 @@
       "lost": 0,
       "goalsFor": 12,
       "goalsAgainst": 7,
-      "position": 3
+      "position": 4
     },
     {
       "team": "Real Madrid",
@@ -43468,7 +43478,7 @@
       "lost": 0,
       "goalsFor": 10,
       "goalsAgainst": 5,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Sporting de Portugal",
@@ -43478,7 +43488,7 @@
       "lost": 1,
       "goalsFor": 8,
       "goalsAgainst": 4,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Real Betis",
@@ -43488,7 +43498,7 @@
       "lost": 0,
       "goalsFor": 7,
       "goalsAgainst": 4,
-      "position": 6
+      "position": 7
     },
     {
       "team": "Bayern de Múnich",
@@ -43498,7 +43508,7 @@
       "lost": 0,
       "goalsFor": 12,
       "goalsAgainst": 5,
-      "position": 7
+      "position": 8
     },
     {
       "team": "Arsenal",
@@ -43508,7 +43518,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 2,
-      "position": 8
+      "position": 9
     },
     {
       "team": "Stuttgart",
@@ -43518,16 +43528,6 @@
       "lost": 1,
       "goalsFor": 7,
       "goalsAgainst": 4,
-      "position": 9
-    },
-    {
-      "team": "FC Barcelona",
-      "played": 3,
-      "won": 2,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 11,
-      "goalsAgainst": 6,
       "position": 10
     },
     {
