@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T17:58:46Z",
+  "lastUpdated": "2026-11-03T17:59:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35847,12 +35847,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
           "clock": "12'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -36281,22 +36281,32 @@
                 "relatedPlayer": null,
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "54761023_6",
+                "type": "GOAL",
+                "minute": 12,
+                "extraTime": null,
+                "playerName": "Aleksey Batrakov",
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.3",
-                "away": "38.7"
+                "home": "64",
+                "away": "36"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -36331,8 +36341,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "30",
-                "away": "19"
+                "home": "44",
+                "away": "25"
               },
               {
                 "key": "passPct",
@@ -36358,7 +36368,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36791,8 +36801,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.4",
-                "away": "43.6"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -36802,7 +36812,7 @@
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -36836,8 +36846,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "61",
-                "away": "45"
+                "home": "62",
+                "away": "53"
               },
               {
                 "key": "passPct",
@@ -39161,6 +39171,13 @@
       "athleteID": null
     },
     {
+      "player": "Aleksey Batrakov",
+      "team": "Galatasaray",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Alexis Mac Allister",
       "team": "Liverpool",
       "goals": 3,
@@ -39227,13 +39244,6 @@
       "player": "Tasos Douvikas",
       "team": "Como",
       "goals": 3,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Aleksey Batrakov",
-      "team": "Galatasaray",
-      "goals": 2,
       "penalties": 0,
       "athleteID": null
     },
