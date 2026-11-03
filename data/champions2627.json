@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:56:18Z",
+  "lastUpdated": "2026-11-03T22:06:23Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -43561,6 +43561,16 @@
       "position": 13
     },
     {
+      "team": "Inter de Milán",
+      "played": 4,
+      "won": 2,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 8,
+      "goalsAgainst": 6,
+      "position": 14
+    },
+    {
       "team": "LASK",
       "played": 4,
       "won": 2,
@@ -43568,7 +43578,7 @@
       "lost": 2,
       "goalsFor": 10,
       "goalsAgainst": 9,
-      "position": 14
+      "position": 15
     },
     {
       "team": "Borussia Dortmund",
@@ -43578,7 +43588,17 @@
       "lost": 1,
       "goalsFor": 5,
       "goalsAgainst": 4,
-      "position": 15
+      "position": 16
+    },
+    {
+      "team": "Manchester United",
+      "played": 4,
+      "won": 2,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 8,
+      "goalsAgainst": 8,
+      "position": 17
     },
     {
       "team": "Galatasaray",
@@ -43588,17 +43608,17 @@
       "lost": 2,
       "goalsFor": 8,
       "goalsAgainst": 9,
-      "position": 16
+      "position": 18
     },
     {
       "team": "Roma",
-      "played": 3,
+      "played": 4,
       "won": 1,
       "drawn": 1,
-      "lost": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 5,
-      "position": 17
+      "lost": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 8,
+      "position": 19
     },
     {
       "team": "Shajtar Donetsk",
@@ -43608,7 +43628,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 4,
-      "position": 18
+      "position": 20
     },
     {
       "team": "PSV",
@@ -43618,7 +43638,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 2,
-      "position": 19
+      "position": 21
     },
     {
       "team": "Atlético de Madrid",
@@ -43628,7 +43648,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 5,
-      "position": 20
+      "position": 22
     },
     {
       "team": "Bodø/Glimt",
@@ -43638,26 +43658,6 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 9,
-      "position": 21
-    },
-    {
-      "team": "Inter de Milán",
-      "played": 3,
-      "won": 1,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 5,
-      "goalsAgainst": 6,
-      "position": 22
-    },
-    {
-      "team": "Manchester United",
-      "played": 3,
-      "won": 1,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 5,
-      "goalsAgainst": 6,
       "position": 23
     },
     {
@@ -43681,16 +43681,6 @@
       "position": 25
     },
     {
-      "team": "Feyenoord",
-      "played": 3,
-      "won": 1,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 4,
-      "goalsAgainst": 8,
-      "position": 26
-    },
-    {
       "team": "Lens",
       "played": 3,
       "won": 1,
@@ -43698,7 +43688,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 7,
-      "position": 27
+      "position": 26
     },
     {
       "team": "AEK Atenas",
@@ -43708,7 +43698,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 8,
-      "position": 28
+      "position": 27
     },
     {
       "team": "RB Leipzig",
@@ -43718,7 +43708,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 8,
-      "position": 29
+      "position": 28
     },
     {
       "team": "Villarreal",
@@ -43728,6 +43718,16 @@
       "lost": 3,
       "goalsFor": 8,
       "goalsAgainst": 14,
+      "position": 29
+    },
+    {
+      "team": "Feyenoord",
+      "played": 4,
+      "won": 1,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 11,
       "position": 30
     },
     {
