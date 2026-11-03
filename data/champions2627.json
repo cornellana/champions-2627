@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:02:02Z",
+  "lastUpdated": "2026-11-03T18:03:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35847,11 +35847,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "2-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36291,22 +36291,32 @@
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54761071_7",
+                "type": "GOAL",
+                "minute": 15,
+                "extraTime": null,
+                "playerName": "Aleksey Batrakov",
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.7",
-                "away": "37.3"
+                "home": "64.6",
+                "away": "35.4"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -36341,13 +36351,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "47",
-                "away": "27"
+                "home": "54",
+                "away": "28"
               },
               {
                 "key": "passPct",
                 "home": "0.7",
-                "away": "0.8"
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -36368,7 +36378,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -39129,6 +39139,13 @@
   ],
   "topScorers": [
     {
+      "player": "Aleksey Batrakov",
+      "team": "Galatasaray",
+      "goals": 4,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Erling Haaland",
       "team": "Manchester City",
       "goals": 4,
@@ -39168,13 +39185,6 @@
       "team": "Borussia Dortmund",
       "goals": 4,
       "penalties": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Aleksey Batrakov",
-      "team": "Galatasaray",
-      "goals": 3,
-      "penalties": 0,
       "athleteID": null
     },
     {
