@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:43:09Z",
+  "lastUpdated": "2026-11-03T21:44:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37763,8 +37763,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
-          "statusText": "In Progress",
+          "clock": "88'",
+          "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -38188,6 +38188,16 @@
                 "relatedPlayer": null,
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "54788408_12",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Gaëtan Perrin",
+                "relatedPlayer": "Dilane Bakwa",
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
@@ -38265,7 +38275,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38845,17 +38855,27 @@
                 "relatedPlayer": "John McGinn",
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "54788335_19",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Alejandro Balde",
+                "relatedPlayer": "Brian Fariñas",
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.5",
-                "away": "32.5"
+                "home": "66.6",
+                "away": "33.4"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "7"
               },
               {
@@ -38870,7 +38890,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "12",
+                "home": "13",
                 "away": "8"
               },
               {
@@ -38895,8 +38915,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "495",
-                "away": "198"
+                "home": "496",
+                "away": "207"
               },
               {
                 "key": "passPct",
@@ -38922,7 +38942,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39578,7 +39598,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -40231,11 +40251,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-2",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40807,22 +40827,32 @@
                 "relatedPlayer": null,
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "54788353_32",
+                "type": "GOAL",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Matheus Cunha",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.2",
-                "away": "45.8"
+                "home": "54.5",
+                "away": "45.5"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "4"
               },
               {
@@ -40857,8 +40887,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "391",
-                "away": "326"
+                "home": "397",
+                "away": "327"
               },
               {
                 "key": "passPct",
@@ -40884,7 +40914,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "In Progress",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -43932,6 +43962,13 @@
       "athleteID": null
     },
     {
+      "player": "Matheus Cunha",
+      "team": "Manchester United",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Michael Olise",
       "team": "Bayern de Múnich",
       "goals": 2,
@@ -43941,13 +43978,6 @@
     {
       "player": "Nico Paz",
       "team": "Como",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Peter Christiansen",
-      "team": "Viking",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
