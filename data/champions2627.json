@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T17:50:06Z",
+  "lastUpdated": "2026-11-03T17:51:11Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36271,12 +36271,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54760711_1",
+                "type": "YELLOW_CARD",
+                "minute": 2,
+                "extraTime": null,
+                "playerName": "Atakan Karazor",
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.6",
-                "away": "71.4"
+                "home": "16.7",
+                "away": "83.3"
               },
               {
                 "key": "totalShots",
@@ -36306,7 +36317,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -36320,13 +36331,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "1",
-                "away": "3"
+                "home": "0",
+                "away": "4"
               },
               {
                 "key": "passPct",
-                "home": "0.5",
-                "away": "0.6"
+                "home": "0.0",
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -36347,7 +36358,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36780,8 +36791,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "80.8",
-                "away": "19.2"
+                "home": "82.8",
+                "away": "17.2"
               },
               {
                 "key": "totalShots",
@@ -36801,7 +36812,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -36825,7 +36836,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "20",
+                "home": "23",
                 "away": "4"
               },
               {
