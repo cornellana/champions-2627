@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:39:52Z",
+  "lastUpdated": "2026-11-03T21:40:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37672,17 +37672,27 @@
                 "type": "SUBSTITUTION",
                 "minute": 79,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Kim Min-Jae",
+                "relatedPlayer": "Alphonso Davies",
                 "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "54787837_13",
+                "type": "YELLOW_CARD",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": "Giuliano Simeone",
+                "relatedPlayer": null,
+                "teamName": "Atlético de Madrid",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.9",
-                "away": "60.1"
+                "home": "39.7",
+                "away": "60.3"
               },
               {
                 "key": "totalShots",
@@ -37697,12 +37707,12 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
-                "away": "1"
+                "home": "12",
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -37711,7 +37721,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -37727,7 +37737,7 @@
               {
                 "key": "accuratePasses",
                 "home": "307",
-                "away": "521"
+                "away": "523"
               },
               {
                 "key": "passPct",
@@ -37753,8 +37763,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
-          "statusText": "In Progress",
+          "clock": "85'",
+          "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -38188,12 +38198,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -38224,7 +38234,7 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
@@ -38255,8 +38265,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
-          "statusText": "In Progress",
+          "clock": "80'",
+          "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": {
@@ -38840,8 +38850,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.2",
-                "away": "33.8"
+                "home": "67",
+                "away": "33"
               },
               {
                 "key": "totalShots",
@@ -38885,7 +38895,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "456",
+                "home": "471",
                 "away": "194"
               },
               {
@@ -39461,13 +39471,33 @@
                 "relatedPlayer": "Givairo Read",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "54787724_21",
+                "type": "SUBSTITUTION",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
+              },
+              {
+                "id": "54787725_22",
+                "type": "SUBSTITUTION",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.2",
-                "away": "45.8"
+                "home": "54.5",
+                "away": "45.5"
               },
               {
                 "key": "totalShots",
@@ -39511,7 +39541,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "418",
+                "home": "426",
                 "away": "341"
               },
               {
@@ -39538,7 +39568,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -40113,8 +40143,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59",
-                "away": "41"
+                "home": "58.8",
+                "away": "41.2"
               },
               {
                 "key": "totalShots",
@@ -40138,7 +40168,7 @@
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -40158,8 +40188,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "388",
-                "away": "249"
+                "home": "393",
+                "away": "255"
               },
               {
                 "key": "passPct",
@@ -40185,7 +40215,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -41478,7 +41508,7 @@
               {
                 "key": "accuratePasses",
                 "home": "186",
-                "away": "554"
+                "away": "558"
               },
               {
                 "key": "passPct",
