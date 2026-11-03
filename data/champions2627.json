@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:13:27Z",
+  "lastUpdated": "2026-11-03T20:14:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37228,22 +37228,22 @@
                   "athleteID": "332613"
                 },
                 {
-                  "id": "336634",
-                  "jersey": 8,
-                  "name": "Pablo Barrios",
-                  "position": "CM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "336634"
-                },
-                {
                   "id": "206474",
                   "jersey": 14,
                   "name": "Marcos Llorente",
-                  "position": "CM-R",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "206474"
+                },
+                {
+                  "id": "336634",
+                  "jersey": 8,
+                  "name": "Pablo Barrios",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "336634"
                 },
                 {
                   "id": "297373",
@@ -37264,22 +37264,22 @@
                   "athleteID": "323838"
                 },
                 {
-                  "id": "188230",
-                  "jersey": 9,
-                  "name": "Alexander Sørloth",
-                  "position": "CF-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "188230"
-                },
-                {
                   "id": "277206",
                   "jersey": 19,
                   "name": "Julián Álvarez",
-                  "position": "CF-R",
+                  "position": "CF-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "277206"
+                },
+                {
+                  "id": "188230",
+                  "jersey": 9,
+                  "name": "Alexander Sørloth",
+                  "position": "CF-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "188230"
                 },
                 {
                   "id": "368593",
@@ -37580,8 +37580,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.2",
-                "away": "71.8"
+                "home": "25.1",
+                "away": "74.9"
               },
               {
                 "key": "totalShots",
@@ -37600,7 +37600,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -37625,8 +37625,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "32",
-                "away": "100"
+                "home": "33",
+                "away": "123"
               },
               {
                 "key": "passPct",
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38031,8 +38031,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.3",
-                "away": "74.7"
+                "home": "37.1",
+                "away": "62.9"
               },
               {
                 "key": "totalShots",
@@ -38052,7 +38052,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -38076,8 +38076,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "28",
-                "away": "100"
+                "home": "57",
+                "away": "107"
               },
               {
                 "key": "passPct",
@@ -38533,13 +38533,23 @@
                 "relatedPlayer": null,
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "54769641_2",
+                "type": "YELLOW_CARD",
+                "minute": 11,
+                "extraTime": null,
+                "playerName": "Ian Maatsen",
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63",
-                "away": "37"
+                "home": "65.5",
+                "away": "34.5"
               },
               {
                 "key": "totalShots",
@@ -38559,7 +38569,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "1"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -38569,7 +38579,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -38583,7 +38593,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "40",
+                "home": "49",
                 "away": "19"
               },
               {
@@ -38610,7 +38620,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39136,8 +39146,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
-          "statusText": "In Progress",
+          "clock": "13'",
+          "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
           "details": {
@@ -40034,12 +40044,23 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54769457_1",
+                "type": "GOAL",
+                "minute": 11,
+                "extraTime": null,
+                "playerName": "Matías Soulé",
+                "relatedPlayer": "Rodrigo Mora",
+                "teamName": "Roma",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.5",
-                "away": "46.5"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
@@ -40083,12 +40104,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "62",
+                "home": "63",
                 "away": "57"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -40110,7 +40131,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
+          "clock": "13'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40513,23 +40534,33 @@
                 "relatedPlayer": null,
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "54769483_2",
+                "type": "GOAL",
+                "minute": 12,
+                "extraTime": null,
+                "playerName": "Désiré Doué",
+                "relatedPlayer": "Maghnes Akliouche",
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.6",
-                "away": "60.4"
+                "home": "39.1",
+                "away": "60.9"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -40563,8 +40594,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "30",
-                "away": "58"
+                "home": "31",
+                "away": "61"
               },
               {
                 "key": "passPct",
@@ -42769,6 +42800,13 @@
       "athleteID": null
     },
     {
+      "player": "Désiré Doué",
+      "team": "Paris Saint-Germain",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Ferran Torres",
       "team": "Paris Saint-Germain",
       "goals": 3,
@@ -42848,13 +42886,6 @@
     {
       "player": "Danijel Sturm",
       "team": "Slavia de Praga",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Désiré Doué",
-      "team": "Paris Saint-Germain",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
@@ -43017,6 +43048,12 @@
       "athleteID": null
     },
     {
+      "player": "Maghnes Akliouche",
+      "team": "Paris Saint-Germain",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
       "player": "Nico Paz with a through ball",
       "team": "Como",
       "goals": 2,
@@ -43025,6 +43062,12 @@
     {
       "player": "Rico Lewis",
       "team": "Manchester City",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
+      "player": "Rodrigo Mora",
+      "team": "Roma",
       "goals": 2,
       "athleteID": null
     },
@@ -43205,18 +43248,6 @@
     {
       "player": "Davinson Sánchez",
       "team": "Galatasaray",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Deniz Undav",
-      "team": "Stuttgart",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Deniz Undav with a through ball",
-      "team": "Stuttgart",
       "goals": 1,
       "athleteID": null
     }
