@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:19:03Z",
+  "lastUpdated": "2026-11-03T21:20:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37175,7 +37175,7 @@
           "shootout": null,
           "state": "in",
           "clock": "60'",
-          "statusText": "In Progress",
+          "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": {
@@ -37596,13 +37596,43 @@
                 "relatedPlayer": null,
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "54782941_5",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Lee Kang-In",
+                "relatedPlayer": "Álex Baena",
+                "teamName": "Atlético de Madrid",
+                "text": null
+              },
+              {
+                "id": "54782943_6",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Koke",
+                "relatedPlayer": "Robin Le Normand",
+                "teamName": "Atlético de Madrid",
+                "text": null
+              },
+              {
+                "id": "54782944_7",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Ademola Lookman",
+                "relatedPlayer": "Alexander Sørloth",
+                "teamName": "Atlético de Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.5",
-                "away": "66.5"
+                "home": "34",
+                "away": "66"
               },
               {
                 "key": "totalShots",
@@ -37621,7 +37651,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "1"
               },
               {
@@ -37646,8 +37676,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "190",
-                "away": "444"
+                "home": "196",
+                "away": "448"
               },
               {
                 "key": "passPct",
@@ -37673,7 +37703,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38052,18 +38082,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.1",
-                "away": "52.9"
+                "home": "47",
+                "away": "53"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -38097,8 +38127,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "348",
-                "away": "385"
+                "home": "351",
+                "away": "391"
               },
               {
                 "key": "passPct",
@@ -38124,7 +38154,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38691,7 +38721,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39190,13 +39220,33 @@
                 "relatedPlayer": "Nicolò Barella",
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "54782796_10",
+                "type": "SUBSTITUTION",
+                "minute": 57,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
+              },
+              {
+                "id": "54782797_11",
+                "type": "SUBSTITUTION",
+                "minute": 57,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.4",
-                "away": "42.6"
+                "home": "57.6",
+                "away": "42.4"
               },
               {
                 "key": "totalShots",
@@ -39216,7 +39266,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -39240,7 +39290,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "320",
+                "home": "321",
                 "away": "220"
               },
               {
@@ -39267,7 +39317,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39772,12 +39822,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.2",
-                "away": "40.8"
+                "home": "61.2",
+                "away": "38.8"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "4"
               },
               {
@@ -39817,12 +39867,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "278",
+                "home": "307",
                 "away": "178"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.8"
               }
             ],
@@ -39844,7 +39894,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40396,8 +40446,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "291",
-                "away": "233"
+                "home": "294",
+                "away": "234"
               },
               {
                 "key": "passPct",
@@ -40423,7 +40473,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40896,13 +40946,23 @@
                 "relatedPlayer": "Vitinha following a set piece situation",
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "54782867_11",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
+                "playerName": "Mika Godts",
+                "relatedPlayer": "Senny Mayulu",
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "26.4",
-                "away": "73.6"
+                "home": "27.2",
+                "away": "72.8"
               },
               {
                 "key": "totalShots",
@@ -40917,12 +40977,12 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "foulsCommitted",
                 "home": "13",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -40946,7 +41006,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "121",
+                "home": "127",
                 "away": "425"
               },
               {
