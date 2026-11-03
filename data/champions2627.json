@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:34:36Z",
+  "lastUpdated": "2026-11-03T18:35:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,8 +35851,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "First Half",
+          "clock": "45'+3'",
+          "statusText": "Halftime",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -36336,12 +36336,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.3",
-                "away": "41.7"
+                "home": "58.2",
+                "away": "41.8"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "5"
               },
               {
@@ -36357,7 +36357,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -36856,7 +36856,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -36887,7 +36887,7 @@
               {
                 "key": "accuratePasses",
                 "home": "200",
-                "away": "182"
+                "away": "181"
               },
               {
                 "key": "passPct",
