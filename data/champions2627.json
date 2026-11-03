@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:06:46Z",
+  "lastUpdated": "2026-11-03T19:07:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36341,6 +36341,16 @@
                 "relatedPlayer": null,
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "54763249_22",
+                "type": "YELLOW_CARD",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": "Grischa Prömel",
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
@@ -36367,7 +36377,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -36377,7 +36387,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "redCards",
@@ -36392,7 +36402,7 @@
               {
                 "key": "accuratePasses",
                 "home": "201",
-                "away": "138"
+                "away": "140"
               },
               {
                 "key": "passPct",
@@ -36418,7 +36428,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
