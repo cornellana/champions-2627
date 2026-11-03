@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:44:15Z",
+  "lastUpdated": "2026-11-03T21:45:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37691,8 +37691,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.4",
-                "away": "60.6"
+                "home": "39.8",
+                "away": "60.2"
               },
               {
                 "key": "totalShots",
@@ -37717,7 +37717,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "yellowCards",
@@ -37736,8 +37736,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "308",
-                "away": "535"
+                "home": "320",
+                "away": "542"
               },
               {
                 "key": "passPct",
@@ -38198,23 +38198,33 @@
                 "relatedPlayer": "Dilane Bakwa",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "54788530_17",
+                "type": "SUBSTITUTION",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.5",
-                "away": "48.5"
+                "home": "51.3",
+                "away": "48.7"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -38224,7 +38234,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -38243,13 +38253,13 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "478",
-                "away": "440"
+                "home": "481",
+                "away": "447"
               },
               {
                 "key": "passPct",
@@ -38275,7 +38285,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38870,8 +38880,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.6",
-                "away": "33.4"
+                "home": "66.7",
+                "away": "33.3"
               },
               {
                 "key": "totalShots",
@@ -38915,7 +38925,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "496",
+                "home": "499",
                 "away": "207"
               },
               {
@@ -38942,7 +38952,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39598,7 +39608,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -40183,12 +40193,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.6",
-                "away": "41.4"
+                "home": "58.9",
+                "away": "41.1"
               },
               {
                 "key": "totalShots",
-                "home": "24",
+                "home": "25",
                 "away": "6"
               },
               {
@@ -40209,7 +40219,7 @@
               {
                 "key": "offsides",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -40228,8 +40238,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "402",
-                "away": "264"
+                "home": "413",
+                "away": "265"
               },
               {
                 "key": "passPct",
@@ -40255,7 +40265,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40842,8 +40852,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.7",
+                "away": "45.3"
               },
               {
                 "key": "totalShots",
@@ -40887,7 +40897,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "397",
+                "home": "401",
                 "away": "327"
               },
               {
@@ -40914,7 +40924,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "In Progress",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
