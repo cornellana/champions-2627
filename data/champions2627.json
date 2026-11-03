@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:27:26Z",
+  "lastUpdated": "2026-11-03T19:28:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,8 +35851,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
-          "statusText": "In Progress",
+          "clock": "82'",
+          "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -36446,8 +36446,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54",
-                "away": "46"
+                "home": "53.9",
+                "away": "46.1"
               },
               {
                 "key": "totalShots",
@@ -36491,8 +36491,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "234",
-                "away": "197"
+                "home": "252",
+                "away": "212"
               },
               {
                 "key": "passPct",
@@ -36518,8 +36518,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
-          "statusText": "In Progress",
+          "clock": "85'",
+          "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -37013,8 +37013,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 83,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Iván Fresneda",
+                "relatedPlayer": "Geny Catamo",
                 "teamName": "Sporting de Portugal",
                 "text": null
               },
@@ -37023,8 +37023,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 83,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Lassina Traoré",
+                "relatedPlayer": "Marlon Gomes",
                 "teamName": "Shajtar Donetsk",
                 "text": null
               }
@@ -37032,8 +37032,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.5",
-                "away": "46.5"
+                "home": "53.4",
+                "away": "46.6"
               },
               {
                 "key": "totalShots",
@@ -37077,8 +37077,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "342",
-                "away": "298"
+                "home": "346",
+                "away": "303"
               },
               {
                 "key": "passPct",
