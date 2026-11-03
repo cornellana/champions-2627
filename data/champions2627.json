@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:16:33Z",
+  "lastUpdated": "2026-11-03T19:17:38Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36377,8 +36377,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 68,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Wilfried Singo",
+                "relatedPlayer": "Roland Sallai",
                 "teamName": "Galatasaray",
                 "text": null
               }
@@ -36458,8 +36458,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
-          "statusText": "Second Half",
+          "clock": "75'",
+          "statusText": "In Progress",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -36942,12 +36942,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.1",
-                "away": "49.9"
+                "home": "50.4",
+                "away": "49.6"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "10"
               },
               {
@@ -36987,8 +36987,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "284",
-                "away": "292"
+                "home": "288",
+                "away": "291"
               },
               {
                 "key": "passPct",
