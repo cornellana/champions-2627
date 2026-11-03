@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:33:07Z",
+  "lastUpdated": "2026-11-03T20:34:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,8 +37174,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
-          "statusText": "First Half",
+          "clock": "33'",
+          "statusText": "In Progress",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": {
@@ -37580,8 +37580,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.4",
-                "away": "61.6"
+                "home": "38.2",
+                "away": "61.8"
               },
               {
                 "key": "totalShots",
@@ -37600,7 +37600,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "1"
               },
               {
@@ -37625,8 +37625,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "129",
-                "away": "235"
+                "home": "133",
+                "away": "246"
               },
               {
                 "key": "passPct",
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38031,8 +38031,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40",
-                "away": "60"
+                "home": "37.5",
+                "away": "62.5"
               },
               {
                 "key": "totalShots",
@@ -38077,7 +38077,7 @@
               {
                 "key": "accuratePasses",
                 "home": "149",
-                "away": "235"
+                "away": "262"
               },
               {
                 "key": "passPct",
@@ -38543,23 +38543,33 @@
                 "relatedPlayer": null,
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "54774485_3",
+                "type": "YELLOW_CARD",
+                "minute": 31,
+                "extraTime": null,
+                "playerName": "Emiliano Buendía",
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.4",
-                "away": "33.6"
+                "home": "68.5",
+                "away": "31.5"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -38579,7 +38589,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -38588,13 +38598,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "170",
-                "away": "69"
+                "home": "197",
+                "away": "73"
               },
               {
                 "key": "passPct",
@@ -38620,7 +38630,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "31'",
+          "clock": "32'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39074,27 +39084,27 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.1",
-                "away": "34.9"
+                "home": "64.4",
+                "away": "35.6"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "5"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "5"
               },
               {
@@ -39115,12 +39125,12 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "199",
-                "away": "86"
+                "home": "202",
+                "away": "90"
               },
               {
                 "key": "passPct",
@@ -39146,7 +39156,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39591,8 +39601,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54",
-                "away": "46"
+                "home": "55.4",
+                "away": "44.6"
               },
               {
                 "key": "totalShots",
@@ -39636,7 +39646,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "134",
+                "home": "142",
                 "away": "112"
               },
               {
@@ -39663,7 +39673,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "31'",
+          "clock": "32'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40192,7 +40202,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "32'",
+          "clock": "33'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40630,8 +40640,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.5",
-                "away": "70.5"
+                "home": "28.7",
+                "away": "71.2"
               },
               {
                 "key": "totalShots",
@@ -40650,7 +40660,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -40676,7 +40686,7 @@
               {
                 "key": "accuratePasses",
                 "home": "64",
-                "away": "193"
+                "away": "201"
               },
               {
                 "key": "passPct",
