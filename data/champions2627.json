@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:05:55Z",
+  "lastUpdated": "2026-11-03T21:07:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37580,18 +37580,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.9",
-                "away": "67.1"
+                "home": "32.4",
+                "away": "67.6"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -37620,13 +37620,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "153",
-                "away": "374"
+                "home": "157",
+                "away": "390"
               },
               {
                 "key": "passPct",
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38103,8 +38103,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": {
@@ -38555,7 +38555,7 @@
                 "text": null
               },
               {
-                "id": "54777233_6",
+                "id": "54777233_4",
                 "type": "YELLOW_CARD",
                 "minute": 45,
                 "extraTime": null,
@@ -38565,7 +38565,7 @@
                 "text": null
               },
               {
-                "id": "54777105_7",
+                "id": "54777105_5",
                 "type": "YELLOW_CARD",
                 "minute": 45,
                 "extraTime": null,
@@ -38575,12 +38575,12 @@
                 "text": null
               },
               {
-                "id": "54779289_11",
+                "id": "54779289_7",
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Marc Bernal",
+                "relatedPlayer": "Rodri",
                 "teamName": "FC Barcelona",
                 "text": null
               }
@@ -38660,8 +38660,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -39139,13 +39139,23 @@
                 "relatedPlayer": null,
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "54779696_7",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.1",
-                "away": "41.9"
+                "home": "58.3",
+                "away": "41.7"
               },
               {
                 "key": "totalShots",
@@ -39189,7 +39199,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "268",
+                "home": "269",
                 "away": "177"
               },
               {
@@ -39216,7 +39226,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39783,7 +39793,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40270,8 +40280,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "54.4",
+                "away": "45.6"
               },
               {
                 "key": "totalShots",
@@ -40315,7 +40325,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "235",
+                "home": "243",
                 "away": "200"
               },
               {
@@ -40342,7 +40352,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40791,8 +40801,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Sergi Cardona",
+                "relatedPlayer": "Nicolas Pepe",
                 "teamName": "Villarreal",
                 "text": null
               }
