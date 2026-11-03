@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:03:44Z",
+  "lastUpdated": "2026-11-03T21:04:49Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,8 +37174,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": {
@@ -37652,8 +37652,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
-          "statusText": "In Progress",
+          "clock": "48'",
+          "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
