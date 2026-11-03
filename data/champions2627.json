@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:25:16Z",
+  "lastUpdated": "2026-11-03T19:26:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,8 +35851,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
-          "statusText": "Second Half",
+          "clock": "80'",
+          "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -36431,13 +36431,23 @@
                 "relatedPlayer": "Ismail Jakobs",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54763707_31",
+                "type": "YELLOW_CARD",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": "Ramon Hendriks",
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.2",
-                "away": "45.8"
+                "home": "54",
+                "away": "46"
               },
               {
                 "key": "totalShots",
@@ -36457,7 +36467,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "offsides",
@@ -36467,7 +36477,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "redCards",
@@ -36481,8 +36491,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "230",
-                "away": "193"
+                "home": "234",
+                "away": "197"
               },
               {
                 "key": "passPct",
@@ -36508,7 +36518,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -37002,12 +37012,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "53.4",
+                "away": "46.6"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "10"
               },
               {
@@ -37047,7 +37057,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "331",
+                "home": "340",
                 "away": "297"
               },
               {
