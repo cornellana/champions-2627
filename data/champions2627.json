@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:37:15Z",
+  "lastUpdated": "2026-11-03T19:38:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -39108,6 +39108,16 @@
       "position": 4
     },
     {
+      "team": "Sporting de Portugal",
+      "played": 4,
+      "won": 3,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 4,
+      "position": 5
+    },
+    {
       "team": "Real Betis",
       "played": 3,
       "won": 3,
@@ -39115,7 +39125,7 @@
       "lost": 0,
       "goalsFor": 7,
       "goalsAgainst": 4,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Stuttgart",
@@ -39125,7 +39135,7 @@
       "lost": 0,
       "goalsFor": 7,
       "goalsAgainst": 2,
-      "position": 6
+      "position": 7
     },
     {
       "team": "Arsenal",
@@ -39135,7 +39145,7 @@
       "lost": 0,
       "goalsFor": 6,
       "goalsAgainst": 2,
-      "position": 7
+      "position": 8
     },
     {
       "team": "FC Barcelona",
@@ -39145,7 +39155,7 @@
       "lost": 1,
       "goalsFor": 11,
       "goalsAgainst": 6,
-      "position": 8
+      "position": 9
     },
     {
       "team": "Como",
@@ -39155,7 +39165,7 @@
       "lost": 1,
       "goalsFor": 10,
       "goalsAgainst": 5,
-      "position": 9
+      "position": 10
     },
     {
       "team": "Manchester City",
@@ -39165,7 +39175,7 @@
       "lost": 1,
       "goalsFor": 9,
       "goalsAgainst": 5,
-      "position": 10
+      "position": 11
     },
     {
       "team": "Brujas",
@@ -39175,16 +39185,6 @@
       "lost": 1,
       "goalsFor": 9,
       "goalsAgainst": 6,
-      "position": 11
-    },
-    {
-      "team": "Sporting de Portugal",
-      "played": 3,
-      "won": 2,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 7,
-      "goalsAgainst": 4,
       "position": 12
     },
     {
@@ -39229,12 +39229,12 @@
     },
     {
       "team": "Shajtar Donetsk",
-      "played": 3,
+      "played": 4,
       "won": 1,
       "drawn": 1,
-      "lost": 1,
+      "lost": 2,
       "goalsFor": 4,
-      "goalsAgainst": 3,
+      "goalsAgainst": 4,
       "position": 17
     },
     {
