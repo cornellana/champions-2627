@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:31:47Z",
+  "lastUpdated": "2026-11-03T19:32:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36461,13 +36461,23 @@
                 "relatedPlayer": "Mario Lemina",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "54764034_34",
+                "type": "YELLOW_CARD",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": "Lucas Torreira",
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.2",
-                "away": "46.8"
+                "home": "53",
+                "away": "47"
               },
               {
                 "key": "totalShots",
@@ -36506,13 +36516,13 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
                 "home": "261",
-                "away": "230"
+                "away": "232"
               },
               {
                 "key": "passPct",
@@ -36538,7 +36548,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -37047,13 +37057,33 @@
                 "relatedPlayer": "Marlon Gomes",
                 "teamName": "Shajtar Donetsk",
                 "text": null
+              },
+              {
+                "id": "54764095_17",
+                "type": "SUBSTITUTION",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
+              },
+              {
+                "id": "54764096_18",
+                "type": "SUBSTITUTION",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.2",
-                "away": "46.8"
+                "home": "53",
+                "away": "47"
               },
               {
                 "key": "totalShots",
@@ -37072,8 +37102,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
-                "away": "17"
+                "home": "9",
+                "away": "18"
               },
               {
                 "key": "offsides",
@@ -37097,8 +37127,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "353",
-                "away": "309"
+                "home": "355",
+                "away": "313"
               },
               {
                 "key": "passPct",
