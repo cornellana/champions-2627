@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:32:55Z",
+  "lastUpdated": "2026-11-03T19:34:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,8 +35851,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
-          "statusText": "Second Half",
+          "clock": "88'",
+          "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -36482,12 +36482,12 @@
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "9"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -36496,7 +36496,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "14"
               },
               {
@@ -36522,7 +36522,7 @@
               {
                 "key": "accuratePasses",
                 "home": "261",
-                "away": "232"
+                "away": "234"
               },
               {
                 "key": "passPct",
@@ -36548,7 +36548,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -37063,8 +37063,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 88,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Salvador Blopa",
+                "relatedPlayer": "Maxi Araújo",
                 "teamName": "Sporting de Portugal",
                 "text": null
               },
@@ -37073,8 +37073,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 88,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "João Simões",
+                "relatedPlayer": "Issa Doumbia",
                 "teamName": "Sporting de Portugal",
                 "text": null
               }
@@ -37082,8 +37082,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53",
-                "away": "47"
+                "home": "53.7",
+                "away": "46.3"
               },
               {
                 "key": "totalShots",
@@ -37127,7 +37127,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "355",
+                "home": "366",
                 "away": "313"
               },
               {
