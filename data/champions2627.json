@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:59:09Z",
+  "lastUpdated": "2026-11-03T19:00:14Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,8 +35851,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
-          "statusText": "Second Half",
+          "clock": "54'",
+          "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -36346,12 +36346,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "58",
+                "away": "42"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "5"
               },
               {
@@ -36391,12 +36391,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "157",
+                "home": "164",
                 "away": "112"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.8",
                 "away": "0.7"
               }
             ],
@@ -36418,7 +36418,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "57'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36851,8 +36851,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "52.5",
+                "away": "47.5"
               },
               {
                 "key": "totalShots",
@@ -36871,7 +36871,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "9"
               },
               {
@@ -36897,7 +36897,7 @@
               {
                 "key": "accuratePasses",
                 "home": "251",
-                "away": "230"
+                "away": "233"
               },
               {
                 "key": "passPct",
