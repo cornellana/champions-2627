@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:36:46Z",
+  "lastUpdated": "2026-11-03T18:37:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -36313,7 +36313,7 @@
                 "text": null
               },
               {
-                "id": "54761881_14",
+                "id": "54761881_15",
                 "type": "YELLOW_CARD",
                 "minute": 38,
                 "extraTime": null,
@@ -36330,6 +36330,16 @@
                 "playerName": "Baris Alper Yilmaz",
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
+                "text": null
+              },
+              {
+                "id": "54762250_19",
+                "type": "YELLOW_CARD",
+                "minute": 45,
+                "extraTime": 3,
+                "playerName": "Yanik Spalt",
+                "relatedPlayer": null,
+                "teamName": "Stuttgart",
                 "text": null
               }
             ],
@@ -36367,7 +36377,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
