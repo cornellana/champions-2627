@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:39:40Z",
+  "lastUpdated": "2026-11-03T20:40:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37580,8 +37580,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.5",
-                "away": "63.5"
+                "home": "36",
+                "away": "64"
               },
               {
                 "key": "totalShots",
@@ -37600,7 +37600,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "1"
               },
               {
@@ -37625,8 +37625,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "145",
-                "away": "288"
+                "home": "148",
+                "away": "304"
               },
               {
                 "key": "passPct",
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38103,7 +38103,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "37'",
+          "clock": "38'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38630,7 +38630,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "37'",
+          "clock": "38'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39094,12 +39094,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63",
-                "away": "37"
+                "home": "60.6",
+                "away": "39.4"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "4",
                 "away": "7"
               },
               {
@@ -39114,7 +39114,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "7"
               },
               {
@@ -39139,8 +39139,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "223",
-                "away": "113"
+                "home": "225",
+                "away": "129"
               },
               {
                 "key": "passPct",
@@ -39166,7 +39166,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39641,8 +39641,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.5",
-                "away": "43.5"
+                "home": "56.2",
+                "away": "43.8"
               },
               {
                 "key": "totalShots",
@@ -39687,7 +39687,7 @@
               {
                 "key": "accuratePasses",
                 "home": "158",
-                "away": "118"
+                "away": "120"
               },
               {
                 "key": "passPct",
@@ -39713,7 +39713,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40180,8 +40180,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "50.6",
+                "away": "49.4"
               },
               {
                 "key": "totalShots",
@@ -40196,7 +40196,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -40225,8 +40225,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "173",
-                "away": "176"
+                "home": "189",
+                "away": "188"
               },
               {
                 "key": "passPct",
@@ -40252,7 +40252,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40690,8 +40690,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.2",
-                "away": "72.8"
+                "home": "27.3",
+                "away": "72.7"
               },
               {
                 "key": "totalShots",
@@ -40710,7 +40710,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "2"
               },
               {
@@ -40735,8 +40735,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "69",
-                "away": "239"
+                "home": "71",
+                "away": "245"
               },
               {
                 "key": "passPct",
