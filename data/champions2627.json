@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:04:41Z",
+  "lastUpdated": "2026-11-03T20:05:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37580,8 +37580,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.4",
-                "away": "29.6"
+                "home": "63.2",
+                "away": "36.8"
               },
               {
                 "key": "totalShots",
@@ -37625,13 +37625,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "15",
-                "away": "3"
+                "home": "19",
+                "away": "7"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.4"
+                "away": "0.5"
               }
             ],
             "penalties": null
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38031,8 +38031,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "14.3",
-                "away": "85.7"
+                "home": "18.2",
+                "away": "81.8"
               },
               {
                 "key": "totalShots",
@@ -38051,7 +38051,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -38076,12 +38076,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "1",
-                "away": "21"
+                "home": "3",
+                "away": "33"
               },
               {
                 "key": "passPct",
-                "home": "0.3",
+                "home": "0.4",
                 "away": "0.9"
               }
             ],
@@ -38103,7 +38103,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38599,7 +38599,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39032,8 +39032,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "20",
-                "away": "80"
+                "home": "54.5",
+                "away": "45.5"
               },
               {
                 "key": "totalShots",
@@ -39053,7 +39053,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -39063,7 +39063,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -39077,13 +39077,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "1",
-                "away": "13"
+                "home": "21",
+                "away": "14"
               },
               {
                 "key": "passPct",
-                "home": "0.3",
-                "away": "0.8"
+                "home": "0.9",
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -39104,7 +39104,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39528,8 +39528,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "86.7",
-                "away": "13.3"
+                "home": "59.6",
+                "away": "40.4"
               },
               {
                 "key": "totalShots",
@@ -39544,7 +39544,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -39573,13 +39573,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "23",
-                "away": "1"
+                "home": "27",
+                "away": "15"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.3"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -39600,7 +39600,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -39663,40 +39663,40 @@
                   "athleteID": "124091"
                 },
                 {
-                  "id": "338814",
-                  "jersey": 20,
-                  "name": "Carlos Baleba",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "338814"
-                },
-                {
                   "id": "328466",
                   "jersey": 37,
                   "name": "Kobbie Mainoo",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "328466"
                 },
                 {
-                  "id": "259902",
-                  "jersey": 10,
-                  "name": "Matheus Cunha",
-                  "position": "F",
+                  "id": "338814",
+                  "jersey": 20,
+                  "name": "Carlos Baleba",
+                  "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "259902"
+                  "athleteID": "338814"
                 },
                 {
                   "id": "271170",
                   "jersey": 19,
                   "name": "Bryan Mbeumo",
-                  "position": "AM-L",
+                  "position": "F",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "271170"
+                },
+                {
+                  "id": "259902",
+                  "jersey": 10,
+                  "name": "Matheus Cunha",
+                  "position": "AM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "259902"
                 },
                 {
                   "id": "291630",
@@ -40078,7 +40078,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40475,8 +40475,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.7",
-                "away": "59.3"
+                "home": "42.9",
+                "away": "57.1"
               },
               {
                 "key": "totalShots",
@@ -40490,7 +40490,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
