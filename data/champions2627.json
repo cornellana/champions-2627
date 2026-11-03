@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:33:17Z",
+  "lastUpdated": "2026-11-03T21:34:23Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37170,11 +37170,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "0-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37636,23 +37636,33 @@
                 "relatedPlayer": "Lennart Karl",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "54786349_9",
+                "type": "GOAL",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Konrad Laimer",
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.7",
-                "away": "62.3"
+                "home": "38",
+                "away": "62"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "15"
+                "away": "17"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "2"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -37681,13 +37691,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "270",
-                "away": "510"
+                "home": "277",
+                "away": "518"
               },
               {
                 "key": "passPct",
@@ -37713,7 +37723,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38113,8 +38123,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "50.5",
+                "away": "49.5"
               },
               {
                 "key": "totalShots",
@@ -38133,7 +38143,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "5"
               },
               {
@@ -38158,8 +38168,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "420",
-                "away": "405"
+                "home": "429",
+                "away": "413"
               },
               {
                 "key": "passPct",
@@ -38185,7 +38195,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38717,7 +38727,17 @@
                 "text": null
               },
               {
-                "id": "54785650_14",
+                "id": "54785651_14",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": "Frenkie de Jong",
+                "relatedPlayer": "Pedri",
+                "teamName": "FC Barcelona",
+                "text": null
+              },
+              {
+                "id": "54785650_15",
                 "type": "SUBSTITUTION",
                 "minute": 70,
                 "extraTime": null,
@@ -38727,7 +38747,7 @@
                 "text": null
               },
               {
-                "id": "54785833_15",
+                "id": "54785833_16",
                 "type": "SUBSTITUTION",
                 "minute": 70,
                 "extraTime": null,
@@ -38735,23 +38755,13 @@
                 "relatedPlayer": "Fermín López",
                 "teamName": "FC Barcelona",
                 "text": null
-              },
-              {
-                "id": "54785651_16",
-                "type": "SUBSTITUTION",
-                "minute": 70,
-                "extraTime": null,
-                "playerName": "Frenkie de Jong",
-                "relatedPlayer": "Pedri",
-                "teamName": "FC Barcelona",
-                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.3",
-                "away": "34.7"
+                "home": "66.2",
+                "away": "33.8"
               },
               {
                 "key": "totalShots",
@@ -38795,7 +38805,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "407",
+                "home": "429",
                 "away": "183"
               },
               {
@@ -38822,7 +38832,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39448,7 +39458,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39993,8 +40003,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59",
-                "away": "41"
+                "home": "58.7",
+                "away": "41.3"
               },
               {
                 "key": "totalShots",
@@ -40039,7 +40049,7 @@
               {
                 "key": "accuratePasses",
                 "home": "365",
-                "away": "233"
+                "away": "236"
               },
               {
                 "key": "passPct",
@@ -40065,7 +40075,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40569,7 +40579,7 @@
                 "text": null
               },
               {
-                "id": "54785572_23",
+                "id": "54785572_25",
                 "type": "YELLOW_CARD",
                 "minute": 70,
                 "extraTime": null,
@@ -40582,8 +40592,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "53.6",
+                "away": "46.4"
               },
               {
                 "key": "totalShots",
@@ -40627,8 +40637,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "344",
-                "away": "286"
+                "home": "350",
+                "away": "303"
               },
               {
                 "key": "passPct",
@@ -40654,7 +40664,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -41187,13 +41197,33 @@
                 "relatedPlayer": null,
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "54786491_17",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "54786492_18",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.9",
-                "away": "72.1"
+                "home": "27.7",
+                "away": "72.3"
               },
               {
                 "key": "totalShots",
@@ -41212,7 +41242,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "14",
+                "home": "15",
                 "away": "4"
               },
               {
@@ -41238,7 +41268,7 @@
               {
                 "key": "accuratePasses",
                 "home": "172",
-                "away": "539"
+                "away": "544"
               },
               {
                 "key": "passPct",
