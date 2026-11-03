@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T19:07:51Z",
+  "lastUpdated": "2026-11-03T19:08:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -35851,7 +35851,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -36351,13 +36351,23 @@
                 "relatedPlayer": null,
                 "teamName": "Stuttgart",
                 "text": null
+              },
+              {
+                "id": "54763257_23",
+                "type": "YELLOW_CARD",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Roland Sallai",
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.5",
-                "away": "42.5"
+                "home": "57.6",
+                "away": "42.4"
               },
               {
                 "key": "totalShots",
@@ -36376,7 +36386,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "13"
               },
               {
@@ -36386,7 +36396,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "4"
               },
               {
@@ -36428,7 +36438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36872,18 +36882,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "50.9",
+                "away": "49.1"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "7"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -36893,7 +36903,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "9"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -36912,12 +36922,12 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "261",
+                "home": "262",
                 "away": "261"
               },
               {
