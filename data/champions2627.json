@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:42:58Z",
+  "lastUpdated": "2026-11-03T20:44:03Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37580,8 +37580,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.6",
-                "away": "64.4"
+                "home": "34.3",
+                "away": "65.7"
               },
               {
                 "key": "totalShots",
@@ -37620,13 +37620,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "148",
-                "away": "311"
+                "home": "149",
+                "away": "335"
               },
               {
                 "key": "passPct",
@@ -37652,8 +37652,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
-          "statusText": "First Half",
+          "clock": "43'",
+          "statusText": "In Progress",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -38031,8 +38031,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.1",
-                "away": "56.9"
+                "home": "43.4",
+                "away": "56.6"
               },
               {
                 "key": "totalShots",
@@ -38076,8 +38076,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
-                "away": "298"
+                "home": "224",
+                "away": "299"
               },
               {
                 "key": "passPct",
@@ -38103,7 +38103,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38558,8 +38558,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.7",
-                "away": "34.3"
+                "home": "66.1",
+                "away": "33.9"
               },
               {
                 "key": "totalShots",
@@ -38603,8 +38603,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "243",
-                "away": "106"
+                "home": "255",
+                "away": "108"
               },
               {
                 "key": "passPct",
@@ -38630,7 +38630,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39089,17 +39089,37 @@
                 "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "54776284_4",
+                "type": "YELLOW_CARD",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Manuel Akanji",
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
+              },
+              {
+                "id": "54776285_5",
+                "type": "YELLOW_CARD",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Gjivai Zechiël",
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.6",
-                "away": "40.4"
+                "home": "58.9",
+                "away": "41.1"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "8"
               },
               {
@@ -39139,8 +39159,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "227",
-                "away": "134"
+                "home": "234",
+                "away": "145"
               },
               {
                 "key": "passPct",
@@ -39166,7 +39186,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39641,18 +39661,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.2",
-                "away": "43.8"
+                "home": "58.6",
+                "away": "41.4"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -39681,13 +39701,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "158",
-                "away": "120"
+                "home": "189",
+                "away": "126"
               },
               {
                 "key": "passPct",
@@ -39713,7 +39733,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40175,13 +40195,23 @@
                 "relatedPlayer": null,
                 "teamName": "Roma",
                 "text": null
+              },
+              {
+                "id": "54776412_11",
+                "type": "YELLOW_CARD",
+                "minute": 42,
+                "extraTime": null,
+                "playerName": "Donyell Malen",
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -40201,7 +40231,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -40211,7 +40241,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -40225,7 +40255,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
+                "home": "209",
                 "away": "188"
               },
               {
@@ -40252,7 +40282,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40690,8 +40720,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.3",
-                "away": "72.7"
+                "home": "26.7",
+                "away": "73.3"
               },
               {
                 "key": "totalShots",
@@ -40710,7 +40740,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "2"
               },
               {
@@ -40735,8 +40765,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "76",
-                "away": "260"
+                "home": "83",
+                "away": "292"
               },
               {
                 "key": "passPct",
