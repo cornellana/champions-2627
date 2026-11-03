@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:26:59Z",
+  "lastUpdated": "2026-11-03T18:28:04Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -36313,13 +36313,23 @@
                 "text": null
               },
               {
-                "id": "54761881_15",
+                "id": "54761881_14",
                 "type": "YELLOW_CARD",
-                "minute": 39,
+                "minute": 38,
                 "extraTime": null,
                 "playerName": "Deniz Undav",
                 "relatedPlayer": null,
                 "teamName": "Stuttgart",
+                "text": null
+              },
+              {
+                "id": "54761966_16",
+                "type": "YELLOW_CARD",
+                "minute": 39,
+                "extraTime": null,
+                "playerName": "Baris Alper Yilmaz",
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
                 "text": null
               }
             ],
@@ -36398,7 +36408,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -36831,8 +36841,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.8",
-                "away": "46.2"
+                "home": "55.9",
+                "away": "44.1"
               },
               {
                 "key": "totalShots",
@@ -36846,7 +36856,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -36876,8 +36886,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "175",
-                "away": "150"
+                "home": "191",
+                "away": "151"
               },
               {
                 "key": "passPct",
