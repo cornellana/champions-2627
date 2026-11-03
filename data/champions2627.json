@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:10:18Z",
+  "lastUpdated": "2026-11-03T21:11:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38103,7 +38103,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38588,8 +38588,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.6",
-                "away": "30.4"
+                "home": "69.9",
+                "away": "30.1"
               },
               {
                 "key": "totalShots",
@@ -38609,7 +38609,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -38633,8 +38633,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "332",
-                "away": "120"
+                "home": "342",
+                "away": "121"
               },
               {
                 "key": "passPct",
@@ -38660,7 +38660,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39154,8 +39154,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.8",
-                "away": "43.2"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
@@ -39199,7 +39199,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "282",
+                "home": "290",
                 "away": "199"
               },
               {
@@ -39226,7 +39226,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39803,7 +39803,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40281,17 +40281,27 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Niccolò Pisilli",
+                "relatedPlayer": "Rodrigo Mora",
                 "teamName": "Roma",
+                "text": null
+              },
+              {
+                "id": "54780759_19",
+                "type": "SUBSTITUTION",
+                "minute": 51,
+                "extraTime": null,
+                "playerName": "Youri Tielemans",
+                "relatedPlayer": "Carlos Baleba because of an injury",
+                "teamName": "Manchester United",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.4",
-                "away": "45.6"
+                "home": "55",
+                "away": "45"
               },
               {
                 "key": "totalShots",
@@ -40335,8 +40345,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "243",
-                "away": "200"
+                "home": "269",
+                "away": "216"
               },
               {
                 "key": "passPct",
@@ -40358,11 +40368,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-4",
+          "result": "0-5",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40815,6 +40825,26 @@
                 "relatedPlayer": "Nicolas Pepe",
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "54780644_9",
+                "type": "YELLOW_CARD",
+                "minute": 50,
+                "extraTime": null,
+                "playerName": "Santiago Mouriño",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
+              },
+              {
+                "id": "54780648_10",
+                "type": "GOAL",
+                "minute": 50,
+                "extraTime": null,
+                "playerName": "Fabián Ruiz",
+                "relatedPlayer": "Vitinha following a set piece situation",
+                "teamName": "Paris Saint-Germain",
+                "text": null
               }
             ],
             "teamStats": [
@@ -40826,12 +40856,12 @@
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "15"
+                "away": "16"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "wonCorners",
@@ -40850,7 +40880,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -40865,8 +40895,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "102",
-                "away": "366"
+                "home": "103",
+                "away": "369"
               },
               {
                 "key": "passPct",
@@ -43029,6 +43059,13 @@
       "athleteID": null
     },
     {
+      "player": "Fabián Ruiz",
+      "team": "Paris Saint-Germain",
+      "goals": 4,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Harry Kane",
       "team": "Bayern de Múnich",
       "goals": 4,
@@ -43072,13 +43109,6 @@
     },
     {
       "player": "Désiré Doué",
-      "team": "Paris Saint-Germain",
-      "goals": 3,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Fabián Ruiz",
       "team": "Paris Saint-Germain",
       "goals": 3,
       "penalties": 0,
