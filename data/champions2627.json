@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:27:39Z",
+  "lastUpdated": "2026-11-03T20:28:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37580,8 +37580,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.9",
-                "away": "69.1"
+                "home": "33.3",
+                "away": "66.7"
               },
               {
                 "key": "totalShots",
@@ -37601,7 +37601,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -37625,7 +37625,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "80",
+                "home": "92",
                 "away": "217"
               },
               {
@@ -37652,7 +37652,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "26'",
+          "clock": "27'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38103,8 +38103,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
-          "statusText": "First Half",
+          "clock": "27'",
+          "statusText": "In Progress",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
           "details": {
@@ -38548,8 +38548,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.3",
-                "away": "28.7"
+                "home": "68.8",
+                "away": "31.2"
               },
               {
                 "key": "totalShots",
@@ -38568,7 +38568,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "4"
               },
               {
@@ -38593,8 +38593,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "156",
-                "away": "51"
+                "home": "163",
+                "away": "59"
               },
               {
                 "key": "passPct",
@@ -38620,7 +38620,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39074,8 +39074,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.4",
-                "away": "34.6"
+                "home": "65.7",
+                "away": "34.3"
               },
               {
                 "key": "totalShots",
@@ -39089,7 +39089,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "3"
               },
               {
@@ -39119,8 +39119,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "169",
-                "away": "70"
+                "home": "179",
+                "away": "75"
               },
               {
                 "key": "passPct",
@@ -39146,7 +39146,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "26'",
+          "clock": "27'",
           "statusText": "First Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39663,7 +39663,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "25'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40120,12 +40120,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "57.2",
+                "away": "42.8"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -40165,7 +40165,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "113",
+                "home": "126",
                 "away": "96"
               },
               {
@@ -40192,7 +40192,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "26'",
+          "clock": "27'",
           "statusText": "First Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -40630,8 +40630,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.1",
-                "away": "59.9"
+                "home": "31.3",
+                "away": "68.7"
               },
               {
                 "key": "totalShots",
@@ -40651,7 +40651,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -40676,11 +40676,11 @@
               {
                 "key": "accuratePasses",
                 "home": "57",
-                "away": "103"
+                "away": "159"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.9"
               }
             ],
