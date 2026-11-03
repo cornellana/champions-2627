@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:34:23Z",
+  "lastUpdated": "2026-11-03T21:35:29Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -37174,7 +37174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -37643,16 +37643,36 @@
                 "minute": 74,
                 "extraTime": null,
                 "playerName": "Konrad Laimer",
-                "relatedPlayer": null,
+                "relatedPlayer": "Harry Kane",
                 "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "54786673_10",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Rodrigo Mendoza",
+                "relatedPlayer": "Pablo Barrios",
+                "teamName": "Atlético de Madrid",
+                "text": null
+              },
+              {
+                "id": "54786674_11",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Jonathan David",
+                "relatedPlayer": "Julián Alvarez",
+                "teamName": "Atlético de Madrid",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38",
-                "away": "62"
+                "home": "38.3",
+                "away": "61.7"
               },
               {
                 "key": "totalShots",
@@ -37696,8 +37716,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "277",
-                "away": "518"
+                "home": "283",
+                "away": "520"
               },
               {
                 "key": "passPct",
@@ -37723,7 +37743,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -38123,8 +38143,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.5",
-                "away": "49.5"
+                "home": "51.1",
+                "away": "48.9"
               },
               {
                 "key": "totalShots",
@@ -38168,7 +38188,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "429",
+                "home": "441",
                 "away": "413"
               },
               {
@@ -38195,7 +38215,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Spotify Camp Nou",
           "venueCity": "Barcelona",
@@ -38832,7 +38852,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -39386,12 +39406,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.6",
-                "away": "44.4"
+                "home": "55.7",
+                "away": "44.3"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "11"
               },
               {
@@ -39431,8 +39451,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "393",
-                "away": "297"
+                "home": "401",
+                "away": "303"
               },
               {
                 "key": "passPct",
@@ -39458,7 +39478,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Raiffeisen Arena (Linz)",
           "venueCity": "Linz",
@@ -39998,6 +40018,16 @@
                 "relatedPlayer": "Alexej Maros",
                 "teamName": "Slovan Bratislava",
                 "text": null
+              },
+              {
+                "id": "54786662_31",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
@@ -40075,7 +40105,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Old Trafford",
           "venueCity": "Manchester",
@@ -40592,8 +40622,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -40613,7 +40643,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -40637,8 +40667,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "350",
-                "away": "303"
+                "home": "351",
+                "away": "307"
               },
               {
                 "key": "passPct",
@@ -40664,7 +40694,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Estadio de la Cerámica",
           "venueCity": "Villarreal",
@@ -41203,8 +41233,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "David Boly",
+                "relatedPlayer": "Achraf Hakimi",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               },
@@ -41213,7 +41243,27 @@
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
+                "playerName": "Quentin Ndjantou",
+                "relatedPlayer": "Désiré Doué",
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "54786718_19",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
                 "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Paris Saint-Germain",
+                "text": null
+              },
+              {
+                "id": "54786703_20",
+                "type": "YELLOW_CARD",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Quentin Ndjantou",
                 "relatedPlayer": null,
                 "teamName": "Paris Saint-Germain",
                 "text": null
@@ -41253,7 +41303,7 @@
               {
                 "key": "yellowCards",
                 "home": "3",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -43709,6 +43759,12 @@
       "athleteID": null
     },
     {
+      "player": "Harry Kane",
+      "team": "Bayern de Múnich",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
       "player": "Isaque",
       "team": "Shajtar Donetsk",
       "goals": 2,
@@ -43915,12 +43971,6 @@
     {
       "player": "Dani Olmo",
       "team": "FC Barcelona",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Daniele Ghilardi with a headed pass following a set piece situation",
-      "team": "Roma",
       "goals": 1,
       "athleteID": null
     }
