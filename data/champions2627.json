@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:18:36Z",
+  "lastUpdated": "2026-11-04T21:19:43Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43462,8 +43462,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.1",
-                "away": "39.9"
+                "home": "60.2",
+                "away": "39.8"
               },
               {
                 "key": "totalShots",
@@ -43507,8 +43507,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "268",
-                "away": "177"
+                "home": "273",
+                "away": "179"
               },
               {
                 "key": "passPct",
@@ -43530,12 +43530,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-5",
+          "result": "0-6",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
-          "statusText": "Second Half",
+          "clock": "58'",
+          "statusText": "In Progress",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -44022,7 +44022,17 @@
                 "minute": 53,
                 "extraTime": null,
                 "playerName": "Marc Oliver Kempf",
-                "relatedPlayer": "Luis Milla with a cross",
+                "relatedPlayer": "Luis Milla with a cross following a corner",
+                "teamName": "Como",
+                "text": null
+              },
+              {
+                "id": "54812971_17",
+                "type": "GOAL",
+                "minute": 57,
+                "extraTime": null,
+                "playerName": "Tasos Douvikas",
+                "relatedPlayer": "Nico Paz with a through ball",
                 "teamName": "Como",
                 "text": null
               }
@@ -44030,18 +44040,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.1",
-                "away": "53.9"
+                "home": "45.4",
+                "away": "54.6"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "wonCorners",
@@ -44076,7 +44086,7 @@
               {
                 "key": "accuratePasses",
                 "home": "248",
-                "away": "298"
+                "away": "309"
               },
               {
                 "key": "passPct",
@@ -44102,7 +44112,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44571,18 +44581,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.2",
-                "away": "44.8"
+                "home": "53.9",
+                "away": "46.1"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -44592,11 +44602,11 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -44611,13 +44621,13 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "288",
-                "away": "222"
+                "home": "296",
+                "away": "244"
               },
               {
                 "key": "passPct",
@@ -44643,7 +44653,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45108,8 +45118,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.7",
-                "away": "45.3"
+                "home": "55.3",
+                "away": "44.7"
               },
               {
                 "key": "totalShots",
@@ -45123,7 +45133,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "4"
               },
               {
@@ -45153,7 +45163,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "295",
+                "home": "301",
                 "away": "224"
               },
               {
@@ -45180,7 +45190,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45666,8 +45676,8 @@
                 "type": "GOAL",
                 "minute": 58,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Enzo Fernández",
+                "relatedPlayer": "Iliman Ndiaye with a cross",
                 "teamName": "Manchester City",
                 "text": null
               }
@@ -45720,7 +45730,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "195",
+                "home": "196",
                 "away": "440"
               },
               {
@@ -45747,7 +45757,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "60'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46241,8 +46251,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.1",
-                "away": "54.9"
+                "home": "44.7",
+                "away": "55.3"
               },
               {
                 "key": "totalShots",
@@ -46261,7 +46271,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "7"
               },
               {
@@ -46287,7 +46297,7 @@
               {
                 "key": "accuratePasses",
                 "home": "214",
-                "away": "263"
+                "away": "269"
               },
               {
                 "key": "passPct",
@@ -46313,7 +46323,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -46827,13 +46837,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.7",
-                "away": "47.3"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
-                "home": "8",
-                "away": "12"
+                "home": "9",
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -46843,7 +46853,7 @@
               {
                 "key": "wonCorners",
                 "home": "7",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -46872,8 +46882,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "248",
-                "away": "226"
+                "home": "253",
+                "away": "240"
               },
               {
                 "key": "passPct",
@@ -48812,17 +48822,17 @@
   ],
   "topScorers": [
     {
+      "player": "Tasos Douvikas",
+      "team": "Como",
+      "goals": 6,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Nicolò Tresoldi",
       "team": "Brujas",
       "goals": 5,
       "penalties": 2,
-      "athleteID": null
-    },
-    {
-      "player": "Tasos Douvikas",
-      "team": "Como",
-      "goals": 5,
-      "penalties": 0,
       "athleteID": null
     },
     {
@@ -49094,6 +49104,12 @@
   ],
   "topAssists": [
     {
+      "player": "Nico Paz with a through ball",
+      "team": "Como",
+      "goals": 4,
+      "athleteID": null
+    },
+    {
       "player": "Brahim Díaz",
       "team": "Real Madrid",
       "goals": 3,
@@ -49102,12 +49118,6 @@
     {
       "player": "Maghnes Akliouche",
       "team": "Paris Saint-Germain",
-      "goals": 3,
-      "athleteID": null
-    },
-    {
-      "player": "Nico Paz with a through ball",
-      "team": "Como",
       "goals": 3,
       "athleteID": null
     },
@@ -49126,6 +49136,12 @@
     {
       "player": "Harry Kane",
       "team": "Bayern de Múnich",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
+      "player": "Iliman Ndiaye with a cross",
+      "team": "Manchester City",
       "goals": 2,
       "athleteID": null
     },
@@ -49323,12 +49339,6 @@
     },
     {
       "player": "Christoph Baumgartner",
-      "team": "RB Leipzig",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Christopher Nkunku",
       "team": "RB Leipzig",
       "goals": 1,
       "athleteID": null
