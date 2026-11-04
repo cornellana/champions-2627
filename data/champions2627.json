@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:26:08Z",
+  "lastUpdated": "2026-11-04T20:27:14Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43411,8 +43411,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.2",
-                "away": "41.8"
+                "home": "59",
+                "away": "41"
               },
               {
                 "key": "totalShots",
@@ -43432,7 +43432,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -43456,7 +43456,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "101",
+                "home": "105",
                 "away": "71"
               },
               {
@@ -43483,8 +43483,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
-          "statusText": "First Half",
+          "clock": "25'",
+          "statusText": "In Progress",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -43909,8 +43909,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.9",
-                "away": "57.1"
+                "home": "41.8",
+                "away": "58.2"
               },
               {
                 "key": "totalShots",
@@ -43925,7 +43925,7 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -43954,8 +43954,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "79",
-                "away": "110"
+                "home": "81",
+                "away": "118"
               },
               {
                 "key": "passPct",
@@ -43981,7 +43981,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44400,8 +44400,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "53.2",
+                "away": "46.8"
               },
               {
                 "key": "totalShots",
@@ -44445,8 +44445,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "111",
-                "away": "107"
+                "home": "126",
+                "away": "108"
               },
               {
                 "key": "passPct",
@@ -44468,11 +44468,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "26'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -44892,31 +44892,42 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54807262_1",
+                "type": "GOAL",
+                "minute": 25,
+                "extraTime": null,
+                "playerName": "Nicolò Tresoldi",
+                "relatedPlayer": null,
+                "teamName": "Brujas",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.8",
-                "away": "42.2"
+                "home": "56.5",
+                "away": "43.5"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -44937,12 +44948,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
                 "home": "146",
-                "away": "94"
+                "away": "98"
               },
               {
                 "key": "passPct",
@@ -44968,7 +44979,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45403,8 +45414,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.3",
-                "away": "67.7"
+                "home": "32.6",
+                "away": "67.4"
               },
               {
                 "key": "totalShots",
@@ -45448,8 +45459,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "88",
-                "away": "197"
+                "home": "90",
+                "away": "198"
               },
               {
                 "key": "passPct",
@@ -45475,7 +45486,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -45929,8 +45940,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.7",
-                "away": "68.3"
+                "home": "35",
+                "away": "65"
               },
               {
                 "key": "totalShots",
@@ -45974,8 +45985,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "52",
-                "away": "134"
+                "home": "64",
+                "away": "136"
               },
               {
                 "key": "passPct",
@@ -46001,7 +46012,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -48450,6 +48461,13 @@
   ],
   "topScorers": [
     {
+      "player": "Nicolò Tresoldi",
+      "team": "Brujas",
+      "goals": 5,
+      "penalties": 2,
+      "athleteID": null
+    },
+    {
       "player": "Aleksey Batrakov",
       "team": "Galatasaray",
       "goals": 4,
@@ -48501,13 +48519,6 @@
     {
       "player": "Luis Suárez",
       "team": "Sporting de Portugal",
-      "goals": 4,
-      "penalties": 2,
-      "athleteID": null
-    },
-    {
-      "player": "Nicolò Tresoldi",
-      "team": "Brujas",
       "goals": 4,
       "penalties": 2,
       "athleteID": null
