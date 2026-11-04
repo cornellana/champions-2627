@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:56:05Z",
+  "lastUpdated": "2026-11-04T21:57:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43657,8 +43657,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "370",
-                "away": "337"
+                "home": "371",
+                "away": "339"
               },
               {
                 "key": "passPct",
