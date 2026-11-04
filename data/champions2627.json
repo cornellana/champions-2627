@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:30:10Z",
+  "lastUpdated": "2026-11-04T19:31:16Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42232,13 +42232,23 @@
                 "relatedPlayer": "Vinícius Júnior",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "54802565_22",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.1",
-                "away": "69.9"
+                "home": "29.9",
+                "away": "70.1"
               },
               {
                 "key": "totalShots",
@@ -42258,7 +42268,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "14"
+                "away": "15"
               },
               {
                 "key": "offsides",
@@ -42282,8 +42292,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "220",
-                "away": "546"
+                "home": "219",
+                "away": "547"
               },
               {
                 "key": "passPct",
@@ -42309,7 +42319,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42850,13 +42860,23 @@
                 "relatedPlayer": "Archie Brown with a cross",
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "54802564_16",
+                "type": "SUBSTITUTION",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.5",
-                "away": "68.5"
+                "home": "32.1",
+                "away": "67.9"
               },
               {
                 "key": "totalShots",
@@ -42876,7 +42896,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -42900,7 +42920,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "168",
+                "home": "174",
                 "away": "446"
               },
               {
