@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:44:45Z",
+  "lastUpdated": "2026-11-04T20:45:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43432,12 +43432,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.8",
-                "away": "37.2"
+                "home": "61.5",
+                "away": "38.5"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "4",
                 "away": "4"
               },
               {
@@ -43477,8 +43477,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "188",
-                "away": "111"
+                "home": "190",
+                "away": "120"
               },
               {
                 "key": "passPct",
@@ -43504,8 +43504,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
-          "statusText": "First Half",
+          "clock": "44'",
+          "statusText": "In Progress",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -44028,11 +44028,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
+          "clock": "44'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44466,6 +44466,16 @@
                 "relatedPlayer": null,
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "54809692_6",
+                "type": "GOAL",
+                "minute": 43,
+                "extraTime": null,
+                "playerName": "Scott McTominay",
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
@@ -44477,12 +44487,12 @@
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "3"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "0"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -44511,7 +44521,7 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -44543,7 +44553,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
+          "clock": "44'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -44998,8 +45008,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.1",
-                "away": "45.9"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -45043,12 +45053,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "216",
-                "away": "172"
+                "home": "218",
+                "away": "180"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -45070,7 +45080,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45525,8 +45535,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.6",
-                "away": "67.4"
+                "home": "33.6",
+                "away": "66.4"
               },
               {
                 "key": "totalShots",
@@ -45546,7 +45556,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -45570,8 +45580,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "140",
-                "away": "323"
+                "home": "149",
+                "away": "326"
               },
               {
                 "key": "passPct",
@@ -45597,7 +45607,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "43'",
+          "clock": "44'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46061,13 +46071,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.7",
-                "away": "61.3"
+                "home": "39.1",
+                "away": "60.9"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -46082,11 +46092,11 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -46106,7 +46116,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "131",
+                "home": "134",
                 "away": "224"
               },
               {
@@ -46133,7 +46143,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "In Progress",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -46627,13 +46637,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "53.6",
+                "away": "46.4"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -46672,8 +46682,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "190",
-                "away": "160"
+                "home": "192",
+                "away": "162"
               },
               {
                 "key": "passPct",
@@ -48773,6 +48783,13 @@
       "athleteID": null
     },
     {
+      "player": "Scott McTominay",
+      "team": "Nápoles",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Alphonso Davies",
       "team": "Bayern de Múnich",
       "goals": 2,
@@ -48880,13 +48897,6 @@
     {
       "player": "Kasper Jørgensen",
       "team": "LASK",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Lautaro Martínez",
-      "team": "Inter de Milán",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
