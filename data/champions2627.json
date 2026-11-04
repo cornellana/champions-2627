@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:11:38Z",
+  "lastUpdated": "2026-11-04T19:12:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42162,17 +42162,27 @@
                 "relatedPlayer": "Kaan Kairinen",
                 "teamName": "AEK Atenas",
                 "text": null
+              },
+              {
+                "id": "54802015_15",
+                "type": "YELLOW_CARD",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Marc Cucurella",
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.3",
-                "away": "70.7"
+                "home": "29.5",
+                "away": "70.5"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "13"
               },
               {
@@ -42188,7 +42198,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -42198,7 +42208,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -42207,12 +42217,12 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "162",
+                "home": "164",
                 "away": "430"
               },
               {
@@ -42239,8 +42249,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
-          "statusText": "In Progress",
+          "clock": "67'",
+          "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
