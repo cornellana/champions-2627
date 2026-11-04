@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:26:17Z",
+  "lastUpdated": "2026-11-04T18:27:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42209,7 +42209,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "38'",
+          "clock": "39'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42655,12 +42655,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.2",
-                "away": "71.8"
+                "home": "28.8",
+                "away": "71.2"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "9"
               },
               {
@@ -42700,8 +42700,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "71",
-                "away": "225"
+                "home": "75",
+                "away": "229"
               },
               {
                 "key": "passPct",
