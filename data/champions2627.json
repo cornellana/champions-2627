@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:28:39Z",
+  "lastUpdated": "2026-11-04T21:29:44Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43477,6 +43477,16 @@
                 "relatedPlayer": "Antony",
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "54814477_20",
+                "type": "YELLOW_CARD",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Valentín Gómez",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
@@ -43554,7 +43564,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44120,8 +44130,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.2",
-                "away": "54.8"
+                "home": "43.2",
+                "away": "56.8"
               },
               {
                 "key": "totalShots",
@@ -44165,8 +44175,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "275",
-                "away": "351"
+                "home": "276",
+                "away": "385"
               },
               {
                 "key": "passPct",
@@ -44192,8 +44202,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
-          "statusText": "In Progress",
+          "clock": "70'",
+          "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -44681,12 +44691,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.4",
-                "away": "45.6"
+                "home": "54.5",
+                "away": "45.5"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "7"
               },
               {
@@ -44726,7 +44736,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "353",
+                "home": "355",
                 "away": "284"
               },
               {
@@ -45228,8 +45238,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57",
-                "away": "43"
+                "home": "57.7",
+                "away": "42.3"
               },
               {
                 "key": "totalShots",
@@ -45249,7 +45259,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -45273,7 +45283,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "345",
+                "home": "356",
                 "away": "239"
               },
               {
@@ -45300,8 +45310,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
-          "statusText": "Second Half",
+          "clock": "69'",
+          "statusText": "In Progress",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -45816,8 +45826,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 67,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Tidiam Gomis",
+                "relatedPlayer": "Rômulo",
                 "teamName": "RB Leipzig",
                 "text": null
               }
@@ -45825,8 +45835,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35",
-                "away": "65"
+                "home": "34.3",
+                "away": "65.7"
               },
               {
                 "key": "totalShots",
@@ -45871,7 +45881,7 @@
               {
                 "key": "accuratePasses",
                 "home": "237",
-                "away": "486"
+                "away": "502"
               },
               {
                 "key": "passPct",
@@ -45897,7 +45907,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46431,8 +46441,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.6",
-                "away": "55.4"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
@@ -46476,8 +46486,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "231",
-                "away": "294"
+                "home": "238",
+                "away": "307"
               },
               {
                 "key": "passPct",
@@ -46503,7 +46513,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47020,6 +47030,26 @@
                 "extraTime": null,
                 "playerName": "Vetle Auklend",
                 "relatedPlayer": "Kristoffer Haugen",
+                "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "54814419_16",
+                "type": "MISSED_PENALTY",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "54814422_17",
+                "type": "GOAL",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
                 "teamName": "Viking",
                 "text": null
               }
