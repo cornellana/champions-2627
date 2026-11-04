@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:53:54Z",
+  "lastUpdated": "2026-11-04T21:55:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -43597,13 +43597,23 @@
                 "relatedPlayer": null,
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "54817893_32",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Ethan Nwaneri",
+                "relatedPlayer": "Fábio Silva",
+                "teamName": "Borussia Dortmund",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "52.6",
+                "away": "47.4"
               },
               {
                 "key": "totalShots",
@@ -43618,12 +43628,12 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
                 "home": "15",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -43648,7 +43658,7 @@
               {
                 "key": "accuratePasses",
                 "home": "370",
-                "away": "336"
+                "away": "337"
               },
               {
                 "key": "passPct",
@@ -43670,11 +43680,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-8",
+          "result": "1-9",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44285,23 +44295,33 @@
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "54817951_37",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": 1,
+                "playerName": "Matteo Papaccioli",
+                "relatedPlayer": "Mattia Liberali with a through ball",
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42",
-                "away": "58"
+                "home": "41.9",
+                "away": "58.1"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "17"
+                "away": "18"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "wonCorners",
@@ -44316,7 +44336,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "2"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -44336,7 +44356,7 @@
               {
                 "key": "accuratePasses",
                 "home": "396",
-                "away": "590"
+                "away": "591"
               },
               {
                 "key": "passPct",
@@ -45008,13 +45028,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "1-2",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+2'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
@@ -45568,12 +45588,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62",
-                "away": "38"
+                "home": "62.1",
+                "away": "37.9"
               },
               {
                 "key": "totalShots",
-                "home": "26",
+                "home": "27",
                 "away": "10"
               },
               {
@@ -45589,7 +45609,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -45609,16 +45629,16 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "accuratePasses",
-                "home": "511",
-                "away": "274"
+                "home": "516",
+                "away": "275"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.7"
               }
             ],
@@ -45635,13 +45655,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "2-3",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+4'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -46260,18 +46280,28 @@
                 "relatedPlayer": null,
                 "teamName": "Manchester City",
                 "text": null
+              },
+              {
+                "id": "54817974_23",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 4,
+                "playerName": "Abdukodir Khusanov",
+                "relatedPlayer": null,
+                "teamName": "Manchester City",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.3",
-                "away": "64.7"
+                "home": "35.6",
+                "away": "64.4"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
@@ -46286,7 +46316,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "20",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -46296,7 +46326,7 @@
               {
                 "key": "yellowCards",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -46310,8 +46340,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "303",
-                "away": "608"
+                "home": "307",
+                "away": "609"
               },
               {
                 "key": "passPct",
@@ -46332,13 +46362,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "1-2",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+5'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -46931,17 +46961,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.2",
-                "away": "56.8"
+                "home": "43.5",
+                "away": "56.5"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "12"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "5"
               },
               {
@@ -46952,7 +46982,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "15",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -46972,12 +47002,12 @@
               {
                 "key": "saves",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "295",
-                "away": "401"
+                "home": "299",
+                "away": "403"
               },
               {
                 "key": "passPct",
@@ -46998,13 +47028,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "4-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+5'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
@@ -47639,7 +47669,7 @@
                 "minute": 90,
                 "extraTime": 4,
                 "playerName": "Erik Botheim",
-                "relatedPlayer": null,
+                "relatedPlayer": "Peter Christiansen",
                 "teamName": "Viking",
                 "text": null
               }
@@ -47693,7 +47723,7 @@
               {
                 "key": "accuratePasses",
                 "home": "370",
-                "away": "366"
+                "away": "367"
               },
               {
                 "key": "passPct",
@@ -49490,6 +49520,16 @@
       "position": 22
     },
     {
+      "team": "Viking",
+      "played": 4,
+      "won": 1,
+      "drawn": 1,
+      "lost": 2,
+      "goalsFor": 9,
+      "goalsAgainst": 10,
+      "position": 23
+    },
+    {
       "team": "Atlético de Madrid",
       "played": 4,
       "won": 1,
@@ -49497,7 +49537,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 5,
-      "position": 23
+      "position": 24
     },
     {
       "team": "Bodø/Glimt",
@@ -49507,26 +49547,16 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 9,
-      "position": 24
-    },
-    {
-      "team": "Nápoles",
-      "played": 3,
-      "won": 1,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 5,
-      "goalsAgainst": 7,
       "position": 25
     },
     {
-      "team": "Sabah",
-      "played": 3,
+      "team": "Oporto",
+      "played": 4,
       "won": 1,
       "drawn": 0,
-      "lost": 2,
-      "goalsFor": 3,
-      "goalsAgainst": 6,
+      "lost": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 7,
       "position": 26
     },
     {
@@ -49540,6 +49570,16 @@
       "position": 27
     },
     {
+      "team": "Nápoles",
+      "played": 4,
+      "won": 1,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 11,
+      "position": 28
+    },
+    {
       "team": "RB Leipzig",
       "played": 3,
       "won": 1,
@@ -49547,7 +49587,7 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 8,
-      "position": 28
+      "position": 29
     },
     {
       "team": "Villarreal",
@@ -49557,7 +49597,7 @@
       "lost": 3,
       "goalsFor": 8,
       "goalsAgainst": 14,
-      "position": 29
+      "position": 30
     },
     {
       "team": "AEK Atenas",
@@ -49567,7 +49607,17 @@
       "lost": 3,
       "goalsFor": 5,
       "goalsAgainst": 11,
-      "position": 30
+      "position": 31
+    },
+    {
+      "team": "Sabah",
+      "played": 4,
+      "won": 1,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 10,
+      "position": 32
     },
     {
       "team": "Feyenoord",
@@ -49577,7 +49627,7 @@
       "lost": 3,
       "goalsFor": 4,
       "goalsAgainst": 11,
-      "position": 31
+      "position": 33
     },
     {
       "team": "Slavia de Praga",
@@ -49587,17 +49637,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 7,
-      "position": 32
-    },
-    {
-      "team": "Viking",
-      "played": 3,
-      "won": 0,
-      "drawn": 1,
-      "lost": 2,
-      "goalsFor": 5,
-      "goalsAgainst": 9,
-      "position": 33
+      "position": 34
     },
     {
       "team": "Lille",
@@ -49607,16 +49647,6 @@
       "lost": 3,
       "goalsFor": 4,
       "goalsAgainst": 10,
-      "position": 34
-    },
-    {
-      "team": "Oporto",
-      "played": 3,
-      "won": 0,
-      "drawn": 0,
-      "lost": 3,
-      "goalsFor": 2,
-      "goalsAgainst": 6,
       "position": 35
     },
     {
