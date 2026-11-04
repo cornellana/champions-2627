@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:13:50Z",
+  "lastUpdated": "2026-11-04T19:14:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42179,7 +42179,7 @@
                 "minute": 67,
                 "extraTime": null,
                 "playerName": "Federico Valverde",
-                "relatedPlayer": "Bernardo Silva",
+                "relatedPlayer": "Yan Diomande",
                 "teamName": "Real Madrid",
                 "text": null
               },
@@ -42189,7 +42189,7 @@
                 "minute": 67,
                 "extraTime": null,
                 "playerName": "Endrick",
-                "relatedPlayer": "Yan Diomande",
+                "relatedPlayer": "Bernardo Silva",
                 "teamName": "Real Madrid",
                 "text": null
               }
@@ -42197,13 +42197,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.9",
-                "away": "71.1"
+                "home": "28.8",
+                "away": "71.2"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
@@ -42242,8 +42242,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "165",
-                "away": "444"
+                "home": "170",
+                "away": "459"
               },
               {
                 "key": "passPct",
@@ -42269,7 +42269,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42719,6 +42719,46 @@
                 "playerName": "Vedat Muriqi",
                 "relatedPlayer": "Romelu Lukaku",
                 "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "54802068_7",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Florian Wirtz",
+                "relatedPlayer": "Joe Gomez",
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "54802069_8",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Alexander Isak",
+                "relatedPlayer": "Víctor Muñoz",
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "54802070_9",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Cody Gakpo",
+                "relatedPlayer": "Rio Ngumoha",
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "54802119_10",
+                "type": "GOAL",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": "Alexander Isak",
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
                 "text": null
               }
             ],
