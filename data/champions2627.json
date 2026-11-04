@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:33:54Z",
+  "lastUpdated": "2026-11-04T18:34:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41692,7 +41692,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+1'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
           "details": {
@@ -42137,13 +42137,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32",
-                "away": "68"
+                "home": "31",
+                "away": "69"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
@@ -42182,8 +42182,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "123",
-                "away": "277"
+                "home": "124",
+                "away": "292"
               },
               {
                 "key": "passPct",
@@ -42210,7 +42210,7 @@
           "shootout": null,
           "state": "in",
           "clock": "45'+1'",
-          "statusText": "First Half",
+          "statusText": "Halftime",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -42655,8 +42655,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31",
-                "away": "69"
+                "home": "30.6",
+                "away": "69.4"
               },
               {
                 "key": "totalShots",
@@ -42681,7 +42681,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -42701,7 +42701,7 @@
               {
                 "key": "accuratePasses",
                 "home": "91",
-                "away": "245"
+                "away": "251"
               },
               {
                 "key": "passPct",
