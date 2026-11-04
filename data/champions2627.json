@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:08:34Z",
+  "lastUpdated": "2026-11-04T20:09:40Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43483,8 +43483,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
-          "statusText": "First Half",
+          "clock": "8'",
+          "statusText": "In Progress",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -43898,8 +43898,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "21.2",
-                "away": "78.8"
+                "home": "16.3",
+                "away": "83.7"
               },
               {
                 "key": "totalShots",
@@ -43944,7 +43944,7 @@
               {
                 "key": "accuratePasses",
                 "home": "10",
-                "away": "45"
+                "away": "70"
               },
               {
                 "key": "passPct",
@@ -43970,7 +43970,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44369,12 +44369,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.7",
-                "away": "58.3"
+                "home": "39.4",
+                "away": "60.6"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -44415,7 +44415,7 @@
               {
                 "key": "accuratePasses",
                 "home": "20",
-                "away": "28"
+                "away": "32"
               },
               {
                 "key": "passPct",
@@ -44441,7 +44441,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -44865,8 +44865,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.1",
-                "away": "56.9"
+                "home": "48.2",
+                "away": "51.8"
               },
               {
                 "key": "totalShots",
@@ -44910,8 +44910,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "20",
-                "away": "25"
+                "home": "34",
+                "away": "33"
               },
               {
                 "key": "passPct",
@@ -44937,7 +44937,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45146,7 +45146,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-2-3-1",
+              "formation": "4-1-4-1",
               "players": [
                 {
                   "id": "217092",
@@ -45176,6 +45176,15 @@
                   "athleteID": "362211"
                 },
                 {
+                  "id": "238472",
+                  "jersey": 5,
+                  "name": "Elliot Anderson",
+                  "position": "DM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "238472"
+                },
+                {
                   "id": "328464",
                   "jersey": 33,
                   "name": "Nico O'Reilly",
@@ -45197,7 +45206,7 @@
                   "id": "298008",
                   "jersey": 10,
                   "name": "Rayan Cherki",
-                  "position": "AM",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "298008"
@@ -45206,19 +45215,28 @@
                   "id": "285450",
                   "jersey": 17,
                   "name": "Enzo Fernández",
-                  "position": "LM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "285450"
                 },
                 {
-                  "id": "238472",
-                  "jersey": 5,
-                  "name": "Elliot Anderson",
+                  "id": "268641",
+                  "jersey": 7,
+                  "name": "Iliman Ndiaye",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "268641"
+                },
+                {
+                  "id": "250787",
+                  "jersey": 47,
+                  "name": "Phil Foden",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "238472"
+                  "athleteID": "250787"
                 },
                 {
                   "id": "253989",
@@ -45228,24 +45246,6 @@
                   "isStarter": true,
                   "events": null,
                   "athleteID": "253989"
-                },
-                {
-                  "id": "268641",
-                  "jersey": 7,
-                  "name": "Iliman Ndiaye",
-                  "position": "AM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "268641"
-                },
-                {
-                  "id": "250787",
-                  "jersey": 47,
-                  "name": "Phil Foden",
-                  "position": "AM-R",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "250787"
                 },
                 {
                   "id": "177545",
@@ -45361,8 +45361,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50",
-                "away": "50"
+                "home": "20",
+                "away": "80"
               },
               {
                 "key": "totalShots",
@@ -45406,13 +45406,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "5",
-                "away": "6"
+                "home": "9",
+                "away": "46"
               },
               {
                 "key": "passPct",
                 "home": "0.6",
-                "away": "0.7"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -45433,7 +45433,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -45451,22 +45451,22 @@
                   "athleteID": "412120"
                 },
                 {
-                  "id": "280885",
-                  "jersey": 3,
-                  "name": "Tomás Holes",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "280885"
-                },
-                {
                   "id": "290116",
                   "jersey": 4,
                   "name": "David Zima",
-                  "position": "CD-R",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "290116"
+                },
+                {
+                  "id": "280885",
+                  "jersey": 3,
+                  "name": "Tomás Holes",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "280885"
                 },
                 {
                   "id": "3099524",
@@ -45866,8 +45866,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.3",
-                "away": "64.7"
+                "home": "29.7",
+                "away": "70.3"
               },
               {
                 "key": "totalShots",
@@ -45886,7 +45886,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -45911,12 +45911,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "15",
-                "away": "29"
+                "home": "16",
+                "away": "47"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.9"
               }
             ],
@@ -45938,7 +45938,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -46382,8 +46382,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62",
-                "away": "38"
+                "home": "63.5",
+                "away": "36.5"
               },
               {
                 "key": "totalShots",
@@ -46403,7 +46403,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -46427,8 +46427,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "42",
-                "away": "20"
+                "home": "53",
+                "away": "24"
               },
               {
                 "key": "passPct",
