@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:27:33Z",
+  "lastUpdated": "2026-11-04T21:28:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43482,12 +43482,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.4",
-                "away": "42.6"
+                "home": "57.1",
+                "away": "42.9"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "5"
               },
               {
@@ -43502,7 +43502,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "9"
               },
               {
@@ -43513,7 +43513,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -43527,8 +43527,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "303",
-                "away": "229"
+                "home": "308",
+                "away": "238"
               },
               {
                 "key": "passPct",
@@ -43554,7 +43554,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44120,8 +44120,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.4",
-                "away": "54.6"
+                "home": "45.2",
+                "away": "54.8"
               },
               {
                 "key": "totalShots",
@@ -44166,7 +44166,7 @@
               {
                 "key": "accuratePasses",
                 "home": "275",
-                "away": "347"
+                "away": "351"
               },
               {
                 "key": "passPct",
@@ -44192,8 +44192,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
-          "statusText": "Second Half",
+          "clock": "69'",
+          "statusText": "In Progress",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -44656,13 +44656,33 @@
                 "relatedPlayer": "André Silva",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "54814321_15",
+                "type": "SUBSTITUTION",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": "Santiago Giménez",
+                "relatedPlayer": "Borja Sainz",
+                "teamName": "Oporto",
+                "text": null
+              },
+              {
+                "id": "54814382_16",
+                "type": "SUBSTITUTION",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": "Zaidu Sanusi",
+                "relatedPlayer": "Martim Fernandes",
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.1",
-                "away": "45.9"
+                "home": "54.4",
+                "away": "45.6"
               },
               {
                 "key": "totalShots",
@@ -44706,8 +44726,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "338",
-                "away": "275"
+                "home": "353",
+                "away": "284"
               },
               {
                 "key": "passPct",
@@ -44733,7 +44753,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45199,8 +45219,8 @@
                 "type": "GOAL",
                 "minute": 65,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Carlos Forbs",
+                "relatedPlayer": "Joaquin Seys following a fast break",
                 "teamName": "Brujas",
                 "text": null
               }
@@ -45253,7 +45273,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "344",
+                "home": "345",
                 "away": "239"
               },
               {
@@ -45280,7 +45300,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45790,13 +45810,23 @@
                 "relatedPlayer": "Phil Foden",
                 "teamName": "Manchester City",
                 "text": null
+              },
+              {
+                "id": "54814351_12",
+                "type": "SUBSTITUTION",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.2",
-                "away": "64.8"
+                "home": "35",
+                "away": "65"
               },
               {
                 "key": "totalShots",
@@ -45840,8 +45870,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "234",
-                "away": "475"
+                "home": "237",
+                "away": "486"
               },
               {
                 "key": "passPct",
@@ -45867,7 +45897,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46469,11 +46499,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-1",
+          "result": "2-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47002,12 +47032,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "15",
                 "away": "14"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "5",
                 "away": "2"
               },
               {
@@ -47018,7 +47048,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -47038,7 +47068,7 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "accuratePasses",
@@ -49185,6 +49215,13 @@
       "athleteID": null
     },
     {
+      "player": "Carlos Forbs",
+      "team": "Brujas",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Danijel Sturm",
       "team": "Slavia de Praga",
       "goals": 2,
@@ -49250,13 +49287,6 @@
     {
       "player": "Karim Adeyemi",
       "team": "FC Barcelona",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Kasper Jørgensen",
-      "team": "LASK",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
