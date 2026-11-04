@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:48:25Z",
+  "lastUpdated": "2026-11-04T21:49:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43592,8 +43592,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "54.5",
+                "away": "45.5"
               },
               {
                 "key": "totalShots",
@@ -43638,7 +43638,7 @@
               {
                 "key": "accuratePasses",
                 "home": "364",
-                "away": "298"
+                "away": "308"
               },
               {
                 "key": "passPct",
@@ -43664,7 +43664,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44280,13 +44280,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.9",
-                "away": "56.1"
+                "home": "44.4",
+                "away": "55.6"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "16"
+                "away": "17"
               },
               {
                 "key": "shotsOnTarget",
@@ -44325,8 +44325,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "371",
-                "away": "508"
+                "home": "390",
+                "away": "520"
               },
               {
                 "key": "passPct",
@@ -44352,7 +44352,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44906,6 +44906,16 @@
                 "relatedPlayer": "Matteo Politano",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "54817339_24",
+                "type": "RED_CARD",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": "Rafa Marín",
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
@@ -44927,12 +44937,12 @@
               {
                 "key": "wonCorners",
                 "home": "6",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -44947,7 +44957,7 @@
               {
                 "key": "redCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "saves",
@@ -44956,8 +44966,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "441",
-                "away": "378"
+                "home": "444",
+                "away": "380"
               },
               {
                 "key": "passPct",
@@ -44983,8 +44993,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
-          "statusText": "In Progress",
+          "clock": "89'",
+          "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
@@ -45513,13 +45523,23 @@
                 "relatedPlayer": "Filip Kostic",
                 "teamName": "PSV",
                 "text": null
+              },
+              {
+                "id": "54817370_22",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": "Hugo Siquet",
+                "relatedPlayer": "Carlos Forbs",
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.8",
-                "away": "38.2"
+                "home": "61.6",
+                "away": "38.4"
               },
               {
                 "key": "totalShots",
@@ -45563,8 +45583,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "497",
-                "away": "269"
+                "home": "501",
+                "away": "274"
               },
               {
                 "key": "passPct",
@@ -45590,7 +45610,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -46273,11 +46293,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-2",
+          "result": "1-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46846,27 +46866,37 @@
                 "relatedPlayer": "David Moses",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "54817256_25",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Wiktor Nowak",
+                "relatedPlayer": "David Jurásek with a cross",
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.2",
-                "away": "56.8"
+                "home": "43.5",
+                "away": "56.5"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "12"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "5"
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -46896,7 +46926,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "289",
+                "home": "290",
                 "away": "390"
               },
               {
@@ -46923,8 +46953,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
-          "statusText": "Second Half",
+          "clock": "89'",
+          "statusText": "In Progress",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
@@ -47557,12 +47587,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.4",
-                "away": "48.6"
+                "home": "51.6",
+                "away": "48.4"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "18",
                 "away": "16"
               },
               {
@@ -47602,8 +47632,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "355",
-                "away": "346"
+                "home": "362",
+                "away": "351"
               },
               {
                 "key": "passPct",
