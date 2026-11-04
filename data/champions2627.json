@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:05:26Z",
+  "lastUpdated": "2026-11-04T21:06:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -44052,7 +44052,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44511,8 +44511,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.6",
-                "away": "44.4"
+                "home": "55.1",
+                "away": "44.9"
               },
               {
                 "key": "totalShots",
@@ -44556,8 +44556,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "227",
-                "away": "170"
+                "home": "229",
+                "away": "176"
               },
               {
                 "key": "passPct",
@@ -45038,8 +45038,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "51.4",
+                "away": "48.6"
               },
               {
                 "key": "totalShots",
@@ -45083,7 +45083,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "225",
+                "home": "224",
                 "away": "199"
               },
               {
@@ -45110,7 +45110,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45565,8 +45565,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.8",
-                "away": "66.2"
+                "home": "34.6",
+                "away": "65.4"
               },
               {
                 "key": "totalShots",
@@ -45580,7 +45580,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -45610,12 +45610,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "168",
-                "away": "362"
+                "home": "176",
+                "away": "364"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.9"
               }
             ],
@@ -45637,7 +45637,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46102,8 +46102,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ange N'Guessan",
+                "relatedPlayer": "Danijel Sturm",
                 "teamName": "Slavia de Praga",
                 "text": null
               },
@@ -46112,8 +46112,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Mojmír Chytil",
+                "relatedPlayer": "Mubarak Suleiman",
                 "teamName": "Slavia de Praga",
                 "text": null
               }
@@ -46121,17 +46121,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40",
-                "away": "60"
+                "home": "41.5",
+                "away": "58.5"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "4"
               },
               {
@@ -46142,7 +46142,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -46162,12 +46162,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "147",
-                "away": "230"
+                "home": "160",
+                "away": "234"
               },
               {
                 "key": "passPct",
@@ -46193,7 +46193,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -46687,8 +46687,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.1",
-                "away": "47.9"
+                "home": "53.3",
+                "away": "46.7"
               },
               {
                 "key": "totalShots",
@@ -46702,7 +46702,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -46732,8 +46732,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "205",
-                "away": "186"
+                "home": "218",
+                "away": "189"
               },
               {
                 "key": "passPct",
