@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:47:19Z",
+  "lastUpdated": "2026-11-04T21:48:25Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43592,13 +43592,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.9",
-                "away": "44.1"
+                "home": "55.1",
+                "away": "44.9"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -43638,7 +43638,7 @@
               {
                 "key": "accuratePasses",
                 "home": "364",
-                "away": "289"
+                "away": "298"
               },
               {
                 "key": "passPct",
@@ -43664,8 +43664,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
-          "statusText": "In Progress",
+          "clock": "86'",
+          "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -44352,7 +44352,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44911,12 +44911,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.2",
-                "away": "46.8"
+                "home": "52.6",
+                "away": "47.4"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "9"
               },
               {
@@ -44927,7 +44927,7 @@
               {
                 "key": "wonCorners",
                 "home": "6",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -44957,7 +44957,7 @@
               {
                 "key": "accuratePasses",
                 "home": "441",
-                "away": "369"
+                "away": "378"
               },
               {
                 "key": "passPct",
@@ -44983,8 +44983,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
-          "statusText": "Second Half",
+          "clock": "88'",
+          "statusText": "In Progress",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
@@ -45518,8 +45518,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.4",
-                "away": "38.6"
+                "home": "61.8",
+                "away": "38.2"
               },
               {
                 "key": "totalShots",
@@ -45544,7 +45544,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -45563,8 +45563,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "487",
-                "away": "268"
+                "home": "497",
+                "away": "269"
               },
               {
                 "key": "passPct",
@@ -45590,7 +45590,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -46205,8 +46205,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.6",
-                "away": "66.4"
+                "home": "33.8",
+                "away": "66.2"
               },
               {
                 "key": "totalShots",
@@ -46225,7 +46225,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "19",
+                "home": "20",
                 "away": "4"
               },
               {
@@ -46250,8 +46250,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "270",
-                "away": "591"
+                "home": "274",
+                "away": "595"
               },
               {
                 "key": "passPct",
@@ -46277,7 +46277,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46923,7 +46923,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47532,13 +47532,33 @@
                 "relatedPlayer": "Simen Kvia-Egeskog",
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "54817188_31",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Jakob Hansen",
+                "relatedPlayer": "Tobias Moi",
+                "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "54817139_32",
+                "type": "YELLOW_CARD",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": "Joy-Lance Mickels",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.8",
-                "away": "48.2"
+                "home": "51.4",
+                "away": "48.6"
               },
               {
                 "key": "totalShots",
@@ -47552,7 +47572,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "9",
+                "home": "10",
                 "away": "6"
               },
               {
@@ -47582,8 +47602,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "354",
-                "away": "338"
+                "home": "355",
+                "away": "346"
               },
               {
                 "key": "passPct",
