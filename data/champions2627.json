@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:08:44Z",
+  "lastUpdated": "2026-11-04T21:09:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,8 +42987,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+4'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": {
@@ -43452,8 +43452,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.1",
-                "away": "37.9"
+                "home": "62.2",
+                "away": "37.8"
               },
               {
                 "key": "totalShots",
@@ -43497,7 +43497,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "226",
+                "home": "227",
                 "away": "138"
               },
               {
@@ -43520,11 +43520,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-3",
+          "result": "0-4",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -43977,7 +43977,17 @@
                 "text": null
               },
               {
-                "id": "54811138_12",
+                "id": "54811253_12",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Mezian Mesloub",
+                "relatedPlayer": "Franjo Ivanovic",
+                "teamName": "Lens",
+                "text": null
+              },
+              {
+                "id": "54811138_13",
                 "type": "SUBSTITUTION",
                 "minute": 45,
                 "extraTime": null,
@@ -43985,23 +43995,33 @@
                 "relatedPlayer": "Michal Skóras",
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "54811442_15",
+                "type": "GOAL",
+                "minute": 47,
+                "extraTime": null,
+                "playerName": "Lucas da Cunha",
+                "relatedPlayer": "Nico Paz with a through ball",
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.5",
-                "away": "54.5"
+                "home": "44.6",
+                "away": "55.4"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -44035,8 +44055,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
-                "away": "254"
+                "home": "206",
+                "away": "269"
               },
               {
                 "key": "passPct",
@@ -44062,7 +44082,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44521,8 +44541,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
@@ -44562,12 +44582,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "229",
-                "away": "176"
+                "home": "248",
+                "away": "205"
               },
               {
                 "key": "passPct",
@@ -44593,7 +44613,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
+          "clock": "49'",
           "statusText": "In Progress",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45570,13 +45590,33 @@
                 "relatedPlayer": null,
                 "teamName": "Manchester City",
                 "text": null
+              },
+              {
+                "id": "54811472_6",
+                "type": "YELLOW_CARD",
+                "minute": 48,
+                "extraTime": null,
+                "playerName": "Neil El Aynaoui",
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
+              },
+              {
+                "id": "54811478_7",
+                "type": "GOAL",
+                "minute": 49,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.8",
-                "away": "65.2"
+                "home": "35",
+                "away": "65"
               },
               {
                 "key": "totalShots",
@@ -45595,7 +45635,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "1"
               },
               {
@@ -45605,7 +45645,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -45620,8 +45660,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "180",
-                "away": "370"
+                "home": "183",
+                "away": "371"
               },
               {
                 "key": "passPct",
@@ -45647,7 +45687,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46131,12 +46171,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.5",
-                "away": "58.5"
+                "home": "43.8",
+                "away": "56.2"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "8"
               },
               {
@@ -46176,8 +46216,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "160",
-                "away": "234"
+                "home": "177",
+                "away": "236"
               },
               {
                 "key": "passPct",
@@ -46203,7 +46243,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -48976,6 +49016,12 @@
       "athleteID": null
     },
     {
+      "player": "Nico Paz with a through ball",
+      "team": "Como",
+      "goals": 3,
+      "athleteID": null
+    },
+    {
       "player": "Arda Güler with a cross following a corner",
       "team": "Real Madrid",
       "goals": 2,
@@ -49014,12 +49060,6 @@
     {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
-      "goals": 2,
-      "athleteID": null
-    },
-    {
-      "player": "Nico Paz with a through ball",
-      "team": "Como",
       "goals": 2,
       "athleteID": null
     },
