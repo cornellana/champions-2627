@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:51:42Z",
+  "lastUpdated": "2026-11-04T21:52:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43664,7 +43664,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44352,7 +44352,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44937,12 +44937,12 @@
               {
                 "key": "totalShots",
                 "home": "19",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "8",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "wonCorners",
@@ -44976,8 +44976,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "444",
-                "away": "389"
+                "home": "445",
+                "away": "391"
               },
               {
                 "key": "passPct",
@@ -45003,7 +45003,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45549,8 +45549,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 90,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Mikkel Hansen",
+                "relatedPlayer": "Sven Mijnans",
                 "teamName": "PSV",
                 "text": null
               }
@@ -45563,12 +45563,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "25",
+                "home": "26",
                 "away": "10"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "8",
+                "home": "9",
                 "away": "3"
               },
               {
@@ -45579,7 +45579,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -45603,13 +45603,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "509",
+                "home": "511",
                 "away": "274"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -45630,8 +45630,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
-          "statusText": "In Progress",
+          "clock": "90'+3'",
+          "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -46255,13 +46255,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.2",
-                "away": "65.8"
+                "home": "34.6",
+                "away": "65.4"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
@@ -46276,7 +46276,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "20",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -46300,8 +46300,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "286",
-                "away": "605"
+                "home": "291",
+                "away": "607"
               },
               {
                 "key": "passPct",
@@ -46327,7 +46327,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46906,17 +46906,27 @@
                 "relatedPlayer": "David Jurásek with a cross",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "54817635_26",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": 3,
+                "playerName": "Max Dowman",
+                "relatedPlayer": "Noni Madueke",
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.2",
-                "away": "56.8"
+                "home": "43.4",
+                "away": "56.6"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "16",
                 "away": "12"
               },
               {
@@ -46931,7 +46941,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "13",
+                "home": "14",
                 "away": "9"
               },
               {
@@ -46956,7 +46966,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "291",
+                "home": "294",
                 "away": "396"
               },
               {
@@ -46983,7 +46993,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47617,8 +47627,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.3",
-                "away": "48.7"
+                "home": "50.7",
+                "away": "49.3"
               },
               {
                 "key": "totalShots",
@@ -47663,7 +47673,7 @@
               {
                 "key": "accuratePasses",
                 "home": "369",
-                "away": "358"
+                "away": "365"
               },
               {
                 "key": "passPct",
