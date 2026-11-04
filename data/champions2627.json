@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:06:11Z",
+  "lastUpdated": "2026-11-04T19:07:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42148,6 +42148,16 @@
                 "type": "SUBSTITUTION",
                 "minute": 60,
                 "extraTime": null,
+                "playerName": "Razvan Marin",
+                "relatedPlayer": "Mijat Gacinovic",
+                "teamName": "AEK Atenas",
+                "text": null
+              },
+              {
+                "id": "54801865_12",
+                "type": "SUBSTITUTION",
+                "minute": 60,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "AEK Atenas",
@@ -42157,8 +42167,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.5",
-                "away": "71.5"
+                "home": "28.1",
+                "away": "71.9"
               },
               {
                 "key": "totalShots",
@@ -42203,7 +42213,7 @@
               {
                 "key": "accuratePasses",
                 "home": "150",
-                "away": "411"
+                "away": "420"
               },
               {
                 "key": "passPct",
@@ -42229,8 +42239,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
-          "statusText": "Second Half",
+          "clock": "62'",
+          "statusText": "In Progress",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -42675,13 +42685,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.8",
-                "away": "69.2"
+                "home": "30.2",
+                "away": "69.8"
               },
               {
                 "key": "totalShots",
                 "home": "10",
-                "away": "14"
+                "away": "15"
               },
               {
                 "key": "shotsOnTarget",
@@ -42720,8 +42730,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "115",
-                "away": "323"
+                "home": "116",
+                "away": "340"
               },
               {
                 "key": "passPct",
