@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:52:48Z",
+  "lastUpdated": "2026-11-04T21:53:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43587,17 +43587,27 @@
                 "relatedPlayer": null,
                 "teamName": "Borussia Dortmund",
                 "text": null
+              },
+              {
+                "id": "54817788_31",
+                "type": "YELLOW_CARD",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": "Ángel Ortiz",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.6",
-                "away": "46.4"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "11"
               },
               {
@@ -43623,7 +43633,7 @@
               {
                 "key": "yellowCards",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -43637,8 +43647,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "366",
-                "away": "323"
+                "home": "370",
+                "away": "336"
               },
               {
                 "key": "passPct",
@@ -43664,7 +43674,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44280,8 +44290,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.4",
-                "away": "56.6"
+                "home": "42",
+                "away": "58"
               },
               {
                 "key": "totalShots",
@@ -44306,7 +44316,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "yellowCards",
@@ -44325,8 +44335,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "395",
-                "away": "551"
+                "home": "396",
+                "away": "590"
               },
               {
                 "key": "passPct",
@@ -44347,13 +44357,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "4-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+2'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -44931,8 +44941,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "51.5",
+                "away": "48.5"
               },
               {
                 "key": "totalShots",
@@ -44956,7 +44966,7 @@
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -44971,13 +44981,13 @@
               },
               {
                 "key": "saves",
-                "home": "4",
+                "home": "5",
                 "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "445",
-                "away": "391"
+                "home": "446",
+                "away": "400"
               },
               {
                 "key": "passPct",
@@ -45003,7 +45013,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45630,7 +45640,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -46255,8 +46265,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.6",
-                "away": "65.4"
+                "home": "35.3",
+                "away": "64.7"
               },
               {
                 "key": "totalShots",
@@ -46300,8 +46310,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "291",
-                "away": "607"
+                "home": "303",
+                "away": "608"
               },
               {
                 "key": "passPct",
@@ -46327,7 +46337,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+4'",
+          "clock": "90'+5'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46921,8 +46931,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.4",
-                "away": "56.6"
+                "home": "43.2",
+                "away": "56.8"
               },
               {
                 "key": "totalShots",
@@ -46941,7 +46951,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "14",
+                "home": "15",
                 "away": "9"
               },
               {
@@ -46966,8 +46976,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "294",
-                "away": "396"
+                "home": "295",
+                "away": "401"
               },
               {
                 "key": "passPct",
@@ -46989,11 +46999,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-1",
+          "result": "4-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+5'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47622,6 +47632,16 @@
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "54817785_33",
+                "type": "GOAL",
+                "minute": 90,
+                "extraTime": 4,
+                "playerName": "Erik Botheim",
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
@@ -47632,12 +47652,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "19",
+                "home": "21",
                 "away": "16"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "4"
               },
               {
@@ -47648,7 +47668,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -47672,8 +47692,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "369",
-                "away": "365"
+                "home": "370",
+                "away": "366"
               },
               {
                 "key": "passPct",
@@ -49843,6 +49863,13 @@
       "athleteID": null
     },
     {
+      "player": "Erik Botheim",
+      "team": "Viking",
+      "goals": 2,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Federico Valverde",
       "team": "Real Madrid",
       "goals": 2,
@@ -49882,13 +49909,6 @@
       "team": "Real Betis",
       "goals": 2,
       "penalties": 2,
-      "athleteID": null
-    },
-    {
-      "player": "Issa Doumbia",
-      "team": "Sporting de Portugal",
-      "goals": 2,
-      "penalties": 0,
       "athleteID": null
     }
   ],
