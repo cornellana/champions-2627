@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:53:34Z",
+  "lastUpdated": "2026-11-04T20:54:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -43437,13 +43437,23 @@
                 "relatedPlayer": null,
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "54810528_12",
+                "type": "YELLOW_CARD",
+                "minute": 45,
+                "extraTime": 4,
+                "playerName": "Ramy Bensebaini",
+                "relatedPlayer": null,
+                "teamName": "Borussia Dortmund",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.2",
-                "away": "37.8"
+                "home": "62.1",
+                "away": "37.9"
               },
               {
                 "key": "totalShots",
@@ -43472,7 +43482,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -45028,8 +45038,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.8",
-                "away": "48.2"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
