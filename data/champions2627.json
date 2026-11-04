@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T17:52:31Z",
+  "lastUpdated": "2026-11-04T17:53:37Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -41745,22 +41745,22 @@
                   "athleteID": "302487"
                 },
                 {
-                  "id": "235669",
-                  "jersey": 6,
-                  "name": "Kaan Kairinen",
-                  "position": "CM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "235669"
-                },
-                {
                   "id": "260554",
                   "jersey": 16,
                   "name": "Kervin Arriaga",
-                  "position": "CM-R",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "260554"
+                },
+                {
+                  "id": "235669",
+                  "jersey": 6,
+                  "name": "Kaan Kairinen",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "235669"
                 },
                 {
                   "id": "237549",
@@ -42106,17 +42106,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.6",
-                "away": "65.4"
+                "home": "42.4",
+                "away": "57.6"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -42147,16 +42147,16 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "14",
-                "away": "31"
+                "home": "24",
+                "away": "35"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.9"
               }
             ],
@@ -42178,7 +42178,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "5'",
+          "clock": "6'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42593,18 +42593,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "14.3",
-                "away": "85.7"
+                "home": "34.3",
+                "away": "65.7"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "0"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -42633,17 +42633,17 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "2",
-                "away": "37"
+                "home": "18",
+                "away": "38"
               },
               {
                 "key": "passPct",
-                "home": "0.3",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
