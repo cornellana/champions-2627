@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:57:27Z",
+  "lastUpdated": "2026-11-04T18:58:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42132,13 +42132,23 @@
                 "relatedPlayer": null,
                 "teamName": "AEK Atenas",
                 "text": null
+              },
+              {
+                "id": "54801628_8",
+                "type": "SUBSTITUTION",
+                "minute": 53,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.5",
-                "away": "70.5"
+                "home": "29.9",
+                "away": "70.1"
               },
               {
                 "key": "totalShots",
@@ -42182,8 +42192,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "135",
-                "away": "351"
+                "home": "141",
+                "away": "357"
               },
               {
                 "key": "passPct",
@@ -42209,7 +42219,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "52'",
+          "clock": "53'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
