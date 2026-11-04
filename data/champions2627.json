@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:42:33Z",
+  "lastUpdated": "2026-11-04T20:43:40Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,8 +42987,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
-          "statusText": "First Half",
+          "clock": "40'",
+          "statusText": "In Progress",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": {
@@ -43500,11 +43500,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-2",
+          "result": "0-3",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -43945,23 +43945,33 @@
                 "relatedPlayer": null,
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "54809419_10",
+                "type": "GOAL",
+                "minute": 40,
+                "extraTime": null,
+                "playerName": "Nico Paz",
+                "relatedPlayer": "Tasos Douvikas following a fast break",
+                "teamName": "Como",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.5",
-                "away": "57.5"
+                "home": "42.4",
+                "away": "57.6"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -43995,8 +44005,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "151",
-                "away": "211"
+                "home": "153",
+                "away": "213"
               },
               {
                 "key": "passPct",
@@ -44022,7 +44032,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44533,7 +44543,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45060,7 +45070,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45515,8 +45525,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.1",
-                "away": "65.9"
+                "home": "33.9",
+                "away": "66.1"
               },
               {
                 "key": "totalShots",
@@ -45535,7 +45545,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "0"
               },
               {
@@ -45561,7 +45571,7 @@
               {
                 "key": "accuratePasses",
                 "home": "140",
-                "away": "299"
+                "away": "302"
               },
               {
                 "key": "passPct",
@@ -45587,7 +45597,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46051,8 +46061,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.7",
-                "away": "62.3"
+                "home": "39.4",
+                "away": "60.6"
               },
               {
                 "key": "totalShots",
@@ -46071,7 +46081,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "3"
               },
               {
@@ -46096,8 +46106,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "118",
-                "away": "216"
+                "home": "131",
+                "away": "218"
               },
               {
                 "key": "passPct",
@@ -46123,8 +46133,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
-          "statusText": "First Half",
+          "clock": "42'",
+          "statusText": "In Progress",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
@@ -46617,8 +46627,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.9",
-                "away": "45.1"
+                "home": "53.9",
+                "away": "46.1"
               },
               {
                 "key": "totalShots",
@@ -46663,7 +46673,7 @@
               {
                 "key": "accuratePasses",
                 "home": "184",
-                "away": "145"
+                "away": "152"
               },
               {
                 "key": "passPct",
@@ -48728,6 +48738,13 @@
       "athleteID": null
     },
     {
+      "player": "Nico Paz",
+      "team": "Como",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Nicolas Jackson",
       "team": "Aston Villa",
       "goals": 3,
@@ -48870,13 +48887,6 @@
     {
       "player": "Lautaro Martínez",
       "team": "Inter de Milán",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Marc Bartra",
-      "team": "Real Betis",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
