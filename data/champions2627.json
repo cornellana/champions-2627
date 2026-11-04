@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:22:51Z",
+  "lastUpdated": "2026-11-04T20:23:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43411,8 +43411,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.9",
-                "away": "44.1"
+                "home": "56",
+                "away": "44"
               },
               {
                 "key": "totalShots",
@@ -43431,7 +43431,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -43457,7 +43457,7 @@
               {
                 "key": "accuratePasses",
                 "home": "88",
-                "away": "67"
+                "away": "68"
               },
               {
                 "key": "passPct",
@@ -43483,7 +43483,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -43909,12 +43909,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.1",
-                "away": "58.9"
+                "home": "42",
+                "away": "58"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -43930,7 +43930,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -43954,8 +43954,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "58",
-                "away": "92"
+                "home": "67",
+                "away": "98"
               },
               {
                 "key": "passPct",
@@ -43981,7 +43981,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44385,6 +44385,16 @@
                 "relatedPlayer": "Gabri Veiga with a cross following a corner",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "54806721_3",
+                "type": "YELLOW_CARD",
+                "minute": 21,
+                "extraTime": null,
+                "playerName": "Frank Anguissa",
+                "relatedPlayer": null,
+                "teamName": "Nápoles",
+                "text": null
               }
             ],
             "teamStats": [
@@ -44462,7 +44472,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -44516,19 +44526,10 @@
                   "athleteID": "266291"
                 },
                 {
-                  "id": "103485",
-                  "jersey": 5,
-                  "name": "Ivan Perisic",
-                  "position": "AM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "103485"
-                },
-                {
                   "id": "287279",
                   "jersey": 21,
                   "name": "Sven Mijnans",
-                  "position": "LM",
+                  "position": "AM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "287279"
@@ -44537,10 +44538,19 @@
                   "id": "259136",
                   "jersey": 17,
                   "name": "Mauro Júnior",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "259136"
+                },
+                {
+                  "id": "341715",
+                  "jersey": 24,
+                  "name": "Kodai Sano",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "341715"
                 },
                 {
                   "id": "240965",
@@ -44561,13 +44571,13 @@
                   "athleteID": "340252"
                 },
                 {
-                  "id": "341715",
-                  "jersey": 24,
-                  "name": "Kodai Sano",
+                  "id": "103485",
+                  "jersey": 5,
+                  "name": "Ivan Perisic",
                   "position": "AM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "341715"
+                  "athleteID": "103485"
                 },
                 {
                   "id": "304478",
@@ -44886,8 +44896,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60",
-                "away": "40"
+                "home": "58.9",
+                "away": "41.1"
               },
               {
                 "key": "totalShots",
@@ -44932,7 +44942,7 @@
               {
                 "key": "accuratePasses",
                 "home": "140",
-                "away": "84"
+                "away": "86"
               },
               {
                 "key": "passPct",
@@ -44958,7 +44968,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45418,7 +45428,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -45465,7 +45475,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -45919,8 +45929,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.9",
-                "away": "71.1"
+                "home": "29.5",
+                "away": "70.5"
               },
               {
                 "key": "totalShots",
@@ -45964,7 +45974,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "41",
+                "home": "42",
                 "away": "124"
               },
               {
@@ -45991,7 +46001,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -46455,8 +46465,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58",
-                "away": "42"
+                "home": "59.2",
+                "away": "40.8"
               },
               {
                 "key": "totalShots",
@@ -46500,8 +46510,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "96",
-                "away": "64"
+                "home": "104",
+                "away": "65"
               },
               {
                 "key": "passPct",
