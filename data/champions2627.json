@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:34:30Z",
+  "lastUpdated": "2026-11-04T19:35:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42302,8 +42302,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "224",
-                "away": "563"
+                "home": "226",
+                "away": "567"
               },
               {
                 "key": "passPct",
@@ -42329,7 +42329,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
