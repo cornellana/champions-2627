@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:40:44Z",
+  "lastUpdated": "2026-11-04T21:41:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43624,7 +43624,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44246,7 +44246,7 @@
               {
                 "key": "totalShots",
                 "home": "10",
-                "away": "15"
+                "away": "16"
               },
               {
                 "key": "shotsOnTarget",
@@ -44285,8 +44285,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "328",
-                "away": "464"
+                "home": "339",
+                "away": "481"
               },
               {
                 "key": "passPct",
@@ -44846,6 +44846,16 @@
                 "relatedPlayer": "Antonio Vergara",
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "54816148_22",
+                "type": "GOAL",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Jakub Kiwior",
+                "relatedPlayer": "Hwang In-Beom with a cross following a corner",
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
@@ -44856,12 +44866,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "5"
               },
               {
@@ -44897,7 +44907,7 @@
               {
                 "key": "accuratePasses",
                 "home": "397",
-                "away": "345"
+                "away": "346"
               },
               {
                 "key": "passPct",
@@ -44923,7 +44933,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45418,8 +45428,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.1",
-                "away": "38.9"
+                "home": "61.5",
+                "away": "38.5"
               },
               {
                 "key": "totalShots",
@@ -45439,7 +45449,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -45463,8 +45473,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "463",
-                "away": "260"
+                "home": "473",
+                "away": "262"
               },
               {
                 "key": "passPct",
@@ -45490,7 +45500,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -46147,8 +46157,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
-          "statusText": "Second Half",
+          "clock": "84'",
+          "statusText": "In Progress",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -46712,8 +46722,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Stepán Chaloupek",
+                "relatedPlayer": "David Moses",
                 "teamName": "Slavia de Praga",
                 "text": null
               }
@@ -46721,17 +46731,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.1",
-                "away": "53.9"
+                "home": "46",
+                "away": "54"
               },
               {
                 "key": "totalShots",
-                "home": "12",
-                "away": "9"
+                "home": "13",
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "5"
               },
               {
@@ -46742,7 +46752,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -46766,8 +46776,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "277",
-                "away": "327"
+                "home": "280",
+                "away": "335"
               },
               {
                 "key": "passPct",
@@ -46793,7 +46803,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47388,8 +47398,8 @@
                 "type": "GOAL",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Henrik Falchener",
+                "relatedPlayer": "Zlatko Tripic with a cross following a corner",
                 "teamName": "Viking",
                 "text": null
               }
@@ -47397,8 +47407,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.7",
-                "away": "48.3"
+                "home": "52.1",
+                "away": "47.9"
               },
               {
                 "key": "totalShots",
@@ -47442,8 +47452,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "324",
-                "away": "310"
+                "home": "330",
+                "away": "311"
               },
               {
                 "key": "passPct",
@@ -49772,6 +49782,12 @@
       "athleteID": null
     },
     {
+      "player": "Zlatko Tripic with a cross following a corner",
+      "team": "Viking",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
       "player": "Abde Ezzalzouli",
       "team": "Real Betis",
       "goals": 1,
@@ -49894,12 +49910,6 @@
     {
       "player": "Brajan Gruda following a fast break",
       "team": "RB Leipzig",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Bryan Mbeumo with a through ball",
-      "team": "Manchester United",
       "goals": 1,
       "athleteID": null
     }
