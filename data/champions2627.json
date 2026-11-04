@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:18:27Z",
+  "lastUpdated": "2026-11-04T20:19:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43411,12 +43411,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.3",
-                "away": "43.7"
+                "home": "60.4",
+                "away": "39.6"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -43456,12 +43456,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "60",
+                "home": "74",
                 "away": "44"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.8"
               }
             ],
@@ -43483,7 +43483,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -43981,7 +43981,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44390,8 +44390,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.4",
-                "away": "56.6"
+                "home": "47.5",
+                "away": "52.5"
               },
               {
                 "key": "totalShots",
@@ -44411,7 +44411,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -44435,8 +44435,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "40",
-                "away": "55"
+                "home": "65",
+                "away": "73"
               },
               {
                 "key": "passPct",
@@ -44462,7 +44462,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -44958,7 +44958,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "14'",
+          "clock": "15'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45454,7 +45454,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -45898,18 +45898,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "26.4",
-                "away": "73.6"
+                "home": "24.2",
+                "away": "75.8"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -45919,7 +45919,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -45938,13 +45938,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
                 "home": "23",
-                "away": "93"
+                "away": "105"
               },
               {
                 "key": "passPct",
@@ -45970,7 +45970,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -46024,22 +46024,22 @@
                   "athleteID": "303977"
                 },
                 {
+                  "id": "320678",
+                  "jersey": 26,
+                  "name": "Simen Kvia-Egeskog",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "320678"
+                },
+                {
                   "id": "392602",
                   "jersey": 29,
                   "name": "Tobias Moi",
-                  "position": "CM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "392602"
-                },
-                {
-                  "id": "164279",
-                  "jersey": 10,
-                  "name": "Zlatko Tripic",
                   "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "164279"
+                  "athleteID": "392602"
                 },
                 {
                   "id": "280963",
@@ -46060,19 +46060,19 @@
                   "athleteID": "239925"
                 },
                 {
-                  "id": "320678",
-                  "jersey": 26,
-                  "name": "Simen Kvia-Egeskog",
-                  "position": "LF",
+                  "id": "164279",
+                  "jersey": 10,
+                  "name": "Zlatko Tripic",
+                  "position": "AM-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "320678"
+                  "athleteID": "164279"
                 },
                 {
                   "id": "186172",
                   "jersey": 16,
                   "name": "Henrik Rorvik Bjordal",
-                  "position": "RF",
+                  "position": "AM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "186172"
@@ -46419,13 +46419,23 @@
                 "relatedPlayer": "Umarali Rakhmonaliev following a fast break",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "54806090_3",
+                "type": "YELLOW_CARD",
+                "minute": 18,
+                "extraTime": null,
+                "playerName": "Gianni Stensness",
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.8",
-                "away": "42.2"
+                "home": "56.8",
+                "away": "43.2"
               },
               {
                 "key": "totalShots",
@@ -46444,7 +46454,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -46454,7 +46464,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -46470,12 +46480,12 @@
               {
                 "key": "accuratePasses",
                 "home": "87",
-                "away": "59"
+                "away": "61"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.7"
               }
             ],
             "penalties": null
