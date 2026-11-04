@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:04:20Z",
+  "lastUpdated": "2026-11-04T21:05:26Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -44052,8 +44052,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
           "details": {
@@ -45110,8 +45110,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -45637,7 +45637,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46106,6 +46106,16 @@
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "54810884_6",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
@@ -46183,8 +46193,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
