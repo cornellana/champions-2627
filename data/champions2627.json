@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:33:03Z",
+  "lastUpdated": "2026-11-04T21:34:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43502,17 +43502,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.8",
-                "away": "43.2"
+                "home": "57.3",
+                "away": "42.7"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "4"
               },
               {
@@ -43527,7 +43527,7 @@
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -43547,7 +43547,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "314",
+                "home": "323",
                 "away": "245"
               },
               {
@@ -43574,7 +43574,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44151,6 +44151,16 @@
                 "type": "SUBSTITUTION",
                 "minute": 70,
                 "extraTime": null,
+                "playerName": "Junior Kadile",
+                "relatedPlayer": "Florian Thauvin",
+                "teamName": "Lens",
+                "text": null
+              },
+              {
+                "id": "54815144_30",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "Lens",
@@ -44160,8 +44170,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.7",
-                "away": "58.3"
+                "home": "42",
+                "away": "58"
               },
               {
                 "key": "totalShots",
@@ -44181,7 +44191,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -44205,8 +44215,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "277",
-                "away": "415"
+                "home": "288",
+                "away": "424"
               },
               {
                 "key": "passPct",
@@ -44232,7 +44242,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44723,7 +44733,7 @@
                 "minute": 71,
                 "extraTime": null,
                 "playerName": "Gabri Veiga",
-                "relatedPlayer": "Santiago Giménez with a through ball",
+                "relatedPlayer": "Santiago Giménez with a through ball following a fast break",
                 "teamName": "Oporto",
                 "text": null
               }
@@ -44731,8 +44741,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.3",
+                "away": "45.7"
               },
               {
                 "key": "totalShots",
@@ -44776,8 +44786,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "365",
-                "away": "290"
+                "home": "374",
+                "away": "299"
               },
               {
                 "key": "passPct",
@@ -44803,7 +44813,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45288,12 +45298,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.5",
-                "away": "41.5"
+                "home": "59",
+                "away": "41"
               },
               {
                 "key": "totalShots",
-                "home": "19",
+                "home": "20",
                 "away": "9"
               },
               {
@@ -45309,7 +45319,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -45333,7 +45343,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "387",
+                "home": "401",
                 "away": "250"
               },
               {
@@ -45360,7 +45370,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45890,7 +45900,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "6"
               },
               {
@@ -45900,7 +45910,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "2"
               },
               {
@@ -45930,7 +45940,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "245",
+                "home": "246",
                 "away": "532"
               },
               {
@@ -45957,7 +45967,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46501,12 +46511,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.9",
-                "away": "55.1"
+                "home": "45.7",
+                "away": "54.3"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "7",
                 "away": "9"
               },
               {
@@ -46516,7 +46526,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -46546,7 +46556,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "252",
+                "home": "261",
                 "away": "316"
               },
               {
@@ -46573,7 +46583,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47147,8 +47157,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "51",
+                "away": "49"
               },
               {
                 "key": "totalShots",
@@ -47172,7 +47182,7 @@
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -47192,8 +47202,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "299",
-                "away": "282"
+                "home": "298",
+                "away": "296"
               },
               {
                 "key": "passPct",
