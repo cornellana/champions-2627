@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:35:36Z",
+  "lastUpdated": "2026-11-04T19:36:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42263,7 +42263,7 @@
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "21"
+                "away": "22"
               },
               {
                 "key": "shotsOnTarget",
@@ -42273,7 +42273,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -42302,8 +42302,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "226",
-                "away": "567"
+                "home": "227",
+                "away": "570"
               },
               {
                 "key": "passPct",
@@ -42329,7 +42329,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42890,13 +42890,23 @@
                 "relatedPlayer": null,
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "54802693_18",
+                "type": "SUBSTITUTION",
+                "minute": 89,
+                "extraTime": null,
+                "playerName": "Oguz Aydin",
+                "relatedPlayer": "Mason Greenwood",
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.3",
-                "away": "67.7"
+                "home": "32.7",
+                "away": "67.3"
               },
               {
                 "key": "totalShots",
@@ -42915,8 +42925,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "12",
-                "away": "11"
+                "home": "13",
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -42940,8 +42950,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "183",
-                "away": "462"
+                "home": "185",
+                "away": "465"
               },
               {
                 "key": "passPct",
