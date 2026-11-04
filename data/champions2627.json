@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:18:12Z",
+  "lastUpdated": "2026-11-04T19:19:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42197,8 +42197,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.8",
-                "away": "70.2"
+                "home": "29.7",
+                "away": "70.3"
               },
               {
                 "key": "totalShots",
@@ -42243,7 +42243,7 @@
               {
                 "key": "accuratePasses",
                 "home": "186",
-                "away": "475"
+                "away": "476"
               },
               {
                 "key": "passPct",
@@ -42265,11 +42265,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-2",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42765,22 +42765,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.5",
-                "away": "69.5"
+                "home": "31.8",
+                "away": "68.2"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "14",
                 "away": "17"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "5",
                 "away": "5"
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "10"
               },
               {
@@ -42810,7 +42810,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "138",
+                "home": "149",
                 "away": "393"
               },
               {
