@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:29:44Z",
+  "lastUpdated": "2026-11-04T21:30:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42983,11 +42983,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-0",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43487,23 +43487,33 @@
                 "relatedPlayer": null,
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "54814682_21",
+                "type": "GOAL",
+                "minute": 67,
+                "extraTime": null,
+                "playerName": "Aitor Ruibal",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.1",
-                "away": "42.9"
+                "home": "56.7",
+                "away": "43.3"
               },
               {
                 "key": "totalShots",
                 "home": "11",
-                "away": "5"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "2"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -43532,13 +43542,13 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "308",
-                "away": "238"
+                "home": "312",
+                "away": "245"
               },
               {
                 "key": "passPct",
@@ -43564,7 +43574,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44202,7 +44212,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44691,17 +44701,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54.9",
+                "away": "45.1"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "4"
               },
               {
@@ -44736,7 +44746,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "355",
+                "home": "363",
                 "away": "284"
               },
               {
@@ -44763,7 +44773,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45233,13 +45243,23 @@
                 "relatedPlayer": "Joaquin Seys following a fast break",
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "54814637_16",
+                "type": "SUBSTITUTION",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "PSV",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.7",
-                "away": "42.3"
+                "home": "58.5",
+                "away": "41.5"
               },
               {
                 "key": "totalShots",
@@ -45283,8 +45303,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "356",
-                "away": "239"
+                "home": "372",
+                "away": "240"
               },
               {
                 "key": "passPct",
@@ -45310,7 +45330,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "In Progress",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45907,8 +45927,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
-          "statusText": "Second Half",
+          "clock": "72'",
+          "statusText": "In Progress",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -46436,23 +46456,33 @@
                 "relatedPlayer": null,
                 "teamName": "Arsenal",
                 "text": null
+              },
+              {
+                "id": "54814669_17",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.4",
-                "away": "55.6"
+                "home": "43.8",
+                "away": "56.2"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -46461,7 +46491,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
+                "home": "11",
                 "away": "8"
               },
               {
@@ -46487,7 +46517,7 @@
               {
                 "key": "accuratePasses",
                 "home": "238",
-                "away": "307"
+                "away": "315"
               },
               {
                 "key": "passPct",
@@ -46513,7 +46543,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47038,7 +47068,7 @@
                 "type": "MISSED_PENALTY",
                 "minute": 69,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Zlatko Tripic",
                 "relatedPlayer": null,
                 "teamName": "Viking",
                 "text": null
@@ -47048,9 +47078,19 @@
                 "type": "GOAL",
                 "minute": 69,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Zlatko Tripic",
                 "relatedPlayer": null,
                 "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "54814595_18",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": "Xayal Aliyev",
+                "relatedPlayer": "Orphé Mbina",
+                "teamName": "Sabah",
                 "text": null
               }
             ],
