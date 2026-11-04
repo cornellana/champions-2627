@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:45:52Z",
+  "lastUpdated": "2026-11-04T20:46:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
+          "clock": "43'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43504,7 +43504,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "In Progress",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44032,7 +44032,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44481,8 +44481,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.2",
-                "away": "45.8"
+                "home": "54.7",
+                "away": "45.3"
               },
               {
                 "key": "totalShots",
@@ -44526,12 +44526,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
-                "away": "159"
+                "home": "208",
+                "away": "160"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -44553,7 +44553,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'+1'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45008,8 +45008,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.3",
-                "away": "46.7"
+                "home": "53.1",
+                "away": "46.9"
               },
               {
                 "key": "totalShots",
@@ -45053,8 +45053,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "218",
-                "away": "180"
+                "home": "223",
+                "away": "187"
               },
               {
                 "key": "passPct",
@@ -45080,7 +45080,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "42'",
+          "clock": "43'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45607,7 +45607,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46071,8 +46071,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.1",
-                "away": "60.9"
+                "home": "38.7",
+                "away": "61.3"
               },
               {
                 "key": "totalShots",
@@ -46116,8 +46116,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "134",
-                "away": "224"
+                "home": "136",
+                "away": "229"
               },
               {
                 "key": "passPct",
@@ -46143,8 +46143,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
-          "statusText": "In Progress",
+          "clock": "45'+1'",
+          "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
