@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:24:44Z",
+  "lastUpdated": "2026-11-04T19:25:49Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42217,13 +42217,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.4",
-                "away": "70.6"
+                "home": "29.2",
+                "away": "70.8"
               },
               {
                 "key": "totalShots",
-                "home": "8",
-                "away": "17"
+                "home": "9",
+                "away": "18"
               },
               {
                 "key": "shotsOnTarget",
@@ -42233,7 +42233,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -42263,7 +42263,7 @@
               {
                 "key": "accuratePasses",
                 "home": "200",
-                "away": "521"
+                "away": "522"
               },
               {
                 "key": "passPct",
@@ -42285,11 +42285,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-2",
+          "result": "3-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42820,22 +42820,32 @@
                 "relatedPlayer": "Kostas Tsimikas",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "54802388_15",
+                "type": "GOAL",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": "Vedat Muriqi",
+                "relatedPlayer": "Archie Brown with a cross",
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.1",
-                "away": "67.9"
+                "home": "32.2",
+                "away": "67.8"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "17"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "5"
               },
               {
@@ -42870,8 +42880,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "161",
-                "away": "418"
+                "home": "162",
+                "away": "419"
               },
               {
                 "key": "passPct",
@@ -45395,6 +45405,12 @@
       "athleteID": null
     },
     {
+      "player": "Archie Brown with a cross",
+      "team": "Fenerbahçe",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Armando Obispo",
       "team": "PSV",
       "goals": 1,
@@ -45469,12 +45485,6 @@
     {
       "player": "Christos Tzolis",
       "team": "Arsenal",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Cody Gakpo following a fast break",
-      "team": "Liverpool",
       "goals": 1,
       "athleteID": null
     }
