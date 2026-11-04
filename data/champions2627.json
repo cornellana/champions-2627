@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:21:56Z",
+  "lastUpdated": "2026-11-04T18:23:01Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42122,13 +42122,23 @@
                 "relatedPlayer": "Marc Cucurella with a cross",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "54801013_5",
+                "type": "YELLOW_CARD",
+                "minute": 34,
+                "extraTime": null,
+                "playerName": "Kervin Arriaga",
+                "relatedPlayer": null,
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36",
-                "away": "64"
+                "home": "34.9",
+                "away": "65.1"
               },
               {
                 "key": "totalShots",
@@ -42147,7 +42157,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "6"
               },
               {
@@ -42157,7 +42167,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -42172,8 +42182,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "100",
-                "away": "183"
+                "home": "101",
+                "away": "195"
               },
               {
                 "key": "passPct",
@@ -42199,7 +42209,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "34'",
+          "clock": "35'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42635,8 +42645,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.9",
-                "away": "72.1"
+                "home": "28.5",
+                "away": "71.5"
               },
               {
                 "key": "totalShots",
@@ -42656,7 +42666,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -42680,8 +42690,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "61",
-                "away": "200"
+                "home": "68",
+                "away": "215"
               },
               {
                 "key": "passPct",
