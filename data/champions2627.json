@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:49:31Z",
+  "lastUpdated": "2026-11-04T21:50:37Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43592,8 +43592,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.5",
-                "away": "45.5"
+                "home": "54",
+                "away": "46"
               },
               {
                 "key": "totalShots",
@@ -43612,7 +43612,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "14",
+                "home": "15",
                 "away": "10"
               },
               {
@@ -43637,8 +43637,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "364",
-                "away": "308"
+                "home": "365",
+                "away": "316"
               },
               {
                 "key": "passPct",
@@ -43664,7 +43664,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44348,11 +44348,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "3-1",
+          "result": "4-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44916,6 +44916,16 @@
                 "relatedPlayer": null,
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "54817442_25",
+                "type": "PENALTY",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Samu Aghehowa",
+                "relatedPlayer": null,
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
@@ -44926,12 +44936,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "18",
+                "home": "19",
                 "away": "9"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "5"
               },
               {
@@ -44967,7 +44977,7 @@
               {
                 "key": "accuratePasses",
                 "home": "444",
-                "away": "380"
+                "away": "379"
               },
               {
                 "key": "passPct",
@@ -44993,8 +45003,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
-          "statusText": "Second Half",
+          "clock": "90'",
+          "statusText": "In Progress",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": {
@@ -45538,8 +45548,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.6",
-                "away": "38.4"
+                "home": "61.9",
+                "away": "38.1"
               },
               {
                 "key": "totalShots",
@@ -45583,12 +45593,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "501",
+                "home": "509",
                 "away": "274"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.8"
               }
             ],
@@ -45610,7 +45620,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -46192,17 +46202,7 @@
                 "text": null
               },
               {
-                "id": "54816822_19",
-                "type": "SUBSTITUTION",
-                "minute": 83,
-                "extraTime": null,
-                "playerName": "Allan",
-                "relatedPlayer": "Iliman Ndiaye",
-                "teamName": "Manchester City",
-                "text": null
-              },
-              {
-                "id": "54816547_20",
+                "id": "54816547_19",
                 "type": "SUBSTITUTION",
                 "minute": 83,
                 "extraTime": null,
@@ -46212,12 +46212,32 @@
                 "text": null
               },
               {
-                "id": "54816823_21",
+                "id": "54816823_20",
                 "type": "SUBSTITUTION",
                 "minute": 83,
                 "extraTime": null,
                 "playerName": "Mateo Kovacic",
                 "relatedPlayer": "Enzo Fernández",
+                "teamName": "Manchester City",
+                "text": null
+              },
+              {
+                "id": "54816822_21",
+                "type": "SUBSTITUTION",
+                "minute": 83,
+                "extraTime": null,
+                "playerName": "Allan",
+                "relatedPlayer": "Iliman Ndiaye",
+                "teamName": "Manchester City",
+                "text": null
+              },
+              {
+                "id": "54817416_22",
+                "type": "YELLOW_CARD",
+                "minute": 88,
+                "extraTime": null,
+                "playerName": "Jérémy Doku",
+                "relatedPlayer": null,
                 "teamName": "Manchester City",
                 "text": null
               }
@@ -46246,17 +46266,17 @@
               {
                 "key": "foulsCommitted",
                 "home": "20",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
-                "home": "2",
+                "home": "3",
                 "away": "5"
               },
               {
                 "key": "yellowCards",
                 "home": "4",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -46270,8 +46290,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "274",
-                "away": "595"
+                "home": "280",
+                "away": "605"
               },
               {
                 "key": "passPct",
@@ -46297,7 +46317,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46926,8 +46946,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "290",
-                "away": "390"
+                "home": "291",
+                "away": "391"
               },
               {
                 "key": "passPct",
@@ -46953,8 +46973,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
-          "statusText": "In Progress",
+          "clock": "90'+1'",
+          "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": {
