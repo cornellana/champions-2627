@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:16:28Z",
+  "lastUpdated": "2026-11-04T18:17:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42185,11 +42185,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "1-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42610,22 +42610,32 @@
                 "relatedPlayer": null,
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "54800871_2",
+                "type": "GOAL",
+                "minute": 29,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.4",
-                "away": "71.6"
+                "home": "28.8",
+                "away": "71.2"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -42636,7 +42646,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -42660,8 +42670,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "52",
-                "away": "167"
+                "home": "55",
+                "away": "170"
               },
               {
                 "key": "passPct",
