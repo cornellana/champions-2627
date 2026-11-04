@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:20:22Z",
+  "lastUpdated": "2026-11-04T19:21:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42192,13 +42192,23 @@
                 "relatedPlayer": "Bernardo Silva",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "54802265_18",
+                "type": "GOAL",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Stavros Pilios",
+                "relatedPlayer": "Aboubakary Koïta following a fast break",
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.2",
-                "away": "70.8"
+                "home": "29.1",
+                "away": "70.9"
               },
               {
                 "key": "totalShots",
@@ -42243,7 +42253,7 @@
               {
                 "key": "accuratePasses",
                 "home": "189",
-                "away": "496"
+                "away": "497"
               },
               {
                 "key": "passPct",
@@ -42269,7 +42279,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42770,6 +42780,26 @@
                 "relatedPlayer": null,
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "54802266_12",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Kerem Aktürkoglu",
+                "relatedPlayer": "Irfan Can Kahveci",
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "54802272_13",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Mert Müldür",
+                "relatedPlayer": "Nélson Semedo",
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
@@ -42796,7 +42826,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -45273,6 +45303,12 @@
       "athleteID": null
     },
     {
+      "player": "Aboubakary Koïta following a fast break",
+      "team": "AEK Atenas",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Achraf Hakimi",
       "team": "Paris Saint-Germain",
       "goals": 1,
@@ -45418,12 +45454,6 @@
     },
     {
       "player": "Cody Gakpo following a fast break",
-      "team": "Liverpool",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Cody Gakpo with a cross",
       "team": "Liverpool",
       "goals": 1,
       "athleteID": null
