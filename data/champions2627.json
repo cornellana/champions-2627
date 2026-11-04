@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:12:08Z",
+  "lastUpdated": "2026-11-04T18:13:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,8 +41691,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
-          "statusText": "First Half",
+          "clock": "26'",
+          "statusText": "In Progress",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
           "details": {
@@ -42117,8 +42117,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.7",
-                "away": "69.3"
+                "home": "33.6",
+                "away": "66.4"
               },
               {
                 "key": "totalShots",
@@ -42162,8 +42162,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "68",
-                "away": "160"
+                "home": "76",
+                "away": "161"
               },
               {
                 "key": "passPct",
@@ -42189,8 +42189,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
-          "statusText": "First Half",
+          "clock": "26'",
+          "statusText": "In Progress",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -42604,8 +42604,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.1",
-                "away": "71.9"
+                "home": "27.7",
+                "away": "72.3"
               },
               {
                 "key": "totalShots",
@@ -42620,7 +42620,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -42650,7 +42650,7 @@
               {
                 "key": "accuratePasses",
                 "home": "45",
-                "away": "156"
+                "away": "159"
               },
               {
                 "key": "passPct",
