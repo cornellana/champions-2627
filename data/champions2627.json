@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:00:09Z",
+  "lastUpdated": "2026-11-04T18:01:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "13'",
+          "clock": "14'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42108,8 +42108,8 @@
                 "type": "GOAL",
                 "minute": 12,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Aboubakary Koïta",
+                "relatedPlayer": "Luka Jovic",
                 "teamName": "AEK Atenas",
                 "text": null
               }
@@ -42117,8 +42117,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.7",
-                "away": "70.3"
+                "home": "29",
+                "away": "71"
               },
               {
                 "key": "totalShots",
@@ -42162,8 +42162,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "35",
-                "away": "92"
+                "home": "37",
+                "away": "100"
               },
               {
                 "key": "passPct",
@@ -42189,8 +42189,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "12'",
-          "statusText": "In Progress",
+          "clock": "13'",
+          "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -42604,8 +42604,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.9",
-                "away": "64.1"
+                "home": "33.3",
+                "away": "66.7"
               },
               {
                 "key": "totalShots",
@@ -42624,7 +42624,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -42644,13 +42644,13 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "0",
                 "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "30",
-                "away": "67"
+                "home": "31",
+                "away": "79"
               },
               {
                 "key": "passPct",
