@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T17:55:47Z",
+  "lastUpdated": "2026-11-04T17:56:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42106,8 +42106,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.5",
-                "away": "68.5"
+                "home": "32.2",
+                "away": "67.8"
               },
               {
                 "key": "totalShots",
@@ -42127,7 +42127,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -42151,13 +42151,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "24",
-                "away": "58"
+                "home": "32",
+                "away": "74"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
-                "away": "1.0"
+                "home": "0.8",
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -42178,7 +42178,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42444,22 +42444,22 @@
                   "athleteID": "257206"
                 },
                 {
-                  "id": "356075",
-                  "jersey": 42,
-                  "name": "Trey Nyoni",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "356075"
-                },
-                {
                   "id": "249299",
                   "jersey": 10,
                   "name": "Alexis Mac Allister",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "249299"
+                },
+                {
+                  "id": "356075",
+                  "jersey": 42,
+                  "name": "Trey Nyoni",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "356075"
                 },
                 {
                   "id": "328238",
@@ -42593,8 +42593,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.4",
-                "away": "57.6"
+                "home": "38.6",
+                "away": "61.4"
               },
               {
                 "key": "totalShots",
@@ -42613,7 +42613,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -42638,13 +42638,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "25",
-                "away": "38"
+                "home": "27",
+                "away": "51"
               },
               {
                 "key": "passPct",
                 "home": "0.7",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
