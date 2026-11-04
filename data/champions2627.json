@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:07:47Z",
+  "lastUpdated": "2026-11-04T18:08:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42117,8 +42117,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.3",
-                "away": "69.7"
+                "home": "30.5",
+                "away": "69.5"
               },
               {
                 "key": "totalShots",
@@ -42162,8 +42162,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "50",
-                "away": "125"
+                "home": "53",
+                "away": "130"
               },
               {
                 "key": "passPct",
@@ -42189,8 +42189,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
-          "statusText": "In Progress",
+          "clock": "21'",
+          "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -42604,8 +42604,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30",
-                "away": "70"
+                "home": "28.3",
+                "away": "71.7"
               },
               {
                 "key": "totalShots",
@@ -42620,7 +42620,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "foulsCommitted",
@@ -42650,7 +42650,7 @@
               {
                 "key": "accuratePasses",
                 "home": "40",
-                "away": "126"
+                "away": "137"
               },
               {
                 "key": "passPct",
