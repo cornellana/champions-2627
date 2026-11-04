@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:25:49Z",
+  "lastUpdated": "2026-11-04T19:26:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42212,23 +42212,33 @@
                 "relatedPlayer": "Denzel Dumfries",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "54802413_20",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.2",
-                "away": "70.8"
+                "home": "29.3",
+                "away": "70.7"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "18"
+                "away": "19"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "wonCorners",
@@ -42238,7 +42248,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -42257,12 +42267,12 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "200",
+                "home": "201",
                 "away": "522"
               },
               {
@@ -42289,7 +42299,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42881,7 +42891,7 @@
               {
                 "key": "accuratePasses",
                 "home": "162",
-                "away": "419"
+                "away": "420"
               },
               {
                 "key": "passPct",
