@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:24:06Z",
+  "lastUpdated": "2026-11-04T18:25:12Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "36'",
+          "clock": "37'",
           "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42137,8 +42137,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.1",
-                "away": "66.9"
+                "home": "34.1",
+                "away": "65.9"
               },
               {
                 "key": "totalShots",
@@ -42158,7 +42158,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -42182,8 +42182,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "102",
-                "away": "215"
+                "home": "110",
+                "away": "219"
               },
               {
                 "key": "passPct",
@@ -42209,7 +42209,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "36'",
+          "clock": "37'",
           "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42632,7 +42632,17 @@
                 "text": null
               },
               {
-                "id": "54800871_2",
+                "id": "54801076_2",
+                "type": "YELLOW_CARD",
+                "minute": 25,
+                "extraTime": null,
+                "playerName": "Archie Brown",
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
+              },
+              {
+                "id": "54800871_3",
                 "type": "GOAL",
                 "minute": 29,
                 "extraTime": null,
@@ -42645,12 +42655,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.5",
-                "away": "71.5"
+                "home": "27.6",
+                "away": "72.4"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "8"
               },
               {
@@ -42661,7 +42671,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "4"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -42675,7 +42685,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -42691,7 +42701,7 @@
               {
                 "key": "accuratePasses",
                 "home": "68",
-                "away": "215"
+                "away": "222"
               },
               {
                 "key": "passPct",
