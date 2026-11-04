@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:12:58Z",
+  "lastUpdated": "2026-11-04T20:14:03Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
+          "clock": "10'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43411,17 +43411,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.3",
-                "away": "45.7"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "1",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "0",
                 "away": "0"
               },
               {
@@ -43436,7 +43436,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -43452,16 +43452,16 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "1"
+                "away": "0"
               },
               {
                 "key": "accuratePasses",
-                "home": "36",
-                "away": "28"
+                "home": "45",
+                "away": "38"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -43483,7 +43483,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "11'",
           "statusText": "First Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -43909,13 +43909,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "24.1",
-                "away": "75.9"
+                "home": "31.7",
+                "away": "68.3"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -43954,8 +43954,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "21",
-                "away": "73"
+                "home": "32",
+                "away": "74"
               },
               {
                 "key": "passPct",
@@ -43977,11 +43977,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "1-0",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "10'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44211,6 +44211,15 @@
                   "athleteID": "209746"
                 },
                 {
+                  "id": "205576",
+                  "jersey": 13,
+                  "name": "Amir Rrahmani",
+                  "position": "CD",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "205576"
+                },
+                {
                   "id": "297360",
                   "jersey": 16,
                   "name": "Rafa Marín",
@@ -44220,46 +44229,19 @@
                   "athleteID": "297360"
                 },
                 {
-                  "id": "205576",
-                  "jersey": 13,
-                  "name": "Amir Rrahmani",
-                  "position": "CD-R",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "205576"
-                },
-                {
-                  "id": "332411",
-                  "jersey": 26,
-                  "name": "Antonio Vergara",
-                  "position": "LB",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "332411"
-                },
-                {
                   "id": "261594",
                   "jersey": 31,
                   "name": "Sam Beukema",
-                  "position": "RB",
+                  "position": "CD-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "261594"
                 },
                 {
-                  "id": "274217",
-                  "jersey": 6,
-                  "name": "Billy Gilmour",
-                  "position": "CM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "274217"
-                },
-                {
                   "id": "255850",
                   "jersey": 8,
                   "name": "Scott McTominay",
-                  "position": "LM",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "255850"
@@ -44268,37 +44250,55 @@
                   "id": "215721",
                   "jersey": 99,
                   "name": "Frank Anguissa",
-                  "position": "RM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "215721"
                 },
                 {
-                  "id": "309273",
-                  "jersey": 19,
-                  "name": "Rasmus Højlund",
-                  "position": "F",
+                  "id": "274217",
+                  "jersey": 6,
+                  "name": "Billy Gilmour",
+                  "position": "AM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "309273"
+                  "athleteID": "274217"
                 },
                 {
-                  "id": "134947",
-                  "jersey": 11,
-                  "name": "Kevin De Bruyne",
-                  "position": "LF",
+                  "id": "332411",
+                  "jersey": 26,
+                  "name": "Antonio Vergara",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "134947"
+                  "athleteID": "332411"
                 },
                 {
                   "id": "188306",
                   "jersey": 21,
                   "name": "Matteo Politano",
-                  "position": "RF",
+                  "position": "RM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "188306"
+                },
+                {
+                  "id": "134947",
+                  "jersey": 11,
+                  "name": "Kevin De Bruyne",
+                  "position": "CF-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "134947"
+                },
+                {
+                  "id": "309273",
+                  "jersey": 19,
+                  "name": "Rasmus Højlund",
+                  "position": "CF-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "309273"
                 },
                 {
                   "id": "219531",
@@ -44375,6 +44375,16 @@
                 "relatedPlayer": null,
                 "teamName": "Nápoles",
                 "text": null
+              },
+              {
+                "id": "54805038_2",
+                "type": "GOAL",
+                "minute": 11,
+                "extraTime": null,
+                "playerName": "Jan Bednarek",
+                "relatedPlayer": "Gabri Veiga with a cross following a corner",
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
@@ -44385,12 +44395,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "2"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -44452,7 +44462,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -44876,8 +44886,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.9",
-                "away": "36.1"
+                "home": "64.6",
+                "away": "35.4"
               },
               {
                 "key": "totalShots",
@@ -44896,7 +44906,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -44921,8 +44931,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "80",
-                "away": "37"
+                "home": "89",
+                "away": "39"
               },
               {
                 "key": "passPct",
@@ -44948,7 +44958,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "8'",
+          "clock": "9'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45372,8 +45382,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "18.3",
-                "away": "81.7"
+                "home": "16.6",
+                "away": "83.4"
               },
               {
                 "key": "totalShots",
@@ -45417,8 +45427,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "16",
-                "away": "90"
+                "home": "17",
+                "away": "107"
               },
               {
                 "key": "passPct",
@@ -45444,7 +45454,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -45956,11 +45966,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -46399,23 +46409,33 @@
                 "relatedPlayer": null,
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "54805149_2",
+                "type": "GOAL",
+                "minute": 11,
+                "extraTime": null,
+                "playerName": "Orphé Mbina",
+                "relatedPlayer": "Umarali Rakhmonaliev following a fast break",
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.6",
-                "away": "38.4"
+                "home": "62.2",
+                "away": "37.8"
               },
               {
                 "key": "totalShots",
-                "home": "0",
-                "away": "0"
+                "home": "1",
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -46449,8 +46469,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "66",
-                "away": "34"
+                "home": "70",
+                "away": "37"
               },
               {
                 "key": "passPct",
