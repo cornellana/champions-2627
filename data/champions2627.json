@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:57:10Z",
+  "lastUpdated": "2026-11-04T21:58:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42982,13 +42982,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "2-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+4'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": {
@@ -43607,6 +43607,16 @@
                 "relatedPlayer": "Fábio Silva",
                 "teamName": "Borussia Dortmund",
                 "text": null
+              },
+              {
+                "id": "54818047_33",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 3,
+                "playerName": "Isco",
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
@@ -43633,7 +43643,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "15",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -43643,7 +43653,7 @@
               {
                 "key": "yellowCards",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "redCards",
@@ -49401,13 +49411,23 @@
     },
     {
       "team": "Real Betis",
-      "played": 3,
+      "played": 4,
       "won": 3,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 7,
-      "goalsAgainst": 4,
+      "lost": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 6,
       "position": 11
+    },
+    {
+      "team": "Borussia Dortmund",
+      "played": 4,
+      "won": 3,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 5,
+      "position": 12
     },
     {
       "team": "Bayern de Múnich",
@@ -49417,7 +49437,7 @@
       "lost": 0,
       "goalsFor": 12,
       "goalsAgainst": 5,
-      "position": 12
+      "position": 13
     },
     {
       "team": "Stuttgart",
@@ -49427,7 +49447,7 @@
       "lost": 1,
       "goalsFor": 7,
       "goalsAgainst": 4,
-      "position": 13
+      "position": 14
     },
     {
       "team": "Inter de Milán",
@@ -49437,7 +49457,7 @@
       "lost": 2,
       "goalsFor": 8,
       "goalsAgainst": 6,
-      "position": 14
+      "position": 15
     },
     {
       "team": "LASK",
@@ -49447,16 +49467,6 @@
       "lost": 2,
       "goalsFor": 10,
       "goalsAgainst": 9,
-      "position": 15
-    },
-    {
-      "team": "Borussia Dortmund",
-      "played": 3,
-      "won": 2,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 5,
-      "goalsAgainst": 4,
       "position": 16
     },
     {
