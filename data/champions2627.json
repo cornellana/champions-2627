@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:30:50Z",
+  "lastUpdated": "2026-11-04T21:31:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -43494,7 +43494,7 @@
                 "minute": 67,
                 "extraTime": null,
                 "playerName": "Aitor Ruibal",
-                "relatedPlayer": null,
+                "relatedPlayer": "Abde Ezzalzouli",
                 "teamName": "Real Betis",
                 "text": null
               }
@@ -43574,7 +43574,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44701,8 +44701,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.9",
-                "away": "45.1"
+                "home": "54.7",
+                "away": "45.3"
               },
               {
                 "key": "totalShots",
@@ -44742,12 +44742,12 @@
               {
                 "key": "saves",
                 "home": "3",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "accuratePasses",
-                "home": "363",
-                "away": "284"
+                "home": "365",
+                "away": "287"
               },
               {
                 "key": "passPct",
@@ -44773,7 +44773,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45249,8 +45249,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 69,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ricardo Pepi",
+                "relatedPlayer": "Ruben van Bommel",
                 "teamName": "PSV",
                 "text": null
               }
@@ -45258,8 +45258,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.5",
-                "away": "41.5"
+                "home": "58.8",
+                "away": "41.2"
               },
               {
                 "key": "totalShots",
@@ -45303,8 +45303,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "372",
-                "away": "240"
+                "home": "383",
+                "away": "243"
               },
               {
                 "key": "passPct",
@@ -45330,8 +45330,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
-          "statusText": "In Progress",
+          "clock": "71'",
+          "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -45855,8 +45855,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "34.3",
-                "away": "65.7"
+                "home": "33.6",
+                "away": "66.4"
               },
               {
                 "key": "totalShots",
@@ -45871,7 +45871,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
@@ -45900,8 +45900,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "237",
-                "away": "502"
+                "home": "241",
+                "away": "528"
               },
               {
                 "key": "passPct",
@@ -45927,8 +45927,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
-          "statusText": "In Progress",
+          "clock": "73'",
+          "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -46462,8 +46462,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 71,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "David Jurásek",
+                "relatedPlayer": "Emmanuel Ayaosi",
                 "teamName": "Slavia de Praga",
                 "text": null
               }
@@ -46471,8 +46471,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.8",
-                "away": "56.2"
+                "home": "44.9",
+                "away": "55.1"
               },
               {
                 "key": "totalShots",
@@ -46511,13 +46511,13 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "238",
-                "away": "315"
+                "home": "252",
+                "away": "316"
               },
               {
                 "key": "passPct",
@@ -46543,7 +46543,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47092,13 +47092,33 @@
                 "relatedPlayer": "Orphé Mbina",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "54814743_19",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Du Queiroz",
+                "relatedPlayer": "Christian Nwachukwu",
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "54814744_20",
+                "type": "SUBSTITUTION",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Xander Severina",
+                "relatedPlayer": "Abdulla Xaybulayev",
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.1",
-                "away": "47.9"
+                "home": "51.9",
+                "away": "48.1"
               },
               {
                 "key": "totalShots",
@@ -47117,7 +47137,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "6"
               },
               {
@@ -47142,8 +47162,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "293",
-                "away": "273"
+                "home": "294",
+                "away": "276"
               },
               {
                 "key": "passPct",
@@ -49466,6 +49486,12 @@
       "athleteID": null
     },
     {
+      "player": "Abde Ezzalzouli",
+      "team": "Real Betis",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Aboubakary Koïta following a fast break",
       "team": "AEK Atenas",
       "goals": 1,
@@ -49594,12 +49620,6 @@
     {
       "player": "Bukayo Saka",
       "team": "Arsenal",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Carlos Forbs",
-      "team": "Brujas",
       "goals": 1,
       "athleteID": null
     }
