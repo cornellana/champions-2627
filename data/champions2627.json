@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:20:39Z",
+  "lastUpdated": "2026-11-04T20:21:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43411,8 +43411,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.4",
-                "away": "43.6"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
@@ -43437,7 +43437,7 @@
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "yellowCards",
@@ -43457,7 +43457,7 @@
               {
                 "key": "accuratePasses",
                 "home": "75",
-                "away": "54"
+                "away": "67"
               },
               {
                 "key": "passPct",
@@ -43483,8 +43483,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
-          "statusText": "First Half",
+          "clock": "20'",
+          "statusText": "In Progress",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": {
@@ -43955,7 +43955,7 @@
               {
                 "key": "accuratePasses",
                 "home": "58",
-                "away": "93"
+                "away": "92"
               },
               {
                 "key": "passPct",
@@ -43981,7 +43981,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44390,8 +44390,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.5",
-                "away": "52.5"
+                "home": "49.8",
+                "away": "50.2"
               },
               {
                 "key": "totalShots",
@@ -44406,12 +44406,12 @@
               {
                 "key": "wonCorners",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "offsides",
@@ -44435,12 +44435,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "65",
-                "away": "73"
+                "home": "84",
+                "away": "83"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.8"
               }
             ],
@@ -44462,7 +44462,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "19'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -44958,7 +44958,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45378,16 +45378,27 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54806322_1",
+                "type": "YELLOW_CARD",
+                "minute": 17,
+                "extraTime": null,
+                "playerName": "Christoph Baumgartner",
+                "relatedPlayer": null,
+                "teamName": "RB Leipzig",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.1",
-                "away": "69.9"
+                "home": "31",
+                "away": "69"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -45412,7 +45423,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -45427,8 +45438,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "61",
-                "away": "154"
+                "home": "65",
+                "away": "157"
               },
               {
                 "key": "passPct",
@@ -45454,7 +45465,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -45898,8 +45909,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.9",
-                "away": "72.1"
+                "home": "30",
+                "away": "70"
               },
               {
                 "key": "totalShots",
@@ -45918,7 +45929,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
@@ -45943,8 +45954,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "35",
-                "away": "114"
+                "home": "41",
+                "away": "117"
               },
               {
                 "key": "passPct",
@@ -45970,7 +45981,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "18'",
+          "clock": "20'",
           "statusText": "First Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
