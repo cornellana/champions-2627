@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T22:06:23Z",
+  "lastUpdated": "2026-11-04T00:06:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41692,9 +41692,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "OPAP Arena",
-          "venueCity": "Atenas",
+          "venueCity": "Athens",
           "details": null
         },
         {
@@ -41713,9 +41713,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
-          "stadium": "Ulker Stadyumu",
-          "venueCity": "Estambul",
+          "statusText": null,
+          "stadium": "Şükrü Saracoğlu Stadium",
+          "venueCity": "Istanbul",
           "details": null
         },
         {
@@ -41734,7 +41734,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
           "details": null
@@ -41755,7 +41755,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
           "details": null
@@ -41776,9 +41776,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estádio do Dragão",
-          "venueCity": "Oporto",
+          "venueCity": "Porto",
           "details": null
         },
         {
@@ -41797,7 +41797,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
           "details": null
@@ -41818,7 +41818,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": null
@@ -41839,9 +41839,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Fortuna Arena",
-          "venueCity": "Praga",
+          "venueCity": "Prague",
           "details": null
         },
         {
@@ -41860,7 +41860,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
           "details": null
