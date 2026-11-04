@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:13:13Z",
+  "lastUpdated": "2026-11-04T18:14:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,8 +41691,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "26'",
-          "statusText": "In Progress",
+          "clock": "27'",
+          "statusText": "First Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
           "details": {
@@ -42185,12 +42185,12 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
           "clock": "26'",
-          "statusText": "In Progress",
+          "statusText": "First Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
@@ -42600,22 +42600,33 @@
                 }
               ]
             },
-            "events": null,
+            "events": [
+              {
+                "id": "54800812_1",
+                "type": "GOAL",
+                "minute": 25,
+                "extraTime": null,
+                "playerName": "Trey Nyoni",
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
+              }
+            ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.7",
-                "away": "72.3"
+                "home": "26.6",
+                "away": "73.4"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "6"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -42650,7 +42661,7 @@
               {
                 "key": "accuratePasses",
                 "home": "45",
-                "away": "159"
+                "away": "167"
               },
               {
                 "key": "passPct",
