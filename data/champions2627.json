@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:26:54Z",
+  "lastUpdated": "2026-11-04T19:28:00Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42218,8 +42218,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 82,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Brahim Díaz",
+                "relatedPlayer": "Marc Cucurella",
                 "teamName": "Real Madrid",
                 "text": null
               }
@@ -42299,7 +42299,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42845,23 +42845,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.2",
-                "away": "67.8"
+                "home": "31.4",
+                "away": "68.6"
               },
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "17"
+                "away": "18"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "6",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "foulsCommitted",
@@ -42885,13 +42885,13 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
                 "key": "accuratePasses",
                 "home": "162",
-                "away": "420"
+                "away": "434"
               },
               {
                 "key": "passPct",
