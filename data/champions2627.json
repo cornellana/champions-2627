@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:55:17Z",
+  "lastUpdated": "2026-11-04T18:56:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,7 +41691,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
@@ -42209,8 +42209,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
-          "statusText": "Second Half",
+          "clock": "51'",
+          "statusText": "In Progress",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
           "details": {
