@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:31:16Z",
+  "lastUpdated": "2026-11-04T19:32:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -41691,8 +41691,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
-          "statusText": "Second Half",
+          "clock": "88'",
+          "statusText": "In Progress",
           "stadium": "OPAP Arena",
           "venueCity": "Athens",
           "details": {
@@ -42238,8 +42238,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 86,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Carlos Espí",
+                "relatedPlayer": "Jude Bellingham",
                 "teamName": "Real Madrid",
                 "text": null
               }
@@ -42247,23 +42247,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.9",
-                "away": "70.1"
+                "home": "29.8",
+                "away": "70.2"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "19"
+                "away": "20"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "5",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -42287,13 +42287,13 @@
               },
               {
                 "key": "saves",
-                "home": "4",
+                "home": "5",
                 "away": "3"
               },
               {
                 "key": "accuratePasses",
                 "home": "219",
-                "away": "547"
+                "away": "551"
               },
               {
                 "key": "passPct",
@@ -42319,7 +42319,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Şükrü Saracoğlu Stadium",
           "venueCity": "Istanbul",
@@ -42866,7 +42866,17 @@
                 "type": "SUBSTITUTION",
                 "minute": 85,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Lewis Koumas",
+                "relatedPlayer": "Trey Nyoni",
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "54802569_17",
+                "type": "YELLOW_CARD",
+                "minute": 85,
+                "extraTime": null,
+                "playerName": "Alexis Mac Allister",
                 "relatedPlayer": null,
                 "teamName": "Liverpool",
                 "text": null
@@ -42875,12 +42885,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "32.1",
-                "away": "67.9"
+                "home": "32.2",
+                "away": "67.8"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "16",
                 "away": "19"
               },
               {
@@ -42896,7 +42906,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -42906,7 +42916,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -42920,7 +42930,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "174",
+                "home": "176",
                 "away": "446"
               },
               {
