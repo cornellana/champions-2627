@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:34:09Z",
+  "lastUpdated": "2026-11-04T21:35:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -42987,7 +42987,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Signal Iduna Park",
           "venueCity": "Aue",
@@ -43497,17 +43497,27 @@
                 "relatedPlayer": "Abde Ezzalzouli",
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "54815337_22",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": "Fran García",
+                "relatedPlayer": "Valentín Gómez",
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "57.4",
+                "away": "42.6"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "7"
               },
               {
@@ -43523,7 +43533,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -43543,12 +43553,12 @@
               {
                 "key": "saves",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "323",
-                "away": "245"
+                "home": "328",
+                "away": "248"
               },
               {
                 "key": "passPct",
@@ -43574,7 +43584,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Stade Bollaert-Delelis",
           "venueCity": "Lens",
@@ -44161,8 +44171,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 70,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Andrija Bulatovic",
+                "relatedPlayer": "Amadou Haidara",
                 "teamName": "Lens",
                 "text": null
               }
@@ -44242,7 +44252,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Estádio do Dragão",
           "venueCity": "Porto",
@@ -44741,8 +44751,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.3",
-                "away": "45.7"
+                "home": "53.7",
+                "away": "46.3"
               },
               {
                 "key": "totalShots",
@@ -44762,7 +44772,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -44786,8 +44796,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "374",
-                "away": "299"
+                "home": "375",
+                "away": "308"
               },
               {
                 "key": "passPct",
@@ -44813,7 +44823,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Philips Stadion",
           "venueCity": "Eindhoven",
@@ -45370,7 +45380,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -45890,13 +45900,33 @@
                 "relatedPlayer": "Rômulo",
                 "teamName": "RB Leipzig",
                 "text": null
+              },
+              {
+                "id": "54815258_13",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": "Rocco Reitz",
+                "relatedPlayer": "Antonio Nusa",
+                "teamName": "RB Leipzig",
+                "text": null
+              },
+              {
+                "id": "54815259_14",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Benjamin Henrichs",
+                "relatedPlayer": "Ridle Baku",
+                "teamName": "RB Leipzig",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.7",
-                "away": "66.3"
+                "home": "33.6",
+                "away": "66.4"
               },
               {
                 "key": "totalShots",
@@ -45915,12 +45945,12 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "15",
+                "home": "16",
                 "away": "2"
               },
               {
                 "key": "offsides",
-                "home": "1",
+                "home": "2",
                 "away": "4"
               },
               {
@@ -45941,7 +45971,7 @@
               {
                 "key": "accuratePasses",
                 "home": "246",
-                "away": "532"
+                "away": "538"
               },
               {
                 "key": "passPct",
@@ -45967,7 +45997,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -46583,7 +46613,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Viking Stadion",
           "venueCity": "Stavanger",
@@ -47152,13 +47182,23 @@
                 "relatedPlayer": "Abdulla Xaybulayev",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "54815380_21",
+                "type": "YELLOW_CARD",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Aden McCarthy",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51",
-                "away": "49"
+                "home": "50.7",
+                "away": "49.3"
               },
               {
                 "key": "totalShots",
@@ -47188,7 +47228,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -47202,8 +47242,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "298",
-                "away": "296"
+                "home": "304",
+                "away": "305"
               },
               {
                 "key": "passPct",
