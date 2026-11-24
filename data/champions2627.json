@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:25:14Z",
+  "lastUpdated": "2026-11-24T21:26:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49481,12 +49481,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.8",
-                "away": "41.2"
+                "home": "58.7",
+                "away": "41.3"
               },
               {
                 "key": "totalShots",
-                "home": "20",
+                "home": "22",
                 "away": "12"
               },
               {
@@ -49496,7 +49496,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "5"
               },
               {
@@ -49526,8 +49526,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "357",
-                "away": "238"
+                "home": "358",
+                "away": "242"
               },
               {
                 "key": "passPct",
@@ -49553,7 +49553,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -49977,13 +49977,23 @@
                 "relatedPlayer": "Dereck Kutesa",
                 "teamName": "AEK Atenas",
                 "text": null
+              },
+              {
+                "id": "55642236_12",
+                "type": "YELLOW_CARD",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": "Lovro Majer",
+                "relatedPlayer": null,
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.7",
-                "away": "38.3"
+                "home": "62.4",
+                "away": "37.6"
               },
               {
                 "key": "totalShots",
@@ -50003,7 +50013,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "13",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -50013,7 +50023,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -50027,7 +50037,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "372",
+                "home": "385",
                 "away": "208"
               },
               {
@@ -50054,7 +50064,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50538,13 +50548,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "51.9",
+                "away": "48.1"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -50583,8 +50593,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "306",
-                "away": "272"
+                "home": "307",
+                "away": "282"
               },
               {
                 "key": "passPct",
@@ -51030,8 +51040,8 @@
                 "type": "GOAL",
                 "minute": 67,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ayyoub Bouaddi",
+                "relatedPlayer": "Jérémy Doku following a corner",
                 "teamName": "Manchester City",
                 "text": null
               }
@@ -51039,8 +51049,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65",
-                "away": "35"
+                "home": "64.9",
+                "away": "35.1"
               },
               {
                 "key": "totalShots",
@@ -51084,8 +51094,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "480",
-                "away": "236"
+                "home": "486",
+                "away": "239"
               },
               {
                 "key": "passPct",
@@ -51728,7 +51738,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -52335,7 +52345,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -52839,8 +52849,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.4",
-                "away": "64.6"
+                "home": "35.2",
+                "away": "64.8"
               },
               {
                 "key": "totalShots",
@@ -52859,7 +52869,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "5"
               },
               {
@@ -52884,8 +52894,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "204",
-                "away": "428"
+                "home": "205",
+                "away": "434"
               },
               {
                 "key": "passPct",
