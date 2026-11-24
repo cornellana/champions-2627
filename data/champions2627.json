@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:03:32Z",
+  "lastUpdated": "2026-11-24T18:04:38Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48154,8 +48154,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "75.4",
-                "away": "24.6"
+                "home": "75.5",
+                "away": "24.5"
               },
               {
                 "key": "totalShots",
@@ -48199,8 +48199,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "172",
-                "away": "46"
+                "home": "181",
+                "away": "48"
               },
               {
                 "key": "passPct",
@@ -48226,7 +48226,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48632,8 +48632,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.7",
-                "away": "53.3"
+                "home": "45.1",
+                "away": "54.9"
               },
               {
                 "key": "totalShots",
@@ -48652,7 +48652,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -48678,7 +48678,7 @@
               {
                 "key": "accuratePasses",
                 "home": "79",
-                "away": "97"
+                "away": "104"
               },
               {
                 "key": "passPct",
