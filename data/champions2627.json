@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:19:43Z",
+  "lastUpdated": "2026-11-24T19:20:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48225,8 +48225,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.6",
-                "away": "36.4"
+                "home": "64",
+                "away": "36"
               },
               {
                 "key": "totalShots",
@@ -48246,7 +48246,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -48270,8 +48270,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "612",
-                "away": "315"
+                "home": "633",
+                "away": "320"
               },
               {
                 "key": "passPct",
@@ -48297,7 +48297,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48817,6 +48817,16 @@
                 "extraTime": null,
                 "playerName": "Gabriel Sara",
                 "relatedPlayer": "Aleksey Batrakov",
+                "teamName": "Galatasaray",
+                "text": null
+              },
+              {
+                "id": "55622709_27",
+                "type": "GOAL",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Deniz Gül",
+                "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
               }
