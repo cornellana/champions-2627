@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T20:30:18Z",
+  "lastUpdated": "2026-11-24T20:31:24Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
+          "clock": "31'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49421,13 +49421,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67",
-                "away": "33"
+                "home": "66.1",
+                "away": "33.9"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -49467,7 +49467,7 @@
               {
                 "key": "accuratePasses",
                 "home": "202",
-                "away": "91"
+                "away": "95"
               },
               {
                 "key": "passPct",
@@ -49493,7 +49493,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "27'",
+          "clock": "28'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -49693,7 +49693,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "4-4-2",
+              "formation": "4-1-2-1-2",
               "players": [
                 {
                   "id": "180047",
@@ -49723,6 +49723,15 @@
                   "athleteID": "218951"
                 },
                 {
+                  "id": "239738",
+                  "jersey": 18,
+                  "name": "Razvan Marin",
+                  "position": "DM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "239738"
+                },
+                {
                   "id": "285427",
                   "jersey": 3,
                   "name": "Stavros Pilios",
@@ -49741,31 +49750,22 @@
                   "athleteID": "302487"
                 },
                 {
-                  "id": "239738",
-                  "jersey": 18,
-                  "name": "Razvan Marin",
-                  "position": "CM-L",
+                  "id": "192943",
+                  "jersey": 8,
+                  "name": "Mijat Gacinovic",
+                  "position": "AM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "239738"
+                  "athleteID": "192943"
                 },
                 {
                   "id": "364626",
                   "jersey": 27,
                   "name": "Milán Vitális",
-                  "position": "CM-R",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "364626"
-                },
-                {
-                  "id": "192943",
-                  "jersey": 8,
-                  "name": "Mijat Gacinovic",
                   "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "192943"
+                  "athleteID": "364626"
                 },
                 {
                   "id": "237549",
@@ -49892,8 +49892,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.7",
-                "away": "39.3"
+                "home": "57.6",
+                "away": "42.4"
               },
               {
                 "key": "totalShots",
@@ -49912,13 +49912,13 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "4"
               },
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "yellowCards",
@@ -49937,8 +49937,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "125",
-                "away": "72"
+                "home": "134",
+                "away": "89"
               },
               {
                 "key": "passPct",
@@ -49964,7 +49964,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50428,22 +50428,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.7",
-                "away": "37.3"
+                "home": "63",
+                "away": "37"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -50473,8 +50473,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "150",
-                "away": "79"
+                "home": "156",
+                "away": "81"
               },
               {
                 "key": "passPct",
@@ -50500,7 +50500,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -50888,13 +50888,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.3",
-                "away": "30.7"
+                "home": "71.5",
+                "away": "28.5"
               },
               {
                 "key": "totalShots",
                 "home": "5",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -50933,8 +50933,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "217",
-                "away": "86"
+                "home": "245",
+                "away": "87"
               },
               {
                 "key": "passPct",
@@ -50960,8 +50960,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
-          "statusText": "In Progress",
+          "clock": "31'",
+          "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -51405,8 +51405,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.9",
-                "away": "31.1"
+                "home": "68",
+                "away": "32"
               },
               {
                 "key": "totalShots",
@@ -51431,7 +51431,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -51450,8 +51450,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "197",
-                "away": "66"
+                "home": "198",
+                "away": "69"
               },
               {
                 "key": "passPct",
@@ -51477,8 +51477,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "30'",
-          "statusText": "In Progress",
+          "clock": "31'",
+          "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -51901,12 +51901,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.3",
-                "away": "45.7"
+                "home": "53.7",
+                "away": "46.3"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "2",
                 "away": "5"
               },
               {
@@ -51921,7 +51921,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -51931,7 +51931,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -51946,8 +51946,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "168",
-                "away": "135"
+                "home": "163",
+                "away": "134"
               },
               {
                 "key": "passPct",
@@ -51973,7 +51973,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -52412,13 +52412,23 @@
                 "relatedPlayer": null,
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "55632286_2",
+                "type": "YELLOW_CARD",
+                "minute": 29,
+                "extraTime": null,
+                "playerName": "Rahim Ibrahim",
+                "relatedPlayer": null,
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.9",
-                "away": "51.1"
+                "home": "46.6",
+                "away": "53.4"
               },
               {
                 "key": "totalShots",
@@ -52447,7 +52457,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -52463,7 +52473,7 @@
               {
                 "key": "accuratePasses",
                 "home": "127",
-                "away": "142"
+                "away": "158"
               },
               {
                 "key": "passPct",
