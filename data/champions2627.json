@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:56:41Z",
+  "lastUpdated": "2026-11-24T18:57:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48154,8 +48154,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.6",
-                "away": "33.4"
+                "home": "66.4",
+                "away": "33.6"
               },
               {
                 "key": "totalShots",
@@ -48199,8 +48199,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "495",
-                "away": "218"
+                "home": "503",
+                "away": "223"
               },
               {
                 "key": "passPct",
@@ -48226,7 +48226,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48654,7 +48654,7 @@
                 "type": "YELLOW_CARD",
                 "minute": 53,
                 "extraTime": null,
-                "playerName": "Alexey Batrakov",
+                "playerName": "Aleksey Batrakov",
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
