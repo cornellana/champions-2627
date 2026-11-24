@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:55:02Z",
+  "lastUpdated": "2026-11-24T21:56:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -50194,8 +50194,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+5'",
-          "statusText": "Second Half",
+          "clock": "90'+6'",
+          "statusText": "In Progress",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -50763,6 +50763,26 @@
                 "relatedPlayer": "Javi López",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "55647306_23",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 4,
+                "playerName": "Gonçalo Borges",
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
+              },
+              {
+                "id": "55647307_24",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 4,
+                "playerName": "Pablo Rosario",
+                "relatedPlayer": null,
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
@@ -50794,12 +50814,12 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "yellowCards",
-                "home": "1",
-                "away": "3"
+                "home": "2",
+                "away": "4"
               },
               {
                 "key": "redCards",
@@ -50814,7 +50834,7 @@
               {
                 "key": "accuratePasses",
                 "home": "433",
-                "away": "331"
+                "away": "332"
               },
               {
                 "key": "passPct",
