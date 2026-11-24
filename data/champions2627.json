@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:57:13Z",
+  "lastUpdated": "2026-11-24T22:07:18Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54806,6 +54806,16 @@
       "position": 2
     },
     {
+      "team": "Como",
+      "played": 5,
+      "won": 4,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 20,
+      "goalsAgainst": 6,
+      "position": 3
+    },
+    {
       "team": "Real Betis",
       "played": 5,
       "won": 4,
@@ -54813,7 +54823,7 @@
       "lost": 1,
       "goalsFor": 10,
       "goalsAgainst": 6,
-      "position": 3
+      "position": 4
     },
     {
       "team": "Arsenal",
@@ -54823,7 +54833,7 @@
       "lost": 0,
       "goalsFor": 9,
       "goalsAgainst": 4,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Manchester City",
@@ -54833,7 +54843,7 @@
       "lost": 1,
       "goalsFor": 14,
       "goalsAgainst": 9,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Borussia Dortmund",
@@ -54842,16 +54852,6 @@
       "drawn": 1,
       "lost": 1,
       "goalsFor": 8,
-      "goalsAgainst": 6,
-      "position": 6
-    },
-    {
-      "team": "Como",
-      "played": 4,
-      "won": 3,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 19,
       "goalsAgainst": 6,
       "position": 7
     },
@@ -54976,6 +54976,16 @@
       "position": 19
     },
     {
+      "team": "Oporto",
+      "played": 5,
+      "won": 2,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 7,
+      "goalsAgainst": 7,
+      "position": 20
+    },
+    {
       "team": "RB Leipzig",
       "played": 5,
       "won": 2,
@@ -54983,7 +54993,7 @@
       "lost": 3,
       "goalsFor": 8,
       "goalsAgainst": 12,
-      "position": 20
+      "position": 21
     },
     {
       "team": "Fenerbahçe",
@@ -54993,7 +55003,7 @@
       "lost": 1,
       "goalsFor": 6,
       "goalsAgainst": 11,
-      "position": 21
+      "position": 22
     },
     {
       "team": "Roma",
@@ -55003,7 +55013,7 @@
       "lost": 2,
       "goalsFor": 10,
       "goalsAgainst": 8,
-      "position": 22
+      "position": 23
     },
     {
       "team": "Shajtar Donetsk",
@@ -55013,7 +55023,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 4,
-      "position": 23
+      "position": 24
     },
     {
       "team": "Viking",
@@ -55023,7 +55033,7 @@
       "lost": 2,
       "goalsFor": 9,
       "goalsAgainst": 10,
-      "position": 24
+      "position": 25
     },
     {
       "team": "Atlético de Madrid",
@@ -55033,7 +55043,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 5,
-      "position": 25
+      "position": 26
     },
     {
       "team": "Nápoles",
@@ -55043,7 +55053,7 @@
       "lost": 3,
       "goalsFor": 8,
       "goalsAgainst": 13,
-      "position": 26
+      "position": 27
     },
     {
       "team": "PSV",
@@ -55053,16 +55063,6 @@
       "lost": 3,
       "goalsFor": 4,
       "goalsAgainst": 9,
-      "position": 27
-    },
-    {
-      "team": "Oporto",
-      "played": 4,
-      "won": 1,
-      "drawn": 0,
-      "lost": 3,
-      "goalsFor": 6,
-      "goalsAgainst": 7,
       "position": 28
     },
     {
@@ -55076,16 +55076,6 @@
       "position": 29
     },
     {
-      "team": "AEK Atenas",
-      "played": 4,
-      "won": 1,
-      "drawn": 0,
-      "lost": 3,
-      "goalsFor": 5,
-      "goalsAgainst": 11,
-      "position": 30
-    },
-    {
       "team": "Sabah",
       "played": 4,
       "won": 1,
@@ -55093,16 +55083,26 @@
       "lost": 3,
       "goalsFor": 4,
       "goalsAgainst": 10,
+      "position": 30
+    },
+    {
+      "team": "AEK Atenas",
+      "played": 5,
+      "won": 1,
+      "drawn": 0,
+      "lost": 4,
+      "goalsFor": 5,
+      "goalsAgainst": 12,
       "position": 31
     },
     {
       "team": "Feyenoord",
-      "played": 4,
+      "played": 5,
       "won": 1,
       "drawn": 0,
-      "lost": 3,
+      "lost": 4,
       "goalsFor": 4,
-      "goalsAgainst": 11,
+      "goalsAgainst": 12,
       "position": 32
     },
     {
