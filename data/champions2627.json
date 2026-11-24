@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:15:20Z",
+  "lastUpdated": "2026-11-24T19:16:26Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48180,6 +48180,16 @@
                 "relatedPlayer": null,
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "55622592_10",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
@@ -48257,7 +48267,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
