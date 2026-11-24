@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:12:04Z",
+  "lastUpdated": "2026-11-24T19:13:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48175,13 +48175,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.9",
-                "away": "35.1"
+                "home": "63.5",
+                "away": "36.5"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -48220,8 +48220,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "581",
-                "away": "280"
+                "home": "580",
+                "away": "301"
               },
               {
                 "key": "passPct",
@@ -48247,7 +48247,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48734,8 +48734,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.9",
-                "away": "52.1"
+                "home": "47.1",
+                "away": "52.9"
               },
               {
                 "key": "totalShots",
@@ -48779,8 +48779,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "240",
-                "away": "281"
+                "home": "242",
+                "away": "295"
               },
               {
                 "key": "passPct",
