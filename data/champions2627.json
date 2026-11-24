@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:07:40Z",
+  "lastUpdated": "2026-11-24T19:08:46Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48175,13 +48175,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65",
-                "away": "35"
+                "home": "65.2",
+                "away": "34.8"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -48220,8 +48220,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "542",
-                "away": "262"
+                "home": "558",
+                "away": "267"
               },
               {
                 "key": "passPct",
@@ -48247,7 +48247,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48709,13 +48709,33 @@
                 "relatedPlayer": "Eren Elmalı",
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "55622387_13",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Ibrahim Mbaye",
+                "relatedPlayer": "Alysson",
+                "teamName": "Aston Villa",
+                "text": null
+              },
+              {
+                "id": "55622388_14",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Leon Goretzka",
+                "relatedPlayer": "João Gomes",
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.1",
-                "away": "52.9"
+                "home": "47.6",
+                "away": "52.4"
               },
               {
                 "key": "totalShots",
@@ -48729,7 +48749,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -48759,7 +48779,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "235",
+                "home": "240",
                 "away": "281"
               },
               {
