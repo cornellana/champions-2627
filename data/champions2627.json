@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:31:43Z",
+  "lastUpdated": "2026-11-24T19:32:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48869,13 +48869,23 @@
                 "relatedPlayer": "Boubacar Kamara",
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "55623192_29",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": null,
+                "playerName": "Ross Barkley",
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.7",
-                "away": "54.3"
+                "home": "46.1",
+                "away": "53.9"
               },
               {
                 "key": "totalShots",
@@ -48905,7 +48915,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "redCards",
@@ -48919,8 +48929,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "274",
-                "away": "357"
+                "home": "280",
+                "away": "359"
               },
               {
                 "key": "passPct",
