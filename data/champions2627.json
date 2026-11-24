@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:40:31Z",
+  "lastUpdated": "2026-11-24T19:43:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -50539,12 +50539,12 @@
     },
     {
       "team": "Aston Villa",
-      "played": 4,
+      "played": 5,
       "won": 3,
       "drawn": 0,
-      "lost": 1,
+      "lost": 2,
       "goalsFor": 12,
-      "goalsAgainst": 6,
+      "goalsAgainst": 7,
       "position": 6
     },
     {
@@ -50608,6 +50608,16 @@
       "position": 12
     },
     {
+      "team": "Galatasaray",
+      "played": 5,
+      "won": 3,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 9,
+      "goalsAgainst": 9,
+      "position": 13
+    },
+    {
       "team": "Bayern de Múnich",
       "played": 4,
       "won": 2,
@@ -50615,7 +50625,7 @@
       "lost": 0,
       "goalsFor": 12,
       "goalsAgainst": 5,
-      "position": 13
+      "position": 14
     },
     {
       "team": "Stuttgart",
@@ -50625,7 +50635,7 @@
       "lost": 1,
       "goalsFor": 7,
       "goalsAgainst": 4,
-      "position": 14
+      "position": 15
     },
     {
       "team": "Bodø/Glimt",
@@ -50635,7 +50645,7 @@
       "lost": 2,
       "goalsFor": 5,
       "goalsAgainst": 9,
-      "position": 15
+      "position": 16
     },
     {
       "team": "Inter de Milán",
@@ -50645,7 +50655,7 @@
       "lost": 2,
       "goalsFor": 8,
       "goalsAgainst": 6,
-      "position": 16
+      "position": 17
     },
     {
       "team": "LASK",
@@ -50655,7 +50665,7 @@
       "lost": 3,
       "goalsFor": 10,
       "goalsAgainst": 10,
-      "position": 17
+      "position": 18
     },
     {
       "team": "Manchester United",
@@ -50665,16 +50675,6 @@
       "lost": 2,
       "goalsFor": 8,
       "goalsAgainst": 8,
-      "position": 18
-    },
-    {
-      "team": "Galatasaray",
-      "played": 4,
-      "won": 2,
-      "drawn": 0,
-      "lost": 2,
-      "goalsFor": 8,
-      "goalsAgainst": 9,
       "position": 19
     },
     {
