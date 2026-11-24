@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T20:23:41Z",
+  "lastUpdated": "2026-11-24T20:24:47Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49421,13 +49421,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.5",
-                "away": "31.5"
+                "home": "64.2",
+                "away": "35.8"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
@@ -49437,7 +49437,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -49467,7 +49467,7 @@
               {
                 "key": "accuratePasses",
                 "home": "159",
-                "away": "69"
+                "away": "84"
               },
               {
                 "key": "passPct",
@@ -49493,7 +49493,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -49892,8 +49892,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.3",
-                "away": "48.7"
+                "home": "49.1",
+                "away": "50.9"
               },
               {
                 "key": "totalShots",
@@ -49908,7 +49908,7 @@
               {
                 "key": "wonCorners",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -49937,8 +49937,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "70",
-                "away": "62"
+                "home": "74",
+                "away": "70"
               },
               {
                 "key": "passPct",
@@ -49964,7 +49964,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50418,12 +50418,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.8",
-                "away": "41.2"
+                "home": "58.2",
+                "away": "41.8"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -50439,7 +50439,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -50463,8 +50463,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "100",
-                "away": "65"
+                "home": "103",
+                "away": "69"
               },
               {
                 "key": "passPct",
@@ -50490,7 +50490,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -50708,7 +50708,7 @@
               ]
             },
             "awayLineup": {
-              "formation": "5-4-1",
+              "formation": "4-5-1",
               "players": [
                 {
                   "id": "219531",
@@ -50720,31 +50720,22 @@
                   "athleteID": "219531"
                 },
                 {
-                  "id": "205576",
-                  "jersey": 13,
-                  "name": "Amir Rrahmani",
-                  "position": "CD",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "205576"
-                },
-                {
-                  "id": "234881",
-                  "jersey": 17,
-                  "name": "Mathías Olivera",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "234881"
-                },
-                {
                   "id": "261594",
                   "jersey": 31,
                   "name": "Sam Beukema",
-                  "position": "CD-R",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "261594"
+                },
+                {
+                  "id": "205576",
+                  "jersey": 13,
+                  "name": "Amir Rrahmani",
+                  "position": "CD-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "205576"
                 },
                 {
                   "id": "255344",
@@ -50765,22 +50756,31 @@
                   "athleteID": "148974"
                 },
                 {
-                  "id": "274217",
-                  "jersey": 6,
-                  "name": "Billy Gilmour",
-                  "position": "CM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "274217"
-                },
-                {
                   "id": "134947",
                   "jersey": 11,
                   "name": "Kevin De Bruyne",
-                  "position": "CM-R",
+                  "position": "CM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "134947"
+                },
+                {
+                  "id": "234881",
+                  "jersey": 17,
+                  "name": "Mathías Olivera",
+                  "position": "CM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "234881"
+                },
+                {
+                  "id": "274217",
+                  "jersey": 6,
+                  "name": "Billy Gilmour",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "274217"
                 },
                 {
                   "id": "255850",
@@ -50878,8 +50878,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.4",
-                "away": "31.6"
+                "home": "66.8",
+                "away": "33.2"
               },
               {
                 "key": "totalShots",
@@ -50923,8 +50923,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "180",
-                "away": "75"
+                "home": "184",
+                "away": "83"
               },
               {
                 "key": "passPct",
@@ -50950,7 +50950,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51395,12 +51395,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "74",
-                "away": "26"
+                "home": "72.8",
+                "away": "27.2"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "0"
               },
               {
@@ -51440,8 +51440,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "141",
-                "away": "36"
+                "home": "156",
+                "away": "43"
               },
               {
                 "key": "passPct",
@@ -51467,7 +51467,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -51963,7 +51963,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
