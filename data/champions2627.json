@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:01:04Z",
+  "lastUpdated": "2026-11-24T19:02:10Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48199,8 +48199,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "528",
-                "away": "244"
+                "home": "529",
+                "away": "245"
               },
               {
                 "key": "passPct",
@@ -48226,7 +48226,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48658,17 +48658,37 @@
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "55622123_10",
+                "type": "YELLOW_CARD",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "João Gomes",
+                "relatedPlayer": null,
+                "teamName": "Aston Villa",
+                "text": null
+              },
+              {
+                "id": "55622124_11",
+                "type": "YELLOW_CARD",
+                "minute": 58,
+                "extraTime": null,
+                "playerName": "Yunus Akgün",
+                "relatedPlayer": null,
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44",
-                "away": "56"
+                "home": "45.9",
+                "away": "54.1"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -48684,7 +48704,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -48693,8 +48713,8 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
-                "away": "2"
+                "home": "2",
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -48708,8 +48728,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "193",
-                "away": "269"
+                "home": "214",
+                "away": "272"
               },
               {
                 "key": "passPct",
