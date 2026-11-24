@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:24:04Z",
+  "lastUpdated": "2026-11-24T19:25:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48220,6 +48220,26 @@
                 "relatedPlayer": "Ola Brynhildsen",
                 "teamName": "Bodø/Glimt",
                 "text": null
+              },
+              {
+                "id": "55622828_14",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
+              },
+              {
+                "id": "55622829_15",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
@@ -48240,7 +48260,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "4",
                 "away": "0"
               },
               {
@@ -48297,7 +48317,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48829,18 +48849,28 @@
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "55622818_28",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Emiliano Buendía",
+                "relatedPlayer": "Boubacar Kamara",
+                "teamName": "Aston Villa",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.9",
-                "away": "54.1"
+                "home": "46.5",
+                "away": "53.5"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
@@ -48879,8 +48909,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "252",
-                "away": "329"
+                "home": "259",
+                "away": "330"
               },
               {
                 "key": "passPct",
