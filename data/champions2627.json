@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:23:02Z",
+  "lastUpdated": "2026-11-24T21:24:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49452,8 +49452,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 65,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Eberechi Eze",
+                "relatedPlayer": "Christos Tzolis",
                 "teamName": "Arsenal",
                 "text": null
               },
@@ -49472,8 +49472,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 65,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Bruno Guimarães",
+                "relatedPlayer": "Myles Lewis-Skelly",
                 "teamName": "Arsenal",
                 "text": null
               }
@@ -49501,8 +49501,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
-                "away": "8"
+                "home": "5",
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -49526,8 +49526,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "354",
-                "away": "233"
+                "home": "355",
+                "away": "234"
               },
               {
                 "key": "passPct",
@@ -49553,7 +49553,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "61'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -49967,13 +49967,23 @@
                 "relatedPlayer": "Martin Baturina",
                 "teamName": "Como",
                 "text": null
+              },
+              {
+                "id": "55641530_11",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Barnabás Varga",
+                "relatedPlayer": "Dereck Kutesa",
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.7",
-                "away": "36.3"
+                "home": "62.8",
+                "away": "37.2"
               },
               {
                 "key": "totalShots",
@@ -49992,7 +50002,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "13",
                 "away": "11"
               },
               {
@@ -50018,7 +50028,7 @@
               {
                 "key": "accuratePasses",
                 "home": "371",
-                "away": "188"
+                "away": "196"
               },
               {
                 "key": "passPct",
@@ -50044,7 +50054,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50600,7 +50610,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -51091,7 +51101,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51621,13 +51631,23 @@
                 "relatedPlayer": "Florian Sotoca",
                 "teamName": "Lens",
                 "text": null
+              },
+              {
+                "id": "55641534_18",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Mezian Mesloub",
+                "relatedPlayer": "Abdallah Sima",
+                "teamName": "Lens",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.8",
-                "away": "39.2"
+                "home": "60.3",
+                "away": "39.7"
               },
               {
                 "key": "totalShots",
@@ -51641,7 +51661,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "4"
               },
               {
@@ -51671,8 +51691,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "393",
-                "away": "211"
+                "home": "397",
+                "away": "220"
               },
               {
                 "key": "passPct",
@@ -51694,11 +51714,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-1",
+          "result": "3-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -52218,22 +52238,32 @@
                 "relatedPlayer": null,
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "55641581_17",
+                "type": "GOAL",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Kylian Mbappé",
+                "relatedPlayer": "Arda Güler",
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "57.2",
+                "away": "42.8"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "5",
+                "home": "6",
                 "away": "1"
               },
               {
@@ -52268,8 +52298,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "356",
-                "away": "239"
+                "home": "357",
+                "away": "240"
               },
               {
                 "key": "passPct",
@@ -52295,7 +52325,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -52799,12 +52829,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.6",
-                "away": "64.4"
+                "home": "35.9",
+                "away": "64.1"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "13"
               },
               {
@@ -52844,8 +52874,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "201",
-                "away": "415"
+                "home": "204",
+                "away": "417"
               },
               {
                 "key": "passPct",
@@ -54602,6 +54632,13 @@
       "athleteID": null
     },
     {
+      "player": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "goals": 5,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Nicolò Tresoldi",
       "team": "Brujas",
       "goals": 5,
@@ -54641,13 +54678,6 @@
       "team": "Bayern de Múnich",
       "goals": 4,
       "penalties": 2,
-      "athleteID": null
-    },
-    {
-      "player": "Kylian Mbappé",
-      "team": "Real Madrid",
-      "goals": 4,
-      "penalties": 0,
       "athleteID": null
     },
     {
@@ -54888,6 +54918,12 @@
       "athleteID": null
     },
     {
+      "player": "Arda Güler",
+      "team": "Real Madrid",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
       "player": "Arda Güler with a cross following a corner",
       "team": "Real Madrid",
       "goals": 2,
@@ -55070,12 +55106,6 @@
     {
       "player": "Archie Brown with a cross",
       "team": "Fenerbahçe",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Arda Güler",
-      "team": "Real Madrid",
       "goals": 1,
       "athleteID": null
     },
