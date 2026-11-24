@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:16:26Z",
+  "lastUpdated": "2026-11-24T19:17:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48186,22 +48186,52 @@
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
+                "playerName": "Daniel Elfadli",
+                "relatedPlayer": "Krystof Danek",
+                "teamName": "LASK",
+                "text": null
+              },
+              {
+                "id": "55622619_11",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
-                "teamName": "LASK",
+                "teamName": "Bodø/Glimt",
+                "text": null
+              },
+              {
+                "id": "55622620_12",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
+                "text": null
+              },
+              {
+                "id": "55622621_13",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bodø/Glimt",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.9",
-                "away": "36.1"
+                "home": "63.4",
+                "away": "36.6"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
@@ -48241,7 +48271,7 @@
               {
                 "key": "accuratePasses",
                 "home": "593",
-                "away": "301"
+                "away": "307"
               },
               {
                 "key": "passPct",
@@ -48267,7 +48297,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48749,6 +48779,46 @@
                 "relatedPlayer": "João Gomes",
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "55622615_21",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "George Hemmings",
+                "relatedPlayer": "Johan Manzambi",
+                "teamName": "Aston Villa",
+                "text": null
+              },
+              {
+                "id": "55622616_22",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Ross Barkley",
+                "relatedPlayer": "John McGinn",
+                "teamName": "Aston Villa",
+                "text": null
+              },
+              {
+                "id": "55622617_24",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Lesley Ugochukwu",
+                "relatedPlayer": "Mario Lemina because of an injury",
+                "teamName": "Galatasaray",
+                "text": null
+              },
+              {
+                "id": "55622618_26",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Gabriel Sara",
+                "relatedPlayer": "Aleksey Batrakov",
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
@@ -48799,8 +48869,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "244",
-                "away": "296"
+                "home": "246",
+                "away": "299"
               },
               {
                 "key": "passPct",
