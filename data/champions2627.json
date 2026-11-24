@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:31:59Z",
+  "lastUpdated": "2026-11-24T18:34:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48199,8 +48199,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "404",
-                "away": "169"
+                "home": "405",
+                "away": "170"
               },
               {
                 "key": "passPct",
