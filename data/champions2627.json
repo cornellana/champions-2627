@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:06:49Z",
+  "lastUpdated": "2026-11-24T18:07:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48154,8 +48154,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "78.1",
-                "away": "21.9"
+                "home": "79.4",
+                "away": "20.6"
               },
               {
                 "key": "totalShots",
@@ -48199,7 +48199,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "218",
+                "home": "237",
                 "away": "49"
               },
               {
@@ -48226,7 +48226,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48280,58 +48280,58 @@
                   "athleteID": "286569"
                 },
                 {
-                  "id": "266575",
-                  "jersey": 11,
-                  "name": "Yunus Akgün",
-                  "position": "AM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "266575"
-                },
-                {
-                  "id": "181729",
-                  "jersey": 99,
-                  "name": "Mario Lemina",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "181729"
-                },
-                {
-                  "id": "287678",
-                  "jersey": 17,
-                  "name": "Eren Elmali",
-                  "position": "RM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "287678"
-                },
-                {
                   "id": "355113",
                   "jersey": 83,
                   "name": "Alexey Batrakov",
-                  "position": "F",
+                  "position": "AM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "355113"
                 },
                 {
+                  "id": "212973",
+                  "jersey": 34,
+                  "name": "Lucas Torreira",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "212973"
+                },
+                {
+                  "id": "181729",
+                  "jersey": 99,
+                  "name": "Mario Lemina",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "181729"
+                },
+                {
                   "id": "322538",
                   "jersey": 53,
                   "name": "Baris Alper Yilmaz",
-                  "position": "AM-L",
+                  "position": "F",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "322538"
                 },
                 {
-                  "id": "212973",
-                  "jersey": 34,
-                  "name": "Lucas Torreira",
+                  "id": "287678",
+                  "jersey": 17,
+                  "name": "Eren Elmali",
+                  "position": "AM-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "287678"
+                },
+                {
+                  "id": "266575",
+                  "jersey": 11,
+                  "name": "Yunus Akgün",
                   "position": "AM-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "212973"
+                  "athleteID": "266575"
                 },
                 {
                   "id": "202641",
@@ -48632,8 +48632,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.8",
-                "away": "55.2"
+                "home": "45.1",
+                "away": "54.9"
               },
               {
                 "key": "totalShots",
@@ -48677,8 +48677,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "89",
-                "away": "117"
+                "home": "92",
+                "away": "119"
               },
               {
                 "key": "passPct",
