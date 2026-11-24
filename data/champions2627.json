@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T20:49:06Z",
+  "lastUpdated": "2026-11-24T20:50:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -49493,8 +49493,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "First Half",
+          "clock": "45'+2'",
+          "statusText": "In Progress",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": {
@@ -49892,12 +49892,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.3",
-                "away": "38.7"
+                "home": "62.6",
+                "away": "37.4"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "4"
               },
               {
@@ -49937,7 +49937,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "241",
+                "home": "252",
                 "away": "135"
               },
               {
@@ -50473,7 +50473,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "241",
+                "home": "240",
                 "away": "187"
               },
               {
