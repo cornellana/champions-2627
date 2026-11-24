@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:36:06Z",
+  "lastUpdated": "2026-11-24T19:37:12Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47761,13 +47761,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "1-0",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+4'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -48347,8 +48347,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+4'",
-          "statusText": "Second Half",
+          "clock": "90'+5'",
+          "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -48899,13 +48899,23 @@
                 "relatedPlayer": null,
                 "teamName": "Aston Villa",
                 "text": null
+              },
+              {
+                "id": "55623316_34",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": 2,
+                "playerName": "Ilkay Gündogan",
+                "relatedPlayer": "Lucas Torreira because of an injury",
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.7",
-                "away": "54.3"
+                "home": "45.6",
+                "away": "54.4"
               },
               {
                 "key": "totalShots",
@@ -48949,8 +48959,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "281",
-                "away": "366"
+                "home": "284",
+                "away": "371"
               },
               {
                 "key": "passPct",
