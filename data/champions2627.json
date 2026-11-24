@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:13:09Z",
+  "lastUpdated": "2026-11-24T19:14:14Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48170,18 +48170,28 @@
                 "relatedPlayer": "Alessandro Schöpf",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "55622550_9",
+                "type": "YELLOW_CARD",
+                "minute": 71,
+                "extraTime": null,
+                "playerName": "Krystof Danek",
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.5",
-                "away": "36.5"
+                "home": "63.7",
+                "away": "36.3"
               },
               {
                 "key": "totalShots",
                 "home": "6",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
@@ -48196,7 +48206,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -48206,7 +48216,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -48220,7 +48230,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "580",
+                "home": "585",
                 "away": "301"
               },
               {
@@ -48247,7 +48257,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48734,12 +48744,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.1",
-                "away": "52.9"
+                "home": "47.3",
+                "away": "52.7"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
@@ -48779,8 +48789,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "242",
-                "away": "295"
+                "home": "244",
+                "away": "296"
               },
               {
                 "key": "passPct",
