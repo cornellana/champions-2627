@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:52:15Z",
+  "lastUpdated": "2026-11-24T18:53:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48226,7 +48226,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "50'",
+          "clock": "51'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48643,8 +48643,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.4",
-                "away": "55.6"
+                "home": "44.3",
+                "away": "55.7"
               },
               {
                 "key": "totalShots",
@@ -48688,8 +48688,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "181",
-                "away": "245"
+                "home": "187",
+                "away": "254"
               },
               {
                 "key": "passPct",
