@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T20:24:47Z",
+  "lastUpdated": "2026-11-24T20:25:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49493,7 +49493,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -49892,8 +49892,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.1",
-                "away": "50.9"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
@@ -49918,7 +49918,7 @@
               {
                 "key": "offsides",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -49937,8 +49937,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "74",
-                "away": "70"
+                "home": "79",
+                "away": "72"
               },
               {
                 "key": "passPct",
@@ -49964,7 +49964,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50413,13 +50413,23 @@
                 "relatedPlayer": null,
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "55630766_3",
+                "type": "YELLOW_CARD",
+                "minute": 22,
+                "extraTime": null,
+                "playerName": "Alberto Costa",
+                "relatedPlayer": null,
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.2",
-                "away": "41.8"
+                "home": "58.7",
+                "away": "41.3"
               },
               {
                 "key": "totalShots",
@@ -50449,7 +50459,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -50463,8 +50473,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "103",
-                "away": "69"
+                "home": "109",
+                "away": "71"
               },
               {
                 "key": "passPct",
@@ -50490,7 +50500,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "23'",
+          "clock": "24'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -50950,7 +50960,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51395,13 +51405,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.8",
-                "away": "27.2"
+                "home": "72.2",
+                "away": "27.8"
               },
               {
                 "key": "totalShots",
                 "home": "10",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -51440,8 +51450,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "156",
-                "away": "43"
+                "home": "173",
+                "away": "48"
               },
               {
                 "key": "passPct",
@@ -51467,7 +51477,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -51963,7 +51973,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "24'",
+          "clock": "25'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -52407,8 +52417,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.6",
-                "away": "49.4"
+                "home": "53.2",
+                "away": "46.8"
               },
               {
                 "key": "totalShots",
@@ -52427,7 +52437,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "4"
               },
               {
@@ -52452,8 +52462,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "93",
-                "away": "99"
+                "home": "116",
+                "away": "108"
               },
               {
                 "key": "passPct",
