@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T20:22:35Z",
+  "lastUpdated": "2026-11-24T20:23:41Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49421,8 +49421,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "73.9",
-                "away": "26.1"
+                "home": "68.5",
+                "away": "31.5"
               },
               {
                 "key": "totalShots",
@@ -49467,12 +49467,12 @@
               {
                 "key": "accuratePasses",
                 "home": "159",
-                "away": "51"
+                "away": "69"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -49493,7 +49493,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -49964,7 +49964,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "20'",
+          "clock": "21'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50418,8 +50418,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58",
-                "away": "42"
+                "home": "58.8",
+                "away": "41.2"
               },
               {
                 "key": "totalShots",
@@ -50463,7 +50463,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "96",
+                "home": "100",
                 "away": "65"
               },
               {
@@ -50878,8 +50878,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.5",
-                "away": "33.5"
+                "home": "68.4",
+                "away": "31.6"
               },
               {
                 "key": "totalShots",
@@ -50899,7 +50899,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -50923,7 +50923,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "165",
+                "home": "180",
                 "away": "75"
               },
               {
@@ -50950,7 +50950,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51395,8 +51395,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "74.6",
-                "away": "25.4"
+                "home": "74",
+                "away": "26"
               },
               {
                 "key": "totalShots",
@@ -51415,7 +51415,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "5"
               },
               {
@@ -51440,13 +51440,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "136",
-                "away": "32"
+                "home": "141",
+                "away": "36"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.6"
+                "away": "0.7"
               }
             ],
             "penalties": null
@@ -51467,8 +51467,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
-          "statusText": "In Progress",
+          "clock": "23'",
+          "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -51963,7 +51963,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
