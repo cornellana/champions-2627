@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T20:09:21Z",
+  "lastUpdated": "2026-11-24T20:10:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
+          "clock": "10'",
           "statusText": "First Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49410,13 +49410,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "87.4",
-                "away": "12.6"
+                "home": "78.9",
+                "away": "21.1"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -49455,13 +49455,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "66",
-                "away": "7"
+                "home": "75",
+                "away": "18"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.6"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -49482,7 +49482,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "6'",
+          "clock": "7'",
           "statusText": "First Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -49870,8 +49870,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.7",
-                "away": "37.3"
+                "home": "65.6",
+                "away": "34.4"
               },
               {
                 "key": "totalShots",
@@ -49895,7 +49895,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -49915,12 +49915,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "34",
+                "home": "38",
                 "away": "19"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "1.0",
                 "away": "0.9"
               }
             ],
@@ -49942,7 +49942,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50386,18 +50386,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.6",
-                "away": "54.4"
+                "home": "55.4",
+                "away": "44.6"
               },
               {
                 "key": "totalShots",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -50407,7 +50407,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "offsides",
@@ -50426,17 +50426,17 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "19",
-                "away": "23"
+                "home": "36",
+                "away": "27"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -50458,7 +50458,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "7'",
+          "clock": "8'",
           "statusText": "First Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -50846,13 +50846,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "71.1",
-                "away": "28.9"
+                "home": "70.3",
+                "away": "29.7"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -50866,7 +50866,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -51425,7 +51425,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
+          "clock": "10'",
           "statusText": "First Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -51849,13 +51849,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "68.1",
-                "away": "31.9"
+                "home": "66.3",
+                "away": "33.7"
               },
               {
                 "key": "totalShots",
                 "home": "0",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
@@ -51865,7 +51865,7 @@
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -51874,7 +51874,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -51894,8 +51894,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "41",
-                "away": "16"
+                "home": "48",
+                "away": "21"
               },
               {
                 "key": "passPct",
@@ -51921,7 +51921,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "9'",
+          "clock": "10'",
           "statusText": "First Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -52365,8 +52365,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.9",
-                "away": "56.1"
+                "home": "46.2",
+                "away": "53.8"
               },
               {
                 "key": "totalShots",
@@ -52410,8 +52410,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "33",
-                "away": "49"
+                "home": "38",
+                "away": "51"
               },
               {
                 "key": "passPct",
