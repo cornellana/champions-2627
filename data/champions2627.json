@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:56:07Z",
+  "lastUpdated": "2026-11-24T21:57:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -50189,13 +50189,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "0-1",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+6'",
-          "statusText": "In Progress",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": {
@@ -50833,13 +50833,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "433",
+                "home": "434",
                 "away": "332"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -54786,6 +54786,16 @@
   ],
   "standings": [
     {
+      "team": "Real Madrid",
+      "played": 5,
+      "won": 5,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 18,
+      "goalsAgainst": 8,
+      "position": 1
+    },
+    {
       "team": "Paris Saint-Germain",
       "played": 4,
       "won": 4,
@@ -54793,16 +54803,6 @@
       "lost": 0,
       "goalsFor": 20,
       "goalsAgainst": 5,
-      "position": 1
-    },
-    {
-      "team": "Real Madrid",
-      "played": 4,
-      "won": 4,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 13,
-      "goalsAgainst": 7,
       "position": 2
     },
     {
@@ -55036,16 +55036,6 @@
       "position": 25
     },
     {
-      "team": "PSV",
-      "played": 4,
-      "won": 1,
-      "drawn": 1,
-      "lost": 2,
-      "goalsFor": 3,
-      "goalsAgainst": 4,
-      "position": 26
-    },
-    {
       "team": "Nápoles",
       "played": 5,
       "won": 1,
@@ -55053,6 +55043,16 @@
       "lost": 3,
       "goalsFor": 8,
       "goalsAgainst": 13,
+      "position": 26
+    },
+    {
+      "team": "PSV",
+      "played": 5,
+      "won": 1,
+      "drawn": 1,
+      "lost": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 9,
       "position": 27
     },
     {
