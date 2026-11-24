@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:02:07Z",
+  "lastUpdated": "2026-11-24T21:03:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -50960,8 +50960,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+1'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": {
@@ -51957,6 +51957,16 @@
                 "relatedPlayer": null,
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "55636454_8",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Madrid",
+                "text": null
               }
             ],
             "teamStats": [
@@ -52034,7 +52044,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -52493,13 +52503,23 @@
                 "relatedPlayer": "Ángel Ortiz with a cross",
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "55636382_5",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Marc Roca",
+                "relatedPlayer": "Facundo Bernal",
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.2",
-                "away": "57.8"
+                "home": "41.9",
+                "away": "58.1"
               },
               {
                 "key": "totalShots",
@@ -52543,8 +52563,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "163",
-                "away": "252"
+                "home": "167",
+                "away": "262"
               },
               {
                 "key": "passPct",
