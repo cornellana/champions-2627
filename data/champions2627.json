@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:26:15Z",
+  "lastUpdated": "2026-11-24T19:27:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48226,8 +48226,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 82,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Sasa Kalajdzic",
+                "relatedPlayer": "Samuel Adeniran",
                 "teamName": "LASK",
                 "text": null
               },
@@ -48236,8 +48236,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 82,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Melayro Bogarde",
+                "relatedPlayer": "Kasper Jørgensen",
                 "teamName": "LASK",
                 "text": null
               }
@@ -48245,8 +48245,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.2",
-                "away": "35.8"
+                "home": "64.9",
+                "away": "35.1"
               },
               {
                 "key": "totalShots",
@@ -48290,8 +48290,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "637",
-                "away": "320"
+                "home": "663",
+                "away": "323"
               },
               {
                 "key": "passPct",
@@ -48317,7 +48317,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48864,17 +48864,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.3",
-                "away": "53.7"
+                "home": "46.1",
+                "away": "53.9"
               },
               {
                 "key": "totalShots",
-                "home": "6",
+                "home": "7",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -48884,7 +48884,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "11",
+                "home": "12",
                 "away": "12"
               },
               {
@@ -48910,7 +48910,7 @@
               {
                 "key": "accuratePasses",
                 "home": "259",
-                "away": "333"
+                "away": "337"
               },
               {
                 "key": "passPct",
