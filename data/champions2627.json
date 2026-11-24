@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:38:29Z",
+  "lastUpdated": "2026-11-24T21:39:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49491,8 +49491,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.3",
-                "away": "38.7"
+                "home": "61",
+                "away": "39"
               },
               {
                 "key": "totalShots",
@@ -49536,8 +49536,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "421",
-                "away": "251"
+                "home": "423",
+                "away": "253"
               },
               {
                 "key": "passPct",
@@ -49563,7 +49563,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -50037,13 +50037,23 @@
                 "relatedPlayer": null,
                 "teamName": "AEK Atenas",
                 "text": null
+              },
+              {
+                "id": "55645389_21",
+                "type": "YELLOW_CARD",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": "Stavros Pilios",
+                "relatedPlayer": null,
+                "teamName": "AEK Atenas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.2",
-                "away": "36.8"
+                "home": "63.6",
+                "away": "36.4"
               },
               {
                 "key": "totalShots",
@@ -50073,7 +50083,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
@@ -50087,7 +50097,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "466",
+                "home": "474",
                 "away": "244"
               },
               {
@@ -50114,7 +50124,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50653,13 +50663,23 @@
                 "relatedPlayer": "Charles Vanhoutte",
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "55645375_18",
+                "type": "SUBSTITUTION",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Oporto",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.8",
-                "away": "46.2"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
@@ -50703,7 +50723,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "358",
+                "home": "365",
                 "away": "305"
               },
               {
@@ -50730,7 +50750,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -51189,12 +51209,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.3",
-                "away": "36.7"
+                "home": "63.2",
+                "away": "36.8"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "14",
                 "away": "8"
               },
               {
@@ -51209,7 +51229,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "8"
               },
               {
@@ -51235,7 +51255,7 @@
               {
                 "key": "accuratePasses",
                 "home": "557",
-                "away": "293"
+                "away": "295"
               },
               {
                 "key": "passPct",
@@ -51261,7 +51281,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51836,8 +51856,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.5",
-                "away": "39.5"
+                "home": "60.2",
+                "away": "39.8"
               },
               {
                 "key": "totalShots",
@@ -51851,7 +51871,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "4"
               },
               {
@@ -51877,12 +51897,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "accuratePasses",
-                "home": "463",
-                "away": "260"
+                "home": "469",
+                "away": "267"
               },
               {
                 "key": "passPct",
@@ -51908,7 +51928,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -52555,7 +52575,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
