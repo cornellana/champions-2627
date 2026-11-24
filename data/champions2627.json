@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:52:50Z",
+  "lastUpdated": "2026-11-24T21:53:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -49583,7 +49583,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -50122,8 +50122,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62.5",
-                "away": "37.5"
+                "home": "61.5",
+                "away": "38.5"
               },
               {
                 "key": "totalShots",
@@ -50142,7 +50142,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "14",
+                "home": "15",
                 "away": "17"
               },
               {
@@ -50167,8 +50167,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "517",
-                "away": "283"
+                "home": "519",
+                "away": "297"
               },
               {
                 "key": "passPct",
@@ -50194,7 +50194,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50768,8 +50768,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.4",
-                "away": "43.6"
+                "home": "56.5",
+                "away": "43.5"
               },
               {
                 "key": "totalShots",
@@ -50813,7 +50813,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "429",
+                "home": "431",
                 "away": "330"
               },
               {
@@ -54786,14 +54786,44 @@
       "position": 2
     },
     {
+      "team": "Real Betis",
+      "played": 5,
+      "won": 4,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 6,
+      "position": 3
+    },
+    {
       "team": "Arsenal",
-      "played": 4,
+      "played": 5,
+      "won": 3,
+      "drawn": 2,
+      "lost": 0,
+      "goalsFor": 9,
+      "goalsAgainst": 4,
+      "position": 4
+    },
+    {
+      "team": "Manchester City",
+      "played": 5,
       "won": 3,
       "drawn": 1,
-      "lost": 0,
+      "lost": 1,
+      "goalsFor": 14,
+      "goalsAgainst": 9,
+      "position": 5
+    },
+    {
+      "team": "Borussia Dortmund",
+      "played": 5,
+      "won": 3,
+      "drawn": 1,
+      "lost": 1,
       "goalsFor": 8,
-      "goalsAgainst": 3,
-      "position": 3
+      "goalsAgainst": 6,
+      "position": 6
     },
     {
       "team": "Como",
@@ -54803,7 +54833,7 @@
       "lost": 1,
       "goalsFor": 19,
       "goalsAgainst": 6,
-      "position": 4
+      "position": 7
     },
     {
       "team": "FC Barcelona",
@@ -54813,7 +54843,7 @@
       "lost": 1,
       "goalsFor": 14,
       "goalsAgainst": 6,
-      "position": 5
+      "position": 8
     },
     {
       "team": "Aston Villa",
@@ -54823,17 +54853,7 @@
       "lost": 2,
       "goalsFor": 12,
       "goalsAgainst": 7,
-      "position": 6
-    },
-    {
-      "team": "Manchester City",
-      "played": 4,
-      "won": 3,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 12,
-      "goalsAgainst": 7,
-      "position": 7
+      "position": 9
     },
     {
       "team": "Liverpool",
@@ -54843,7 +54863,7 @@
       "lost": 1,
       "goalsFor": 14,
       "goalsAgainst": 10,
-      "position": 8
+      "position": 10
     },
     {
       "team": "Brujas",
@@ -54853,7 +54873,7 @@
       "lost": 1,
       "goalsFor": 11,
       "goalsAgainst": 7,
-      "position": 9
+      "position": 11
     },
     {
       "team": "Sporting de Portugal",
@@ -54863,26 +54883,6 @@
       "lost": 1,
       "goalsFor": 8,
       "goalsAgainst": 4,
-      "position": 10
-    },
-    {
-      "team": "Real Betis",
-      "played": 4,
-      "won": 3,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 6,
-      "position": 11
-    },
-    {
-      "team": "Borussia Dortmund",
-      "played": 4,
-      "won": 3,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 7,
-      "goalsAgainst": 5,
       "position": 12
     },
     {
@@ -54956,6 +54956,16 @@
       "position": 19
     },
     {
+      "team": "RB Leipzig",
+      "played": 5,
+      "won": 2,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 8,
+      "goalsAgainst": 12,
+      "position": 20
+    },
+    {
       "team": "Fenerbahçe",
       "played": 4,
       "won": 1,
@@ -54963,7 +54973,7 @@
       "lost": 1,
       "goalsFor": 6,
       "goalsAgainst": 11,
-      "position": 20
+      "position": 21
     },
     {
       "team": "Roma",
@@ -54973,7 +54983,7 @@
       "lost": 2,
       "goalsFor": 10,
       "goalsAgainst": 8,
-      "position": 21
+      "position": 22
     },
     {
       "team": "Shajtar Donetsk",
@@ -54983,7 +54993,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 4,
-      "position": 22
+      "position": 23
     },
     {
       "team": "Viking",
@@ -54993,7 +55003,7 @@
       "lost": 2,
       "goalsFor": 9,
       "goalsAgainst": 10,
-      "position": 23
+      "position": 24
     },
     {
       "team": "Atlético de Madrid",
@@ -55003,7 +55013,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 5,
-      "position": 24
+      "position": 25
     },
     {
       "team": "PSV",
@@ -55013,7 +55023,17 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 4,
-      "position": 25
+      "position": 26
+    },
+    {
+      "team": "Nápoles",
+      "played": 5,
+      "won": 1,
+      "drawn": 1,
+      "lost": 3,
+      "goalsFor": 8,
+      "goalsAgainst": 13,
+      "position": 27
     },
     {
       "team": "Oporto",
@@ -55023,17 +55043,7 @@
       "lost": 3,
       "goalsFor": 6,
       "goalsAgainst": 7,
-      "position": 26
-    },
-    {
-      "team": "Nápoles",
-      "played": 4,
-      "won": 1,
-      "drawn": 0,
-      "lost": 3,
-      "goalsFor": 6,
-      "goalsAgainst": 11,
-      "position": 27
+      "position": 28
     },
     {
       "team": "Villarreal",
@@ -55043,20 +55053,10 @@
       "lost": 3,
       "goalsFor": 8,
       "goalsAgainst": 14,
-      "position": 28
-    },
-    {
-      "team": "AEK Atenas",
-      "played": 4,
-      "won": 1,
-      "drawn": 0,
-      "lost": 3,
-      "goalsFor": 5,
-      "goalsAgainst": 11,
       "position": 29
     },
     {
-      "team": "RB Leipzig",
+      "team": "AEK Atenas",
       "played": 4,
       "won": 1,
       "drawn": 0,
@@ -55087,12 +55087,12 @@
     },
     {
       "team": "Lens",
-      "played": 4,
+      "played": 5,
       "won": 1,
       "drawn": 0,
-      "lost": 3,
-      "goalsFor": 4,
-      "goalsAgainst": 16,
+      "lost": 4,
+      "goalsFor": 5,
+      "goalsAgainst": 19,
       "position": 33
     },
     {
@@ -55117,12 +55117,12 @@
     },
     {
       "team": "Slovan Bratislava",
-      "played": 4,
+      "played": 5,
       "won": 0,
       "drawn": 0,
-      "lost": 4,
+      "lost": 5,
       "goalsFor": 1,
-      "goalsAgainst": 17,
+      "goalsAgainst": 19,
       "position": 36
     }
   ],
