@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:36:16Z",
+  "lastUpdated": "2026-11-24T21:37:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49491,8 +49491,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.2",
-                "away": "38.8"
+                "home": "61.3",
+                "away": "38.7"
               },
               {
                 "key": "totalShots",
@@ -49563,7 +49563,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -50009,7 +50009,17 @@
                 "text": null
               },
               {
-                "id": "55644610_14",
+                "id": "55644611_14",
+                "type": "SUBSTITUTION",
+                "minute": 74,
+                "extraTime": null,
+                "playerName": "Zine",
+                "relatedPlayer": "Luka Jovic",
+                "teamName": "AEK Atenas",
+                "text": null
+              },
+              {
+                "id": "55644610_15",
                 "type": "SUBSTITUTION",
                 "minute": 74,
                 "extraTime": null,
@@ -50019,12 +50029,12 @@
                 "text": null
               },
               {
-                "id": "55644611_15",
-                "type": "SUBSTITUTION",
-                "minute": 74,
+                "id": "55644904_18",
+                "type": "YELLOW_CARD",
+                "minute": 76,
                 "extraTime": null,
-                "playerName": "Zine",
-                "relatedPlayer": "Luka Jovic",
+                "playerName": "Razvan Marin",
+                "relatedPlayer": null,
                 "teamName": "AEK Atenas",
                 "text": null
               }
@@ -50032,12 +50042,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.5",
-                "away": "36.5"
+                "home": "63.7",
+                "away": "36.3"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "5"
               },
               {
@@ -50077,7 +50087,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "451",
+                "home": "456",
                 "away": "234"
               },
               {
@@ -50104,7 +50114,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50623,6 +50633,26 @@
                 "relatedPlayer": null,
                 "teamName": "Feyenoord",
                 "text": null
+              },
+              {
+                "id": "55644867_16",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
+              },
+              {
+                "id": "55644868_17",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
@@ -50700,7 +50730,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -51231,7 +51261,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51868,7 +51898,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -52505,7 +52535,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
