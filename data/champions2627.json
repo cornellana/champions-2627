@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:58:15Z",
+  "lastUpdated": "2026-11-24T00:08:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47767,7 +47767,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": null
@@ -47788,9 +47788,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "RAMS Park",
-          "venueCity": "Estambul",
+          "venueCity": "Istanbul",
           "details": null
         },
         {
@@ -47809,9 +47809,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Emirates Stadium",
-          "venueCity": "Londres",
+          "venueCity": "London",
           "details": null
         },
         {
@@ -47830,7 +47830,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
           "details": null
@@ -47851,7 +47851,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
           "details": null
@@ -47872,7 +47872,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
           "details": null
@@ -47893,7 +47893,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
           "details": null
@@ -47914,7 +47914,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": null
@@ -47935,7 +47935,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
           "details": null
