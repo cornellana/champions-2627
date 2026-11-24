@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:01:01Z",
+  "lastUpdated": "2026-11-24T21:02:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,8 +48986,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
           "details": {
@@ -51962,8 +51962,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56",
-                "away": "44"
+                "home": "56.2",
+                "away": "43.8"
               },
               {
                 "key": "totalShots",
@@ -52007,7 +52007,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "260",
+                "home": "262",
                 "away": "184"
               },
               {
@@ -52034,8 +52034,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
           "details": {
