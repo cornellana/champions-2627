@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:04:19Z",
+  "lastUpdated": "2026-11-24T21:05:25Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,8 +48986,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
-          "statusText": "In Progress",
+          "clock": "49'",
+          "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
           "details": {
@@ -49421,13 +49421,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.1",
-                "away": "38.9"
+                "home": "60.8",
+                "away": "39.2"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
@@ -49466,8 +49466,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "276",
-                "away": "161"
+                "home": "294",
+                "away": "177"
               },
               {
                 "key": "passPct",
@@ -50500,7 +50500,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -50888,8 +50888,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.3",
-                "away": "33.7"
+                "home": "66.7",
+                "away": "33.3"
               },
               {
                 "key": "totalShots",
@@ -50908,7 +50908,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "5"
               },
               {
@@ -50933,8 +50933,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "351",
-                "away": "163"
+                "home": "364",
+                "away": "165"
               },
               {
                 "key": "passPct",
@@ -50960,7 +50960,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "47'",
+          "clock": "48'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51425,8 +51425,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.5",
-                "away": "36.5"
+                "home": "62.9",
+                "away": "37.1"
               },
               {
                 "key": "totalShots",
@@ -51466,12 +51466,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "301",
-                "away": "137"
+                "home": "305",
+                "away": "141"
               },
               {
                 "key": "passPct",
@@ -51497,8 +51497,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
           "details": {
@@ -51987,6 +51987,16 @@
                 "relatedPlayer": "Éder Militão",
                 "teamName": "Real Madrid",
                 "text": null
+              },
+              {
+                "id": "55636816_11",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Esmir Bajraktarevic",
+                "relatedPlayer": "Ivan Perisic",
+                "teamName": "PSV",
+                "text": null
               }
             ],
             "teamStats": [
@@ -52064,7 +52074,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "48'",
+          "clock": "49'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
