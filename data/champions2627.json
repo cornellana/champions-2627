@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:04:23Z",
+  "lastUpdated": "2026-11-24T19:05:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,8 +47766,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
-          "statusText": "Second Half",
+          "clock": "63'",
+          "statusText": "In Progress",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
           "details": {
@@ -48152,7 +48152,7 @@
             },
             "events": [
               {
-                "id": "55622184_7",
+                "id": "55622184_6",
                 "type": "SUBSTITUTION",
                 "minute": 61,
                 "extraTime": null,
@@ -48160,13 +48160,23 @@
                 "relatedPlayer": "Christoph Lang because of an injury",
                 "teamName": "LASK",
                 "text": null
+              },
+              {
+                "id": "55622268_7",
+                "type": "SUBSTITUTION",
+                "minute": 61,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "LASK",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.8",
-                "away": "34.2"
+                "home": "64.8",
+                "away": "35.2"
               },
               {
                 "key": "totalShots",
@@ -48211,7 +48221,7 @@
               {
                 "key": "accuratePasses",
                 "home": "530",
-                "away": "245"
+                "away": "259"
               },
               {
                 "key": "passPct",
@@ -48237,7 +48247,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
@@ -48689,13 +48699,23 @@
                 "relatedPlayer": null,
                 "teamName": "Galatasaray",
                 "text": null
+              },
+              {
+                "id": "55622267_12",
+                "type": "SUBSTITUTION",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Deniz Gül",
+                "relatedPlayer": "Eren Elmalı",
+                "teamName": "Galatasaray",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.4",
-                "away": "53.6"
+                "home": "45.9",
+                "away": "54.1"
               },
               {
                 "key": "totalShots",
@@ -48715,7 +48735,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -48739,8 +48759,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "222",
-                "away": "275"
+                "home": "223",
+                "away": "281"
               },
               {
                 "key": "passPct",
