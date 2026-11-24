@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:58:53Z",
+  "lastUpdated": "2026-11-24T18:59:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48154,17 +48154,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.3",
-                "away": "34.7"
+                "home": "64.8",
+                "away": "35.2"
               },
               {
                 "key": "totalShots",
-                "home": "5",
+                "home": "6",
                 "away": "0"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -48175,7 +48175,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -48200,7 +48200,7 @@
               {
                 "key": "accuratePasses",
                 "home": "504",
-                "away": "237"
+                "away": "243"
               },
               {
                 "key": "passPct",
@@ -48226,8 +48226,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
-          "statusText": "Second Half",
+          "clock": "59'",
+          "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -48663,8 +48663,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "44.7",
-                "away": "55.3"
+                "home": "44",
+                "away": "56"
               },
               {
                 "key": "totalShots",
@@ -48708,8 +48708,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "191",
-                "away": "258"
+                "home": "193",
+                "away": "269"
               },
               {
                 "key": "passPct",
