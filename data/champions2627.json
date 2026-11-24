@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:47:52Z",
+  "lastUpdated": "2026-11-24T18:48:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -47766,7 +47766,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Aspmyra Stadion",
           "venueCity": "Bodø/Glimt",
@@ -48226,8 +48226,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
-          "statusText": "Second Half",
+          "clock": "47'",
+          "statusText": "In Progress",
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
