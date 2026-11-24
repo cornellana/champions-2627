@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:44:01Z",
+  "lastUpdated": "2026-11-24T21:45:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49486,13 +49486,23 @@
                 "relatedPlayer": "Jobe Bellingham",
                 "teamName": "Borussia Dortmund",
                 "text": null
+              },
+              {
+                "id": "55646179_15",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Arsenal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "62",
-                "away": "38"
+                "home": "62.6",
+                "away": "37.4"
               },
               {
                 "key": "totalShots",
@@ -49536,7 +49546,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "460",
+                "home": "476",
                 "away": "262"
               },
               {
@@ -49563,7 +49573,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -50092,12 +50102,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.9",
-                "away": "36.1"
+                "home": "64",
+                "away": "36"
               },
               {
                 "key": "totalShots",
-                "home": "15",
+                "home": "16",
                 "away": "7"
               },
               {
@@ -50107,7 +50117,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -50137,8 +50147,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "486",
-                "away": "248"
+                "home": "491",
+                "away": "250"
               },
               {
                 "key": "passPct",
@@ -50164,7 +50174,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50723,13 +50733,23 @@
                 "relatedPlayer": "Alberto Costa",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "55646192_20",
+                "type": "SUBSTITUTION",
+                "minute": 84,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "55.1",
-                "away": "44.9"
+                "home": "55.4",
+                "away": "44.6"
               },
               {
                 "key": "totalShots",
@@ -50743,7 +50763,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "4"
               },
               {
@@ -50773,8 +50793,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "396",
-                "away": "315"
+                "home": "401",
+                "away": "316"
               },
               {
                 "key": "passPct",
@@ -50796,11 +50816,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-2",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -51264,22 +51284,32 @@
                 "relatedPlayer": null,
                 "teamName": "Manchester City",
                 "text": null
+              },
+              {
+                "id": "55646108_11",
+                "type": "GOAL",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Rayan Cherki",
+                "relatedPlayer": "Iliman Ndiaye",
+                "teamName": "Manchester City",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "64.4",
-                "away": "35.6"
+                "home": "64.5",
+                "away": "35.5"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "8"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "6",
+                "home": "7",
                 "away": "3"
               },
               {
@@ -51314,7 +51344,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "593",
+                "home": "596",
                 "away": "297"
               },
               {
@@ -51341,7 +51371,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51998,7 +52028,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -52613,8 +52643,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.8",
-                "away": "39.2"
+                "home": "60.9",
+                "away": "39.1"
               },
               {
                 "key": "totalShots",
@@ -52658,8 +52688,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "501",
-                "away": "285"
+                "home": "510",
+                "away": "289"
               },
               {
                 "key": "passPct",
@@ -52685,7 +52715,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -53234,13 +53264,23 @@
                 "relatedPlayer": "Tigran Barseghyan",
                 "teamName": "Slovan Bratislava",
                 "text": null
+              },
+              {
+                "id": "55646147_15",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Real Betis",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "31.8",
-                "away": "68.2"
+                "home": "32.1",
+                "away": "67.9"
               },
               {
                 "key": "totalShots",
@@ -53259,7 +53299,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
+                "home": "11",
                 "away": "5"
               },
               {
@@ -53284,8 +53324,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "245",
-                "away": "612"
+                "home": "252",
+                "away": "616"
               },
               {
                 "key": "passPct",
