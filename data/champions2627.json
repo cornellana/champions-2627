@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T19:39:23Z",
+  "lastUpdated": "2026-11-24T19:40:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48342,13 +48342,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "1-0",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+7'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "RAMS Park",
           "venueCity": "Istanbul",
           "details": {
@@ -50628,6 +50628,16 @@
       "position": 14
     },
     {
+      "team": "Bodø/Glimt",
+      "played": 5,
+      "won": 2,
+      "drawn": 1,
+      "lost": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 9,
+      "position": 15
+    },
+    {
       "team": "Inter de Milán",
       "played": 4,
       "won": 2,
@@ -50635,17 +50645,17 @@
       "lost": 2,
       "goalsFor": 8,
       "goalsAgainst": 6,
-      "position": 15
+      "position": 16
     },
     {
       "team": "LASK",
-      "played": 4,
+      "played": 5,
       "won": 2,
       "drawn": 0,
-      "lost": 2,
+      "lost": 3,
       "goalsFor": 10,
-      "goalsAgainst": 9,
-      "position": 16
+      "goalsAgainst": 10,
+      "position": 17
     },
     {
       "team": "Manchester United",
@@ -50655,7 +50665,7 @@
       "lost": 2,
       "goalsFor": 8,
       "goalsAgainst": 8,
-      "position": 17
+      "position": 18
     },
     {
       "team": "Galatasaray",
@@ -50665,7 +50675,7 @@
       "lost": 2,
       "goalsFor": 8,
       "goalsAgainst": 9,
-      "position": 18
+      "position": 19
     },
     {
       "team": "Fenerbahçe",
@@ -50675,7 +50685,7 @@
       "lost": 1,
       "goalsFor": 6,
       "goalsAgainst": 11,
-      "position": 19
+      "position": 20
     },
     {
       "team": "Roma",
@@ -50685,7 +50695,7 @@
       "lost": 2,
       "goalsFor": 10,
       "goalsAgainst": 8,
-      "position": 20
+      "position": 21
     },
     {
       "team": "Shajtar Donetsk",
@@ -50695,7 +50705,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 4,
-      "position": 21
+      "position": 22
     },
     {
       "team": "Viking",
@@ -50705,7 +50715,7 @@
       "lost": 2,
       "goalsFor": 9,
       "goalsAgainst": 10,
-      "position": 22
+      "position": 23
     },
     {
       "team": "Atlético de Madrid",
@@ -50715,7 +50725,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 5,
-      "position": 23
+      "position": 24
     },
     {
       "team": "PSV",
@@ -50725,16 +50735,6 @@
       "lost": 2,
       "goalsFor": 3,
       "goalsAgainst": 4,
-      "position": 24
-    },
-    {
-      "team": "Bodø/Glimt",
-      "played": 4,
-      "won": 1,
-      "drawn": 1,
-      "lost": 2,
-      "goalsFor": 4,
-      "goalsAgainst": 9,
       "position": 25
     },
     {
