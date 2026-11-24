@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:26:21Z",
+  "lastUpdated": "2026-11-24T21:27:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49481,12 +49481,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.7",
-                "away": "41.3"
+                "home": "59.4",
+                "away": "40.6"
               },
               {
                 "key": "totalShots",
-                "home": "22",
+                "home": "23",
                 "away": "12"
               },
               {
@@ -49526,13 +49526,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "358",
+                "home": "370",
                 "away": "242"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -49553,7 +49553,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -50064,7 +50064,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50543,6 +50543,16 @@
                 "relatedPlayer": "Victor Froholdt",
                 "teamName": "Oporto",
                 "text": null
+              },
+              {
+                "id": "55642407_8",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Feyenoord",
+                "text": null
               }
             ],
             "teamStats": [
@@ -50620,7 +50630,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -51121,7 +51131,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51643,7 +51653,17 @@
                 "text": null
               },
               {
-                "id": "55641293_17",
+                "id": "55641534_17",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Mezian Mesloub",
+                "relatedPlayer": "Abdallah Sima",
+                "teamName": "Lens",
+                "text": null
+              },
+              {
+                "id": "55641293_18",
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
@@ -51653,21 +51673,21 @@
                 "text": null
               },
               {
-                "id": "55641534_18",
+                "id": "55642406_19",
                 "type": "SUBSTITUTION",
-                "minute": 64,
+                "minute": 68,
                 "extraTime": null,
-                "playerName": "Mezian Mesloub",
-                "relatedPlayer": "Abdallah Sima",
-                "teamName": "Lens",
+                "playerName": "Nicolas Seiwald",
+                "relatedPlayer": "Maxime Estève",
+                "teamName": "RB Leipzig",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60.1",
-                "away": "39.9"
+                "home": "60.6",
+                "away": "39.4"
               },
               {
                 "key": "totalShots",
@@ -51692,7 +51712,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "yellowCards",
@@ -51711,8 +51731,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "397",
-                "away": "224"
+                "home": "411",
+                "away": "228"
               },
               {
                 "key": "passPct",
@@ -51738,7 +51758,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -52255,7 +52275,7 @@
                 "minute": 60,
                 "extraTime": null,
                 "playerName": "Jude Bellingham",
-                "relatedPlayer": null,
+                "relatedPlayer": "Kylian Mbappé",
                 "teamName": "Real Madrid",
                 "text": null
               },
@@ -52273,12 +52293,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.3",
-                "away": "42.7"
+                "home": "56.7",
+                "away": "43.3"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "15",
                 "away": "9"
               },
               {
@@ -52318,8 +52338,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "361",
-                "away": "242"
+                "home": "374",
+                "away": "258"
               },
               {
                 "key": "passPct",
@@ -52345,7 +52365,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
@@ -52844,13 +52864,33 @@
                 "relatedPlayer": "Cucho Hernández",
                 "teamName": "Real Betis",
                 "text": null
+              },
+              {
+                "id": "55642484_10",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slovan Bratislava",
+                "text": null
+              },
+              {
+                "id": "55642485_11",
+                "type": "SUBSTITUTION",
+                "minute": 70,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slovan Bratislava",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.2",
-                "away": "64.8"
+                "home": "35",
+                "away": "65"
               },
               {
                 "key": "totalShots",
@@ -52895,7 +52935,7 @@
               {
                 "key": "accuratePasses",
                 "home": "205",
-                "away": "434"
+                "away": "438"
               },
               {
                 "key": "passPct",
@@ -55004,6 +55044,12 @@
       "athleteID": null
     },
     {
+      "player": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
       "goals": 2,
@@ -55150,12 +55196,6 @@
     {
       "player": "Ayyoub Bouaddi",
       "team": "Manchester City",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Baris Alper Yilmaz following a fast break",
-      "team": "Galatasaray",
       "goals": 1,
       "athleteID": null
     }
