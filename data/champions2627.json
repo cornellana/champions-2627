@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:30:46Z",
+  "lastUpdated": "2026-11-24T21:31:52Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -48986,7 +48986,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Emirates Stadium",
           "venueCity": "London",
@@ -49491,8 +49491,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "59.7",
-                "away": "40.3"
+                "home": "59.9",
+                "away": "40.1"
               },
               {
                 "key": "totalShots",
@@ -49536,7 +49536,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "392",
+                "home": "396",
                 "away": "251"
               },
               {
@@ -49563,7 +49563,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Giuseppe Sinigaglia",
           "venueCity": "Como",
@@ -50012,8 +50012,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "63.5",
-                "away": "36.5"
+                "home": "64.1",
+                "away": "35.9"
               },
               {
                 "key": "totalShots",
@@ -50057,8 +50057,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "404",
-                "away": "208"
+                "home": "421",
+                "away": "212"
               },
               {
                 "key": "passPct",
@@ -50084,7 +50084,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "De Kuip",
           "venueCity": "Rotterdam",
@@ -50575,7 +50575,17 @@
                 "text": null
               },
               {
-                "id": "55643230_9",
+                "id": "55643362_9",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": "William Gomes",
+                "relatedPlayer": "Oskar Pietuszewski",
+                "teamName": "Oporto",
+                "text": null
+              },
+              {
+                "id": "55643230_10",
                 "type": "YELLOW_CARD",
                 "minute": 69,
                 "extraTime": null,
@@ -50660,7 +50670,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Etihad Stadium",
           "venueCity": "Manchester",
@@ -51089,12 +51099,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "65.5",
-                "away": "34.5"
+                "home": "64.1",
+                "away": "35.9"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "7"
               },
               {
@@ -51134,8 +51144,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "523",
-                "away": "250"
+                "home": "526",
+                "away": "271"
               },
               {
                 "key": "passPct",
@@ -51161,7 +51171,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Red Bull Arena",
           "venueCity": "Leipzig",
@@ -51717,8 +51727,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Michal Skóras",
+                "relatedPlayer": "Saud Abdulhamid",
                 "teamName": "Lens",
                 "text": null
               }
@@ -51798,7 +51808,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Santiago Bernabéu",
           "venueCity": "Madrid",
@@ -52363,8 +52373,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "57.8",
-                "away": "42.2"
+                "home": "57.6",
+                "away": "42.4"
               },
               {
                 "key": "totalShots",
@@ -52409,7 +52419,7 @@
               {
                 "key": "accuratePasses",
                 "home": "394",
-                "away": "259"
+                "away": "260"
               },
               {
                 "key": "passPct",
@@ -52435,7 +52445,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Národny Futbalovy Stadión",
           "venueCity": "Bratislava",
