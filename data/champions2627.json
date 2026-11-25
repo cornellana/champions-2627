@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:44:49Z",
+  "lastUpdated": "2026-11-25T18:46:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54229,13 +54229,13 @@
                   "athleteID": "415438"
                 },
                 {
-                  "id": "307390",
-                  "jersey": 10,
-                  "name": "Alberto Moleiro",
+                  "id": "294039",
+                  "jersey": 21,
+                  "name": "Tani Oluwaseyi",
                   "position": "LM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "307390"
+                  "athleteID": "294039"
                 },
                 {
                   "id": "284769",
@@ -54247,13 +54247,13 @@
                   "athleteID": "284769"
                 },
                 {
-                  "id": "294039",
-                  "jersey": 21,
-                  "name": "Tani Oluwaseyi",
+                  "id": "307390",
+                  "jersey": 10,
+                  "name": "Alberto Moleiro",
                   "position": "CF-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "294039"
+                  "athleteID": "307390"
                 },
                 {
                   "id": "192133",
