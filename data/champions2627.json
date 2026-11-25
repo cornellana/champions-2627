@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:36:55Z",
+  "lastUpdated": "2026-11-25T21:38:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,8 +54741,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
-          "statusText": "Second Half",
+          "clock": "80'",
+          "statusText": "In Progress",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": {
@@ -55295,8 +55295,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.7",
-                "away": "52.3"
+                "home": "47.9",
+                "away": "52.1"
               },
               {
                 "key": "totalShots",
@@ -55340,8 +55340,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "384",
-                "away": "433"
+                "home": "392",
+                "away": "437"
               },
               {
                 "key": "passPct",
@@ -55367,7 +55367,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55823,13 +55823,23 @@
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Alexis Mac Allister",
+                "relatedPlayer": "Trey Nyoni",
                 "teamName": "Liverpool",
                 "text": null
               },
               {
                 "id": "55673158_19",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": "Romeo Vermant",
+                "relatedPlayer": "Hugo Vetlesen",
+                "teamName": "Brujas",
+                "text": null
+              },
+              {
+                "id": "55673314_20",
                 "type": "SUBSTITUTION",
                 "minute": 75,
                 "extraTime": null,
@@ -55842,8 +55852,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.6",
-                "away": "49.4"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
@@ -55888,7 +55898,7 @@
               {
                 "key": "accuratePasses",
                 "home": "348",
-                "away": "343"
+                "away": "353"
               },
               {
                 "key": "passPct",
@@ -55914,7 +55924,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56458,8 +56468,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.1",
-                "away": "46.9"
+                "home": "52.9",
+                "away": "47.1"
               },
               {
                 "key": "totalShots",
@@ -56478,13 +56488,13 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "7",
+                "home": "8",
                 "away": "9"
               },
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -56503,8 +56513,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "378",
-                "away": "323"
+                "home": "381",
+                "away": "332"
               },
               {
                 "key": "passPct",
@@ -56530,7 +56540,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57027,8 +57037,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.1",
-                "away": "61.9"
+                "home": "37.4",
+                "away": "62.6"
               },
               {
                 "key": "totalShots",
@@ -57073,7 +57083,7 @@
               {
                 "key": "accuratePasses",
                 "home": "315",
-                "away": "565"
+                "away": "585"
               },
               {
                 "key": "passPct",
@@ -57095,11 +57105,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "2-1",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57630,6 +57640,16 @@
                 "relatedPlayer": "Senny Mayulu",
                 "teamName": "Paris Saint-Germain",
                 "text": null
+              },
+              {
+                "id": "55673276_21",
+                "type": "PENALTY",
+                "minute": 78,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Roma",
+                "text": null
               }
             ],
             "teamStats": [
@@ -57641,12 +57661,12 @@
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "wonCorners",
@@ -57655,7 +57675,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "18"
               },
               {
@@ -57680,8 +57700,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "512",
-                "away": "205"
+                "home": "511",
+                "away": "203"
               },
               {
                 "key": "passPct",
@@ -57707,7 +57727,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58264,7 +58284,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58804,13 +58824,23 @@
                 "relatedPlayer": "Eduardo Quaresma",
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "55673207_23",
+                "type": "SUBSTITUTION",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Shea Lacey",
+                "relatedPlayer": "Amad Diallo because of an injury",
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.9",
-                "away": "53.1"
+                "home": "47.3",
+                "away": "52.7"
               },
               {
                 "key": "totalShots",
@@ -58829,7 +58859,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "12",
+                "home": "13",
                 "away": "7"
               },
               {
@@ -58854,8 +58884,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "318",
-                "away": "365"
+                "home": "329",
+                "away": "370"
               },
               {
                 "key": "passPct",
