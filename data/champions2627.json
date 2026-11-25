@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:15:55Z",
+  "lastUpdated": "2026-11-25T21:17:01Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55225,8 +55225,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "50.5",
+                "away": "49.5"
               },
               {
                 "key": "totalShots",
@@ -55245,7 +55245,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "6"
               },
               {
@@ -55270,8 +55270,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "292",
-                "away": "275"
+                "home": "293",
+                "away": "291"
               },
               {
                 "key": "passPct",
@@ -55297,7 +55297,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55742,8 +55742,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.8",
-                "away": "51.2"
+                "home": "48.3",
+                "away": "51.7"
               },
               {
                 "key": "totalShots",
@@ -55762,8 +55762,8 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
-                "away": "8"
+                "home": "7",
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -55787,8 +55787,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "259",
-                "away": "275"
+                "home": "265",
+                "away": "287"
               },
               {
                 "key": "passPct",
@@ -55814,7 +55814,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "57'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56279,7 +56279,7 @@
                 "type": "PENALTY",
                 "minute": 57,
                 "extraTime": null,
-                "playerName": null,
+                "playerName": "Petar Sucic",
                 "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
@@ -56293,12 +56293,12 @@
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "4"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "2",
+                "home": "3",
                 "away": "1"
               },
               {
@@ -56360,7 +56360,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "60'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -56787,8 +56787,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.8",
-                "away": "60.2"
+                "home": "39.6",
+                "away": "60.4"
               },
               {
                 "key": "totalShots",
@@ -56832,8 +56832,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "249",
-                "away": "410"
+                "home": "257",
+                "away": "429"
               },
               {
                 "key": "passPct",
@@ -56859,7 +56859,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57305,8 +57305,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "70.1",
-                "away": "29.9"
+                "home": "70",
+                "away": "30"
               },
               {
                 "key": "totalShots",
@@ -57350,8 +57350,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "400",
-                "away": "139"
+                "home": "429",
+                "away": "146"
               },
               {
                 "key": "passPct",
@@ -57373,11 +57373,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "55'",
+          "clock": "56'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -57807,23 +57807,43 @@
                 "relatedPlayer": null,
                 "teamName": "Fenerbahçe",
                 "text": null
+              },
+              {
+                "id": "55669797_18",
+                "type": "SUBSTITUTION",
+                "minute": 55,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Shajtar Donetsk",
+                "text": null
+              },
+              {
+                "id": "55669795_19",
+                "type": "GOAL",
+                "minute": 56,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Fenerbahçe",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.3",
-                "away": "49.7"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
                 "home": "4",
-                "away": "5"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -57857,8 +57877,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "241",
-                "away": "226"
+                "home": "242",
+                "away": "228"
               },
               {
                 "key": "passPct",
@@ -57884,7 +57904,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "56'",
+          "clock": "58'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58379,13 +58399,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "41.5",
-                "away": "58.5"
+                "home": "42.6",
+                "away": "57.4"
               },
               {
                 "key": "totalShots",
                 "home": "7",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "shotsOnTarget",
@@ -58424,8 +58444,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "214",
-                "away": "309"
+                "home": "228",
+                "away": "313"
               },
               {
                 "key": "passPct",
