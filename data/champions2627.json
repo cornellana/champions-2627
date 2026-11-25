@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:21:00Z",
+  "lastUpdated": "2026-11-25T18:22:06Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "35'",
+          "clock": "36'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53882,8 +53882,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "26.7",
-                "away": "73.3"
+                "home": "26.8",
+                "away": "73.2"
               },
               {
                 "key": "totalShots",
@@ -53902,7 +53902,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -53927,8 +53927,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "73",
-                "away": "244"
+                "home": "77",
+                "away": "255"
               },
               {
                 "key": "passPct",
@@ -53954,7 +53954,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "35'",
+          "clock": "36'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54409,8 +54409,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.5",
-                "away": "52.5"
+                "home": "48.1",
+                "away": "51.9"
               },
               {
                 "key": "totalShots",
@@ -54454,7 +54454,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "92",
+                "home": "94",
                 "away": "125"
               },
               {
