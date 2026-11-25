@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:07:51Z",
+  "lastUpdated": "2026-11-25T18:08:56Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53871,13 +53871,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "21.8",
-                "away": "78.2"
+                "home": "22.8",
+                "away": "77.2"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
@@ -53916,8 +53916,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "39",
-                "away": "181"
+                "home": "44",
+                "away": "190"
               },
               {
                 "key": "passPct",
@@ -53943,7 +53943,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "22'",
+          "clock": "23'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54388,8 +54388,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.3",
-                "away": "53.7"
+                "home": "47.3",
+                "away": "52.7"
               },
               {
                 "key": "totalShots",
@@ -54403,12 +54403,12 @@
               },
               {
                 "key": "wonCorners",
-                "home": "5",
+                "home": "6",
                 "away": "0"
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "4"
               },
               {
@@ -54433,8 +54433,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "54",
-                "away": "80"
+                "home": "58",
+                "away": "83"
               },
               {
                 "key": "passPct",
