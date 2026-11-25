@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:08:57Z",
+  "lastUpdated": "2026-11-25T19:10:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53982,8 +53982,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.5",
-                "away": "69.5"
+                "home": "29.9",
+                "away": "70.1"
               },
               {
                 "key": "totalShots",
@@ -54002,7 +54002,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "4",
+                "home": "5",
                 "away": "4"
               },
               {
@@ -54028,7 +54028,7 @@
               {
                 "key": "accuratePasses",
                 "home": "163",
-                "away": "426"
+                "away": "440"
               },
               {
                 "key": "passPct",
@@ -54054,7 +54054,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54560,7 +54560,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -54584,8 +54584,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "183",
-                "away": "247"
+                "home": "189",
+                "away": "252"
               },
               {
                 "key": "passPct",
