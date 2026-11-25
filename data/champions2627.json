@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:53:32Z",
+  "lastUpdated": "2026-11-25T18:54:38Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53434,11 +53434,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "0-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "51'",
+          "clock": "52'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53897,6 +53897,16 @@
                 "relatedPlayer": "Pedri",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "55657274_6",
+                "type": "GOAL",
+                "minute": 51,
+                "extraTime": null,
+                "playerName": "Anthony Gordon",
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
@@ -53908,12 +53918,12 @@
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "12"
+                "away": "14"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "5"
+                "away": "7"
               },
               {
                 "key": "wonCorners",
@@ -53974,7 +53984,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "49'",
+          "clock": "50'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54439,8 +54449,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43",
-                "away": "57"
+                "home": "43.2",
+                "away": "56.8"
               },
               {
                 "key": "totalShots",
@@ -54484,8 +54494,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "124",
-                "away": "208"
+                "home": "127",
+                "away": "211"
               },
               {
                 "key": "passPct",
@@ -56270,6 +56280,13 @@
       "athleteID": null
     },
     {
+      "player": "Anthony Gordon",
+      "team": "FC Barcelona",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Antonio Nusa",
       "team": "RB Leipzig",
       "goals": 3,
@@ -56377,13 +56394,6 @@
     {
       "player": "Andreas Helmersen",
       "team": "Bodø/Glimt",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Anthony Gordon",
-      "team": "FC Barcelona",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
