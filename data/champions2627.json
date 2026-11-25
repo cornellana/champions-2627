@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T17:56:51Z",
+  "lastUpdated": "2026-11-25T17:57:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53943,7 +53943,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "11'",
+          "clock": "12'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54373,13 +54373,23 @@
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "55656069_2",
+                "type": "YELLOW_CARD",
+                "minute": 12,
+                "extraTime": null,
+                "playerName": "Sergi Cardona",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.3",
-                "away": "53.7"
+                "home": "46.8",
+                "away": "53.2"
               },
               {
                 "key": "totalShots",
@@ -54399,7 +54409,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "2",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "offsides",
@@ -54409,7 +54419,7 @@
               {
                 "key": "yellowCards",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -54423,12 +54433,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "30",
-                "away": "42"
+                "home": "32",
+                "away": "46"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.7",
                 "away": "0.8"
               }
             ],
