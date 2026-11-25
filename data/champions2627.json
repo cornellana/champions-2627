@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:18:52Z",
+  "lastUpdated": "2026-11-25T19:19:57Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53987,6 +53987,26 @@
                 "relatedPlayer": null,
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "55657995_25",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
+                "text": null
+              },
+              {
+                "id": "55657996_26",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
@@ -54064,8 +54084,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
-          "statusText": "Second Half",
+          "clock": "76'",
+          "statusText": "In Progress",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
