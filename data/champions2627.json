@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:11:09Z",
+  "lastUpdated": "2026-11-25T19:12:15Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53977,13 +53977,23 @@
                 "relatedPlayer": "Alejandro Balde because of an injury",
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "55657789_20",
+                "type": "YELLOW_CARD",
+                "minute": 69,
+                "extraTime": null,
+                "playerName": "Ivan Lepinjica",
+                "relatedPlayer": null,
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.2",
-                "away": "69.8"
+                "home": "30.5",
+                "away": "69.5"
               },
               {
                 "key": "totalShots",
@@ -54002,7 +54012,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "5",
+                "home": "6",
                 "away": "5"
               },
               {
@@ -54012,7 +54022,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -54027,8 +54037,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "169",
-                "away": "448"
+                "home": "173",
+                "away": "454"
               },
               {
                 "key": "passPct",
@@ -54054,7 +54064,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54544,13 +54554,23 @@
                 "relatedPlayer": "Tomás Vlcek",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "55657790_16",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.4",
-                "away": "52.6"
+                "home": "47.3",
+                "away": "52.7"
               },
               {
                 "key": "totalShots",
@@ -54570,7 +54590,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -54594,8 +54614,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "193",
-                "away": "252"
+                "home": "201",
+                "away": "262"
               },
               {
                 "key": "passPct",
