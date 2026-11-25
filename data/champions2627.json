@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T22:07:18Z",
+  "lastUpdated": "2026-11-25T00:07:54Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53439,9 +53439,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
-          "stadium": null,
-          "venueCity": null,
+          "statusText": null,
+          "stadium": "Baku Olympic Stadium",
+          "venueCity": "Baku",
           "details": null
         },
         {
@@ -53460,9 +53460,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Fortuna Arena",
-          "venueCity": "Praga",
+          "venueCity": "Prague",
           "details": null
         },
         {
@@ -53481,7 +53481,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": null
@@ -53502,7 +53502,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": null
@@ -53523,9 +53523,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "San Siro",
-          "venueCity": "Milán",
+          "venueCity": "Milano",
           "details": null
         },
         {
@@ -53544,7 +53544,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
           "details": null
@@ -53565,7 +53565,7 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": null
@@ -53586,9 +53586,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Stamford Bridge",
-          "venueCity": "Londres",
+          "venueCity": "London",
           "details": null
         },
         {
@@ -53607,9 +53607,9 @@
           "shootout": null,
           "state": "pre",
           "clock": null,
-          "statusText": "Scheduled",
+          "statusText": null,
           "stadium": "Estádio José Alvalade",
-          "venueCity": "Lisboa",
+          "venueCity": "Lisbon",
           "details": null
         }
       ]
