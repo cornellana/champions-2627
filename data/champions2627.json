@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:57:56Z",
+  "lastUpdated": "2026-11-25T18:59:03Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53907,23 +53907,33 @@
                 "relatedPlayer": null,
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "55657389_7",
+                "type": "GOAL",
+                "minute": 55,
+                "extraTime": null,
+                "playerName": "Karim Adeyemi",
+                "relatedPlayer": "Alejandro Balde",
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "27.2",
-                "away": "72.8"
+                "home": "27.8",
+                "away": "72.2"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "15"
+                "away": "17"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "wonCorners",
@@ -53957,8 +53967,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "122",
-                "away": "397"
+                "home": "128",
+                "away": "403"
               },
               {
                 "key": "passPct",
@@ -53984,7 +53994,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "54'",
+          "clock": "55'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -56329,6 +56339,13 @@
       "athleteID": null
     },
     {
+      "player": "Karim Adeyemi",
+      "team": "FC Barcelona",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Lamine Yamal",
       "team": "FC Barcelona",
       "goals": 3,
@@ -56457,13 +56474,6 @@
     {
       "player": "Erik Botheim",
       "team": "Viking",
-      "goals": 2,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Florian Flecker",
-      "team": "LASK",
       "goals": 2,
       "penalties": 0,
       "athleteID": null
@@ -56633,6 +56643,12 @@
       "athleteID": null
     },
     {
+      "player": "Alejandro Balde",
+      "team": "FC Barcelona",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Aleksandar Stankovic following a fast break",
       "team": "Inter de Milán",
       "goals": 1,
@@ -56700,12 +56716,6 @@
     },
     {
       "player": "Ayoze Pérez",
-      "team": "Villarreal",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Ayoze Pérez with a cross",
       "team": "Villarreal",
       "goals": 1,
       "athleteID": null
