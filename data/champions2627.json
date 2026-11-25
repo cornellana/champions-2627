@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:44:42Z",
+  "lastUpdated": "2026-11-25T21:45:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55305,8 +55305,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.1",
-                "away": "51.9"
+                "home": "48",
+                "away": "52"
               },
               {
                 "key": "totalShots",
@@ -55350,8 +55350,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "439",
-                "away": "477"
+                "home": "449",
+                "away": "493"
               },
               {
                 "key": "passPct",
@@ -55377,8 +55377,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
-          "statusText": "Second Half",
+          "clock": "85'",
+          "statusText": "In Progress",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": {
@@ -55873,8 +55873,8 @@
                 "type": "GOAL",
                 "minute": 82,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Alexander Isak",
+                "relatedPlayer": "Alisson Becker following a fast break",
                 "teamName": "Liverpool",
                 "text": null
               }
@@ -55927,7 +55927,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "404",
+                "home": "405",
                 "away": "359"
               },
               {
@@ -55954,7 +55954,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56518,12 +56518,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.7",
-                "away": "46.3"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
-                "home": "17",
+                "home": "18",
                 "away": "10"
               },
               {
@@ -56590,7 +56590,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
+          "clock": "88'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57092,13 +57092,33 @@
                 "relatedPlayer": "Lennart Karl",
                 "teamName": "Bayern de Múnich",
                 "text": null
+              },
+              {
+                "id": "55674418_15",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
+              },
+              {
+                "id": "55674419_16",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.4",
-                "away": "63.6"
+                "home": "36",
+                "away": "64"
               },
               {
                 "key": "totalShots",
@@ -57143,7 +57163,7 @@
               {
                 "key": "accuratePasses",
                 "home": "322",
-                "away": "629"
+                "away": "638"
               },
               {
                 "key": "passPct",
@@ -57169,7 +57189,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57817,7 +57837,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "85'",
+          "clock": "86'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58309,7 +58329,17 @@
                 "text": null
               },
               {
-                "id": "55674156_24",
+                "id": "55674282_24",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Irakli Azarovi",
+                "relatedPlayer": "Vinícius Tobias",
+                "teamName": "Shajtar Donetsk",
+                "text": null
+              },
+              {
+                "id": "55674156_25",
                 "type": "SUBSTITUTION",
                 "minute": 82,
                 "extraTime": null,
@@ -58322,13 +58352,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.8",
-                "away": "47.2"
+                "home": "53.1",
+                "away": "46.9"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -58338,7 +58368,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -58367,8 +58397,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "366",
-                "away": "305"
+                "home": "376",
+                "away": "310"
               },
               {
                 "key": "passPct",
@@ -58394,7 +58424,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58956,21 +58986,21 @@
                 "text": null
               },
               {
-                "id": "55673934_27",
-                "type": "OWN_GOAL",
-                "minute": 82,
+                "id": "55674382_29",
+                "type": "SUBSTITUTION",
+                "minute": 86,
                 "extraTime": null,
-                "playerName": "Kaique",
+                "playerName": null,
                 "relatedPlayer": null,
-                "teamName": "Manchester United",
+                "teamName": "Sporting de Portugal",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.2",
-                "away": "51.8"
+                "home": "48.4",
+                "away": "51.6"
               },
               {
                 "key": "totalShots",
@@ -58990,7 +59020,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "13",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -59014,7 +59044,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "349",
+                "home": "351",
                 "away": "374"
               },
               {
@@ -60660,6 +60690,13 @@
       "athleteID": null
     },
     {
+      "player": "Alexander Isak",
+      "team": "Liverpool",
+      "goals": 3,
+      "penalties": 0,
+      "athleteID": null
+    },
+    {
       "player": "Alexis Mac Allister",
       "team": "Liverpool",
       "goals": 3,
@@ -60775,13 +60812,6 @@
       "player": "Scott McTominay",
       "team": "Nápoles",
       "goals": 3,
-      "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Alexander Isak",
-      "team": "Liverpool",
-      "goals": 2,
       "penalties": 0,
       "athleteID": null
     },
@@ -61048,6 +61078,12 @@
       "athleteID": null
     },
     {
+      "player": "Alisson Becker following a fast break",
+      "team": "Liverpool",
+      "goals": 1,
+      "athleteID": null
+    },
+    {
       "player": "Alisson Santana",
       "team": "Shajtar Donetsk",
       "goals": 1,
@@ -61073,12 +61109,6 @@
     },
     {
       "player": "Angelo Stiller",
-      "team": "Stuttgart",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Angelo Stiller following a fast break",
       "team": "Stuttgart",
       "goals": 1,
       "athleteID": null
