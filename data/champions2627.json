@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:29:47Z",
+  "lastUpdated": "2026-11-25T18:30:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
+          "clock": "45'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53882,8 +53882,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "24.5",
-                "away": "75.5"
+                "home": "24.8",
+                "away": "75.2"
               },
               {
                 "key": "totalShots",
@@ -53922,13 +53922,13 @@
               },
               {
                 "key": "saves",
-                "home": "3",
+                "home": "4",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "90",
-                "away": "345"
+                "home": "93",
+                "away": "352"
               },
               {
                 "key": "passPct",
@@ -53954,8 +53954,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "44'",
-          "statusText": "First Half",
+          "clock": "45'",
+          "statusText": "In Progress",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -54404,22 +54404,32 @@
                 "relatedPlayer": null,
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "55657064_8",
+                "type": "RED_CARD",
+                "minute": 44,
+                "extraTime": null,
+                "playerName": "Renato Veiga",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.4",
-                "away": "56.6"
+                "home": "43.3",
+                "away": "56.7"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -54430,7 +54440,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -54445,7 +54455,7 @@
               {
                 "key": "redCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "saves",
