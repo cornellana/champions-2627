@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:39:42Z",
+  "lastUpdated": "2026-11-25T19:42:53Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -56257,6 +56257,16 @@
       "position": 21
     },
     {
+      "team": "Villarreal",
+      "played": 5,
+      "won": 2,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 9,
+      "goalsAgainst": 14,
+      "position": 22
+    },
+    {
       "team": "Fenerbahçe",
       "played": 4,
       "won": 1,
@@ -56264,7 +56274,7 @@
       "lost": 1,
       "goalsFor": 6,
       "goalsAgainst": 11,
-      "position": 22
+      "position": 23
     },
     {
       "team": "Roma",
@@ -56274,7 +56284,7 @@
       "lost": 2,
       "goalsFor": 10,
       "goalsAgainst": 8,
-      "position": 23
+      "position": 24
     },
     {
       "team": "Shajtar Donetsk",
@@ -56284,7 +56294,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 4,
-      "position": 24
+      "position": 25
     },
     {
       "team": "Viking",
@@ -56294,7 +56304,7 @@
       "lost": 2,
       "goalsFor": 9,
       "goalsAgainst": 10,
-      "position": 25
+      "position": 26
     },
     {
       "team": "Atlético de Madrid",
@@ -56304,7 +56314,7 @@
       "lost": 2,
       "goalsFor": 4,
       "goalsAgainst": 5,
-      "position": 26
+      "position": 27
     },
     {
       "team": "Nápoles",
@@ -56314,7 +56324,7 @@
       "lost": 3,
       "goalsFor": 8,
       "goalsAgainst": 13,
-      "position": 27
+      "position": 28
     },
     {
       "team": "PSV",
@@ -56324,16 +56334,6 @@
       "lost": 3,
       "goalsFor": 4,
       "goalsAgainst": 9,
-      "position": 28
-    },
-    {
-      "team": "Villarreal",
-      "played": 4,
-      "won": 1,
-      "drawn": 0,
-      "lost": 3,
-      "goalsFor": 8,
-      "goalsAgainst": 14,
       "position": 29
     },
     {
@@ -56378,12 +56378,12 @@
     },
     {
       "team": "Slavia de Praga",
-      "played": 4,
+      "played": 5,
       "won": 0,
       "drawn": 1,
-      "lost": 3,
+      "lost": 4,
       "goalsFor": 5,
-      "goalsAgainst": 9,
+      "goalsAgainst": 10,
       "position": 34
     },
     {
