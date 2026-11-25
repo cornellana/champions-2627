@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:39:07Z",
+  "lastUpdated": "2026-11-25T21:40:14Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55295,18 +55295,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.9",
-                "away": "52.1"
+                "home": "46.9",
+                "away": "53.1"
               },
               {
                 "key": "totalShots",
                 "home": "17",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "8",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
@@ -55335,13 +55335,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "6"
               },
               {
                 "key": "accuratePasses",
-                "home": "392",
-                "away": "437"
+                "home": "397",
+                "away": "460"
               },
               {
                 "key": "passPct",
@@ -55367,7 +55367,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55852,12 +55852,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "51.1",
+                "away": "48.9"
               },
               {
                 "key": "totalShots",
-                "home": "13",
+                "home": "14",
                 "away": "10"
               },
               {
@@ -55873,7 +55873,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -55897,8 +55897,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "360",
-                "away": "353"
+                "home": "368",
+                "away": "354"
               },
               {
                 "key": "passPct",
@@ -55924,7 +55924,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56478,13 +56478,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.6",
-                "away": "47.4"
+                "home": "52",
+                "away": "48"
               },
               {
                 "key": "totalShots",
                 "home": "16",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
@@ -56499,7 +56499,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "offsides",
@@ -56523,8 +56523,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "381",
-                "away": "336"
+                "home": "384",
+                "away": "350"
               },
               {
                 "key": "passPct",
@@ -56550,7 +56550,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57042,18 +57042,28 @@
                 "relatedPlayer": "Ayase Ueda",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "55673626_14",
+                "type": "SUBSTITUTION",
+                "minute": 81,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "37.4",
-                "away": "62.6"
+                "home": "36.8",
+                "away": "63.2"
               },
               {
                 "key": "totalShots",
                 "home": "12",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "shotsOnTarget",
@@ -57063,7 +57073,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -57093,7 +57103,7 @@
               {
                 "key": "accuratePasses",
                 "home": "315",
-                "away": "585"
+                "away": "600"
               },
               {
                 "key": "passPct",
@@ -57119,7 +57129,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57757,7 +57767,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58243,8 +58253,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 78,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Mattéo Guendouzi",
+                "relatedPlayer": "Mason Greenwood",
                 "teamName": "Fenerbahçe",
                 "text": null
               }
@@ -58252,8 +58262,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.5",
-                "away": "47.5"
+                "home": "52.2",
+                "away": "47.8"
               },
               {
                 "key": "totalShots",
@@ -58272,7 +58282,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "10",
+                "home": "11",
                 "away": "11"
               },
               {
@@ -58297,8 +58307,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "344",
-                "away": "290"
+                "home": "345",
+                "away": "294"
               },
               {
                 "key": "passPct",
@@ -58320,11 +58330,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "1-2",
+          "result": "2-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58874,22 +58884,32 @@
                 "relatedPlayer": "Amad Diallo because of an injury",
                 "teamName": "Manchester United",
                 "text": null
+              },
+              {
+                "id": "55673541_24",
+                "type": "GOAL",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Luis Suárez",
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.3",
-                "away": "52.7"
+                "home": "48.3",
+                "away": "51.7"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -58900,7 +58920,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "13",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -58924,8 +58944,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "329",
-                "away": "370"
+                "home": "349",
+                "away": "373"
               },
               {
                 "key": "passPct",
@@ -60479,6 +60499,13 @@
       "athleteID": null
     },
     {
+      "player": "Luis Suárez",
+      "team": "Sporting de Portugal",
+      "goals": 6,
+      "penalties": 3,
+      "athleteID": null
+    },
+    {
       "player": "Tasos Douvikas",
       "team": "Como",
       "goals": 6,
@@ -60497,13 +60524,6 @@
       "team": "Manchester City",
       "goals": 5,
       "penalties": 0,
-      "athleteID": null
-    },
-    {
-      "player": "Luis Suárez",
-      "team": "Sporting de Portugal",
-      "goals": 5,
-      "penalties": 3,
       "athleteID": null
     },
     {
