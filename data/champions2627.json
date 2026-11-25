@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:26:33Z",
+  "lastUpdated": "2026-11-25T19:27:39Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -54022,8 +54022,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.2",
-                "away": "70.8"
+                "home": "29.3",
+                "away": "70.7"
               },
               {
                 "key": "totalShots",
@@ -54043,7 +54043,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "9",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "offsides",
@@ -54067,8 +54067,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "202",
-                "away": "574"
+                "home": "205",
+                "away": "584"
               },
               {
                 "key": "passPct",
@@ -54094,7 +54094,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54616,21 +54616,21 @@
                 "text": null
               },
               {
-                "id": "55658210_19",
-                "type": "YELLOW_CARD",
-                "minute": 80,
+                "id": "55658248_21",
+                "type": "SUBSTITUTION",
+                "minute": 83,
                 "extraTime": null,
-                "playerName": "Pape Gueye",
-                "relatedPlayer": null,
-                "teamName": "Villarreal",
+                "playerName": "Ivan Schranz",
+                "relatedPlayer": "Emmanuel Ayaosi",
+                "teamName": "Slavia de Praga",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "50.2",
+                "away": "49.8"
               },
               {
                 "key": "totalShots",
@@ -54644,13 +54644,13 @@
               },
               {
                 "key": "wonCorners",
-                "home": "12",
+                "home": "13",
                 "away": "0"
               },
               {
                 "key": "foulsCommitted",
                 "home": "10",
-                "away": "13"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -54660,7 +54660,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "3"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -54675,7 +54675,7 @@
               {
                 "key": "accuratePasses",
                 "home": "263",
-                "away": "292"
+                "away": "294"
               },
               {
                 "key": "passPct",
