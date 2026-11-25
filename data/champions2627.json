@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:19:57Z",
+  "lastUpdated": "2026-11-25T19:21:02Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53989,17 +53989,27 @@
                 "text": null
               },
               {
-                "id": "55657995_25",
+                "id": "55657995_24",
                 "type": "SUBSTITUTION",
                 "minute": 76,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Raphinha",
+                "relatedPlayer": "Anthony Gordon",
                 "teamName": "FC Barcelona",
                 "text": null
               },
               {
                 "id": "55657996_26",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": "Rahman Dasdamirov",
+                "relatedPlayer": "Júnior Almeida",
+                "teamName": "Sabah",
+                "text": null
+              },
+              {
+                "id": "55658080_27",
                 "type": "SUBSTITUTION",
                 "minute": 76,
                 "extraTime": null,
@@ -54012,8 +54022,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30.2",
-                "away": "69.8"
+                "home": "30.8",
+                "away": "69.2"
               },
               {
                 "key": "totalShots",
@@ -54027,12 +54037,12 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "7"
               },
               {
@@ -54057,8 +54067,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "189",
-                "away": "503"
+                "home": "196",
+                "away": "510"
               },
               {
                 "key": "passPct",
@@ -54084,8 +54094,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
-          "statusText": "In Progress",
+          "clock": "77'",
+          "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -54584,17 +54594,37 @@
                 "relatedPlayer": "Ange N'Guessan",
                 "teamName": "Slavia de Praga",
                 "text": null
+              },
+              {
+                "id": "55658048_17",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
+              },
+              {
+                "id": "55658049_18",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49",
-                "away": "51"
+                "home": "49.3",
+                "away": "50.7"
               },
               {
                 "key": "totalShots",
-                "home": "10",
+                "home": "11",
                 "away": "4"
               },
               {
@@ -54634,8 +54664,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "242",
-                "away": "287"
+                "home": "247",
+                "away": "289"
               },
               {
                 "key": "passPct",
