@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:24:45Z",
+  "lastUpdated": "2026-11-25T21:25:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55255,22 +55255,22 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.1",
-                "away": "49.9"
+                "home": "50.3",
+                "away": "49.7"
               },
               {
                 "key": "totalShots",
-                "home": "14",
+                "home": "16",
                 "away": "7"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "7",
+                "home": "8",
                 "away": "0"
               },
               {
                 "key": "wonCorners",
-                "home": "4",
+                "home": "5",
                 "away": "0"
               },
               {
@@ -55296,12 +55296,12 @@
               {
                 "key": "saves",
                 "home": "0",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "accuratePasses",
-                "home": "327",
-                "away": "331"
+                "home": "344",
+                "away": "344"
               },
               {
                 "key": "passPct",
@@ -55327,7 +55327,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55772,8 +55772,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.2",
-                "away": "51.8"
+                "home": "48.4",
+                "away": "51.6"
               },
               {
                 "key": "totalShots",
@@ -55817,8 +55817,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "289",
-                "away": "320"
+                "home": "290",
+                "away": "321"
               },
               {
                 "key": "passPct",
@@ -55844,7 +55844,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56410,7 +56410,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -56857,18 +56857,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.8",
-                "away": "59.2"
+                "home": "40",
+                "away": "60"
               },
               {
                 "key": "totalShots",
                 "home": "9",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "wonCorners",
@@ -56903,7 +56903,7 @@
               {
                 "key": "accuratePasses",
                 "home": "285",
-                "away": "447"
+                "away": "466"
               },
               {
                 "key": "passPct",
@@ -56929,7 +56929,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "In Progress",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57435,8 +57435,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.8",
-                "away": "30.2"
+                "home": "69.4",
+                "away": "30.6"
               },
               {
                 "key": "totalShots",
@@ -57480,8 +57480,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "449",
-                "away": "155"
+                "home": "452",
+                "away": "159"
               },
               {
                 "key": "passPct",
@@ -57507,7 +57507,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "In Progress",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -57962,8 +57962,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.3",
-                "away": "48.7"
+                "home": "51.8",
+                "away": "48.2"
               },
               {
                 "key": "totalShots",
@@ -58007,7 +58007,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "281",
+                "home": "287",
                 "away": "249"
               },
               {
@@ -58034,7 +58034,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58540,8 +58540,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Diogo Dalot",
+                "relatedPlayer": "Noussair Mazraoui",
                 "teamName": "Manchester United",
                 "text": null
               }
@@ -58549,8 +58549,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46",
-                "away": "54"
+                "home": "45.9",
+                "away": "54.1"
               },
               {
                 "key": "totalShots",
@@ -58569,7 +58569,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "7"
               },
               {
@@ -58594,8 +58594,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "274",
-                "away": "328"
+                "home": "277",
+                "away": "334"
               },
               {
                 "key": "passPct",
