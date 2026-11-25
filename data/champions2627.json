@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:23:39Z",
+  "lastUpdated": "2026-11-25T21:24:45Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55327,7 +55327,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "62'",
+          "clock": "63'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55844,7 +55844,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56313,18 +56313,38 @@
                 "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "55671027_17",
+                "type": "SUBSTITUTION",
+                "minute": 63,
+                "extraTime": null,
+                "playerName": "Jamie Leweling",
+                "relatedPlayer": "Josha Vagnoman",
+                "teamName": "Stuttgart",
+                "text": null
+              },
+              {
+                "id": "55671028_18",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
+                "playerName": "Deniz Undav",
+                "relatedPlayer": "Chris Führich",
+                "teamName": "Stuttgart",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "58.8",
-                "away": "41.2"
+                "home": "56.8",
+                "away": "43.2"
               },
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "8"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
@@ -56339,7 +56359,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -56363,8 +56383,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "359",
-                "away": "233"
+                "home": "360",
+                "away": "258"
               },
               {
                 "key": "passPct",
@@ -56390,7 +56410,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -56909,8 +56929,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
-          "statusText": "Second Half",
+          "clock": "65'",
+          "statusText": "In Progress",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": {
@@ -57415,8 +57435,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "69.2",
-                "away": "30.8"
+                "home": "69.8",
+                "away": "30.2"
               },
               {
                 "key": "totalShots",
@@ -57436,7 +57456,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "4",
-                "away": "17"
+                "away": "18"
               },
               {
                 "key": "offsides",
@@ -57460,8 +57480,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "435",
-                "away": "154"
+                "home": "449",
+                "away": "155"
               },
               {
                 "key": "passPct",
@@ -57487,8 +57507,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
-          "statusText": "Second Half",
+          "clock": "64'",
+          "statusText": "In Progress",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -57942,8 +57962,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.8",
-                "away": "49.2"
+                "home": "51.3",
+                "away": "48.7"
               },
               {
                 "key": "totalShots",
@@ -57963,7 +57983,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "8",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -57987,8 +58007,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "273",
-                "away": "247"
+                "home": "281",
+                "away": "249"
               },
               {
                 "key": "passPct",
@@ -58014,7 +58034,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "65'",
+          "clock": "66'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58510,6 +58530,16 @@
                 "type": "SUBSTITUTION",
                 "minute": 64,
                 "extraTime": null,
+                "playerName": "Patrick Dorgu",
+                "relatedPlayer": "Joshua Zirkzee",
+                "teamName": "Manchester United",
+                "text": null
+              },
+              {
+                "id": "55671172_19",
+                "type": "SUBSTITUTION",
+                "minute": 64,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "Manchester United",
@@ -58519,8 +58549,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.3",
-                "away": "53.7"
+                "home": "46",
+                "away": "54"
               },
               {
                 "key": "totalShots",
@@ -58564,8 +58594,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "273",
-                "away": "323"
+                "home": "274",
+                "away": "328"
               },
               {
                 "key": "passPct",
