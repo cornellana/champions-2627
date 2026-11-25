@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T17:48:03Z",
+  "lastUpdated": "2026-11-25T17:49:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,8 +53438,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
-          "statusText": "First Half",
+          "clock": "4'",
+          "statusText": "In Progress",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -53943,13 +53943,13 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
             "homeLineup": {
-              "formation": "4-4-2",
+              "formation": "3-4-2-1",
               "players": [
                 {
                   "id": "291407",
@@ -53961,40 +53961,31 @@
                   "athleteID": "291407"
                 },
                 {
-                  "id": "290116",
-                  "jersey": 4,
-                  "name": "David Zima",
-                  "position": "CD-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "290116"
-                },
-                {
                   "id": "280885",
                   "jersey": 3,
                   "name": "Tomás Holes",
-                  "position": "CD-R",
+                  "position": "CD",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "280885"
                 },
                 {
-                  "id": "220165",
-                  "jersey": 6,
-                  "name": "Ange N'Guessan",
-                  "position": "LB",
+                  "id": "410093",
+                  "jersey": 30,
+                  "name": "Wiktor Nowak",
+                  "position": "CD-L",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "220165"
+                  "athleteID": "410093"
                 },
                 {
-                  "id": "283008",
-                  "jersey": 27,
-                  "name": "Tomás Vlcek",
-                  "position": "RB",
+                  "id": "290116",
+                  "jersey": 4,
+                  "name": "David Zima",
+                  "position": "CD-R",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "283008"
+                  "athleteID": "290116"
                 },
                 {
                   "id": "249525",
@@ -54006,40 +53997,49 @@
                   "athleteID": "249525"
                 },
                 {
-                  "id": "410093",
-                  "jersey": 30,
-                  "name": "Wiktor Nowak",
-                  "position": "CM-R",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "410093"
-                },
-                {
-                  "id": "335996",
-                  "jersey": 39,
-                  "name": "David Jurásek",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "335996"
-                },
-                {
                   "id": "418535",
                   "jersey": 15,
                   "name": "Mubarak Suleiman",
-                  "position": "RM",
+                  "position": "CM-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "418535"
                 },
                 {
+                  "id": "220165",
+                  "jersey": 6,
+                  "name": "Ange N'Guessan",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "220165"
+                },
+                {
+                  "id": "283008",
+                  "jersey": 27,
+                  "name": "Tomás Vlcek",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "283008"
+                },
+                {
                   "id": "3098601",
                   "jersey": 20,
                   "name": "Emmanuel Dennis Ayaosi",
-                  "position": "CF-L",
+                  "position": "F",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "3098601"
+                },
+                {
+                  "id": "335996",
+                  "jersey": 39,
+                  "name": "David Jurásek",
+                  "position": "CF-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "335996"
                 },
                 {
                   "id": "343733",
@@ -54367,8 +54367,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "60",
-                "away": "40"
+                "home": "50",
+                "away": "50"
               },
               {
                 "key": "totalShots",
@@ -54412,13 +54412,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "3",
-                "away": "4"
+                "home": "12",
+                "away": "15"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "1.0"
+                "away": "0.9"
               }
             ],
             "penalties": null
