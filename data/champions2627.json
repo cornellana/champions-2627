@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T20:17:26Z",
+  "lastUpdated": "2026-11-25T20:18:32Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,8 +54741,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
-          "statusText": "In Progress",
+          "clock": "17'",
+          "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
           "details": {
@@ -55174,12 +55174,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.1",
-                "away": "45.9"
+                "home": "55.6",
+                "away": "44.4"
               },
               {
                 "key": "totalShots",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -55189,7 +55189,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -55219,13 +55219,13 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "89",
-                "away": "75"
+                "home": "95",
+                "away": "74"
               },
               {
                 "key": "passPct",
                 "home": "0.8",
-                "away": "0.9"
+                "away": "0.8"
               }
             ],
             "penalties": null
@@ -55246,7 +55246,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55681,8 +55681,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.9",
-                "away": "66.1"
+                "home": "37.8",
+                "away": "62.2"
               },
               {
                 "key": "totalShots",
@@ -55696,7 +55696,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -55726,8 +55726,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "42",
-                "away": "92"
+                "home": "52",
+                "away": "93"
               },
               {
                 "key": "passPct",
@@ -55753,7 +55753,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "18'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56197,17 +56197,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "56.5",
-                "away": "43.5"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -56238,17 +56238,17 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "103",
-                "away": "73"
+                "home": "106",
+                "away": "86"
               },
               {
                 "key": "passPct",
                 "home": "0.9",
-                "away": "0.8"
+                "away": "0.9"
               }
             ],
             "penalties": null
@@ -56269,7 +56269,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "16'",
+          "clock": "17'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -56686,12 +56686,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "33.3",
-                "away": "66.7"
+                "home": "34",
+                "away": "66"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "1",
                 "away": "2"
               },
               {
@@ -56701,7 +56701,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -56731,8 +56731,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "59",
-                "away": "131"
+                "home": "63",
+                "away": "135"
               },
               {
                 "key": "passPct",
@@ -56758,7 +56758,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57184,8 +57184,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.2",
-                "away": "32.8"
+                "home": "64.7",
+                "away": "35.3"
               },
               {
                 "key": "totalShots",
@@ -57229,8 +57229,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "101",
-                "away": "41"
+                "home": "104",
+                "away": "47"
               },
               {
                 "key": "passPct",
@@ -57256,7 +57256,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "15'",
+          "clock": "16'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -57680,13 +57680,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.3",
-                "away": "27.7"
+                "home": "72.1",
+                "away": "27.9"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "shotsOnTarget",
@@ -57700,7 +57700,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -57725,8 +57725,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "119",
-                "away": "44"
+                "home": "128",
+                "away": "47"
               },
               {
                 "key": "passPct",
@@ -57752,7 +57752,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "17'",
+          "clock": "19'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58027,22 +58027,22 @@
                   "athleteID": "124091"
                 },
                 {
-                  "id": "328466",
-                  "jersey": 37,
-                  "name": "Kobbie Mainoo",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "328466"
-                },
-                {
                   "id": "193297",
                   "jersey": 18,
                   "name": "Youri Tielemans",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "193297"
+                },
+                {
+                  "id": "328466",
+                  "jersey": 37,
+                  "name": "Kobbie Mainoo",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "328466"
                 },
                 {
                   "id": "276327",
@@ -58176,8 +58176,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.3",
-                "away": "60.7"
+                "home": "40.4",
+                "away": "59.6"
               },
               {
                 "key": "totalShots",
@@ -58221,8 +58221,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "72",
-                "away": "112"
+                "home": "81",
+                "away": "119"
               },
               {
                 "key": "passPct",
