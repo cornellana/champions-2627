@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T20:04:06Z",
+  "lastUpdated": "2026-11-25T20:05:13Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55246,7 +55246,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
+          "clock": "3'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55670,8 +55670,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "7.7",
-                "away": "92.3"
+                "home": "25.7",
+                "away": "74.3"
               },
               {
                 "key": "totalShots",
@@ -55715,12 +55715,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "0",
-                "away": "9"
+                "home": "7",
+                "away": "21"
               },
               {
                 "key": "passPct",
-                "home": "0.0",
+                "home": "0.8",
                 "away": "0.8"
               }
             ],
@@ -55742,7 +55742,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "4'",
+          "clock": "5'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56175,12 +56175,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "42.9",
-                "away": "57.1"
+                "home": "48.6",
+                "away": "51.4"
               },
               {
                 "key": "totalShots",
-                "home": "0",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -56190,7 +56190,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -56220,12 +56220,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "21",
+                "home": "25",
                 "away": "31"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.9"
               }
             ],
@@ -56247,7 +56247,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "3'",
+          "clock": "4'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57000,22 +57000,22 @@
                   "athleteID": "146335"
                 },
                 {
-                  "id": "164826",
-                  "jersey": 20,
-                  "name": "Nahuel Molina",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "164826"
-                },
-                {
                   "id": "332354",
                   "jersey": 43,
                   "name": "Wesley",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "332354"
+                },
+                {
+                  "id": "164826",
+                  "jersey": 20,
+                  "name": "Nahuel Molina",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "164826"
                 },
                 {
                   "id": "250284",
@@ -57140,8 +57140,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "77.3",
-                "away": "22.7"
+                "home": "78.4",
+                "away": "21.6"
               },
               {
                 "key": "totalShots",
@@ -57161,7 +57161,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "offsides",
@@ -57185,8 +57185,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "15",
-                "away": "2"
+                "home": "25",
+                "away": "3"
               },
               {
                 "key": "passPct",
@@ -57212,8 +57212,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "2'",
-          "statusText": "In Progress",
+          "clock": "3'",
+          "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
           "details": {
@@ -57938,10 +57938,19 @@
                   "athleteID": "301425"
                 },
                 {
+                  "id": "340206",
+                  "jersey": 15,
+                  "name": "Leny Yoro",
+                  "position": "CD-L",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "340206"
+                },
+                {
                   "id": "157073",
                   "jersey": 5,
                   "name": "Harry Maguire",
-                  "position": "CD",
+                  "position": "CD-R",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "157073"
@@ -57950,55 +57959,46 @@
                   "id": "233937",
                   "jersey": 6,
                   "name": "Lisandro Martínez",
-                  "position": "CD-L",
+                  "position": "LB",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "233937"
                 },
                 {
-                  "id": "340206",
-                  "jersey": 15,
-                  "name": "Leny Yoro",
-                  "position": "CD-R",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "340206"
-                },
-                {
-                  "id": "193297",
-                  "jersey": 18,
-                  "name": "Youri Tielemans",
-                  "position": "CM-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "193297"
-                },
-                {
-                  "id": "328466",
-                  "jersey": 37,
-                  "name": "Kobbie Mainoo",
-                  "position": "CM-R",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "328466"
-                },
-                {
                   "id": "239350",
                   "jersey": 3,
                   "name": "Noussair Mazraoui",
-                  "position": "LM",
+                  "position": "RB",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "239350"
                 },
                 {
-                  "id": "291630",
-                  "jersey": 16,
-                  "name": "Amad Diallo",
+                  "id": "124091",
+                  "jersey": 8,
+                  "name": "Bruno Fernandes",
+                  "position": "AM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "124091"
+                },
+                {
+                  "id": "328466",
+                  "jersey": 37,
+                  "name": "Kobbie Mainoo",
+                  "position": "LM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "328466"
+                },
+                {
+                  "id": "193297",
+                  "jersey": 18,
+                  "name": "Youri Tielemans",
                   "position": "RM",
                   "isStarter": true,
                   "events": null,
-                  "athleteID": "291630"
+                  "athleteID": "193297"
                 },
                 {
                   "id": "276327",
@@ -58010,22 +58010,22 @@
                   "athleteID": "276327"
                 },
                 {
-                  "id": "124091",
-                  "jersey": 8,
-                  "name": "Bruno Fernandes",
-                  "position": "CF-L",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "124091"
-                },
-                {
                   "id": "271170",
                   "jersey": 19,
                   "name": "Bryan Mbeumo",
-                  "position": "CF-R",
+                  "position": "AM-L",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "271170"
+                },
+                {
+                  "id": "291630",
+                  "jersey": 16,
+                  "name": "Amad Diallo",
+                  "position": "AM-R",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "291630"
                 },
                 {
                   "id": "238902",
@@ -58132,8 +58132,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "21.6",
-                "away": "78.4"
+                "home": "20.5",
+                "away": "79.5"
               },
               {
                 "key": "totalShots",
@@ -58152,7 +58152,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "1",
+                "home": "2",
                 "away": "0"
               },
               {
@@ -58178,11 +58178,11 @@
               {
                 "key": "accuratePasses",
                 "home": "7",
-                "away": "27"
+                "away": "33"
               },
               {
                 "key": "passPct",
-                "home": "0.9",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
