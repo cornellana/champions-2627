@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:36:26Z",
+  "lastUpdated": "2026-11-25T19:37:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54104,7 +54104,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+3'",
+          "clock": "90'+4'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54640,8 +54640,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 90,
                 "extraTime": 1,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Carlos Romero",
+                "relatedPlayer": "Sergi Cardona",
                 "teamName": "Villarreal",
                 "text": null
               }
@@ -54649,8 +54649,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.3",
-                "away": "48.7"
+                "home": "51.6",
+                "away": "48.4"
               },
               {
                 "key": "totalShots",
@@ -54694,8 +54694,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "302",
-                "away": "316"
+                "home": "311",
+                "away": "320"
               },
               {
                 "key": "passPct",
@@ -56057,6 +56057,16 @@
       "position": 3
     },
     {
+      "team": "FC Barcelona",
+      "played": 5,
+      "won": 4,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 18,
+      "goalsAgainst": 7,
+      "position": 4
+    },
+    {
       "team": "Real Betis",
       "played": 5,
       "won": 4,
@@ -56064,7 +56074,7 @@
       "lost": 1,
       "goalsFor": 10,
       "goalsAgainst": 6,
-      "position": 4
+      "position": 5
     },
     {
       "team": "Arsenal",
@@ -56074,7 +56084,7 @@
       "lost": 0,
       "goalsFor": 9,
       "goalsAgainst": 4,
-      "position": 5
+      "position": 6
     },
     {
       "team": "Manchester City",
@@ -56084,7 +56094,7 @@
       "lost": 1,
       "goalsFor": 14,
       "goalsAgainst": 9,
-      "position": 6
+      "position": 7
     },
     {
       "team": "Borussia Dortmund",
@@ -56093,16 +56103,6 @@
       "drawn": 1,
       "lost": 1,
       "goalsFor": 8,
-      "goalsAgainst": 6,
-      "position": 7
-    },
-    {
-      "team": "FC Barcelona",
-      "played": 4,
-      "won": 3,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 14,
       "goalsAgainst": 6,
       "position": 8
     },
@@ -56317,16 +56317,6 @@
       "position": 29
     },
     {
-      "team": "Sabah",
-      "played": 4,
-      "won": 1,
-      "drawn": 0,
-      "lost": 3,
-      "goalsFor": 4,
-      "goalsAgainst": 10,
-      "position": 30
-    },
-    {
       "team": "AEK Atenas",
       "played": 5,
       "won": 1,
@@ -56334,7 +56324,7 @@
       "lost": 4,
       "goalsFor": 5,
       "goalsAgainst": 12,
-      "position": 31
+      "position": 30
     },
     {
       "team": "Feyenoord",
@@ -56344,6 +56334,16 @@
       "lost": 4,
       "goalsFor": 4,
       "goalsAgainst": 12,
+      "position": 31
+    },
+    {
+      "team": "Sabah",
+      "played": 5,
+      "won": 1,
+      "drawn": 0,
+      "lost": 4,
+      "goalsFor": 5,
+      "goalsAgainst": 14,
       "position": 32
     },
     {
