@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:02:21Z",
+  "lastUpdated": "2026-11-25T19:03:27Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53434,11 +53434,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-3",
+          "result": "0-4",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "59'",
+          "clock": "61'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53922,18 +53922,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.7",
-                "away": "71.3"
+                "home": "28.6",
+                "away": "71.4"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "18"
+                "away": "20"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "9"
+                "away": "11"
               },
               {
                 "key": "wonCorners",
@@ -53962,7 +53962,7 @@
               },
               {
                 "key": "saves",
-                "home": "6",
+                "home": "7",
                 "away": "1"
               },
               {
@@ -53994,7 +53994,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "58'",
+          "clock": "59'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54454,6 +54454,16 @@
                 "relatedPlayer": null,
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "55657540_13",
+                "type": "SUBSTITUTION",
+                "minute": 59,
+                "extraTime": null,
+                "playerName": "Santi Comesaña",
+                "relatedPlayer": "Alberto Moleiro",
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
@@ -54464,7 +54474,7 @@
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "3"
               },
               {
@@ -54504,8 +54514,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "167",
-                "away": "231"
+                "home": "168",
+                "away": "233"
               },
               {
                 "key": "passPct",
