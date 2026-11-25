@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:32:01Z",
+  "lastUpdated": "2026-11-25T19:33:07Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -54032,12 +54032,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.3",
-                "away": "71.7"
+                "home": "28.5",
+                "away": "71.5"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "23"
               },
               {
@@ -54048,7 +54048,7 @@
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -54077,8 +54077,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "208",
-                "away": "620"
+                "home": "210",
+                "away": "623"
               },
               {
                 "key": "passPct",
@@ -54104,7 +54104,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54639,8 +54639,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.4",
-                "away": "49.6"
+                "home": "51.1",
+                "away": "48.9"
               },
               {
                 "key": "totalShots",
@@ -54684,7 +54684,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "289",
+                "home": "298",
                 "away": "314"
               },
               {
