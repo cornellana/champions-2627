@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:33:06Z",
+  "lastUpdated": "2026-11-25T18:34:12Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53954,8 +53954,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+2'",
-          "statusText": "First Half",
+          "clock": "45'+3'",
+          "statusText": "Halftime",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -54406,10 +54406,10 @@
                 "text": null
               },
               {
-                "id": "55657064_8",
-                "type": "RED_CARD",
-                "minute": 44,
-                "extraTime": null,
+                "id": "55657099_9",
+                "type": "YELLOW_CARD",
+                "minute": 45,
+                "extraTime": 2,
                 "playerName": "Renato Veiga",
                 "relatedPlayer": null,
                 "teamName": "Villarreal",
@@ -54419,8 +54419,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "43.3",
-                "away": "56.7"
+                "home": "44.1",
+                "away": "55.9"
               },
               {
                 "key": "totalShots",
@@ -54450,12 +54450,12 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
                 "home": "0",
-                "away": "1"
+                "away": "0"
               },
               {
                 "key": "saves",
@@ -54464,8 +54464,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "103",
-                "away": "173"
+                "home": "108",
+                "away": "174"
               },
               {
                 "key": "passPct",
