@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:13:19Z",
+  "lastUpdated": "2026-11-25T18:14:25Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
+          "clock": "29'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53943,7 +53943,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "27'",
+          "clock": "28'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54388,8 +54388,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "45.2",
-                "away": "54.8"
+                "home": "46.9",
+                "away": "53.1"
               },
               {
                 "key": "totalShots",
@@ -54433,8 +54433,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "60",
-                "away": "94"
+                "home": "72",
+                "away": "105"
               },
               {
                 "key": "passPct",
