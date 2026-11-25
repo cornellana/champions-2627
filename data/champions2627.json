@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:12:15Z",
+  "lastUpdated": "2026-11-25T19:13:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -54013,7 +54013,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "6",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "offsides",
@@ -54037,8 +54037,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "173",
-                "away": "454"
+                "home": "175",
+                "away": "460"
               },
               {
                 "key": "passPct",
@@ -54064,7 +54064,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "68'",
+          "clock": "69'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54560,8 +54560,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 66,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Pavel Kacor",
+                "relatedPlayer": "Ange N'Guessan",
                 "teamName": "Slavia de Praga",
                 "text": null
               }
@@ -54584,7 +54584,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "8",
+                "home": "9",
                 "away": "0"
               },
               {
@@ -54595,7 +54595,7 @@
               {
                 "key": "offsides",
                 "home": "2",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "yellowCards",
@@ -54614,8 +54614,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "201",
-                "away": "262"
+                "home": "205",
+                "away": "270"
               },
               {
                 "key": "passPct",
