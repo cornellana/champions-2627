@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:30:53Z",
+  "lastUpdated": "2026-11-25T18:31:59Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,8 +53438,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
-          "statusText": "First Half",
+          "clock": "45'+1'",
+          "statusText": "Halftime",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -53954,7 +53954,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'",
+          "clock": "45'+1'",
           "statusText": "In Progress",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
