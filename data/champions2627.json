@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:14:25Z",
+  "lastUpdated": "2026-11-25T18:15:31Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "29'",
+          "clock": "30'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53871,18 +53871,18 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "23.2",
-                "away": "76.8"
+                "home": "25.6",
+                "away": "74.4"
               },
               {
                 "key": "totalShots",
                 "home": "3",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "wonCorners",
@@ -53911,17 +53911,17 @@
               },
               {
                 "key": "saves",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "48",
-                "away": "205"
+                "home": "61",
+                "away": "220"
               },
               {
                 "key": "passPct",
-                "home": "0.7",
+                "home": "0.8",
                 "away": "0.9"
               }
             ],
@@ -53943,8 +53943,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "28'",
-          "statusText": "First Half",
+          "clock": "30'",
+          "statusText": "In Progress",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
@@ -54383,13 +54383,23 @@
                 "relatedPlayer": null,
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "55656601_4",
+                "type": "YELLOW_CARD",
+                "minute": 29,
+                "extraTime": null,
+                "playerName": "Ange N'Guessan",
+                "relatedPlayer": null,
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.9",
-                "away": "53.1"
+                "home": "45.9",
+                "away": "54.1"
               },
               {
                 "key": "totalShots",
@@ -54418,7 +54428,7 @@
               },
               {
                 "key": "yellowCards",
-                "home": "1",
+                "home": "2",
                 "away": "1"
               },
               {
@@ -54433,8 +54443,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "72",
-                "away": "105"
+                "home": "75",
+                "away": "114"
               },
               {
                 "key": "passPct",
