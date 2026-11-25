@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:28:44Z",
+  "lastUpdated": "2026-11-25T19:29:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "86'",
+          "clock": "87'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -54017,13 +54017,23 @@
                 "relatedPlayer": "Akim Zedadka because of an injury",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "55658317_28",
+                "type": "SUBSTITUTION",
+                "minute": 86,
+                "extraTime": null,
+                "playerName": "Brian Fariñas",
+                "relatedPlayer": "Gavi",
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "28.9",
-                "away": "71.1"
+                "home": "28.7",
+                "away": "71.3"
               },
               {
                 "key": "totalShots",
@@ -54067,8 +54077,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "205",
-                "away": "594"
+                "home": "206",
+                "away": "603"
               },
               {
                 "key": "passPct",
@@ -54094,7 +54104,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
