@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:55:44Z",
+  "lastUpdated": "2026-11-25T18:56:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "53'",
+          "clock": "54'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53912,8 +53912,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "24.4",
-                "away": "75.6"
+                "home": "25.8",
+                "away": "74.2"
               },
               {
                 "key": "totalShots",
@@ -53957,8 +53957,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "100",
-                "away": "391"
+                "home": "110",
+                "away": "392"
               },
               {
                 "key": "passPct",
