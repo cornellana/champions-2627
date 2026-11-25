@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:10:02Z",
+  "lastUpdated": "2026-11-25T19:11:09Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53982,8 +53982,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "29.9",
-                "away": "70.1"
+                "home": "30.2",
+                "away": "69.8"
               },
               {
                 "key": "totalShots",
@@ -54003,7 +54003,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "offsides",
@@ -54027,8 +54027,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "163",
-                "away": "440"
+                "home": "169",
+                "away": "448"
               },
               {
                 "key": "passPct",
@@ -54054,7 +54054,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "66'",
+          "clock": "67'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54534,13 +54534,23 @@
                 "relatedPlayer": "Ayoze Pérez",
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "55657729_15",
+                "type": "SUBSTITUTION",
+                "minute": 66,
+                "extraTime": null,
+                "playerName": "Oskar Kubiak",
+                "relatedPlayer": "Tomás Vlcek",
+                "teamName": "Slavia de Praga",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.8",
-                "away": "53.2"
+                "home": "47.4",
+                "away": "52.6"
               },
               {
                 "key": "totalShots",
@@ -54584,7 +54594,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "189",
+                "home": "193",
                 "away": "252"
               },
               {
