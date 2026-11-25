@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:34:14Z",
+  "lastUpdated": "2026-11-25T19:35:20Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53433,13 +53433,13 @@
           "tieId": null,
           "leg": null,
           "tv": null,
-          "done": false,
+          "done": true,
           "result": "1-4",
           "aggregate": null,
           "shootout": null,
-          "state": "in",
-          "clock": "90'+2'",
-          "statusText": "Second Half",
+          "state": "post",
+          "clock": null,
+          "statusText": null,
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
           "details": {
@@ -54038,17 +54038,17 @@
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "23"
+                "away": "25"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "3",
-                "away": "13"
+                "away": "14"
               },
               {
                 "key": "wonCorners",
                 "home": "4",
-                "away": "5"
+                "away": "6"
               },
               {
                 "key": "foulsCommitted",
@@ -54057,7 +54057,7 @@
               },
               {
                 "key": "offsides",
-                "home": "3",
+                "home": "4",
                 "away": "2"
               },
               {
@@ -54072,13 +54072,13 @@
               },
               {
                 "key": "saves",
-                "home": "8",
+                "home": "9",
                 "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "213",
-                "away": "634"
+                "home": "214",
+                "away": "637"
               },
               {
                 "key": "passPct",
@@ -54104,7 +54104,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54684,8 +54684,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "299",
-                "away": "314"
+                "home": "302",
+                "away": "316"
               },
               {
                 "key": "passPct",
