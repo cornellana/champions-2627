@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:25:27Z",
+  "lastUpdated": "2026-11-25T19:26:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -54022,8 +54022,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "30",
-                "away": "70"
+                "home": "29.2",
+                "away": "70.8"
               },
               {
                 "key": "totalShots",
@@ -54042,12 +54042,12 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "7"
               },
               {
                 "key": "offsides",
-                "home": "2",
+                "home": "3",
                 "away": "2"
               },
               {
@@ -54067,8 +54067,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "201",
-                "away": "550"
+                "home": "202",
+                "away": "574"
               },
               {
                 "key": "passPct",
@@ -54094,7 +54094,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54614,6 +54614,16 @@
                 "relatedPlayer": "Carlos Maciá",
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "55658210_19",
+                "type": "YELLOW_CARD",
+                "minute": 80,
+                "extraTime": null,
+                "playerName": "Pape Gueye",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
@@ -54650,7 +54660,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "redCards",
