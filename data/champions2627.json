@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:06:45Z",
+  "lastUpdated": "2026-11-25T18:07:51Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53871,23 +53871,23 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "22",
-                "away": "78"
+                "home": "21.8",
+                "away": "78.2"
               },
               {
                 "key": "totalShots",
                 "home": "2",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "wonCorners",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "foulsCommitted",
@@ -53911,13 +53911,13 @@
               },
               {
                 "key": "saves",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "38",
-                "away": "175"
+                "home": "39",
+                "away": "181"
               },
               {
                 "key": "passPct",
@@ -53943,7 +53943,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "21'",
+          "clock": "22'",
           "statusText": "First Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
