@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:41:21Z",
+  "lastUpdated": "2026-11-25T21:42:28Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55290,13 +55290,23 @@
                 "relatedPlayer": "Tobias Moi",
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "55673929_17",
+                "type": "SUBSTITUTION",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.9",
-                "away": "53.1"
+                "home": "48.1",
+                "away": "51.9"
               },
               {
                 "key": "totalShots",
@@ -55340,12 +55350,12 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "397",
-                "away": "460"
+                "home": "425",
+                "away": "465"
               },
               {
                 "key": "passPct",
-                "home": "0.8",
+                "home": "0.9",
                 "away": "0.9"
               }
             ],
@@ -55367,7 +55377,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55883,7 +55893,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -55907,7 +55917,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "374",
+                "home": "375",
                 "away": "356"
               },
               {
@@ -55934,7 +55944,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56488,12 +56498,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52",
-                "away": "48"
+                "home": "52.5",
+                "away": "47.5"
               },
               {
                 "key": "totalShots",
-                "home": "16",
+                "home": "17",
                 "away": "9"
               },
               {
@@ -56533,8 +56543,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "384",
-                "away": "350"
+                "home": "398",
+                "away": "354"
               },
               {
                 "key": "passPct",
@@ -56560,7 +56570,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "84'",
+          "clock": "85'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57139,7 +57149,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57705,8 +57715,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.5",
-                "away": "33.4"
+                "home": "66.4",
+                "away": "33.6"
               },
               {
                 "key": "totalShots",
@@ -57750,8 +57760,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "537",
-                "away": "220"
+                "home": "539",
+                "away": "228"
               },
               {
                 "key": "passPct",
@@ -57777,7 +57787,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58344,7 +58354,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58904,13 +58914,23 @@
                 "relatedPlayer": null,
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "55673934_27",
+                "type": "OWN_GOAL",
+                "minute": 82,
+                "extraTime": null,
+                "playerName": "Kaique",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.3",
-                "away": "51.7"
+                "home": "48.2",
+                "away": "51.8"
               },
               {
                 "key": "totalShots",
@@ -58925,7 +58945,7 @@
               {
                 "key": "wonCorners",
                 "home": "3",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "foulsCommitted",
