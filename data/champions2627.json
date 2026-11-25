@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:34:42Z",
+  "lastUpdated": "2026-11-25T21:35:48Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55270,13 +55270,33 @@
                 "relatedPlayer": "Alexander Sørloth because of an injury",
                 "teamName": "Atlético de Madrid",
                 "text": null
+              },
+              {
+                "id": "55673018_15",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": "Niklas Fuglestad",
+                "relatedPlayer": "Herman Haugen",
+                "teamName": "Viking",
+                "text": null
+              },
+              {
+                "id": "55673017_16",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": "Amin Cosic",
+                "relatedPlayer": "Tobias Moi",
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "47.8",
-                "away": "52.2"
+                "home": "48.2",
+                "away": "51.8"
               },
               {
                 "key": "totalShots",
@@ -55320,8 +55340,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "369",
-                "away": "415"
+                "home": "381",
+                "away": "421"
               },
               {
                 "key": "passPct",
@@ -55347,7 +55367,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55787,13 +55807,23 @@
                 "relatedPlayer": "Víctor Muñoz because of an injury",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "55672983_17",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.2",
-                "away": "49.8"
+                "home": "50.3",
+                "away": "49.7"
               },
               {
                 "key": "totalShots",
@@ -55837,7 +55867,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "341",
+                "home": "344",
                 "away": "343"
               },
               {
@@ -55864,7 +55894,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56408,8 +56438,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.9",
-                "away": "46.1"
+                "home": "53.8",
+                "away": "46.2"
               },
               {
                 "key": "totalShots",
@@ -56454,7 +56484,7 @@
               {
                 "key": "accuratePasses",
                 "home": "377",
-                "away": "310"
+                "away": "311"
               },
               {
                 "key": "passPct",
@@ -56480,7 +56510,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "77'",
+          "clock": "78'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -56928,17 +56958,57 @@
                 "type": "SUBSTITUTION",
                 "minute": 76,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Jamal Musiala",
+                "relatedPlayer": "Tom Bischof",
                 "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "55672922_10",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": "Luis Díaz",
+                "relatedPlayer": "Josip Stanisic",
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "55672923_11",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": "Tim Binder",
+                "relatedPlayer": "Hiroki Ito",
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "55672924_12",
+                "type": "SUBSTITUTION",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Soriba Diaoune",
+                "relatedPlayer": "Ethan Mbappé",
+                "teamName": "Lille",
+                "text": null
+              },
+              {
+                "id": "55672925_13",
+                "type": "SUBSTITUTION",
+                "minute": 77,
+                "extraTime": null,
+                "playerName": "Basar Önal",
+                "relatedPlayer": "Ayase Ueda",
+                "teamName": "Lille",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.1",
-                "away": "61.9"
+                "home": "38.4",
+                "away": "61.6"
               },
               {
                 "key": "totalShots",
@@ -56982,8 +57052,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "305",
-                "away": "548"
+                "home": "310",
+                "away": "549"
               },
               {
                 "key": "passPct",
@@ -57617,7 +57687,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58093,7 +58163,7 @@
                 "type": "YELLOW_CARD",
                 "minute": 73,
                 "extraTime": null,
-                "playerName": "Pedrinho",
+                "playerName": "Pedro Henrique",
                 "relatedPlayer": null,
                 "teamName": "Shajtar Donetsk",
                 "text": null
@@ -58102,8 +58172,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.5",
-                "away": "48.5"
+                "home": "51.6",
+                "away": "48.4"
               },
               {
                 "key": "totalShots",
@@ -58117,7 +58187,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "1",
+                "home": "2",
                 "away": "3"
               },
               {
@@ -58174,7 +58244,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58692,6 +58762,26 @@
                 "extraTime": null,
                 "playerName": "Rodrigo Zalazar",
                 "relatedPlayer": "Geny Catamo",
+                "teamName": "Sporting de Portugal",
+                "text": null
+              },
+              {
+                "id": "55673027_21",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
+                "text": null
+              },
+              {
+                "id": "55673028_22",
+                "type": "SUBSTITUTION",
+                "minute": 76,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
                 "teamName": "Sporting de Portugal",
                 "text": null
               }
