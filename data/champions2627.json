@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T20:51:56Z",
+  "lastUpdated": "2026-11-25T21:01:33Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -58099,22 +58099,22 @@
                   "athleteID": "124091"
                 },
                 {
-                  "id": "193297",
-                  "jersey": 18,
-                  "name": "Youri Tielemans",
-                  "position": "LM",
-                  "isStarter": true,
-                  "events": null,
-                  "athleteID": "193297"
-                },
-                {
                   "id": "328466",
                   "jersey": 37,
                   "name": "Kobbie Mainoo",
-                  "position": "RM",
+                  "position": "LM",
                   "isStarter": true,
                   "events": null,
                   "athleteID": "328466"
+                },
+                {
+                  "id": "193297",
+                  "jersey": 18,
+                  "name": "Youri Tielemans",
+                  "position": "RM",
+                  "isStarter": true,
+                  "events": null,
+                  "athleteID": "193297"
                 },
                 {
                   "id": "276327",
