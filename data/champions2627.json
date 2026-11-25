@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:50:15Z",
+  "lastUpdated": "2026-11-25T21:51:22Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55300,6 +55300,16 @@
                 "relatedPlayer": "Kristoffer Askildsen",
                 "teamName": "Viking",
                 "text": null
+              },
+              {
+                "id": "55675015_18",
+                "type": "RED_CARD",
+                "minute": 90,
+                "extraTime": 1,
+                "playerName": "Henrik Falchener",
+                "relatedPlayer": null,
+                "teamName": "Viking",
+                "text": null
               }
             ],
             "teamStats": [
@@ -55341,7 +55351,7 @@
               {
                 "key": "redCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "saves",
@@ -55377,7 +55387,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55917,13 +55927,23 @@
                 "relatedPlayer": "Alexander Isak",
                 "teamName": "Liverpool",
                 "text": null
+              },
+              {
+                "id": "55675096_27",
+                "type": "SUBSTITUTION",
+                "minute": 89,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Brujas",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.2",
-                "away": "46.8"
+                "home": "53.1",
+                "away": "46.9"
               },
               {
                 "key": "totalShots",
@@ -55938,7 +55958,7 @@
               {
                 "key": "wonCorners",
                 "home": "8",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -55947,7 +55967,7 @@
               },
               {
                 "key": "offsides",
-                "home": "2",
+                "home": "3",
                 "away": "0"
               },
               {
@@ -55967,8 +55987,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "428",
-                "away": "374"
+                "home": "432",
+                "away": "377"
               },
               {
                 "key": "passPct",
@@ -55994,7 +56014,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56578,13 +56598,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.8",
-                "away": "48.2"
+                "home": "51.4",
+                "away": "48.6"
               },
               {
                 "key": "totalShots",
                 "home": "18",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
@@ -56594,7 +56614,7 @@
               {
                 "key": "wonCorners",
                 "home": "10",
-                "away": "4"
+                "away": "5"
               },
               {
                 "key": "foulsCommitted",
@@ -56624,7 +56644,7 @@
               {
                 "key": "accuratePasses",
                 "home": "427",
-                "away": "392"
+                "away": "395"
               },
               {
                 "key": "passPct",
@@ -56650,7 +56670,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57172,18 +57192,38 @@
                 "relatedPlayer": "Benjamin André",
                 "teamName": "Lille",
                 "text": null
+              },
+              {
+                "id": "55675091_17",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": 2,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Bayern de Múnich",
+                "text": null
+              },
+              {
+                "id": "55675092_18",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": 2,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Lille",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.2",
-                "away": "64.8"
+                "home": "35.4",
+                "away": "64.6"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "shotsOnTarget",
@@ -57222,8 +57262,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "324",
-                "away": "666"
+                "home": "326",
+                "away": "669"
               },
               {
                 "key": "passPct",
@@ -57249,8 +57289,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
-          "statusText": "Second Half",
+          "clock": "90'+2'",
+          "statusText": "In Progress",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
           "details": {
@@ -57825,12 +57865,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.7",
-                "away": "33.3"
+                "home": "65.6",
+                "away": "34.4"
               },
               {
                 "key": "totalShots",
-                "home": "12",
+                "home": "13",
                 "away": "13"
               },
               {
@@ -57870,8 +57910,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "582",
-                "away": "245"
+                "home": "590",
+                "away": "263"
               },
               {
                 "key": "passPct",
@@ -57897,7 +57937,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58432,8 +58472,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.6",
-                "away": "47.4"
+                "home": "53.5",
+                "away": "46.5"
               },
               {
                 "key": "totalShots",
@@ -58453,7 +58493,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "12"
+                "away": "13"
               },
               {
                 "key": "offsides",
@@ -58477,7 +58517,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "392",
+                "home": "408",
                 "away": "331"
               },
               {
@@ -58504,7 +58544,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+1'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -59089,8 +59129,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.7",
-                "away": "49.3"
+                "home": "50.8",
+                "away": "49.2"
               },
               {
                 "key": "totalShots",
@@ -59109,7 +59149,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "15",
+                "home": "16",
                 "away": "11"
               },
               {
@@ -59134,8 +59174,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "396",
-                "away": "379"
+                "home": "398",
+                "away": "380"
               },
               {
                 "key": "passPct",
