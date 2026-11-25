@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T20:41:51Z",
+  "lastUpdated": "2026-11-25T20:42:58Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "In Progress",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55267,7 +55267,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55774,7 +55774,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56213,17 +56213,27 @@
                 "relatedPlayer": null,
                 "teamName": "Inter de Milán",
                 "text": null
+              },
+              {
+                "id": "55666346_9",
+                "type": "SUBSTITUTION",
+                "minute": 41,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Inter de Milán",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "61.3",
-                "away": "38.7"
+                "home": "60.9",
+                "away": "39.1"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "3"
               },
               {
@@ -56264,7 +56274,7 @@
               {
                 "key": "accuratePasses",
                 "home": "276",
-                "away": "154"
+                "away": "156"
               },
               {
                 "key": "passPct",
@@ -56290,7 +56300,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -56707,17 +56717,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.9",
-                "away": "64.1"
+                "home": "36.8",
+                "away": "63.2"
               },
               {
                 "key": "totalShots",
-                "home": "4",
+                "home": "5",
                 "away": "6"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "1",
+                "home": "2",
                 "away": "5"
               },
               {
@@ -56748,12 +56758,12 @@
               {
                 "key": "saves",
                 "home": "5",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "162",
-                "away": "324"
+                "home": "176",
+                "away": "334"
               },
               {
                 "key": "passPct",
@@ -56779,7 +56789,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "40'",
+          "clock": "41'",
           "statusText": "First Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57215,8 +57225,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "72.9",
-                "away": "27.1"
+                "home": "73.2",
+                "away": "26.8"
               },
               {
                 "key": "totalShots",
@@ -57236,7 +57246,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "3",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "offsides",
@@ -57246,7 +57256,7 @@
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "redCards",
@@ -57260,7 +57270,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "312",
+                "home": "317",
                 "away": "90"
               },
               {
@@ -57287,7 +57297,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "39'",
+          "clock": "40'",
           "statusText": "First Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -57722,17 +57732,17 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.7",
-                "away": "48.3"
+                "home": "51.5",
+                "away": "48.5"
               },
               {
                 "key": "totalShots",
-                "home": "3",
+                "home": "4",
                 "away": "3"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "0",
+                "home": "1",
                 "away": "1"
               },
               {
@@ -57763,12 +57773,12 @@
               {
                 "key": "saves",
                 "home": "1",
-                "away": "0"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "184",
-                "away": "165"
+                "home": "199",
+                "away": "179"
               },
               {
                 "key": "passPct",
@@ -57794,7 +57804,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "41'",
+          "clock": "42'",
           "statusText": "First Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58244,13 +58254,23 @@
                 "relatedPlayer": null,
                 "teamName": "Sporting de Portugal",
                 "text": null
+              },
+              {
+                "id": "55666239_8",
+                "type": "YELLOW_CARD",
+                "minute": 40,
+                "extraTime": null,
+                "playerName": "Youri Tielemans",
+                "relatedPlayer": null,
+                "teamName": "Manchester United",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "40.7",
-                "away": "59.3"
+                "home": "40.5",
+                "away": "59.5"
               },
               {
                 "key": "totalShots",
@@ -58270,17 +58290,17 @@
               {
                 "key": "foulsCommitted",
                 "home": "5",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
-                "home": "0",
-                "away": "4"
+                "home": "1",
+                "away": "3"
               },
               {
                 "key": "yellowCards",
                 "home": "0",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "redCards",
@@ -58294,8 +58314,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "154",
-                "away": "218"
+                "home": "155",
+                "away": "224"
               },
               {
                 "key": "passPct",
