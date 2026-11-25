@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:29:11Z",
+  "lastUpdated": "2026-11-25T21:30:17Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55265,8 +55265,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.3",
-                "away": "50.7"
+                "home": "48.6",
+                "away": "51.4"
               },
               {
                 "key": "totalShots",
@@ -55285,7 +55285,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "6",
+                "home": "7",
                 "away": "6"
               },
               {
@@ -55310,8 +55310,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "350",
-                "away": "367"
+                "home": "351",
+                "away": "383"
               },
               {
                 "key": "passPct",
@@ -55337,7 +55337,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "67'",
+          "clock": "68'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55854,7 +55854,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56349,8 +56349,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 69,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Lautaro Martínez",
+                "relatedPlayer": "Marcus Thuram",
                 "teamName": "Inter de Milán",
                 "text": null
               },
@@ -56359,8 +56359,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 69,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Curtis Jones",
+                "relatedPlayer": "Henrikh Mkhitaryan",
                 "teamName": "Inter de Milán",
                 "text": null
               }
@@ -56368,13 +56368,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "54.7",
-                "away": "45.3"
+                "home": "54.2",
+                "away": "45.8"
               },
               {
                 "key": "totalShots",
                 "home": "15",
-                "away": "7"
+                "away": "8"
               },
               {
                 "key": "shotsOnTarget",
@@ -56413,8 +56413,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "361",
-                "away": "287"
+                "home": "363",
+                "away": "294"
               },
               {
                 "key": "passPct",
@@ -56440,7 +56440,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
+          "clock": "72'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -56887,12 +56887,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.9",
-                "away": "60.1"
+                "home": "39.5",
+                "away": "60.5"
               },
               {
                 "key": "totalShots",
-                "home": "9",
+                "home": "10",
                 "away": "8"
               },
               {
@@ -56902,7 +56902,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "3"
               },
               {
@@ -56932,8 +56932,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "300",
-                "away": "497"
+                "home": "304",
+                "away": "511"
               },
               {
                 "key": "passPct",
@@ -56959,7 +56959,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57466,8 +57466,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 67,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Daniele Ghilardi",
+                "relatedPlayer": "Gianluca Mancini",
                 "teamName": "Roma",
                 "text": null
               },
@@ -57486,8 +57486,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 67,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Mika Godts",
+                "relatedPlayer": "Senny Mayulu",
                 "teamName": "Paris Saint-Germain",
                 "text": null
               }
@@ -57495,8 +57495,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.8",
-                "away": "32.2"
+                "home": "67.3",
+                "away": "32.7"
               },
               {
                 "key": "totalShots",
@@ -57510,7 +57510,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
+                "home": "3",
                 "away": "4"
               },
               {
@@ -57540,8 +57540,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "458",
-                "away": "177"
+                "home": "477",
+                "away": "191"
               },
               {
                 "key": "passPct",
@@ -57567,7 +57567,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "69'",
+          "clock": "70'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58032,8 +58032,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.4",
-                "away": "47.6"
+                "home": "52.3",
+                "away": "47.7"
               },
               {
                 "key": "totalShots",
@@ -58052,7 +58052,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "8",
+                "home": "9",
                 "away": "10"
               },
               {
@@ -58078,7 +58078,7 @@
               {
                 "key": "accuratePasses",
                 "home": "307",
-                "away": "259"
+                "away": "260"
               },
               {
                 "key": "passPct",
@@ -58104,7 +58104,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "70'",
+          "clock": "71'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58613,6 +58613,16 @@
                 "playerName": "Diogo Dalot",
                 "relatedPlayer": "Noussair Mazraoui",
                 "teamName": "Manchester United",
+                "text": null
+              },
+              {
+                "id": "55672087_20",
+                "type": "SUBSTITUTION",
+                "minute": 68,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Sporting de Portugal",
                 "text": null
               }
             ],
