@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:48:01Z",
+  "lastUpdated": "2026-11-25T21:49:08Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+1'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55326,7 +55326,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "8"
+                "away": "9"
               },
               {
                 "key": "offsides",
@@ -55350,8 +55350,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "463",
-                "away": "498"
+                "home": "474",
+                "away": "509"
               },
               {
                 "key": "passPct",
@@ -55377,8 +55377,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "87'",
-          "statusText": "In Progress",
+          "clock": "88'",
+          "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": {
@@ -55897,18 +55897,38 @@
                 "relatedPlayer": "Freddie Potts",
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "55674777_25",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": "Lewis Koumas",
+                "relatedPlayer": "Bradley Barcola",
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "55674778_26",
+                "type": "SUBSTITUTION",
+                "minute": 87,
+                "extraTime": null,
+                "playerName": "Lewis Koumas",
+                "relatedPlayer": "Alexander Isak",
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.3",
-                "away": "47.7"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
-                "home": "15",
-                "away": "12"
+                "home": "16",
+                "away": "13"
               },
               {
                 "key": "shotsOnTarget",
@@ -55917,7 +55937,7 @@
               },
               {
                 "key": "wonCorners",
-                "home": "6",
+                "home": "7",
                 "away": "3"
               },
               {
@@ -55947,8 +55967,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "411",
-                "away": "373"
+                "home": "422",
+                "away": "374"
               },
               {
                 "key": "passPct",
@@ -55974,7 +55994,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56558,8 +56578,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.2",
-                "away": "47.8"
+                "home": "51.9",
+                "away": "48.1"
               },
               {
                 "key": "totalShots",
@@ -56604,7 +56624,7 @@
               {
                 "key": "accuratePasses",
                 "home": "427",
-                "away": "383"
+                "away": "389"
               },
               {
                 "key": "passPct",
@@ -56630,7 +56650,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'",
+          "clock": "90'+2'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57157,13 +57177,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "35.6",
-                "away": "64.4"
+                "home": "35.2",
+                "away": "64.8"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
@@ -57202,8 +57222,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "323",
-                "away": "654"
+                "home": "324",
+                "away": "666"
               },
               {
                 "key": "passPct",
@@ -57229,7 +57249,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57805,12 +57825,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.4",
-                "away": "33.6"
+                "home": "66.7",
+                "away": "33.3"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "13"
               },
               {
@@ -57850,8 +57870,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "569",
-                "away": "242"
+                "home": "582",
+                "away": "245"
               },
               {
                 "key": "passPct",
@@ -57877,7 +57897,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "88'",
+          "clock": "89'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58393,8 +58413,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 86,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Romelu Lukaku",
+                "relatedPlayer": "Vedat Muriqi",
                 "teamName": "Fenerbahçe",
                 "text": null
               }
@@ -58402,8 +58422,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.1",
-                "away": "47.9"
+                "home": "52.2",
+                "away": "47.8"
               },
               {
                 "key": "totalShots",
@@ -58447,8 +58467,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "376",
-                "away": "324"
+                "home": "386",
+                "away": "331"
               },
               {
                 "key": "passPct",
@@ -58474,7 +58494,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "89'",
+          "clock": "90'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -59042,6 +59062,16 @@
                 "extraTime": null,
                 "playerName": "Fotis Ioannidis",
                 "relatedPlayer": "Luis Suárez",
+                "teamName": "Sporting de Portugal",
+                "text": null
+              },
+              {
+                "id": "55674674_30",
+                "type": "YELLOW_CARD",
+                "minute": 89,
+                "extraTime": null,
+                "playerName": "Nestory Irankunda",
+                "relatedPlayer": null,
                 "teamName": "Sporting de Portugal",
                 "text": null
               }
