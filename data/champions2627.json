@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:40:14Z",
+  "lastUpdated": "2026-11-25T21:41:21Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "82'",
+          "clock": "83'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55363,11 +55363,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-1",
+          "result": "0-2",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "79'",
+          "clock": "80'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55847,23 +55847,33 @@
                 "relatedPlayer": "Félix Lemaréchal",
                 "teamName": "Brujas",
                 "text": null
+              },
+              {
+                "id": "55673780_21",
+                "type": "GOAL",
+                "minute": 79,
+                "extraTime": null,
+                "playerName": "Florian Wirtz",
+                "relatedPlayer": "Rio Ngumoha following a fast break",
+                "teamName": "Liverpool",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.1",
-                "away": "48.9"
+                "home": "51.3",
+                "away": "48.7"
               },
               {
                 "key": "totalShots",
                 "home": "14",
-                "away": "10"
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "4",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -55897,8 +55907,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "368",
-                "away": "354"
+                "home": "374",
+                "away": "356"
               },
               {
                 "key": "passPct",
@@ -55924,7 +55934,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56550,7 +56560,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "83'",
+          "clock": "84'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57048,8 +57058,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 81,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Noah Codjo-Evora",
+                "relatedPlayer": "Lennart Karl",
                 "teamName": "Bayern de Múnich",
                 "text": null
               }
@@ -57057,8 +57067,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "36.8",
-                "away": "63.2"
+                "home": "37",
+                "away": "63"
               },
               {
                 "key": "totalShots",
@@ -57083,7 +57093,7 @@
               {
                 "key": "offsides",
                 "home": "0",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "yellowCards",
@@ -57103,7 +57113,7 @@
               {
                 "key": "accuratePasses",
                 "home": "315",
-                "away": "600"
+                "away": "599"
               },
               {
                 "key": "passPct",
@@ -57129,7 +57139,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57695,12 +57705,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "67.7",
-                "away": "32.3"
+                "home": "66.5",
+                "away": "33.4"
               },
               {
                 "key": "totalShots",
-                "home": "8",
+                "home": "9",
                 "away": "12"
               },
               {
@@ -57736,12 +57746,12 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "1"
+                "away": "2"
               },
               {
                 "key": "accuratePasses",
-                "home": "522",
-                "away": "204"
+                "home": "537",
+                "away": "220"
               },
               {
                 "key": "passPct",
@@ -57767,7 +57777,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "80'",
+          "clock": "81'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58262,8 +58272,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "52.2",
-                "away": "47.8"
+                "home": "52.8",
+                "away": "47.2"
               },
               {
                 "key": "totalShots",
@@ -58283,7 +58293,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "11",
-                "away": "11"
+                "away": "12"
               },
               {
                 "key": "offsides",
@@ -58307,8 +58317,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "345",
-                "away": "294"
+                "home": "356",
+                "away": "295"
               },
               {
                 "key": "passPct",
@@ -58334,7 +58344,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "81'",
+          "clock": "82'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
@@ -58945,7 +58955,7 @@
               {
                 "key": "accuratePasses",
                 "home": "349",
-                "away": "373"
+                "away": "374"
               },
               {
                 "key": "passPct",
