@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T18:49:08Z",
+  "lastUpdated": "2026-11-25T18:50:14Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "46'",
+          "clock": "47'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53877,13 +53877,23 @@
                 "relatedPlayer": null,
                 "teamName": "FC Barcelona",
                 "text": null
+              },
+              {
+                "id": "55657145_3",
+                "type": "SUBSTITUTION",
+                "minute": 45,
+                "extraTime": null,
+                "playerName": "Joy-Lance Mickels",
+                "relatedPlayer": "Xayal Aliyev",
+                "teamName": "Sabah",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "25.1",
-                "away": "74.9"
+                "home": "23.9",
+                "away": "76.1"
               },
               {
                 "key": "totalShots",
@@ -53928,7 +53938,7 @@
               {
                 "key": "accuratePasses",
                 "home": "95",
-                "away": "353"
+                "away": "377"
               },
               {
                 "key": "passPct",
@@ -53954,8 +53964,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "45'+3'",
-          "statusText": "Halftime",
+          "clock": "46'",
+          "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
           "details": {
