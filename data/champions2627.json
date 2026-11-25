@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:35:20Z",
+  "lastUpdated": "2026-11-25T19:36:26Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54104,7 +54104,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "90'+2'",
+          "clock": "90'+3'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54633,6 +54633,16 @@
                 "playerName": "Ivan Schranz",
                 "relatedPlayer": "Emmanuel Ayaosi",
                 "teamName": "Slavia de Praga",
+                "text": null
+              },
+              {
+                "id": "55658522_22",
+                "type": "SUBSTITUTION",
+                "minute": 90,
+                "extraTime": 1,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
                 "text": null
               }
             ],
