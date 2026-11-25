@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:35:48Z",
+  "lastUpdated": "2026-11-25T21:36:55Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55295,8 +55295,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.2",
-                "away": "51.8"
+                "home": "47.7",
+                "away": "52.3"
               },
               {
                 "key": "totalShots",
@@ -55316,7 +55316,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "7",
-                "away": "6"
+                "away": "7"
               },
               {
                 "key": "offsides",
@@ -55340,8 +55340,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "381",
-                "away": "421"
+                "home": "384",
+                "away": "433"
               },
               {
                 "key": "passPct",
@@ -55367,7 +55367,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
@@ -55813,17 +55813,37 @@
                 "type": "SUBSTITUTION",
                 "minute": 73,
                 "extraTime": null,
+                "playerName": "Virgil van Dijk",
+                "relatedPlayer": "Jeremie Frimpong",
+                "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "55673157_18",
+                "type": "SUBSTITUTION",
+                "minute": 73,
+                "extraTime": null,
                 "playerName": null,
                 "relatedPlayer": null,
                 "teamName": "Liverpool",
+                "text": null
+              },
+              {
+                "id": "55673158_19",
+                "type": "SUBSTITUTION",
+                "minute": 75,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "Brujas",
                 "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "50.3",
-                "away": "49.7"
+                "home": "50.6",
+                "away": "49.4"
               },
               {
                 "key": "totalShots",
@@ -55847,7 +55867,7 @@
               },
               {
                 "key": "offsides",
-                "home": "0",
+                "home": "1",
                 "away": "0"
               },
               {
@@ -55867,7 +55887,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "344",
+                "home": "348",
                 "away": "343"
               },
               {
@@ -55894,7 +55914,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56438,8 +56458,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.8",
-                "away": "46.2"
+                "home": "53.1",
+                "away": "46.9"
               },
               {
                 "key": "totalShots",
@@ -56483,8 +56503,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "377",
-                "away": "311"
+                "home": "378",
+                "away": "323"
               },
               {
                 "key": "passPct",
@@ -56510,7 +56530,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "78'",
+          "clock": "79'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -57007,8 +57027,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "38.4",
-                "away": "61.6"
+                "home": "38.1",
+                "away": "61.9"
               },
               {
                 "key": "totalShots",
@@ -57052,8 +57072,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "310",
-                "away": "549"
+                "home": "315",
+                "away": "565"
               },
               {
                 "key": "passPct",
@@ -57079,7 +57099,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "76'",
+          "clock": "77'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57620,17 +57640,17 @@
               },
               {
                 "key": "totalShots",
-                "home": "9",
-                "away": "12"
+                "home": "8",
+                "away": "11"
               },
               {
                 "key": "shotsOnTarget",
-                "home": "4",
+                "home": "3",
                 "away": "3"
               },
               {
                 "key": "wonCorners",
-                "home": "3",
+                "home": "2",
                 "away": "4"
               },
               {
@@ -57656,11 +57676,11 @@
               {
                 "key": "saves",
                 "home": "2",
-                "away": "2"
+                "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "513",
+                "home": "512",
                 "away": "205"
               },
               {
@@ -57687,7 +57707,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58172,12 +58192,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "51.5",
+                "away": "48.5"
               },
               {
                 "key": "totalShots",
-                "home": "7",
+                "home": "8",
                 "away": "9"
               },
               {
@@ -58187,8 +58207,8 @@
               },
               {
                 "key": "wonCorners",
-                "home": "2",
-                "away": "3"
+                "home": "3",
+                "away": "4"
               },
               {
                 "key": "foulsCommitted",
@@ -58218,7 +58238,7 @@
               {
                 "key": "accuratePasses",
                 "home": "326",
-                "away": "286"
+                "away": "287"
               },
               {
                 "key": "passPct",
@@ -58770,8 +58790,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 76,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Nestory Irankunda",
+                "relatedPlayer": "Issa Doumbia",
                 "teamName": "Sporting de Portugal",
                 "text": null
               },
@@ -58780,8 +58800,8 @@
                 "type": "SUBSTITUTION",
                 "minute": 76,
                 "extraTime": null,
-                "playerName": null,
-                "relatedPlayer": null,
+                "playerName": "Ibrahima Ba",
+                "relatedPlayer": "Eduardo Quaresma",
                 "teamName": "Sporting de Portugal",
                 "text": null
               }
@@ -58789,8 +58809,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.6",
-                "away": "53.4"
+                "home": "46.9",
+                "away": "53.1"
               },
               {
                 "key": "totalShots",
@@ -58834,7 +58854,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "315",
+                "home": "318",
                 "away": "365"
               },
               {
