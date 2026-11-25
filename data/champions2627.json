@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:37:31Z",
+  "lastUpdated": "2026-11-25T19:38:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54644,23 +54644,43 @@
                 "relatedPlayer": "Sergi Cardona",
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "55658566_23",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 3,
+                "playerName": "Tajon Buchanan",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
+              },
+              {
+                "id": "55658570_24",
+                "type": "YELLOW_CARD",
+                "minute": 90,
+                "extraTime": 4,
+                "playerName": "Carlos Romero",
+                "relatedPlayer": null,
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "51.7",
+                "away": "48.3"
               },
               {
                 "key": "totalShots",
                 "home": "13",
-                "away": "5"
+                "away": "7"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "3"
+                "away": "5"
               },
               {
                 "key": "wonCorners",
@@ -54670,7 +54690,7 @@
               {
                 "key": "foulsCommitted",
                 "home": "12",
-                "away": "13"
+                "away": "15"
               },
               {
                 "key": "offsides",
@@ -54680,7 +54700,7 @@
               {
                 "key": "yellowCards",
                 "home": "2",
-                "away": "2"
+                "away": "4"
               },
               {
                 "key": "redCards",
@@ -54689,12 +54709,12 @@
               },
               {
                 "key": "saves",
-                "home": "2",
+                "home": "4",
                 "away": "1"
               },
               {
                 "key": "accuratePasses",
-                "home": "311",
+                "home": "313",
                 "away": "320"
               },
               {
