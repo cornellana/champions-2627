@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:06:45Z",
+  "lastUpdated": "2026-11-25T19:07:50Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -53438,7 +53438,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "64'",
+          "clock": "65'",
           "statusText": "Second Half",
           "stadium": "Baku Olympic Stadium",
           "venueCity": "Baku",
@@ -53957,6 +53957,16 @@
                 "relatedPlayer": "Christian Nwachukwu",
                 "teamName": "Sabah",
                 "text": null
+              },
+              {
+                "id": "55657646_18",
+                "type": "SUBSTITUTION",
+                "minute": 65,
+                "extraTime": null,
+                "playerName": null,
+                "relatedPlayer": null,
+                "teamName": "FC Barcelona",
+                "text": null
               }
             ],
             "teamStats": [
@@ -54030,11 +54040,11 @@
           "leg": null,
           "tv": null,
           "done": false,
-          "result": "0-0",
+          "result": "0-1",
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "63'",
+          "clock": "64'",
           "statusText": "Second Half",
           "stadium": "Fortuna Arena",
           "venueCity": "Prague",
@@ -54504,23 +54514,33 @@
                 "relatedPlayer": "Alberto Moleiro",
                 "teamName": "Villarreal",
                 "text": null
+              },
+              {
+                "id": "55657645_14",
+                "type": "GOAL",
+                "minute": 62,
+                "extraTime": null,
+                "playerName": "Tajon Buchanan",
+                "relatedPlayer": "Ayoze Pérez",
+                "teamName": "Villarreal",
+                "text": null
               }
             ],
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "46.4",
-                "away": "53.6"
+                "home": "45.9",
+                "away": "54.1"
               },
               {
                 "key": "totalShots",
                 "home": "10",
-                "away": "3"
+                "away": "4"
               },
               {
                 "key": "shotsOnTarget",
                 "home": "1",
-                "away": "2"
+                "away": "3"
               },
               {
                 "key": "wonCorners",
@@ -54554,8 +54574,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "175",
-                "away": "240"
+                "home": "176",
+                "away": "247"
               },
               {
                 "key": "passPct",
@@ -56561,6 +56581,12 @@
       "athleteID": null
     },
     {
+      "player": "Ayoze Pérez",
+      "team": "Villarreal",
+      "goals": 2,
+      "athleteID": null
+    },
+    {
       "player": "Christopher Nkunku",
       "team": "RB Leipzig",
       "goals": 2,
@@ -56761,12 +56787,6 @@
     {
       "player": "Armando Obispo",
       "team": "PSV",
-      "goals": 1,
-      "athleteID": null
-    },
-    {
-      "player": "Ayoze Pérez",
-      "team": "Villarreal",
       "goals": 1,
       "athleteID": null
     }
