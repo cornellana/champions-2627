@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:32:30Z",
+  "lastUpdated": "2026-11-25T21:33:36Z",
   "season": "2026-27",
   "competition": "UEFA Champions League",
   "matchDays": [
@@ -54741,7 +54741,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Riyadh Air Metropolitano",
           "venueCity": "Madrid",
@@ -55275,8 +55275,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "48.1",
-                "away": "51.9"
+                "home": "47.8",
+                "away": "52.2"
               },
               {
                 "key": "totalShots",
@@ -55320,8 +55320,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "362",
-                "away": "403"
+                "home": "369",
+                "away": "415"
               },
               {
                 "key": "passPct",
@@ -55347,8 +55347,8 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "71'",
-          "statusText": "In Progress",
+          "clock": "72'",
+          "statusText": "Second Half",
           "stadium": "Jan Breydel Stadium",
           "venueCity": "Brugge",
           "details": {
@@ -55792,12 +55792,12 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "49.1",
-                "away": "50.9"
+                "home": "49.3",
+                "away": "50.7"
               },
               {
                 "key": "totalShots",
-                "home": "11",
+                "home": "12",
                 "away": "9"
               },
               {
@@ -55837,7 +55837,7 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "321",
+                "home": "326",
                 "away": "343"
               },
               {
@@ -55864,7 +55864,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "San Siro",
           "venueCity": "Milano",
@@ -56398,8 +56398,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "53.5",
-                "away": "46.5"
+                "home": "53.9",
+                "away": "46.1"
               },
               {
                 "key": "totalShots",
@@ -56443,8 +56443,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "370",
-                "away": "309"
+                "home": "377",
+                "away": "310"
               },
               {
                 "key": "passPct",
@@ -56470,7 +56470,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "75'",
+          "clock": "76'",
           "statusText": "Second Half",
           "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
           "venueCity": "Lille",
@@ -56917,8 +56917,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "39.4",
-                "away": "60.6"
+                "home": "38.5",
+                "away": "61.5"
               },
               {
                 "key": "totalShots",
@@ -56963,7 +56963,7 @@
               {
                 "key": "accuratePasses",
                 "home": "304",
-                "away": "513"
+                "away": "538"
               },
               {
                 "key": "passPct",
@@ -56989,7 +56989,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "74'",
+          "clock": "75'",
           "statusText": "Second Half",
           "stadium": "Parc des Princes",
           "venueCity": "Paris",
@@ -57525,13 +57525,13 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "66.6",
-                "away": "33.4"
+                "home": "67.4",
+                "away": "32.6"
               },
               {
                 "key": "totalShots",
                 "home": "8",
-                "away": "9"
+                "away": "10"
               },
               {
                 "key": "shotsOnTarget",
@@ -57570,8 +57570,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "485",
-                "away": "201"
+                "home": "511",
+                "away": "204"
               },
               {
                 "key": "passPct",
@@ -57597,7 +57597,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "72'",
+          "clock": "73'",
           "statusText": "Second Half",
           "stadium": "Stamford Bridge",
           "venueCity": "London",
@@ -58072,8 +58072,8 @@
             "teamStats": [
               {
                 "key": "possessionPct",
-                "home": "51.6",
-                "away": "48.4"
+                "home": "51.8",
+                "away": "48.2"
               },
               {
                 "key": "totalShots",
@@ -58092,7 +58092,7 @@
               },
               {
                 "key": "foulsCommitted",
-                "home": "9",
+                "home": "10",
                 "away": "10"
               },
               {
@@ -58117,8 +58117,8 @@
               },
               {
                 "key": "accuratePasses",
-                "home": "312",
-                "away": "274"
+                "home": "323",
+                "away": "280"
               },
               {
                 "key": "passPct",
@@ -58144,7 +58144,7 @@
           "aggregate": null,
           "shootout": null,
           "state": "in",
-          "clock": "73'",
+          "clock": "74'",
           "statusText": "Second Half",
           "stadium": "Estádio José Alvalade",
           "venueCity": "Lisbon",
